@@ -34,11 +34,6 @@
               {
                 "glob": "**/*",
                 "input": "public"
-              },
-              {
-                "glob": "404.html",
-                "input": "src",
-                "output": "/"
               }
             ],
             "styles": [
