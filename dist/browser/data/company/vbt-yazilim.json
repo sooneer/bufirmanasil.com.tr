@@ -1,0 +1,25 @@
+{
+  "name": "VBT Yazılım A.Ş.",
+  "logo": "/img/company/vbt-yazilim.svg",
+  "tagline": "Kurumsal uygulamalar ve entegrasyon",
+  "about": "1995’ten beri kurumsal yazılım çözümleri üretiyoruz...",
+  "services": [
+    { "title": "Danışmanlık", "description": "Analiz, mimari, performans." },
+    { "title": "Entegrasyon", "description": "ERP, HR, CRM, API." }
+  ],
+  "clients": ["ABC Holding", "XYZ Lojistik"],
+  "contact": {
+    "email": "info@vbt.com.tr",
+    "phone": "+90 212 000 00 00",
+    "address": "İstanbul / Türkiye",
+    "formEndpoint": "/api/contact"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/vbt",
+    "x": "",
+    "instagram": "",
+    "facebook": "",
+    "youtube": "",
+    "github": ""
+  }
+}

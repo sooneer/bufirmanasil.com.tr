@@ -1,0 +1,451 @@
+:host {
+  display: block;
+  width: 100%;
+  min-height: 100vh;
+  background-color: #f8f9fa; // Light gray background
+  color: #212529; // Dark text color
+  font-family: 'Inter', sans-serif;
+}
+
+.company-page-wrapper {
+  width: 100%;
+  min-height: 100vh;
+  padding: 2rem;
+  box-sizing: border-box;
+}
+
+/* --- Skeleton Loader (Light Theme) --- */
+@keyframes shimmer-light {
+  0% {
+    background-position: -1000px 0;
+  }
+
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+.skeleton-loader {
+  max-width: 1200px;
+  margin: 0 auto;
+
+  .skeleton-hero {
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 16px;
+    margin-bottom: 2rem;
+    border: 1px solid #e9ecef;
+  }
+
+  .skeleton-avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: linear-gradient(to right, #e9ecef 8%, #f8f9fa 18%, #e9ecef 33%);
+    background-size: 2000px 104px;
+    animation: shimmer-light 2s linear infinite;
+    margin-right: 2rem;
+  }
+
+  .skeleton-info {
+    flex: 1;
+  }
+
+  .skeleton-line {
+    height: 20px;
+    border-radius: 4px;
+    background: linear-gradient(to right, #e9ecef 8%, #f8f9fa 18%, #e9ecef 33%);
+    background-size: 2000px 104px;
+    animation: shimmer-light 2s linear infinite;
+    margin-bottom: 1rem;
+
+    &.title {
+      height: 36px;
+      width: 60%;
+    }
+
+    &.text {
+      width: 80%;
+    }
+
+    &.short {
+      width: 40%;
+    }
+  }
+
+  .skeleton-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .skeleton-card {
+    height: 200px;
+    border-radius: 16px;
+    background: linear-gradient(to right, #e9ecef 8%, #f8f9fa 18%, #e9ecef 33%);
+    background-size: 2000px 104px;
+    animation: shimmer-light 2s linear infinite;
+    border: 1px solid #e9ecef;
+  }
+}
+
+
+.company-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* --- Hero Section (Light Theme) --- */
+.hero-section {
+  position: relative;
+  padding: 3rem 2rem;
+  border-radius: 16px;
+  margin-bottom: 2rem;
+  overflow: hidden;
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+
+  .hero-background {
+    // Removed dark background
+    display: none;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .company-avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid #dee2e6;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    flex-shrink: 0;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: fill;
+    }
+  }
+
+  .company-avatar-placeholder {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #667eea;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    font-weight: bold;
+    border: 3px solid #dee2e6;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    flex-shrink: 0;
+  }
+
+  .company-info {
+    .company-name {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin: 0 0 0.5rem;
+      color: #212529; // Dark text
+      text-shadow: none;
+    }
+
+    .company-tagline {
+      font-size: 1.2rem;
+      font-style: italic;
+      margin: 0 0 1rem;
+      color: #495057; // Medium-dark text
+    }
+
+    .company-meta {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      font-size: 0.9rem;
+      color: #6c757d; // Gray text
+
+      .meta-item {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .meta-icon {
+        width: 16px;
+        height: 16px;
+      }
+    }
+  }
+}
+
+/* --- Modern Card Base Style (Light Theme) --- */
+.modern-card {
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+  border-radius: 16px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+  }
+
+  .card-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid #e9ecef;
+    padding-bottom: 1rem;
+
+    h2 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin: 0;
+      color: #343a40;
+    }
+
+    .card-icon {
+      width: 24px;
+      height: 24px;
+      color: #667eea; // Primary color for icons
+    }
+  }
+
+  .card-content {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #495057;
+  }
+}
+
+/* --- Content Grids --- */
+.content-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.bottom-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+
+  @media (max-width: 992px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* --- Specific Card Styles (Light Theme) --- */
+.services-card {
+  .services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+  }
+
+  .service-card {
+    background: #f8f9fa;
+    padding: 1rem;
+    border-radius: 12px;
+    text-align: center;
+    border: 1px solid #e9ecef;
+    transition: background 0.3s ease, transform 0.3s ease;
+
+    &:hover {
+      background: #fff;
+      transform: translateY(-4px);
+    }
+
+    .service-icon {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+      color: #667eea;
+    }
+
+    h3 {
+      font-size: 1.1rem;
+      margin: 0 0 0.5rem;
+      color: #343a40;
+    }
+
+    p {
+      font-size: 0.9rem;
+      color: #6c757d;
+      margin: 0;
+    }
+  }
+}
+
+.clients-card {
+  .clients-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  .client-badge {
+    background: #e9ecef;
+    color: #495057;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+}
+
+.contact-card {
+  .contact-items {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .contact-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+
+    a,
+    span {
+      color: #495057;
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+
+    a:hover {
+      color: #667eea;
+    }
+
+    .contact-icon {
+      width: 20px;
+      height: 20px;
+      color: #6c757d;
+    }
+  }
+
+  .map-container {
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e9ecef;
+
+    h3 {
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+      color: #343a40;
+    }
+
+    .map-wrapper {
+      border-radius: 12px;
+      overflow: hidden;
+      height: 250px;
+      background: #e9ecef;
+
+      ::ng-deep iframe {
+        width: 100%;
+        height: 100%;
+        border: none;
+      }
+    }
+  }
+}
+
+.social-card {
+  .social-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 1rem;
+  }
+
+  .social-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.75rem;
+    border-radius: 12px;
+    text-decoration: none;
+    font-weight: 500;
+    color: #fff;
+    transition: transform 0.3s ease, filter 0.3s ease;
+
+    svg {
+      width: 20px;
+      height: 20px;
+    }
+
+    &:hover {
+      transform: scale(1.05);
+      filter: brightness(1.1);
+    }
+
+    &.linkedin {
+      background-color: #0077b5;
+    }
+
+    &.twitter {
+      background-color: #1da1f2;
+    }
+
+    &.instagram {
+      background: #d6249f;
+      background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    }
+
+    &.facebook {
+      background-color: #1877f2;
+    }
+
+    &.youtube {
+      background-color: #ff0000;
+    }
+
+    &.github {
+      background-color: #333;
+    }
+  }
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .company-page-wrapper {
+    padding: 1rem;
+  }
+
+  .hero-section {
+    padding: 2rem 1.5rem;
+
+    .hero-content {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .company-info .company-name {
+      font-size: 2rem;
+    }
+  }
+
+  .content-grid,
+  .bottom-section {
+    grid-template-columns: 1fr;
+  }
+}

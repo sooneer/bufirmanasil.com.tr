@@ -1,0 +1,12 @@
+<div class="page-header">
+  <div class="header-content">
+    <h1>Firma Listesi</h1>
+  </div>
+</div>
+<div class="page-container">
+  <ul>
+    <li *ngFor="let company of companies">
+      <a [routerLink]="['/company', toFriendlyUrl(company)]">{{ company }}</a>
+    </li>
+  </ul>
+</div>
