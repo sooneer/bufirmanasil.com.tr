@@ -297,10 +297,27 @@
 }
 
 .clients-card {
+  .card-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid #e9ecef;
+    padding-bottom: 1rem;
+
+    .clients-count {
+      font-size: 0.9rem;
+      color: #6c757d;
+      font-weight: 400;
+      margin-left: auto;
+    }
+  }
+
   .clients-grid {
     display: flex;
     flex-wrap: wrap;
     gap: 0.75rem;
+    margin-bottom: 1rem;
   }
 
   .client-badge {
@@ -310,6 +327,50 @@
     border-radius: 20px;
     font-size: 0.9rem;
     font-weight: 500;
+    transition: all 0.3s ease;
+
+    &:hover {
+      background: #667eea;
+      color: #fff;
+      transform: translateY(-2px);
+    }
+  }
+
+  .show-more-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+
+  .show-more-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.5rem;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+    }
+
+    .btn-icon {
+      width: 18px;
+      height: 18px;
+      transition: transform 0.3s ease;
+
+      &.rotated {
+        transform: rotate(180deg);
+      }
+    }
   }
 }
 
@@ -425,6 +486,76 @@
   }
 }
 
+/* Corporate Information Card */
+.corporate-info-section {
+  max-width: 1200px;
+  margin: 0 auto 1.5rem;
+}
+
+.corporate-card {
+  .corporate-items {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .corporate-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 12px;
+    border: 1px solid #e9ecef;
+
+    .corporate-label {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-weight: 600;
+      color: #495057;
+      font-size: 0.95rem;
+
+      .corporate-icon {
+        width: 18px;
+        height: 18px;
+        color: #667eea;
+      }
+    }
+
+    .corporate-value {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      font-weight: 500;
+      color: #343a40;
+
+      .kap-link {
+        display: flex;
+        align-items: center;
+        gap: 0.25rem;
+        color: #667eea;
+        text-decoration: none;
+        font-size: 0.9rem;
+        padding: 0.25rem 0.75rem;
+        background: rgba(102, 126, 234, 0.1);
+        border-radius: 15px;
+        transition: all 0.3s ease;
+
+        &:hover {
+          background: rgba(102, 126, 234, 0.2);
+          transform: translateY(-1px);
+        }
+
+        .external-icon {
+          width: 14px;
+          height: 14px;
+        }
+      }
+    }
+  }
+}
+
 /* Responsive Adjustments */
 @media (max-width: 768px) {
   .company-page-wrapper {
@@ -447,5 +578,16 @@
   .content-grid,
   .bottom-section {
     grid-template-columns: 1fr;
+  }
+
+  .corporate-card .corporate-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+
+    .corporate-value {
+      width: 100%;
+      justify-content: flex-start;
+    }
   }
 }

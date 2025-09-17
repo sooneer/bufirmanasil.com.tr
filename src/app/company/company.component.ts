@@ -24,11 +24,14 @@ import { GiscusComponent } from '../../_shared/giscus.component';
 export class CompanyComponent implements OnInit {
   CompanyUrl?: string;
   Company: Company | null = null;
+  showAllClients: boolean = false;
+  readonly maxVisibleClients = 8;
 
   constructor(
     private router: Router,
     private route: ActivatedRoute,
-    private http: HttpClient
+    private http: HttpClient,
+    private sanitizer: DomSanitizer
   ) {}
 
   ngOnInit() {
@@ -47,5 +50,27 @@ export class CompanyComponent implements OnInit {
           this.Company = data;
         });
     }
+  }
+
+  toggleShowAllClients() {
+    this.showAllClients = !this.showAllClients;
+  }
+
+  getVisibleClients() {
+    if (!this.Company?.clients) return [];
+
+    if (this.showAllClients || this.Company.clients.length <= this.maxVisibleClients) {
+      return this.Company.clients;
+    }
+
+    return this.Company.clients.slice(0, this.maxVisibleClients);
+  }
+
+  hasMoreClients(): boolean {
+    return !!(this.Company?.clients && this.Company.clients.length > this.maxVisibleClients);
+  }
+
+  getSafeUrl(url: string) {
+    return this.sanitizer.bypassSecurityTrustResourceUrl(url);
   }
 }
