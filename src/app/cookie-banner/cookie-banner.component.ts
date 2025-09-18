@@ -13,7 +13,7 @@ import { Subject, takeUntil } from 'rxjs';
   styleUrls: ['./cookie-banner.component.scss']
 })
 export class CookieBannerComponent implements OnInit, OnDestroy {
-  showBanner = false;
+  showBanner = true; // Başlangıçta true, consent varsa false olacak
   showDetails = false;
   cookieTypes: any;
   
@@ -24,16 +24,33 @@ export class CookieBannerComponent implements OnInit, OnDestroy {
 
   private destroy$ = new Subject<void>();
 
-  constructor(private cookieService: CookieService) {}
+  constructor(private cookieService: CookieService) {
+    // Constructor'da hızlıca kontrol et
+    if (this.cookieService.hasConsent()) {
+      this.showBanner = false;
+    }
+  }
 
   ngOnInit(): void {
     this.cookieTypes = this.cookieService.getCookieTypes();
     
+    // Hemen consent durumunu kontrol et
+    const currentConsent = this.cookieService.getConsent();
+    this.showBanner = !currentConsent;
+    
+    if (currentConsent) {
+      this.preferences = {
+        analytics: currentConsent.analytics,
+        marketing: currentConsent.marketing
+      };
+    }
+    
+    // Observable'ı dinle ama sadece değişiklikler için
     this.cookieService.consent$
       .pipe(takeUntil(this.destroy$))
       .subscribe(consent => {
-        this.showBanner = !consent;
         if (consent) {
+          this.showBanner = false;
           this.preferences = {
             analytics: consent.analytics,
             marketing: consent.marketing

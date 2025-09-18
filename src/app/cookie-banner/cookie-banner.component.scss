@@ -8,6 +8,15 @@
   box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.15);
   z-index: 9999;
   transition: all 0.3s ease;
+  transform: translateY(100%);
+  opacity: 0;
+  visibility: hidden;
+
+  &.show {
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+  }
 
   &.expanded {
     .cookie-details {
