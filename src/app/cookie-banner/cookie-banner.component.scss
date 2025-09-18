@@ -11,8 +11,10 @@
   transform: translateY(100%);
   opacity: 0;
   visibility: hidden;
+  display: none; // Başlangıçta tamamen gizli
 
   &.show {
+    display: block;
     transform: translateY(0);
     opacity: 1;
     visibility: visible;

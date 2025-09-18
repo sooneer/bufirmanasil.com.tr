@@ -1,4 +1,7 @@
-<div class="cookie-banner" *ngIf="showBanner" [class.expanded]="showDetails" [class.show]="showBanner">
+<div class="cookie-banner" 
+     *ngIf="isInitialized && showBanner" 
+     [class.expanded]="showDetails" 
+     [class.show]="showBanner">
   <div class="cookie-content">
     <!-- Ana Banner -->
     <div class="cookie-main">

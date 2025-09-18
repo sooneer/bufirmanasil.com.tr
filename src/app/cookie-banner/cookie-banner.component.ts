@@ -13,9 +13,10 @@ import { Subject, takeUntil } from 'rxjs';
   styleUrls: ['./cookie-banner.component.scss']
 })
 export class CookieBannerComponent implements OnInit, OnDestroy {
-  showBanner = true; // Başlangıçta true, consent varsa false olacak
+  showBanner = false; // Her zaman false ile başla
   showDetails = false;
   cookieTypes: any;
+  isInitialized = false; // Component tam olarak hazır mı?
   
   preferences = {
     analytics: false,
@@ -24,37 +25,37 @@ export class CookieBannerComponent implements OnInit, OnDestroy {
 
   private destroy$ = new Subject<void>();
 
-  constructor(private cookieService: CookieService) {
-    // Constructor'da hızlıca kontrol et
-    if (this.cookieService.hasConsent()) {
-      this.showBanner = false;
-    }
-  }
+  constructor(private cookieService: CookieService) {}
 
   ngOnInit(): void {
     this.cookieTypes = this.cookieService.getCookieTypes();
     
-    // Hemen consent durumunu kontrol et
-    const currentConsent = this.cookieService.getConsent();
-    this.showBanner = !currentConsent;
+    // Küçük bir gecikme ile consent durumunu kontrol et
+    setTimeout(() => {
+      const currentConsent = this.cookieService.getConsent();
+      this.showBanner = !currentConsent;
+      this.isInitialized = true;
+      
+      if (currentConsent) {
+        this.preferences = {
+          analytics: currentConsent.analytics,
+          marketing: currentConsent.marketing
+        };
+      }
+    }, 0);
     
-    if (currentConsent) {
-      this.preferences = {
-        analytics: currentConsent.analytics,
-        marketing: currentConsent.marketing
-      };
-    }
-    
-    // Observable'ı dinle ama sadece değişiklikler için
+    // Observable'ı dinle
     this.cookieService.consent$
       .pipe(takeUntil(this.destroy$))
       .subscribe(consent => {
-        if (consent) {
-          this.showBanner = false;
-          this.preferences = {
-            analytics: consent.analytics,
-            marketing: consent.marketing
-          };
+        if (this.isInitialized) {
+          this.showBanner = !consent;
+          if (consent) {
+            this.preferences = {
+              analytics: consent.analytics,
+              marketing: consent.marketing
+            };
+          }
         }
       });
   }
