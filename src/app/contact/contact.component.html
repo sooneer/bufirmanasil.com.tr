@@ -30,13 +30,13 @@
             <span>QUICK TOWER, İçerenköy Mh. Umut Sk. No:10-12 K:13 D:57-60 PK:34752 Ataşehir/İstanbul</span>
           </div>
         </li>
-        <li>
+        <!-- <li>
           <svg class="contact-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 3c1.93 0 3.5 1.57 3.5 3.5S13.93 13 12 13s-3.5-1.57-3.5-3.5S10.07 6 12 6zm7 13H5v-.23c0-.62.28-1.2.76-1.58C7.47 15.82 9.64 15 12 15s4.53.82 6.24 2.19c.48.38.76.97.76 1.58V19z"/></svg>
           <div class="contact-text">
             <span>Vergi Bilgileri</span>
             <span>VD: Ataşehir V.D. | VN: 1234567890</span>
           </div>
-        </li>
+        </li> -->
       </ul>
       <div class="legal-notice">
         <p><strong>Yasal Uyarı:</strong> Bu platform, şirket değerlendirme ve bilgi paylaşım hizmeti sunan bir web sitesidir. Platform operatörü: Bu Firma Nasıl? - Bireysel girişimci olarak faaliyet göstermektedir.</p>
@@ -49,22 +49,22 @@
     </div>
     <div class="contact-form-wrapper">
       <h2>İletişime Geçin</h2>
-      <form class="contact-form">
+      <form class="contact-form" #contactForm="ngForm" (ngSubmit)="onSubmit(contactForm)">
         <div class="form-group">
           <label for="name">Adınız Soyadınız</label>
-          <input type="text" id="name" name="name" required>
+          <input type="text" id="name" name="name" [(ngModel)]="formData.name" required>
         </div>
         <div class="form-group">
           <label for="email">E-posta Adresiniz</label>
-          <input type="email" id="email" name="email" required>
+          <input type="email" id="email" name="email" [(ngModel)]="formData.email" required>
         </div>
         <div class="form-group">
           <label for="subject">Konu</label>
-          <input type="text" id="subject" name="subject" required>
+          <input type="text" id="subject" name="subject" [(ngModel)]="formData.subject" required>
         </div>
         <div class="form-group">
           <label for="message">Mesajınız</label>
-          <textarea id="message" name="message" rows="5" required></textarea>
+          <textarea id="message" name="message" [(ngModel)]="formData.message" rows="5" required></textarea>
         </div>
         <button type="submit" class="btn-submit">Mesajı Gönder</button>
       </form>
