@@ -462,14 +462,58 @@ main {
 }
 
 .main-footer {
-  text-align: center;
-  padding: 1.5rem;
   background-color: #f8f9fa;
-  color: #6c757d;
   border-top: 1px solid #e9ecef;
+  padding: 2rem 1.5rem;
   position: relative;
   bottom: 0;
   width: 100%;
+
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+
+    p {
+      color: #6c757d;
+      margin: 0;
+      font-size: 0.9rem;
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 2rem;
+
+      a {
+        color: #6c757d;
+        text-decoration: none;
+        font-size: 0.9rem;
+        transition: color 0.3s ease;
+
+        &:hover {
+          color: #667eea;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .main-footer {
+    .footer-content {
+      flex-direction: column;
+      text-align: center;
+      gap: 1.5rem;
+
+      .footer-links {
+        gap: 1.5rem;
+      }
+    }
+  }
 }
 
 .page-container {
@@ -596,6 +640,25 @@ main > router-outlet{
 .social-links .social-icon svg {
   width: 20px;
   height: 20px;
+}
+
+.contact-details .legal-notice {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background-color: #f8f9fa;
+  border-left: 4px solid #667eea;
+  border-radius: 4px;
+
+  p {
+    margin: 0;
+    color: #555;
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+
+  strong {
+    color: #667eea;
+  }
 }
 
 .contact-form-wrapper {

@@ -1,0 +1,106 @@
+<div class="cookie-banner" *ngIf="showBanner" [class.expanded]="showDetails">
+  <div class="cookie-content">
+    <!-- Ana Banner -->
+    <div class="cookie-main">
+      <div class="cookie-icon">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM21 9V7L15 1V3H9V1L3 7V9H21ZM21 10H3V15C3 16.1 3.9 17 5 17H8V22H16V17H19C20.1 17 21 16.1 21 15V10Z" fill="currentColor"/>
+        </svg>
+      </div>
+      
+      <div class="cookie-text">
+        <h3>Bu site çerezler kullanıyor</h3>
+        <p>
+          Web sitemizin düzgün çalışması için zorunlu çerezlerin yanı sıra, deneyiminizi iyileştirmek 
+          için analitik ve pazarlama çerezleri kullanıyoruz. 
+          <a routerLink="/privacy" class="privacy-link">Gizlilik Politikası</a>
+        </p>
+      </div>
+
+      <div class="cookie-actions">
+        <button class="btn btn-settings" (click)="toggleDetails()" type="button">
+          Ayarlar
+        </button>
+        <button class="btn btn-reject" (click)="rejectAll()" type="button">
+          Reddet
+        </button>
+        <button class="btn btn-accept" (click)="acceptAll()" type="button">
+          Tümünü Kabul Et
+        </button>
+      </div>
+    </div>
+
+    <!-- Detaylı Ayarlar -->
+    <div class="cookie-details" *ngIf="showDetails">
+      <div class="cookie-separator"></div>
+      
+      <h4>Çerez Tercihleri</h4>
+      <p class="details-description">
+        Hangi çerez türlerinin kullanılmasını istediğinizi seçebilirsiniz:
+      </p>
+
+      <div class="cookie-categories">
+        <!-- Zorunlu Çerezler -->
+        <div class="cookie-category">
+          <div class="category-header">
+            <div class="toggle-wrapper">
+              <input 
+                type="checkbox" 
+                id="necessary" 
+                checked 
+                disabled
+                class="cookie-toggle">
+              <label for="necessary" class="toggle-label"></label>
+            </div>
+            <div class="category-info">
+              <h5>{{ cookieTypes.necessary.name }}</h5>
+              <p>{{ cookieTypes.necessary.description }}</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Analitik Çerezler -->
+        <div class="cookie-category">
+          <div class="category-header">
+            <div class="toggle-wrapper">
+              <input 
+                type="checkbox" 
+                id="analytics" 
+                [(ngModel)]="preferences.analytics"
+                class="cookie-toggle">
+              <label for="analytics" class="toggle-label"></label>
+            </div>
+            <div class="category-info">
+              <h5>{{ cookieTypes.analytics.name }}</h5>
+              <p>{{ cookieTypes.analytics.description }}</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Pazarlama Çerezleri -->
+        <div class="cookie-category">
+          <div class="category-header">
+            <div class="toggle-wrapper">
+              <input 
+                type="checkbox" 
+                id="marketing" 
+                [(ngModel)]="preferences.marketing"
+                class="cookie-toggle">
+              <label for="marketing" class="toggle-label"></label>
+            </div>
+            <div class="category-info">
+              <h5>{{ cookieTypes.marketing.name }}</h5>
+              <p>{{ cookieTypes.marketing.description }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="details-actions">
+        <button class="btn btn-save" (click)="acceptSelected()" type="button">
+          Seçimleri Kaydet
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

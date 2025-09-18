@@ -11,15 +11,25 @@
   "sector": ["Teknoloji", "Bilişim", "Yazılım"],
   "services": [
     {
-      "title": "Eğitim Hizmetleri",
+      "title": "",
       "description": ""
     },
     {
-      "title": "Danışmanlık Hizmetleri",
+      "title": "",
       "description": ""
     },
     {
-      "title": "Modernizasyon Hizmetleri",
+      "title": "",
+      "description": ""
+    }
+  ],
+  "softwares": [
+    {
+      "title": "",
+      "description": ""
+    },
+    {
+      "title": "",
       "description": ""
     }
   ],

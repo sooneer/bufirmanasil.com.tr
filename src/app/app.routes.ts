@@ -26,6 +26,18 @@ export const routes: Routes = [
     loadComponent: () => import('./sector-codes/sector-codes.component').then((m) => m.SectorCodesComponent),
   },
   {
+    path: 'privacy',
+    loadComponent: () => import('./privacy/privacy.component').then((m) => m.PrivacyComponent),
+  },
+  {
+    path: 'terms',
+    loadComponent: () => import('./terms/terms.component').then((m) => m.TermsComponent),
+  },
+  {
+    path: 'cookies',
+    loadComponent: () => import('./cookies/cookies.component').then((m) => m.CookiesComponent),
+  },
+  {
     path: 'company/:name',
     loadComponent: () => import('./company/company.component').then((m) => m.CompanyComponent),
   },
