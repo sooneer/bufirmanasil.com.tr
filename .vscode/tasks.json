@@ -37,6 +37,33 @@
           }
         }
       }
+    },
+    {
+      "label": "Deploy to Target",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-File",
+        "deploy.ps1",
+        "-TargetPath",
+        "${input:targetPath}"
+      ],
+      "group": "build",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "targetPath",
+      "description": "Hedef klasör yolu",
+      "default": "C:\\deploy",
+      "type": "promptString"
     }
   ]
 }

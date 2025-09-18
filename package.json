@@ -5,6 +5,10 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "build:prod": "ng build --configuration production",
+    "deploy": "npm run build:prod && powershell -File deploy.ps1",
+    "deploy:to": "npm run build:prod && powershell -File deploy.ps1 -TargetPath",
+    "copy:build": "powershell Copy-Item 'docs\\*' -Destination '%TARGET_PATH%' -Recurse -Force",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
