@@ -27,10 +27,7 @@
     "googleMaps": "https://maps.app.goo.gl/r7nJGq43KHoTrkcDA",
     "googleMapsIframe": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29961.02149897794!2d32.835797!3d39.849421!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d34516a81e41f7%3A0xbeec7d66871df09c!2s4TheWall!5e1!3m2!1str!2str!4v1758184586985!5m2!1str!2str"
   },
-  "tax": {
-    "taxOffice": null,
-    "taxNumber": null
-  },
+  "tax": null,
   "social": {
     "linkedin": "https://www.linkedin.com/company/4thewall",
     "facebook": "https://www.facebook.com/4thewall",
