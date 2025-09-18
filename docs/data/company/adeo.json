@@ -1,0 +1,84 @@
+{
+  "name": "Adeo",
+  "fullName": "Adeo Bilişim Danışmanlık Hiz. San. ve Tic. A. Ş.",
+  "logo": "/img/company/adeo.png",
+  "tagline": "Savunmanıza bir müttefik ekleyin",
+  "foundationYear": 2008,
+  "about": "ADEO Cyber Security, Finans, Telekomünikasyon, Enerji, Üretim, Perakende sektörleri ve Kamu olmak üzere Türkiye ve MEA Bölgesinde 1000’nin üzerinde kurumsal müşteriye hizmet vermektedir.",
+  "BIST": {
+    "code": "",
+    "KAP": ""
+  },
+  "sector": ["Teknoloji", "Bilişim", "Yazılım", "Siber Güvenlik"],
+  "services": [],
+  "softwares": [],  
+  "solutions":[{
+    "title": "Siber Güvenlik Servisleri",
+    "description": ""
+  },{
+    "title": "Siber Dayanıklılık Servisleri",
+    "description": ""
+  },{
+    "title": "Yönetişim Risk ve Uyumluluk Servisleri",
+    "description": ""
+  },{
+    "title": "Siber Güvenlik Farkındalık ve Eğitim Servisleri",
+    "description": ""
+  }],
+  "clients":[],
+  "partners": ["Barracuda",
+"Brandefence",
+"Cyberhint",
+"Forcepoint",
+"Forestall",
+"Nextray",
+"Tenable",
+"aruba",
+"Buckcrowd",
+"Cequence",
+"Claroty",
+"commvault",
+"crowdstrike",
+"cybereason",
+"Divvy Drive",
+"Echo",
+"Fortinet",
+"Hyas",
+"Kaspersky",
+"microsoft",
+"Nextray",
+"nextron",
+"Octoxlabs",
+"Optimate Solution",
+"paloalto",
+"Phishy",
+"Picus",
+"qualys",
+"s4e",
+"Sechard",
+"Sentinel",
+"simspace",
+"Soteryan",
+"vectra",
+"Wallarm",
+"vmware",
+"Zerofox"],
+  "contact": {
+    "web": "https://adeosecurity.com",
+    "email": "info@adeosecurity.com",
+    "phone": "+90 (216) 472 35 35",
+    "phone2": "",
+    "address": "Fetih Mah. Tahralı Sk. Tahralı Sitesi Kavakyeli Plaza C Blok D16/17 Ataşehir / İSTANBUL / TÜRKİYE",
+    "googleMaps": "https://maps.app.goo.gl/4AjS1SMdvYzxdMGx7",
+    "googleMapsIframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3011.0942890169254!2d29.0760842!3d41.001309400000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac7d93c720f11%3A0xa150c0a492e62d33!2sADEO%20Cyber%20Security!5e0!3m2!1str!2str!4v1758201062664!5m2!1str!2str"
+  },
+  "tax": null,
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/adeocomtr/",
+    "facebook": "https://www.facebook.com/adeocomtr",
+    "x": "https://twitter.com/adeosecurity",
+    "instagram": null,
+    "youtube": "https://www.youtube.com/c/ADEOcomtr",
+    "github": null
+  }
+}
