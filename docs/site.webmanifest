@@ -1,0 +1,95 @@
+{
+    "name": "Bu Firma Nasıl? - Şirket Değerlendirme Platformu",
+    "short_name": "Bu Firma Nasıl?",
+    "description": "Türkiye'deki şirketler hakkında çalışan deneyimleri, maaş bilgileri ve detaylı incelemeler. İş arayan adaylar için güvenilir şirket rehberi.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#ffffff",
+    "theme_color": "#667eea",
+    "lang": "tr",
+    "dir": "ltr",
+    "categories": ["business", "productivity", "utilities"],
+    "icons": [
+        {
+            "src": "/favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Şirket Listesi",
+            "short_name": "Şirketler",
+            "description": "Tüm şirketlerin listesini görüntüle",
+            "url": "/company-list",
+            "icons": [
+                {
+                    "src": "/android-chrome-192x192.png",
+                    "sizes": "192x192"
+                }
+            ]
+        },
+        {
+            "name": "Sektör Kodları",
+            "short_name": "Sektörler",
+            "description": "NACE sektör kodlarını incele",
+            "url": "/sector-codes",
+            "icons": [
+                {
+                    "src": "/android-chrome-192x192.png",
+                    "sizes": "192x192"
+                }
+            ]
+        },
+        {
+            "name": "İletişim",
+            "short_name": "İletişim",
+            "description": "Bizimle iletişime geç",
+            "url": "/contact",
+            "icons": [
+                {
+                    "src": "/android-chrome-192x192.png",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ],
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "screenshots": [
+        {
+            "src": "/img/logo.svg",
+            "sizes": "1280x720",
+            "type": "image/svg+xml",
+            "platform": "wide",
+            "label": "Bu Firma Nasıl? Ana Sayfa"
+        }
+    ]
+}
