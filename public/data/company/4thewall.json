@@ -4,25 +4,9 @@
   "tagline": "4TheWall provides global service in PRO AV, Video Wall Controller and Software Solutions.",
   "foundationYear": 2012,
   "about": "As the 4THEWALL family, we have been providing services on a global scale since 2012 with simple or complicated PRO AV & Control Software solutions, we continue to be in a position that makes a difference with our corporate structure and understanding and continue to grow day by day.",
-  "BIST": {
-    "code": null,
-    "KAP": null
-  },
+  "BIST": null,
   "sector": ["Appliances", "Electrical", "Electronics Manufacturing"],
-  "services": [
-    {
-      "title": "Eğitim Hizmetleri",
-      "description": ""
-    },
-    {
-      "title": "Danışmanlık Hizmetleri",
-      "description": ""
-    },
-    {
-      "title": "Modernizasyon Hizmetleri",
-      "description": ""
-    }
-  ],
+  "services": [],
   "softwares": [
     {
       "title": "Designer V Control Management",
@@ -44,8 +28,8 @@
     "googleMapsIframe": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29961.02149897794!2d32.835797!3d39.849421!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d34516a81e41f7%3A0xbeec7d66871df09c!2s4TheWall!5e1!3m2!1str!2str!4v1758184586985!5m2!1str!2str"
   },
   "tax": {
-    "taxOffice": "Vergi Dairesi",
-    "taxNumber": ""
+    "taxOffice": null,
+    "taxNumber": null
   },
   "social": {
     "linkedin": "https://www.linkedin.com/company/4thewall",
