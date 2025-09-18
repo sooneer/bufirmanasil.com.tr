@@ -94,7 +94,7 @@ catch {
 
 
 # Build çıktısını kontrol et
-$SourcePath = "dist/browser"
+$SourcePath = "docs"
 if (!(Test-Path $SourcePath)) {
   Write-Error "Build çıktısı bulunamadı: $SourcePath"
   Write-Info "Lütfen önce 'ng build' komutunu çalıştırın"

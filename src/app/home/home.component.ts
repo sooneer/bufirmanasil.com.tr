@@ -1,9 +1,10 @@
 import { CommonModule } from '@angular/common';
-import { Component, ViewEncapsulation } from '@angular/core';
+import { Component, ViewEncapsulation, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { HttpClient } from '@angular/common/http';
 import { URLHelpers } from '../../_helpers/url-helpers';
+import { SeoService } from '../services/seo.service';
 
 @Component({
   selector: 'app-home',
@@ -11,18 +12,25 @@ import { URLHelpers } from '../../_helpers/url-helpers';
   imports: [CommonModule, FormsModule],
   encapsulation: ViewEncapsulation.None,
 })
-export class HomeComponent {
+export class HomeComponent implements OnInit {
   SearchText: string = '';
   Companies: string[] = ['VBT Yazılım'];
 
-   
+
   filteredCompanies: string[] = [];
 
-  constructor(private router: Router, private http: HttpClient) {
+  constructor(
+    private router: Router,
+    private http: HttpClient,
+    private seoService: SeoService
+  ) {
     this.filteredCompanies = this.Companies;
   }
 
   ngOnInit() {
+    // SEO ayarları
+    this.seoService.setHomePage();
+
     this.filteredCompanies = this.Companies;
     this.http.get<string[]>('/data/companies.json').subscribe((data) => {
       console.log(data);

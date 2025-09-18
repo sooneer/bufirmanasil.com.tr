@@ -6,6 +6,7 @@ import { CommonModule } from '@angular/common';
 import { DomSanitizer } from '@angular/platform-browser';
 import { trigger, state, style, transition, animate } from '@angular/animations';
 import { GiscusComponent } from '../../_shared/giscus.component';
+import { SeoService } from '../services/seo.service';
 
 @Component({
   selector: 'app-company',
@@ -31,7 +32,8 @@ export class CompanyComponent implements OnInit {
     private router: Router,
     private route: ActivatedRoute,
     private http: HttpClient,
-    private sanitizer: DomSanitizer
+    private sanitizer: DomSanitizer,
+    private seoService: SeoService
   ) {}
 
   ngOnInit() {
@@ -48,6 +50,11 @@ export class CompanyComponent implements OnInit {
         .get<Company>('/data/company/' + this.CompanyUrl + '.json')
         .subscribe((data) => {
           this.Company = data;
+
+          // SEO meta taglerini güncelle
+          if (this.Company) {
+            this.seoService.setCompanyPage(this.Company.name, this.Company.about);
+          }
         });
     }
   }

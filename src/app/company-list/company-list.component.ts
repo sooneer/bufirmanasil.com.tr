@@ -3,6 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
 import { URLHelpers } from '../../_helpers/url-helpers';
+import { SeoService } from '../services/seo.service';
 
 @Component({
   selector: 'app-company-list',
@@ -14,9 +15,15 @@ import { URLHelpers } from '../../_helpers/url-helpers';
 export class CompanyListComponent implements OnInit {
   companies: string[] = [];
 
-  constructor(private http: HttpClient) {}
+  constructor(
+    private http: HttpClient,
+    private seoService: SeoService
+  ) {}
 
   ngOnInit() {
+    // SEO ayarları
+    this.seoService.setCompanyListPage();
+
     this.http.get<string[]>('/data/companies.json').subscribe((data) => {
       console.log(data);
       this.companies = data;
