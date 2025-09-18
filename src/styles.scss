@@ -454,6 +454,13 @@ main {
   }
 }
 
+// Anasayfa logo mobile responsive
+@media (max-width: 768px) {
+  .content .logo img {
+    width: 250px !important; // Mobilde logo boyutunu küçült
+  }
+}
+
 .main-footer {
   text-align: center;
   padding: 1.5rem;
