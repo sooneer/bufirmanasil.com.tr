@@ -1,0 +1,48 @@
+{
+  "name": "",
+  "logo": "",
+  "tagline": "",
+  "foundationYear": 0,
+  "about": "",
+  "BIST": {
+    "code": "",
+    "KAP": ""
+  },
+  "sector": ["Teknoloji", "Bilişim", "Yazılım"],
+  "services": [
+    {
+      "title": "Eğitim Hizmetleri",
+      "description": ""
+    },
+    {
+      "title": "Danışmanlık Hizmetleri",
+      "description": ""
+    },
+    {
+      "title": "Modernizasyon Hizmetleri",
+      "description": ""
+    }
+  ],
+  "clients": ["","","","","",""],
+  "contact": {
+    "web": "",
+    "email": "",
+    "phone": "",
+    "phone2": "",
+    "address": "",
+    "googleMaps": "https://maps.app.goo.gl/Xqch4dsBzpm5Kr7YA",
+    "googleMapsIframe": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1841.56297897483!2d29.101973999999995!3d40.972788!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac7682adbad13%3A0xb9027211d8f4849f!2zVkJUIFlhesSxbMSxbSBBLsWeLiBHZW5lbCBNw7xkw7xybMO8aw!5e1!3m2!1str!2str!4v1758114783139!5m2!1str!2str"
+  },
+  "tax": {
+    "taxOffice": "Vergi Dairesi",
+    "taxNumber": ""
+  },
+  "social": {
+    "linkedin": "",
+    "facebook": "",
+    "x": "",
+    "instagram": "",
+    "youtube": "",
+    "github": ""
+  }
+}

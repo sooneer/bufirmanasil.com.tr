@@ -1,0 +1,66 @@
+<div class="page-header">
+  <div class="header-content">
+    <h1>Sektör Kodları</h1>
+  </div>
+</div>
+<div class="page-container sector-codes-page">
+  <p class="description">
+    NACE (Avrupa Topluluğunda Ekonomik Faaliyetlerin İstatistiki Sınıflaması) sektör kodları ve açıklamaları
+  </p>
+
+    <!-- Arama Kutusu -->
+    <div class="search-section">
+      <div class="search-box">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M15.5 14H14.71L14.43 13.73C15.4439 12.554 16.0011 11.0527 16 9.5C16 8.21442 15.6188 6.95772 14.9046 5.8888C14.1903 4.81988 13.1752 3.98676 11.9874 3.49479C10.7997 3.00282 9.49279 2.87409 8.23192 3.1249C6.97104 3.3757 5.81285 3.99477 4.90381 4.90381C3.99477 5.81285 3.3757 6.97104 3.1249 8.23192C2.87409 9.49279 3.00282 10.7997 3.49479 11.9874C3.98676 13.1752 4.81988 14.1903 5.8888 14.9046C6.95772 15.6188 8.21442 16 9.5 16C11.11 16 12.59 15.41 13.73 14.43L14 14.71V15.5L19 20.49L20.49 19L15.5 14ZM9.5 14C7.01 14 5 11.99 5 9.5C5 7.01 7.01 5 9.5 5C11.99 5 14 7.01 14 9.5C14 11.99 11.99 14 9.5 14Z" fill="black" fill-opacity="0.32"/>
+        </svg>
+        <input
+          type="text"
+          [(ngModel)]="searchText"
+          (input)="onSearchChange()"
+          placeholder="Sektör kodu veya açıklama ara..."
+          class="search-input">
+      </div>
+
+      <div class="stats">
+        <span>{{ filteredSectors.length }} / {{ totalSectors }} sektör</span>
+      </div>
+    </div>
+
+    <!-- Loading State -->
+    <div *ngIf="loading" class="loading">
+      <p>Sektör kodları yükleniyor...</p>
+    </div>
+
+    <!-- Error State -->
+    <div *ngIf="error" class="error">
+      <p>{{ error }}</p>
+    </div>
+
+    <!-- Sektör Listesi -->
+    <div *ngIf="!loading && !error" class="sectors-list">
+      <div *ngFor="let sector of filteredSectors" class="sector-item">
+        <div class="sector-code">{{ sector.code }}</div>
+        <div class="sector-name">{{ sector.name }}</div>
+      </div>
+
+      <!-- Sonuç bulunamadı -->
+      <div *ngIf="filteredSectors.length === 0 && searchText" class="no-results">
+        <p>Arama kriterlerinize uygun sektör kodu bulunamadı.</p>
+        <small>Farklı anahtar kelimeler deneyebilirsiniz.</small>
+      </div>
+    </div>
+
+    <!-- JSON İndir Butonu -->
+    <div *ngIf="!loading && !error && sectors.length > 0" class="download-section">
+      <a (click)="downloadJson()" class="download-btn">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M21 15V19C21 19.5304 20.7893 20.0391 20.4142 20.4142C20.0391 20.7893 19.5304 21 19 21H5C4.46957 21 3.96086 20.7893 3.58579 20.4142C3.21071 20.0391 3 19.5304 3 19V15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="7,10 12,15 17,10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="12" y1="15" x2="12" y2="3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Tüm Sektör Kodlarını JSON Olarak İndir
+        <span class="download-count">({{ totalSectors }} sektör)</span>
+      </a>
+    </div>
+  </div>

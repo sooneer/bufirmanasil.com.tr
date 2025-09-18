@@ -110,6 +110,16 @@ export class SeoService {
     });
   }
 
+  setSektorKodlariPage() {
+    this.updateMetaTags({
+      title: 'Sektör Kodları - NACE Kodları ve Açıklamaları | Bu Firma Nasıl?',
+      description: 'NACE (Avrupa Topluluğunda Ekonomik Faaliyetlerin İstatistiki Sınıflaması) sektör kodları ve detaylı açıklamaları. Tüm sektör kodlarını arayabilir ve inceleyebilirsiniz.',
+      keywords: 'sektör kodları, NACE kodları, ekonomik faaliyet sınıflaması, sektör listesi, faaliyet kodları, iş sektörleri',
+      url: 'https://bufirmanasil.com.tr/sector-codes',
+      type: 'website'
+    });
+  }
+
   private slugify(text: string): string {
     return text
       .toLowerCase()

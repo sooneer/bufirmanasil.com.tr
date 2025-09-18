@@ -1,0 +1,228 @@
+.sector-codes-page {
+  .description {
+    color: #666;
+    font-size: 1.1rem;
+    margin-bottom: 3rem;
+    text-align: center;
+  }
+
+  .search-section {
+    background: #f8f9fa;
+    border-radius: 10px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border: 1px solid #e9ecef;
+
+    .search-box {
+      display: flex;
+      align-items: center;
+      background: white;
+      border-radius: 8px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      border: 2px solid #e9ecef;
+      transition: all 0.3s ease;
+
+      &:focus-within {
+        border-color: #667eea;
+        box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+      }
+
+      svg {
+        margin-right: 1rem;
+        flex-shrink: 0;
+        opacity: 0.5;
+      }
+
+      .search-input {
+        flex: 1;
+        border: none;
+        background: transparent;
+        font-size: 1rem;
+        outline: none;
+        color: #333;
+
+        &::placeholder {
+          color: #666;
+        }
+      }
+    }
+
+    .stats {
+      text-align: center;
+      color: #666;
+      font-size: 0.9rem;
+    }
+  }
+
+  .loading, .error {
+    text-align: center;
+    padding: 3rem 2rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+
+    p {
+      margin: 0;
+      font-size: 1.1rem;
+      color: #666;
+    }
+  }
+
+  .error p {
+    color: #e74c3c;
+  }
+
+  .sectors-list {
+    background: #f8f9fa;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 2rem;
+
+    .sector-item {
+      display: grid;
+      grid-template-columns: 130px 1fr;
+      gap: 1rem;
+      padding: 1rem 1.5rem;
+      border-bottom: 1px solid #e9ecef;
+      background: white;
+      transition: background-color 0.2s ease;
+
+      &:hover {
+        background-color: #f8f9fa;
+      }
+
+      &:last-child {
+        border-bottom: none;
+      }
+
+      .sector-code {
+        font-family: 'Courier New', monospace;
+        font-weight: 600;
+        color: #667eea;
+        font-size: 0.95rem;
+        display: flex;
+        align-items: center;
+      }
+
+      .sector-name {
+        color: #333;
+        line-height: 1.5;
+        font-size: 0.95rem;
+      }
+    }
+
+    .no-results {
+      padding: 3rem 2rem;
+      text-align: center;
+      color: #666;
+      background: white;
+
+      p {
+        margin: 0 0 0.5rem 0;
+        font-size: 1.1rem;
+      }
+
+      small {
+        color: #999;
+      }
+    }
+  }
+
+  .download-section {
+    text-align: center;
+    padding: 2rem 0;
+    margin-top: 2rem;
+    border-top: 1px solid #e9ecef;
+
+    .download-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      border: none;
+      padding: 1rem 2rem;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+      text-decoration: none;
+      user-select: none;
+
+      &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+        color: white;
+        text-decoration: none;
+      }
+
+      &:active {
+        transform: translateY(0);
+      }
+
+      &:focus {
+        outline: 2px solid #667eea;
+        outline-offset: 2px;
+      }
+
+      svg {
+        flex-shrink: 0;
+      }
+
+      .download-count {
+        font-size: 0.85rem;
+        opacity: 0.9;
+        font-weight: 400;
+      }
+    }
+  }
+}
+
+// Mobile responsive
+@media (max-width: 768px) {
+  .sector-codes-page {
+    .description {
+      font-size: 1rem;
+      margin-bottom: 2rem;
+    }
+
+    .search-section {
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .sectors-list {
+      .sector-item {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+        padding: 1rem;
+
+        .sector-code {
+          font-size: 0.9rem;
+          font-weight: 700;
+        }
+
+        .sector-name {
+          font-size: 0.9rem;
+          color: #555;
+        }
+      }
+    }
+
+    .download-section {
+      padding: 1.5rem 0;
+
+      .download-btn {
+        padding: 0.875rem 1.5rem;
+        font-size: 0.95rem;
+
+        .download-count {
+          font-size: 0.8rem;
+        }
+      }
+    }
+  }
+}
