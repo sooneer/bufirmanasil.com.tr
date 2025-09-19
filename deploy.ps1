@@ -12,6 +12,9 @@ param(
   [switch]$Clean
 )
 
+# Terminal ekranını temizle
+cls
+
 # Renkli mesajlar için fonksiyonlar
 function Write-Success {
   param([string]$Message)
