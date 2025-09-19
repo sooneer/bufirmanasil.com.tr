@@ -1,12 +1,12 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, Inject, OnInit, ViewEncapsulation, Renderer2, ElementRef, AfterViewInit } from '@angular/core';
 import { Router, ActivatedRoute } from '@angular/router';
-import { Company } from '../../models/Company';
+import { Company } from '../../_shared/models/Company';
 import { CommonModule } from '@angular/common';
 import { DomSanitizer } from '@angular/platform-browser';
 import { trigger, state, style, transition, animate } from '@angular/animations';
-import { GiscusComponent } from '../../_shared/giscus.component';
-import { SeoService } from '../services/seo.service';
+import { GiscusComponent } from '../../_shared/components/giscus.component';
+import { SeoService } from '../../_shared/services/seo.service';
 
 @Component({
   selector: 'app-company',

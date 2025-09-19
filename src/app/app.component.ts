@@ -1,7 +1,7 @@
 import { Component, ViewEncapsulation } from '@angular/core';
 import { RouterModule, RouterOutlet } from '@angular/router';
 import { CommonModule } from '@angular/common';
-import { CookieBannerComponent } from './cookie-banner/cookie-banner.component';
+import { CookieBannerComponent } from '../_shared/components/cookie-banner/cookie-banner.component';
 
 @Component({
   selector: 'app-root',

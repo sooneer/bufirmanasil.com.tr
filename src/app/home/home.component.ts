@@ -4,7 +4,7 @@ import { Router } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { HttpClient } from '@angular/common/http';
 import { URLHelpers } from '../../_helpers/url-helpers';
-import { SeoService } from '../services/seo.service';
+import { SeoService } from '../../_shared/services/seo.service';
 
 @Component({
   selector: 'app-home',

@@ -1,6 +1,6 @@
 .sector-codes-page {
   .description {
-    color: #666;
+    color: #555;
     font-size: 1.1rem;
     margin-bottom: 3rem;
     text-align: center;
@@ -43,14 +43,14 @@
         color: #333;
 
         &::placeholder {
-          color: #666;
+          color: #555;
         }
       }
     }
 
     .stats {
       text-align: center;
-      color: #666;
+      color: #555;
       font-size: 0.9rem;
     }
   }
@@ -65,7 +65,7 @@
     p {
       margin: 0;
       font-size: 1.1rem;
-      color: #666;
+      color: #555;
     }
   }
 
@@ -115,7 +115,7 @@
     .no-results {
       padding: 3rem 2rem;
       text-align: center;
-      color: #666;
+      color: #555;
       background: white;
 
       p {
@@ -124,7 +124,7 @@
       }
 
       small {
-        color: #999;
+        color: #777;
       }
     }
   }

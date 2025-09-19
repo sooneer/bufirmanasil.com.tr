@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormsModule, NgForm } from '@angular/forms';
-import { SeoService } from '../services/seo.service';
+import { SeoService } from '../../_shared/services/seo.service';
 
 @Component({
   selector: 'app-contact',

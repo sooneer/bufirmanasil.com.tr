@@ -1,3 +1,4 @@
+<ng-container *ngIf="isInitialized && showBanner">
 <div class="cookie-banner" 
      *ngIf="isInitialized && showBanner" 
      [class.expanded]="showDetails" 
@@ -107,3 +108,4 @@
     </div>
   </div>
 </div>
+</ng-container>

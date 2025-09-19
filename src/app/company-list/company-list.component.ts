@@ -3,7 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
 import { URLHelpers } from '../../_helpers/url-helpers';
-import { SeoService } from '../services/seo.service';
+import { SeoService } from '../../_shared/services/seo.service';
 
 @Component({
   selector: 'app-company-list',

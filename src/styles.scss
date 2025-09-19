@@ -2,6 +2,19 @@
   --vbt-text-color: #172531;
 }
 
+/* Accessibility */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 @keyframes pulse {
   0%, 100% { opacity: 1; }
   50% { opacity: 0.8; }
@@ -548,7 +561,7 @@ main > router-outlet{
 
 .contact-info-wrapper p {
   margin-bottom: 2rem;
-  color: #666;
+  color: #555;
 }
 
 .contact-details {
@@ -579,7 +592,7 @@ main > router-outlet{
     margin-bottom: 0.2rem;
   }
   a, span:last-child {
-    color: #666;
+    color: #555;
     font-size: 0.95rem;
   }
   a:hover {
