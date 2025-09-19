@@ -225,7 +225,7 @@ ng build --configuration production
 ### **Custom Server**
 ```bash
 # PowerShell deployment script
-.\deploy.ps1 -TargetPath "docs" -Clean
+.\deploy.ps1 -TargetPath "docs"
 
 # Deployment özellikleri:
 # ✅ Production build

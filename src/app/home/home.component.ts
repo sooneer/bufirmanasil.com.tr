@@ -33,7 +33,7 @@ export class HomeComponent implements OnInit {
 
     this.filteredCompanies = this.Companies;
     this.http.get<string[]>('/data/companies.json').subscribe((data) => {
-      console.log(data);
+      //console.log(data);
       this.Companies = data;
     });
   }

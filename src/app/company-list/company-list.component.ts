@@ -25,7 +25,7 @@ export class CompanyListComponent implements OnInit {
     this.seoService.setCompanyListPage();
 
     this.http.get<string[]>('/data/companies.json').subscribe((data) => {
-      console.log(data);
+      //console.log(data);
       this.companies = data;
     });
   }
