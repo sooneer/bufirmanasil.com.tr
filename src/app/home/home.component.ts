@@ -42,7 +42,7 @@ export class HomeComponent implements OnInit {
     const search = this.SearchText?.toLowerCase() || '';
     this.filteredCompanies = this.Companies.filter((c) =>
       c.toLowerCase().includes(search)
-    );
+    ).slice(0, 10); // En fazla 10 sonuç göster
   }
 
   selectCompany(company: string) {

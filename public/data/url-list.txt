@@ -1,8 +1,8 @@
-4thewall.com
-adeo.com.tr
-adesso.com.tr
-adobilisim.com
-agcyazilim.com
+✔️ 4thewall.com
+✔️ adeo.com.tr
+✔️ adesso.com.tr
+✔️ adobilisim.com
+✔️ agcyazilim.com
 agito.com.tr
 aims.com.tr
 airadio.com
@@ -302,7 +302,7 @@ mobiltel.com.tr
 mobisis.com
 mbi.com.tr
 monad.com.tr
-mplusgroup.eu/turkiye 
+mplusgroup.eu/turkiye
 inventiv.com.tr/tr
 nacsoft.com.tr
 nar.com.tr
@@ -465,7 +465,7 @@ turksat.com.tr
 vas.com.tr
 vbm.com.tr
 veribase.com
-vbt.com.tr
+✔️ vbt.com.tr
 veribox.com.tr
 veganetworks.net
 veriport.com

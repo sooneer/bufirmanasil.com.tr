@@ -10,9 +10,9 @@ export class Company {
   };
   sector?: string[];
   services: { title: string; description: string }[];
+  softwares: { title: string; description: string }[];
+  solutions: { title: string; description: string }[];
   clients: string[];
-  map: string;
-  address: string;
   contact: {
     web?: string;
     email: string;
@@ -46,8 +46,6 @@ export class Company {
     this.sector = data.sector;
     this.services = data.services;
     this.clients = data.clients;
-    this.map = data.map;
-    this.address = data.address;
     this.contact = data.contact;
     this.tax = data.tax;
     this.social = data.social;
