@@ -1,0 +1,77 @@
+{
+  "name": "Adesso Turkey Bilgi Teknolojileri Ltd. Şti.",
+  "logo": "/img/company/adesso.svg",
+  "tagline": "Türkiye’nin önde gelen IT servis sağlayıcısı",
+  "foundationYear": 2013,
+  "about": "adesso Türkiye olarak, dijital dönüşüm yolculuğunda müşterilerimize sadece bir IT servis sağlayıcısı değil, stratejik bir iş ortağı olarak eşlik ediyoruz. İleri teknolojilerdeki uzmanlığımızı, farklı sektörlerde edindiğimiz derin iş bilgisiyle birleştirerek; modernizasyondan bulut dönüşümüne, veri analitiğinden yapay zeka entegrasyonuna kadar geniş bir yelpazede özelleştirilmiş hizmetler sunuyoruz.",
+  "BIST": null,
+  "sector": ["Yazılım"],
+  "services": [
+    {
+      "title": "IT & İş Danışmanlığı: adesso adWISE",
+      "description": null
+    },
+    {
+      "title": "Özel Yazılım Geliştirme",
+      "description": null
+    },
+    {
+      "title": "SmartShore",
+      "description": null
+    }
+  ],
+  "softwares": [],
+  "solutions": [],
+  "clients": [
+  "Agesa",
+  "Akbank",
+  "Aksigorta",
+  "Allianz",
+  "Anadolu Sigorta",
+  "Borusan Holding",
+  "Borusan Mannesmann",
+  "Bosch",
+  "Commerzbank",
+  "DeFacto",
+  "Garanti BBVA",
+  "Gothaer",
+  "ING Bank",
+  "Intertech",
+  "Koç Digital",
+  "Kuveyt Türk",
+  "Medgate",
+  "Mercedes-Benz",
+  "MSD",
+  "PepsiCo",
+  "Philip Morris International",
+  "Pluxee",
+  "Postbank",
+  "Swisscom",
+  "TRT",
+  "Türkiye İş Bankası",
+  "UPT",
+  "VakıfBank"
+],
+  "partners": [],
+  "contact": {
+    "web": "https://www.adesso.com.tr",
+    "email": "info@adesso.com.tr",
+    "phone": "+90 212 346 20 02",
+    "phone2": null,
+    "address": "Maslak Mah. Ahi Evran Cad. Olive Plaza No: 11 İç Kapı No: 12 34398 Sarıyer İstanbul",
+    "googleMaps": "https://maps.app.goo.gl/qs3mp6M7VQWdFLmC7",
+    "googleMapsIframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7405.528371902717!2d29.0196132!3d41.1116065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab5c089764c39%3A0xbbd7e669906ea3fc!2sOlive%20Plaza!5e1!3m2!1str!2sus!4v1758269221962!5m2!1str!2sus"
+  },
+  "tax": {
+    "taxOffice": "İstanbul Maslak Vergi Dairesi",
+    "taxNumber": "0070613101"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/adessoturkey",
+    "facebook": "https://www.facebook.com/adessoturkey/",
+    "x": "https://x.com/adessoturkey",
+    "instagram": "https://www.instagram.com/adessoturkey/",
+    "youtube": "https://www.youtube.com/channel/UCAqJjT5M8nWlMx-ARnHvuhg",
+    "github": null
+  }
+}
