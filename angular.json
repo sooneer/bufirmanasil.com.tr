@@ -15,9 +15,26 @@
       "prefix": "app",
       "architect": {
          "prerender": {
+          "builder": "@angular-devkit/build-angular:prerender",
           "options": {
-            "routes": ["/", "/about", "/company-list", "/sector-codes", "/contact"]
-          }
+            "browserTarget": "bufirmanasil:build:production",
+            "serverTarget": "bufirmanasil:build:production",
+            "discoverRoutes": true,
+            "routes": [
+              "/"
+            ]
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "bufirmanasil:build:production",
+              "serverTarget": "bufirmanasil:build:production"
+            },
+            "development": {
+              "browserTarget": "bufirmanasil:build:development",
+              "serverTarget": "bufirmanasil:build:development"
+            }
+          },
+          "defaultConfiguration": "production"
         },
         "build": {
           "builder": "@angular-devkit/build-angular:application",
@@ -65,7 +82,8 @@
                   "maximumError": "1MB"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "prerender": true
             },
             "development": {
               "optimization": false,

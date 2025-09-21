@@ -27,6 +27,16 @@ const angularApp = new AngularNodeAppEngine();
  */
 
 /**
+ * Serve data files from public/data
+ */
+app.get('/data/**', (req, res) => {
+  console.log('Serving data file:', req.path);
+  const filePath = resolve(browserDistFolder, req.path.substring(1));
+  console.log('File path:', filePath);
+  res.sendFile(filePath);
+});
+
+/**
  * Serve static files from /browser
  */
 app.use(

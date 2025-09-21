@@ -8,7 +8,7 @@ export const serverRoutes: ServerRoute[] = [
     path: 'company/:name',
     renderMode: RenderMode.Prerender,
     getPrerenderParams: async () => {
-      const filePath = join(process.cwd(), 'docs/browser/data/companies.json');
+      const filePath = join(process.cwd(), 'dist/browser/data/companies.json');
       try {
         const content = await fs.readFile(filePath, 'utf-8');
         const companies: string[] = JSON.parse(content);

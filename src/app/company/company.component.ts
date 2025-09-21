@@ -2,11 +2,12 @@ import { HttpClient } from '@angular/common/http';
 import { Component, Inject, OnInit, ViewEncapsulation, Renderer2, ElementRef, AfterViewInit } from '@angular/core';
 import { Router, ActivatedRoute } from '@angular/router';
 import { Company } from '../../_shared/models/Company';
-import { CommonModule } from '@angular/common';
+import { CommonModule, isPlatformBrowser } from '@angular/common';
 import { DomSanitizer } from '@angular/platform-browser';
 import { trigger, state, style, transition, animate } from '@angular/animations';
 import { GiscusComponent } from '../../_shared/components/giscus.component';
 import { SeoService } from '../../_shared/services/seo.service';
+import { PLATFORM_ID } from '@angular/core';
 
 @Component({
   selector: 'app-company',
@@ -33,7 +34,8 @@ export class CompanyComponent implements OnInit {
     private route: ActivatedRoute,
     private http: HttpClient,
     private sanitizer: DomSanitizer,
-    private seoService: SeoService
+    private seoService: SeoService,
+    @Inject(PLATFORM_ID) private platformId: Object
   ) {}
 
   ngOnInit() {
@@ -46,16 +48,53 @@ export class CompanyComponent implements OnInit {
 
   LoadCompany() {
     if (this.CompanyUrl && this.CompanyUrl !== 'company') {
-      this.http
-        .get<Company>('/data/company/' + this.CompanyUrl + '.json')
-        .subscribe((data) => {
-          this.Company = data;
+      console.log('Loading company:', this.CompanyUrl, 'Platform is browser:', isPlatformBrowser(this.platformId));
 
-          // SEO meta taglerini güncelle
-          if (this.Company) {
-            this.seoService.setCompanyPage(this.Company.name, this.Company.about);
+      if (isPlatformBrowser(this.platformId)) {
+        // Browser'da normal HTTP request yap
+        this.http
+          .get<Company>('/data/company/' + this.CompanyUrl + '.json')
+          .subscribe((data) => {
+            this.Company = data;
+
+            // SEO meta taglerini güncelle
+            if (this.Company) {
+              this.seoService.setCompanyPage(this.Company.name, this.Company.about);
+            }
+          });
+      } else {
+        // Server'da dummy data kullan
+        console.log('Server-side rendering detected, using dummy data');
+        this.Company = {
+          name: this.CompanyUrl.replace('-', ' ').toUpperCase(),
+          logo: `/img/company/${this.CompanyUrl}.svg`,
+          tagline: 'Şirket açıklaması',
+          foundationYear: 2000,
+          about: `${this.CompanyUrl} hakkında bilgiler`,
+          sector: ['Teknoloji'],
+          services: [],
+          softwares: [],
+          solutions: [],
+          clients: [],
+          contact: {
+            web: 'https://example.com',
+            email: 'info@example.com',
+            phone: '+90 212 123 45 67',
+            address: 'İstanbul'
+          },
+          social: {
+            linkedin: '',
+            x: '',
+            instagram: '',
+            facebook: '',
+            youtube: '',
+            github: ''
           }
-        });
+        };
+
+        // SEO meta taglerini güncelle
+        this.seoService.setCompanyPage(this.Company.name, this.Company.about);
+      }
     }
   }
 

@@ -46,10 +46,11 @@ if (-not $SkipBuild) {
   Write-Warning "Angular uygulaması build ediliyor..."
 
   try {
-    ng build --configuration=$BuildConfig
+    Write-Info "Building application with prerender..."
+    ng build --configuration=$BuildConfig --prerender
 
     if ($LASTEXITCODE -eq 0) {
-      Write-Success "Build başarılı!"
+      Write-Success "Build ve Pre-render başarılı!"
     }
     else {
       Write-Error "Build başarısız! Çıkış kodu: $LASTEXITCODE"
