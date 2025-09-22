@@ -1,0 +1,53 @@
+{
+  "name": "Aims",
+  "logo": "/img/company/aims.svg",
+  "tagline": "",
+  "foundationYear": null,
+  "about": "",
+  "BIST": {
+    "code": "",
+    "KAP": ""
+  },
+  "sector": [],
+  "services": [
+    {
+      "title": "",
+      "description": ""
+    }
+  ],
+  "softwares": [
+    {
+      "title": "",
+      "description": ""
+    }
+  ],
+  "solutions": [
+    {
+      "title": "",
+      "description": ""
+    }
+  ],
+  "clients": [],
+  "contact": {
+    "web": "https://aims.com.tr",
+    "email": "",
+    "phone": "",
+    "phone2": "",
+    "address": "",
+    "googleMaps": "",
+    "googleMapsIframe": "",
+    "formEndpoint": ""
+  },
+  "tax": {
+    "taxOffice": "",
+    "taxNumber": ""
+  },
+  "social": {
+    "linkedin": "",
+    "x": "",
+    "instagram": "",
+    "facebook": "",
+    "youtube": "",
+    "github": ""
+  }
+}
