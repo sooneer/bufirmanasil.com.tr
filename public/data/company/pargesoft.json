@@ -1,26 +1,27 @@
 {
-  "name": "Pargesoft",
-  "logo": "/img/company/pargesoft.svg",
-  "web": "https://pargesoft.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/pargesoft.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Pargesoft",
   "contact": {
-    "email": "",
+    "web": "https://pargesoft.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/pargesoft",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/PargeSoft",
+    "instagram": "https://instagram.com/pargesofttr",
+    "youtube": "",
+    "x": "https://x.com/pargesoft"
   }
 }

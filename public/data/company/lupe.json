@@ -1,26 +1,26 @@
 {
-  "name": "Lupe",
-  "logo": "/img/company/lupe.svg",
-  "web": "https://lupe.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/lupe.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Lupe",
   "contact": {
-    "email": "",
+    "web": "https://lupe.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/lupe-consulting",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/lupeconsulting",
+    "instagram": "https://instagram.com/lupeconsulting",
+    "youtube": "https://youtube.com/@lupe-bilgi-teknolojileri-sap"
   }
 }

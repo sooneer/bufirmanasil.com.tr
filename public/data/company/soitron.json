@@ -1,26 +1,26 @@
 {
-  "name": "Soitron",
-  "logo": "/img/company/soitron.svg",
-  "web": "https://soitron.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/soitron.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Soitron",
   "contact": {
-    "email": "",
+    "web": "https://soitron.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/soitron-siber-guvenlik-servisleri",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/channel/UCrLFrEAhtZ01MTb88GRJmNA"
   }
 }

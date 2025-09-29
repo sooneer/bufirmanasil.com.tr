@@ -1,26 +1,27 @@
 {
-  "name": "İksap",
-  "logo": "/img/company/iksap.svg",
-  "web": "https://iksap.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/iksap.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "İksap",
   "contact": {
-    "email": "",
+    "web": "https://iksap.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/iksapglobal",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/pg",
+    "instagram": "https://instagram.com/iksapglobal",
+    "youtube": "https://youtube.com/channel/UCxdbzG-JB2ZJX9XuGepds8Q",
+    "x": "https://x.com/iksapglobal"
   }
 }

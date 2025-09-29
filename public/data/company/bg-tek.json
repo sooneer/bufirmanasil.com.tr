@@ -1,26 +1,27 @@
 {
-  "name": "BG-Tek",
-  "logo": "/img/company/bg-tek.svg",
-  "web": "https://bg-tek.net",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/bg-tek.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "BG-Tek",
   "contact": {
-    "email": "",
+    "web": "https://bg-tek.net",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/bgtekcybersecurity",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/bg.tek.net",
+    "instagram": "https://instagram.com/bgtek.tr",
+    "youtube": "",
+    "x": "https://x.com/en"
   }
 }

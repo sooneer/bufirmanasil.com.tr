@@ -1,26 +1,27 @@
 {
-  "name": "Kocsistem",
-  "logo": "/img/company/kocsistem.svg",
-  "web": "https://kocsistem.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/kocsistem.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Kocsistem",
   "contact": {
-    "email": "",
+    "web": "https://kocsistem.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/164632",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/KocSistem",
+    "instagram": "https://instagram.com/kocsistem",
+    "youtube": "https://youtube.com/channel/UCnLTgdT2JXW6T2zB73zX0Pw",
+    "x": "https://x.com/KocSistem"
   }
 }

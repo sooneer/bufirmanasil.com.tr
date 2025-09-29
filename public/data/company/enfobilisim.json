@@ -1,26 +1,27 @@
 {
-  "name": "Enfobilisim",
-  "logo": "/img/company/enfobilisim.svg",
-  "web": "https://enfobilisim.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/enfobilisim.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Enfobilisim",
   "contact": {
-    "email": "",
+    "web": "https://enfobilisim.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/enfobilisim",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/enfobilisim",
+    "instagram": "https://instagram.com/enfobilisim",
+    "youtube": "",
+    "x": "https://x.com/enfobilisim"
   }
 }

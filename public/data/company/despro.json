@@ -1,26 +1,26 @@
 {
-  "name": "Despro",
-  "logo": "/img/company/despro.svg",
-  "web": "https://despro.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/despro.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Despro",
   "contact": {
-    "email": "",
+    "web": "https://despro.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
+    "facebook": "https://facebook.com/desprobt",
+    "instagram": "https://instagram.com/desprobt",
     "youtube": ""
   }
 }

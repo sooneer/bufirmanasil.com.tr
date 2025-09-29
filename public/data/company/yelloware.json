@@ -1,26 +1,26 @@
 {
-  "name": "Yelloware",
-  "logo": "/img/company/yelloware.svg",
-  "web": "https://yelloware.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/yelloware.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Yelloware",
   "contact": {
-    "email": "",
+    "web": "https://yelloware.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/yelloware",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
+    "facebook": "https://facebook.com/yellowareinformationtechnology",
+    "instagram": "https://instagram.com/yelloware",
     "youtube": ""
   }
 }

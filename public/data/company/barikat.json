@@ -1,26 +1,27 @@
 {
-  "name": "Barikat",
-  "logo": "/img/company/barikat.svg",
-  "web": "https://barikat.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/barikat.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Barikat",
   "contact": {
-    "email": "",
+    "web": "https://barikat.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/barikatsibguvv",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/barikatsibguv",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/channel/UCdqlnTKO_SHX3WgNlslTZcw",
+    "x": "https://x.com/BarikatSibGuv"
   }
 }

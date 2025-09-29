@@ -1,26 +1,27 @@
 {
-  "name": "Lenovo",
-  "logo": "/img/company/lenovo.svg",
-  "web": "https://lenovo.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/lenovo.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Lenovo",
   "contact": {
-    "email": "",
+    "web": "https://lenovo.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/LenovoTurkiye",
+    "instagram": "https://instagram.com/lenovoturkiye",
+    "youtube": "https://youtube.com/channel/UChcmITwloZVqX3oPS5vabMg",
+    "x": "https://x.com/LenovoTurkiye"
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Camlica",
-  "logo": "/img/company/camlica.svg",
-  "web": "https://camlica.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/camlica.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Camlica",
   "contact": {
-    "email": "",
+    "web": "https://camlica.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/%C3%A7aml%C4%B1ca-barkod",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/camlicabarkod",
+    "instagram": "https://instagram.com/camlica_barkod",
+    "youtube": "",
+    "x": "https://x.com/camlicabarkod"
   }
 }

@@ -1,26 +1,26 @@
 {
-  "name": "Xteknoloji",
-  "logo": "/img/company/xteknoloji.svg",
-  "web": "https://xteknoloji.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/xteknoloji.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Xteknoloji",
   "contact": {
-    "email": "",
+    "web": "https://xteknoloji.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/78446710",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/xsistemteknoloji",
     "youtube": ""
   }
 }

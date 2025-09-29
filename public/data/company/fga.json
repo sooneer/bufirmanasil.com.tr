@@ -1,26 +1,26 @@
 {
-  "name": "Fga",
-  "logo": "/img/company/fga.svg",
-  "web": "https://fga.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/fga.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Fga",
   "contact": {
-    "email": "",
+    "web": "https://fga.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/fgamimarlik",
+    "instagram": "https://instagram.com/fgamimarlik",
+    "youtube": "https://youtube.com/@fgamimarlik"
   }
 }

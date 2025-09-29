@@ -1,26 +1,27 @@
 {
-  "name": "Enetki",
-  "logo": "/img/company/enetki.svg",
-  "web": "https://enetki.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/enetki.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Enetki",
   "contact": {
-    "email": "",
+    "web": "https://enetki.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/enetkisavunma",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/enetkisavunma",
+    "youtube": "https://youtube.com/channel/UCc83OdDn-R-v9-hgX0GGlvA",
+    "x": "https://x.com/enetkisavunma"
   }
 }

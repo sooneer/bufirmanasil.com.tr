@@ -1,26 +1,27 @@
 {
-  "name": "Proserv",
-  "logo": "/img/company/proserv.svg",
-  "web": "https://proserv.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/proserv.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Proserv",
   "contact": {
-    "email": "",
+    "web": "https://proserv.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/proservteknoloji",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/proservteknoloji",
+    "instagram": "https://instagram.com/proservteknoloji",
+    "youtube": "https://youtube.com/channel/UCNfEnY4MWFR5sFLdT9GSsQQ",
+    "x": "https://x.com/proservteknloji"
   }
 }

@@ -1,26 +1,26 @@
 {
-  "name": "Noventiq",
-  "logo": "/img/company/noventiq.svg",
-  "web": "https://noventiq.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/noventiq.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Noventiq",
   "contact": {
-    "email": "",
+    "web": "https://noventiq.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/noventiq-turkiye",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/noventiqTR",
+    "instagram": "https://instagram.com/noventiq_turkiye",
+    "youtube": "https://youtube.com/channel/UCAaKsBorH9ECNCFCYyMSu3Q"
   }
 }

@@ -1,26 +1,26 @@
 {
-  "name": "Atasay Ar Teknoloji",
-  "logo": "/img/company/atasayarteknoloji.svg",
-  "web": "https://atasayarteknoloji.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/atasayarteknoloji.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Atasay Ar Teknoloji",
   "contact": {
-    "email": "",
+    "web": "https://atasayarteknoloji.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/atasayarteknoloji",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/atasayarteknoloji",
+    "youtube": "https://youtube.com/c/AtasayarTeknoloji"
   }
 }

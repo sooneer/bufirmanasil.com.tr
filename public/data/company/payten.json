@@ -1,26 +1,27 @@
 {
-  "name": "Payten",
-  "logo": "/img/company/payten.svg",
-  "web": "https://payten.com/tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/payten.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Payten",
   "contact": {
-    "email": "",
+    "web": "https://payten.com/tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/payten",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/user/AssecoSEE",
+    "x": "https://x.com/Asseco_SEE"
   }
 }

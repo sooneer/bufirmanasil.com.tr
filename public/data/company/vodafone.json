@@ -1,26 +1,27 @@
 {
-  "name": "Vodafone",
-  "logo": "/img/company/vodafone.svg",
-  "web": "https://vodafone.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/vodafone.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Vodafone",
   "contact": {
-    "email": "",
+    "web": "https://vodafone.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/vodafone",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/thevodafonegroup",
+    "instagram": "https://instagram.com/vodafone",
+    "youtube": "",
+    "x": "https://x.com/VodafoneGroup"
   }
 }

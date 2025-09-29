@@ -1,25 +1,25 @@
 {
-  "name": "Maccom",
-  "logo": "/img/company/maccom.svg",
-  "web": "https://maccom.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/maccom.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Maccom",
   "contact": {
-    "email": "",
+    "web": "https://maccom.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/elmazamani",
     "instagram": "",
     "youtube": ""
   }

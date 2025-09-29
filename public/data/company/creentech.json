@@ -1,26 +1,26 @@
 {
-  "name": "Creentech",
-  "logo": "/img/company/creentech.svg",
-  "web": "https://creentech.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/creentech.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Creentech",
   "contact": {
-    "email": "",
+    "web": "https://creentech.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/creentech",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/creentech",
     "youtube": ""
   }
 }

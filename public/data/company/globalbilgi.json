@@ -1,26 +1,26 @@
 {
-  "name": "Globalbilgi",
-  "logo": "/img/company/globalbilgi.svg",
-  "web": "https://globalbilgi.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/globalbilgi.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Globalbilgi",
   "contact": {
-    "email": "",
+    "web": "https://globalbilgi.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/turkcellglobalbilgi",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/turkcellglobalbilgi",
     "youtube": ""
   }
 }

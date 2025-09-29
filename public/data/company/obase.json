@@ -1,26 +1,27 @@
 {
-  "name": "Obase",
-  "logo": "/img/company/obase.svg",
-  "web": "https://obase.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/obase.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Obase",
   "contact": {
-    "email": "",
+    "web": "https://obase.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/obase",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/obasesocial",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/channel/UCAzosuoJ_nPW6Mm_AlHMdmw",
+    "x": "https://x.com/obasesocial"
   }
 }

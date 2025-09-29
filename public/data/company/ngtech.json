@@ -1,26 +1,27 @@
 {
-  "name": "Ngtech",
-  "logo": "/img/company/ngtech.svg",
-  "web": "https://ngtech.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/ngtech.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Ngtech",
   "contact": {
-    "email": "",
+    "web": "https://ngtech.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/ngtech-bilgi-ve-iletişim-teknolojileri",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/ngtechbilgiteknolojileri?locale=tr_TR",
+    "instagram": "https://instagram.com/ngtechtr",
+    "youtube": "",
+    "x": "https://x.com/ngtech_tr"
   }
 }

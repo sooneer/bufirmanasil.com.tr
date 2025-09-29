@@ -1,26 +1,27 @@
 {
-  "name": "Kron",
-  "logo": "/img/company/kron.svg",
-  "web": "https://kron.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/kron.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Kron",
   "contact": {
-    "email": "",
+    "web": "https://kron.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/KRONTECHN",
+    "instagram": "https://instagram.com/kron.tech",
+    "youtube": "https://youtube.com/channel/UCMV3_pdImKw-DeL6TC0uQQA?view_as=subscriber",
+    "x": "https://x.com/kron_tech"
   }
 }

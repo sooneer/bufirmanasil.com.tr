@@ -1,26 +1,27 @@
 {
-  "name": "Lexmark",
-  "logo": "/img/company/lexmark.svg",
-  "web": "https://lexmark.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/lexmark.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Lexmark",
   "contact": {
-    "email": "",
+    "web": "https://lexmark.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/lexmark",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/LexmarkNews",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/user/LexmarkNews",
+    "x": "https://x.com/en-us"
   }
 }

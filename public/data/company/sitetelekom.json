@@ -1,26 +1,27 @@
 {
-  "name": "Sitetelekom",
-  "logo": "/img/company/sitetelekom.svg",
-  "web": "https://sitetelekom.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/sitetelekom.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Sitetelekom",
   "contact": {
-    "email": "",
+    "web": "https://sitetelekom.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/sitetelekom",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/sitetelekom",
+    "youtube": "https://youtube.com/@sitetelekom",
+    "x": "https://x.com/site_telekom"
   }
 }

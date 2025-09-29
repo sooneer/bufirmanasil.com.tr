@@ -1,26 +1,26 @@
 {
-  "name": "Erkagrubu",
-  "logo": "/img/company/erkagrubu.svg",
-  "web": "https://erkagrubu.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/erkagrubu.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Erkagrubu",
   "contact": {
-    "email": "",
+    "web": "https://erkagrubu.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/bizigo",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/bizigocom",
+    "youtube": "https://youtube.com/@Bizigo"
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Fiz",
-  "logo": "/img/company/fiz.svg",
-  "web": "https://fiz.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/fiz.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Fiz",
   "contact": {
-    "email": "",
+    "web": "https://fiz.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/fiz-consulting",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/fizp2p?fref=ts",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/channel/UCQEIxPupPLleZFZLOw4T9_Q",
+    "x": "https://x.com/fizp2p"
   }
 }

@@ -1,25 +1,25 @@
 {
-  "name": "Megabilgisayar",
-  "logo": "/img/company/megabilgisayar.svg",
-  "web": "https://megabilgisayar.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/megabilgisayar.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Megabilgisayar",
   "contact": {
-    "email": "",
+    "web": "https://megabilgisayar.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/mega-bilgisayar",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/Mega-Bilgisayar-Kayseri-294796307238655",
     "instagram": "",
     "youtube": ""
   }

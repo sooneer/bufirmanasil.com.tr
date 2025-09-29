@@ -1,26 +1,27 @@
 {
-  "name": "Bilkur",
-  "logo": "/img/company/bilkur.svg",
-  "web": "https://bilkur.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/bilkur.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Bilkur",
   "contact": {
-    "email": "",
+    "web": "https://bilkur.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/bilkur",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/BilkurBarkodCozumleri",
+    "instagram": "https://instagram.com/bilkurbarkod",
+    "youtube": "https://youtube.com/@bilkur",
+    "x": "https://x.com/BilkurBarkod"
   }
 }

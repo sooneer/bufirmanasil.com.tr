@@ -1,26 +1,27 @@
 {
-  "name": "İsnet",
-  "logo": "/img/company/isnet.svg",
-  "web": "https://isnet.net.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/isnet.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "İsnet",
   "contact": {
-    "email": "",
+    "web": "https://isnet.net.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/isnet",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/isnetTR",
+    "instagram": "https://instagram.com/isnet",
+    "youtube": "",
+    "x": "https://x.com/isnet_TR"
   }
 }

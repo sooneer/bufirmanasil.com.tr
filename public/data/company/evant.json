@@ -1,26 +1,26 @@
 {
-  "name": "Evant",
-  "logo": "/img/company/evant.svg",
-  "web": "https://evant.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/evant.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Evant",
   "contact": {
-    "email": "",
+    "web": "https://evant.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/evant-teknoloji%CC%87",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/evantteknolojiyazilim",
     "youtube": ""
   }
 }

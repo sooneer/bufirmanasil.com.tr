@@ -1,26 +1,27 @@
 {
-  "name": "Kobikod",
-  "logo": "/img/company/kobikod.svg",
-  "web": "https://kobikod.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/kobikod.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Kobikod",
   "contact": {
-    "email": "",
+    "web": "https://kobikod.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/kobikod",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/kobikod?igshid=vq9w5mauh2up",
+    "youtube": "",
+    "x": "https://x.com/kobikod"
   }
 }

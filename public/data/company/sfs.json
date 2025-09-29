@@ -1,26 +1,26 @@
 {
-  "name": "Sfs",
-  "logo": "/img/company/sfs.svg",
-  "web": "https://sfs.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/sfs.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Sfs",
   "contact": {
-    "email": "",
+    "web": "https://sfs.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/sfs",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/sfssoftwareconsultancy",
+    "youtube": "https://youtube.com/channel/UCiypFYSnNytFh9H3YJ8Qa_w"
   }
 }

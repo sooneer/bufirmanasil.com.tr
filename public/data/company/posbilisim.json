@@ -1,26 +1,27 @@
 {
-  "name": "Posbilisim",
-  "logo": "/img/company/posbilisim.svg",
-  "web": "https://posbilisim.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/posbilisim.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Posbilisim",
   "contact": {
-    "email": "",
+    "web": "https://posbilisim.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/pos-bili%C5%9Fim-teknolojileri",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/posbilisim",
+    "instagram": "https://instagram.com/posbilisim",
+    "youtube": "https://youtube.com/channel/UCP5qZocvUv1GcGiGndhrrHg",
+    "x": "https://x.com/posbilisim"
   }
 }

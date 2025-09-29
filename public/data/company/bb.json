@@ -1,26 +1,27 @@
 {
-  "name": "BB",
-  "logo": "/img/company/bb.svg",
-  "web": "https://bb.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/bb.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "BB",
   "contact": {
-    "email": "",
+    "web": "https://bb.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/bb-bilisim",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/KayseriBilisimBilgisayar",
+    "instagram": "https://instagram.com/bilisim_bilgisayar_as",
+    "youtube": "",
+    "x": "https://x.com/bilisimkayseri?s=11&t=Gm1tvM3HFfumnv6rsU8Suw"
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Baylan Bilişim",
-  "logo": "/img/company/baylanbilisim.svg",
-  "web": "https://baylanbilisim.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/baylanbilisim.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Baylan Bilişim",
   "contact": {
-    "email": "",
+    "web": "https://baylanbilisim.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/pages",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/BaylanBilisim"
   }
 }

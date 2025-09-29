@@ -1,26 +1,26 @@
 {
-  "name": "Practicallsolutions",
-  "logo": "/img/company/practicallsolutions.svg",
-  "web": "https://practicallsolutions.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/practicallsolutions.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Practicallsolutions",
   "contact": {
-    "email": "",
+    "web": "https://practicallsolutions.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/practicall-solutions-pratik-ileti-im",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
+    "facebook": "https://facebook.com/practicallsolutions",
+    "instagram": "https://instagram.com/pratikiletisim.resmi",
     "youtube": ""
   }
 }

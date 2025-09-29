@@ -1,26 +1,27 @@
 {
-  "name": "Ordulu",
-  "logo": "/img/company/ordulu.svg",
-  "web": "https://ordulu.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/ordulu.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Ordulu",
   "contact": {
-    "email": "",
+    "web": "https://ordulu.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/ordulu-bilgi",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/ordulutech",
+    "youtube": "https://youtube.com/channel/UCuuXdout_422AWbwg96ctHA",
+    "x": "https://x.com/OrduluTech"
   }
 }

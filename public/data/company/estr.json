@@ -1,26 +1,27 @@
 {
-  "name": "Estr",
-  "logo": "/img/company/estr.svg",
-  "web": "https://estr.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/estr.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Estr",
   "contact": {
-    "email": "",
+    "web": "https://estr.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/es-localization-services-ltd",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/eslocalization",
+    "youtube": "",
+    "x": "https://x.com/eslocalization"
   }
 }

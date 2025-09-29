@@ -1,26 +1,27 @@
 {
-  "name": "Probel",
-  "logo": "/img/company/probel.svg",
-  "web": "https://probel.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/probel.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Probel",
   "contact": {
-    "email": "",
+    "web": "https://probel.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/probel",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/probelyazilim",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/probelyazilim"
   }
 }

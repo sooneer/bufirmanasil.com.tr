@@ -1,26 +1,27 @@
 {
-  "name": "Netcad",
-  "logo": "/img/company/netcad.svg",
-  "web": "https://netcad.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/netcad.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Netcad",
   "contact": {
-    "email": "",
+    "web": "https://netcad.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/netcad-yazilim",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/netcadim",
+    "instagram": "https://instagram.com/netcad",
+    "youtube": "https://youtube.com/user/netcadGIS",
+    "x": "https://x.com/netcadim"
   }
 }

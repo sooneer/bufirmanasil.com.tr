@@ -1,26 +1,26 @@
 {
-  "name": "İncept",
-  "logo": "/img/company/incept.svg",
-  "web": "https://incept.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/incept.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "İncept",
   "contact": {
-    "email": "",
+    "web": "https://incept.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/incept-com-tr",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/inceptteknoloji",
+    "youtube": "https://youtube.com/@TechnoHouseBilisim"
   }
 }

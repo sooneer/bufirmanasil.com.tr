@@ -1,26 +1,27 @@
 {
-  "name": "İbss",
-  "logo": "/img/company/ibss.svg",
-  "web": "https://ibss.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/ibss.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "İbss",
   "contact": {
-    "email": "",
+    "web": "https://ibss.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/ibss-danismanlik",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/IbssConsulting",
+    "instagram": "https://instagram.com/lifeatibss",
+    "youtube": "https://youtube.com/user/ibssconsulting",
+    "x": "https://x.com/ibssconsulting"
   }
 }

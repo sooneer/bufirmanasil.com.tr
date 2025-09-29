@@ -1,26 +1,27 @@
 {
-  "name": "Pmteknoloji",
-  "logo": "/img/company/pmteknoloji.svg",
-  "web": "https://pmteknoloji.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/pmteknoloji.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Pmteknoloji",
   "contact": {
-    "email": "",
+    "web": "https://pmteknoloji.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/in/pmteknoloji",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/pmteknoloji",
+    "instagram": "https://instagram.com/pmteknoloji",
+    "youtube": "https://youtube.com/channel/UCrzLEm6biYmEI5EOPkFt2eA",
+    "x": "https://x.com/pmteknoloji"
   }
 }

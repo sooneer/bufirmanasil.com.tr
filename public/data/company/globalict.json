@@ -1,26 +1,27 @@
 {
-  "name": "Globalict",
-  "logo": "/img/company/globalict.svg",
-  "web": "https://globalict.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/globalict.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Globalict",
   "contact": {
-    "email": "",
+    "web": "https://globalict.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/globalictInfo"
   }
 }

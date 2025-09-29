@@ -1,26 +1,26 @@
 {
-  "name": "Cadbim",
-  "logo": "/img/company/cadbim.svg",
-  "web": "https://cadbim.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/cadbim.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Cadbim",
   "contact": {
-    "email": "",
+    "web": "https://cadbim.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/cadbim",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/cadbimizmir",
+    "instagram": "https://instagram.com/cadbim_izmir",
+    "youtube": "https://youtube.com/c/CadbimTeknikDestek"
   }
 }

@@ -1,26 +1,26 @@
 {
-  "name": "Virgosol",
-  "logo": "/img/company/virgosol.svg",
-  "web": "https://virgosol.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/virgosol.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Virgosol",
   "contact": {
-    "email": "",
+    "web": "https://virgosol.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/virgosol",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/profile.php?id=100084388224222",
+    "instagram": "https://instagram.com/virgosol.universe",
+    "youtube": "https://youtube.com/@virgosolofficial"
   }
 }

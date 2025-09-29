@@ -1,26 +1,27 @@
 {
-  "name": "Shipentegra",
-  "logo": "/img/company/shipentegra.svg",
-  "web": "https://shipentegra.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/shipentegra.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Shipentegra",
   "contact": {
-    "email": "",
+    "web": "https://shipentegra.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/shipentegra",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/shipentegra",
+    "instagram": "https://instagram.com/shipentegra",
+    "youtube": "https://youtube.com/channel/UCzbC2pluF5905xo4AZ4BOSA",
+    "x": "https://x.com/shipentegra"
   }
 }

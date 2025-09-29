@@ -1,26 +1,27 @@
 {
-  "name": "Tigahealth",
-  "logo": "/img/company/tigahealth.svg",
-  "web": "https://tigahealth.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/tigahealth.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Tigahealth",
   "contact": {
-    "email": "",
+    "web": "https://tigahealth.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/tigahealth",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/tigahealth",
+    "instagram": "https://instagram.com/tiga.health",
+    "youtube": "https://youtube.com/@tiga.health",
+    "x": "https://x.com/tigahealth"
   }
 }

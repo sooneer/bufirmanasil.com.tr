@@ -1,26 +1,27 @@
 {
-  "name": "Gsl",
-  "logo": "/img/company/gsl.svg",
-  "web": "https://gsl.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/gsl.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Gsl",
   "contact": {
-    "email": "",
+    "web": "https://gsl.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/gslmuhendislik",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/GSLMuhendislik",
+    "instagram": "https://instagram.com/gslmuhendislik",
+    "youtube": "https://youtube.com/c/GSLM%C3%BChendislik-TR",
+    "x": "https://x.com/gslmuhendislik"
   }
 }

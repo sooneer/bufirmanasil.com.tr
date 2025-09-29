@@ -1,26 +1,26 @@
 {
-  "name": "Vas",
-  "logo": "/img/company/vas.svg",
-  "web": "https://vas.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/vas.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Vas",
   "contact": {
-    "email": "",
+    "web": "https://vas.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/vasbilisim",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/vasbilisim",
+    "instagram": "https://instagram.com/vasbilisim",
+    "youtube": "https://youtube.com/@vasbilisim"
   }
 }

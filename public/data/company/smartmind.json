@@ -1,26 +1,26 @@
 {
-  "name": "Smartmind",
-  "logo": "/img/company/smartmind.svg",
-  "web": "https://smartmind.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/smartmind.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Smartmind",
   "contact": {
-    "email": "",
+    "web": "https://smartmind.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/smartminddataanalytics",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/channel/UCZM6mdOg17wUlSpvDUwy5gw"
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Mobiltel",
-  "logo": "/img/company/mobiltel.svg",
-  "web": "https://mobiltel.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/mobiltel.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Mobiltel",
   "contact": {
-    "email": "",
+    "web": "https://mobiltel.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/mobilteliletisim",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/mobilteliletisim",
+    "instagram": "https://instagram.com/mobilteltr",
+    "youtube": "",
+    "x": "https://x.com/mobilteltr"
   }
 }

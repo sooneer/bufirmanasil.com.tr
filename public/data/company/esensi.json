@@ -1,26 +1,27 @@
 {
-  "name": "Esensi",
-  "logo": "/img/company/esensi.svg",
-  "web": "https://esensi.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/esensi.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Esensi",
   "contact": {
-    "email": "",
+    "web": "https://esensi.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/esensistem",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/esensistementegrasyon",
+    "instagram": "https://instagram.com/esensistem",
+    "youtube": "",
+    "x": "https://x.com/EsenSistem"
   }
 }

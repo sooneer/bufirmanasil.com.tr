@@ -1,26 +1,27 @@
 {
-  "name": "Gesk",
-  "logo": "/img/company/gesk.svg",
-  "web": "https://gesk.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/gesk.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Gesk",
   "contact": {
-    "email": "",
+    "web": "https://gesk.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/gesk-technologies",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/gesktech",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/gesktech"
   }
 }

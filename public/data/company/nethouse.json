@@ -1,26 +1,26 @@
 {
-  "name": "Nethouse",
-  "logo": "/img/company/nethouse.svg",
-  "web": "https://nethouse.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/nethouse.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Nethouse",
   "contact": {
-    "email": "",
+    "web": "https://nethouse.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/nethousebilisim?mibextid=LQQJ4d",
+    "instagram": "https://instagram.com/nethousetr?igshid=MzRlODBiNWFlZA==",
+    "youtube": "https://youtube.com/@nethouse2242"
   }
 }

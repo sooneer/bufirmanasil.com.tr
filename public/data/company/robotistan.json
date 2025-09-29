@@ -1,26 +1,27 @@
 {
-  "name": "Robotistan",
-  "logo": "/img/company/robotistan.svg",
-  "web": "https://robotistan.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/robotistan.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Robotistan",
   "contact": {
-    "email": "",
+    "web": "https://robotistan.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/3202451",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/Robotistancom",
+    "instagram": "https://instagram.com/robotistan",
+    "youtube": "https://youtube.com/@robotistan",
+    "x": "https://x.com/robotistan"
   }
 }

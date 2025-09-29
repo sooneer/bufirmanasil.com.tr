@@ -1,26 +1,27 @@
 {
-  "name": "Karyabt",
-  "logo": "/img/company/karyabt.svg",
-  "web": "https://karyabt.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/karyabt.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Karyabt",
   "contact": {
-    "email": "",
+    "web": "https://karyabt.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/karya-bili%C5%9Fim-teknolojileri",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/KARYABT",
+    "instagram": "https://instagram.com/karyabt",
+    "youtube": "",
+    "x": "https://x.com/karya_bt"
   }
 }

@@ -1,26 +1,26 @@
 {
-  "name": "Renovaconsulting",
-  "logo": "/img/company/renovaconsulting.svg",
-  "web": "https://renovaconsulting.com/tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/renovaconsulting.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Renovaconsulting",
   "contact": {
-    "email": "",
+    "web": "https://renovaconsulting.com/tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/renovaconsulting",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
+    "facebook": "https://facebook.com/RenovaCons",
+    "instagram": "https://instagram.com/renovacons",
     "youtube": ""
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Eclit",
-  "logo": "/img/company/eclit.svg",
-  "web": "https://eclit.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/eclit.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Eclit",
   "contact": {
-    "email": "",
+    "web": "https://eclit.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/eclittech",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/eclit_tech",
+    "youtube": "https://youtube.com/channel/UCW2hOV_B4x_ONcEVN6WnnfQ",
+    "x": "https://x.com/eclit_tech"
   }
 }

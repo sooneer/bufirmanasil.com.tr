@@ -1,26 +1,27 @@
 {
-  "name": "Crmakademi",
-  "logo": "/img/company/crmakademi.svg",
-  "web": "https://crmakademi.net",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/crmakademi.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Crmakademi",
   "contact": {
-    "email": "",
+    "web": "https://crmakademi.net",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/crmakademi",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/channel/UCo8A5tQvIqjY5SPjqT9WtQA",
+    "x": "https://x.com/crmakademi"
   }
 }

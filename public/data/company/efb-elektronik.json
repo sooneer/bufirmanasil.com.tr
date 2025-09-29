@@ -1,26 +1,26 @@
 {
-  "name": "Efb Elektronik",
-  "logo": "/img/company/efb-elektronik.svg",
-  "web": "https://efb-elektronik.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/efb-elektronik.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Efb Elektronik",
   "contact": {
-    "email": "",
+    "web": "https://efb-elektronik.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/efb-elektronik-turkiye",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/EFB-Elektronik-Ltd%C5%9Eti-T%C3%BCrkiye-980478345310387",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/channel/UCtFNGfz_2KI7nlFZycox4Uw"
   }
 }

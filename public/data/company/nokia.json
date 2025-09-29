@@ -25,11 +25,11 @@
     "taxNumber": ""
   },
   "social": {
-    "linkedin": "",
-    "x": "",
-    "instagram": "",
-    "facebook": "",
-    "youtube": "",
+    "linkedin": "https://linkedin.com/company/nokia",
+    "x": "https://x.com/nokia",
+    "instagram": "https://instagram.com/nokia",
+    "facebook": "https://facebook.com/nokia",
+    "youtube": "https://youtube.com/user/nokia",
     "github": ""
   }
 }

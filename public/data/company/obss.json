@@ -1,26 +1,27 @@
 {
-  "name": "Obss",
-  "logo": "/img/company/obss.svg",
-  "web": "https://obss.tech/en/",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/obss.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Obss",
   "contact": {
-    "email": "",
+    "web": "https://obss.tech/en/",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/obss",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/obss.com.tr",
+    "instagram": "https://instagram.com/obss.tech",
+    "youtube": "",
+    "x": "https://x.com/obsstech"
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Cozumtek",
-  "logo": "/img/company/cozumtek.svg",
-  "web": "https://cozumtek.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/cozumtek.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Cozumtek",
   "contact": {
-    "email": "",
+    "web": "https://cozumtek.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/cozumtek",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/cozumtekinformationtech",
+    "youtube": "",
+    "x": "https://x.com/cozumtekt"
   }
 }

@@ -1,26 +1,26 @@
 {
-  "name": "Experteam",
-  "logo": "/img/company/experteam.svg",
-  "web": "https://experteam.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/experteam.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Experteam",
   "contact": {
-    "email": "",
+    "web": "https://experteam.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/experteam",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/@experteamkurumsal8928"
   }
 }

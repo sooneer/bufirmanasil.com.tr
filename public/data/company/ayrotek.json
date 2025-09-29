@@ -1,25 +1,25 @@
 {
-  "name": "Ayrotek",
-  "logo": "/img/company/ayrotek.svg",
-  "web": "https://ayrotek.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/ayrotek.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Ayrotek",
   "contact": {
-    "email": "",
+    "web": "https://ayrotek.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/ayrotek",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/Ayrotek",
     "instagram": "",
     "youtube": ""
   }

@@ -1,26 +1,27 @@
 {
-  "name": "Bimel",
-  "logo": "/img/company/bimel.svg",
-  "web": "https://bimel.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/bimel.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Bimel",
   "contact": {
-    "email": "",
+    "web": "https://bimel.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/bimel-elektronik",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/bimel.a.s",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/user/bimelltd",
+    "x": "https://x.com/bimelelektronik"
   }
 }

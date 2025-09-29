@@ -1,26 +1,26 @@
 {
-  "name": "Prodea",
-  "logo": "/img/company/prodea.svg",
-  "web": "https://prodea.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/prodea.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Prodea",
   "contact": {
-    "email": "",
+    "web": "https://prodea.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/prodea-bilgi-teknolojileri",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/prodea_consulting",
+    "youtube": "https://youtube.com/channel/UCPJm-TMm58oifl2bu0Zpy2w"
   }
 }

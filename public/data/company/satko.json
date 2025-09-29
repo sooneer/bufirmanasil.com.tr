@@ -1,26 +1,27 @@
 {
-  "name": "Satko",
-  "logo": "/img/company/satko.svg",
-  "web": "https://satko.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/satko.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Satko",
   "contact": {
-    "email": "",
+    "web": "https://satko.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/satko-teknoloji---ara-takip-sistemleri",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/SatkoAracTakip",
+    "instagram": "https://instagram.com/satkoaractakip",
+    "youtube": "",
+    "x": "https://x.com/SATKO_ARACTAKIP"
   }
 }

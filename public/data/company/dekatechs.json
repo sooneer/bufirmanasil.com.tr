@@ -1,26 +1,27 @@
 {
-  "name": "Dekatechs",
-  "logo": "/img/company/dekatechs.svg",
-  "web": "https://dekatechs.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/dekatechs.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Dekatechs",
   "contact": {
-    "email": "",
+    "web": "https://dekatechs.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/dekatechs",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/dekatechs",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/dekatechnology"
   }
 }

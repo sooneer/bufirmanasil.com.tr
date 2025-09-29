@@ -1,26 +1,27 @@
 {
-  "name": "Postaguvercini",
-  "logo": "/img/company/postaguvercini.svg",
-  "web": "https://postaguvercini.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/postaguvercini.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Postaguvercini",
   "contact": {
-    "email": "",
+    "web": "https://postaguvercini.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/figensoft",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/Posta.Guvercini.Toplu.SMS",
+    "instagram": "https://instagram.com/figensoft",
+    "youtube": "",
+    "x": "https://x.com/figensoft"
   }
 }

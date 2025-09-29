@@ -1,26 +1,27 @@
 {
-  "name": "Ventura",
-  "logo": "/img/company/ventura.svg",
-  "web": "https://ventura.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/ventura.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Ventura",
   "contact": {
-    "email": "",
+    "web": "https://ventura.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/venturayazilim",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/VenturaYazilim",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/channel/UCmYgHY-LTiBxxYNKLHQn9-A",
+    "x": "https://x.com/VenturaYazilim"
   }
 }

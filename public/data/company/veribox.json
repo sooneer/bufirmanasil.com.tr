@@ -1,26 +1,27 @@
 {
-  "name": "Veribox",
-  "logo": "/img/company/veribox.svg",
-  "web": "https://veribox.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/veribox.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Veribox",
   "contact": {
-    "email": "",
+    "web": "https://veribox.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/veribox-technology",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/veribox.com.tr",
+    "instagram": "https://instagram.com/veriboxtechnology",
+    "youtube": "",
+    "x": "https://x.com/VeriboxTR"
   }
 }

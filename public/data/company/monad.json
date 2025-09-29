@@ -1,26 +1,27 @@
 {
-  "name": "Monad",
-  "logo": "/img/company/monad.svg",
-  "web": "https://monad.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/monad.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Monad",
   "contact": {
-    "email": "",
+    "web": "https://monad.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/monad-yazilim",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/monadyazilim",
+    "youtube": "",
+    "x": "https://x.com/MNDNucleus"
   }
 }

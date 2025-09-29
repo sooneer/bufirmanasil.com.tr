@@ -1,26 +1,27 @@
 {
-  "name": "Pt",
-  "logo": "/img/company/pt.svg",
-  "web": "https://pt.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/pt.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Pt",
   "contact": {
-    "email": "",
+    "web": "https://pt.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/pozitif-teknoloji",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/apple.pozitif",
+    "instagram": "https://instagram.com/apple.pozitif",
+    "youtube": "https://youtube.com/@ptcomtr",
+    "x": "https://x.com/apple_pozitif"
   }
 }

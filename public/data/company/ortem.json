@@ -1,26 +1,27 @@
 {
-  "name": "Ortem",
-  "logo": "/img/company/ortem.svg",
-  "web": "https://ortem.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/ortem.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Ortem",
   "contact": {
-    "email": "",
+    "web": "https://ortem.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/OrtemElektronik",
+    "instagram": "https://instagram.com/ortemtr",
+    "youtube": "",
+    "x": "https://x.com/ortemtr"
   }
 }

@@ -1,25 +1,25 @@
 {
-  "name": "İtss",
-  "logo": "/img/company/itss.svg",
-  "web": "https://itss.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/itss.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "İtss",
   "contact": {
-    "email": "",
+    "web": "https://itss.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/itss-bilisim-hizmetleri-tic-a-s-",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/profile.php?id=100063616176225",
     "instagram": "",
     "youtube": ""
   }

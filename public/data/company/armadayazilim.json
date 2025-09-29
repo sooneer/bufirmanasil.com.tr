@@ -1,26 +1,27 @@
 {
-  "name": "Armada Yazılım",
-  "logo": "/img/company/armadayazilim.svg",
-  "web": "https://armadayazilim.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/armadayazilim.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Armada Yazılım",
   "contact": {
-    "email": "",
+    "web": "https://armadayazilim.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/armadayazilim",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/armadayazilim",
+    "instagram": "https://instagram.com/armadayazilimofficial",
+    "youtube": "https://youtube.com/@armadayazilimas",
+    "x": "https://x.com/ArmadaYazilim"
   }
 }

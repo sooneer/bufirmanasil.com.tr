@@ -1,26 +1,27 @@
 {
-  "name": "Architecht",
-  "logo": "/img/company/architecht.svg",
-  "web": "https://architecht.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/architecht.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Architecht",
   "contact": {
-    "email": "",
+    "web": "https://architecht.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/architecht-bili%C5%9Fim-sistemleri-ve-pazarlama-ticaret-a-%C5%9F-",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/architechtofficial",
+    "youtube": "https://youtube.com/@Architecht",
+    "x": "https://x.com/architechttr"
   }
 }

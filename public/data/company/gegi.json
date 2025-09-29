@@ -1,26 +1,27 @@
 {
-  "name": "Gegi",
-  "logo": "/img/company/gegi.svg",
-  "web": "https://gegi.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/gegi.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Gegi",
   "contact": {
-    "email": "",
+    "web": "https://gegi.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/gegicomtr",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/gegicomtr",
+    "instagram": "https://instagram.com/gegicomtr",
+    "youtube": "https://youtube.com/channel/UCXp2lFTO9bmfP7Mr7QYN6jg",
+    "x": "https://x.com/gegicomtr"
   }
 }

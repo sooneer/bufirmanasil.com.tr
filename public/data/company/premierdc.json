@@ -1,26 +1,27 @@
 {
-  "name": "Premierdc",
-  "logo": "/img/company/premierdc.svg",
-  "web": "https://premierdc.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/premierdc.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Premierdc",
   "contact": {
-    "email": "",
+    "web": "https://premierdc.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/premierdc",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/premierdc",
+    "instagram": "https://instagram.com/premier.dc",
+    "youtube": "https://youtube.com/@premierdc.verimerkezi",
+    "x": "https://x.com/Premierdc_tr"
   }
 }

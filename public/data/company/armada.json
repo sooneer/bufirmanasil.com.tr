@@ -1,26 +1,27 @@
 {
-  "name": "Armada",
-  "logo": "/img/company/armada.svg",
-  "web": "https://armada.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/armada.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Armada",
   "contact": {
-    "email": "",
+    "web": "https://armada.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/ingrammicroturkiye",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/ingrammicroturkiye",
+    "instagram": "https://instagram.com/ingrammicrotr",
+    "youtube": "",
+    "x": "https://x.com/https:"
   }
 }

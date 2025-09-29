@@ -1,26 +1,27 @@
 {
-  "name": "Tekrom",
-  "logo": "/img/company/tekrom.svg",
-  "web": "https://tekrom.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/tekrom.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Tekrom",
   "contact": {
-    "email": "",
+    "web": "https://tekrom.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/business",
+    "instagram": "https://instagram.com/tsofteticaret",
+    "youtube": "https://youtube.com/user/TsoftEticaret",
+    "x": "https://x.com/tsofteticaret"
   }
 }

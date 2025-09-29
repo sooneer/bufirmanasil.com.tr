@@ -1,26 +1,27 @@
 {
-  "name": "Reeder",
-  "logo": "/img/company/reeder.svg",
-  "web": "https://reeder.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/reeder.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Reeder",
   "contact": {
-    "email": "",
+    "web": "https://reeder.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/reeder",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/reedertr",
+    "instagram": "https://instagram.com/reeder.tr",
+    "youtube": "https://youtube.com/channel/UCVD5ZRF-201v-v7xBoALZ5Q",
+    "x": "https://x.com/reederebr?lang=tr"
   }
 }

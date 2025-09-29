@@ -1,26 +1,27 @@
 {
-  "name": "Cozumevi",
-  "logo": "/img/company/cozumevi.svg",
-  "web": "https://cozumevi.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/cozumevi.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Cozumevi",
   "contact": {
-    "email": "",
+    "web": "https://cozumevi.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/cozumevi-consulting",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/cozumevi",
+    "instagram": "https://instagram.com/czmdanismanlik",
+    "youtube": "https://youtube.com/channel/UCrWGo0B6jvqUl6EA252dtfQ",
+    "x": "https://x.com/Cozumevi_"
   }
 }

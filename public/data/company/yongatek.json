@@ -1,26 +1,26 @@
 {
-  "name": "Yongatek",
-  "logo": "/img/company/yongatek.svg",
-  "web": "https://yongatek.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/yongatek.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Yongatek",
   "contact": {
-    "email": "",
+    "web": "https://yongatek.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/yongatek",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/@yongatek"
   }
 }

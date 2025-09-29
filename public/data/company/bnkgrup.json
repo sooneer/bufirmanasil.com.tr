@@ -1,26 +1,26 @@
 {
-  "name": "BNK Grup",
-  "logo": "/img/company/bnkgrup.svg",
-  "web": "https://bnkgrup.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/bnkgrup.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "BNK Grup",
   "contact": {
-    "email": "",
+    "web": "https://bnkgrup.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/bnk-grup",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
+    "facebook": "https://facebook.com/bnkteknoloji",
+    "instagram": "https://instagram.com/bnkgrup",
     "youtube": ""
   }
 }

@@ -1,26 +1,26 @@
 {
-  "name": "Enartec",
-  "logo": "/img/company/enartec.svg",
-  "web": "https://enartec.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/enartec.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Enartec",
   "contact": {
-    "email": "",
+    "web": "https://enartec.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/enartec",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/enartec",
     "youtube": ""
   }
 }

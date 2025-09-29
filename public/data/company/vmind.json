@@ -1,26 +1,27 @@
 {
-  "name": "Vmind",
-  "logo": "/img/company/vmind.svg",
-  "web": "https://vmind.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/vmind.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Vmind",
   "contact": {
-    "email": "",
+    "web": "https://vmind.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/vmind-bilgi-teknolojileri",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/vmindbilgi",
+    "instagram": "https://instagram.com/vmind",
+    "youtube": "https://youtube.com/user/vmindinfo",
+    "x": "https://x.com/vmindinfo"
   }
 }

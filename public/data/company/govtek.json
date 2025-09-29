@@ -1,26 +1,27 @@
 {
-  "name": "Govtek",
-  "logo": "/img/company/govtek.svg",
-  "web": "https://govtek.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/govtek.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Govtek",
   "contact": {
-    "email": "",
+    "web": "https://govtek.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/pg",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/GovtekTeknoloji"
   }
 }

@@ -1,26 +1,26 @@
 {
-  "name": "Giltas",
-  "logo": "/img/company/giltas.svg",
-  "web": "https://giltas.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/giltas.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Giltas",
   "contact": {
-    "email": "",
+    "web": "https://giltas.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/gilta%C5%9F-a-%C5%9F-",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
+    "facebook": "https://facebook.com/Giltas.com.tr",
+    "instagram": "https://instagram.com/giltas_sm",
     "youtube": ""
   }
 }

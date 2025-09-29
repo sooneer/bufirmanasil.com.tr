@@ -1,26 +1,27 @@
 {
-  "name": "Fonetbt",
-  "logo": "/img/company/fonetbt.svg",
-  "web": "https://fonetbt.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/fonetbt.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Fonetbt",
   "contact": {
-    "email": "",
+    "web": "https://fonetbt.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/fonetbt",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/fonet_bt",
+    "youtube": "https://youtube.com/@fonetbilgiteknolojileria.s1531",
+    "x": "https://x.com/fonet_bt"
   }
 }

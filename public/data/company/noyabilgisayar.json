@@ -1,26 +1,27 @@
 {
-  "name": "Noyabilgisayar",
-  "logo": "/img/company/noyabilgisayar.svg",
-  "web": "https://noyabilgisayar.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/noyabilgisayar.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Noyabilgisayar",
   "contact": {
-    "email": "",
+    "web": "https://noyabilgisayar.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/noyateknoloji",
+    "instagram": "https://instagram.com/noyatechofficial",
+    "youtube": "https://youtube.com/@noyateknoloji",
+    "x": "https://x.com/noya_tech"
   }
 }

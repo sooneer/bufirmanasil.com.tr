@@ -1,26 +1,27 @@
 {
-  "name": "Smartmessage",
-  "logo": "/img/company/smartmessage.svg",
-  "web": "https://smartmessage.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/smartmessage.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Smartmessage",
   "contact": {
-    "email": "",
+    "web": "https://smartmessage.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/smartmessage",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/SmartMessagebyODC",
+    "instagram": "https://instagram.com/smartmessagemarketing",
+    "youtube": "https://youtube.com/@smartmessagemarketing",
+    "x": "https://x.com/smart_message"
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Datagate",
-  "logo": "/img/company/datagate.svg",
-  "web": "https://datagate.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/datagate.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Datagate",
   "contact": {
-    "email": "",
+    "web": "https://datagate.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/index-grup",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/indexgruptr",
+    "instagram": "https://instagram.com/indexgrup",
+    "youtube": "https://youtube.com/user/IndexGrup",
+    "x": "https://x.com/indexgrup"
   }
 }

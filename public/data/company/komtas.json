@@ -1,26 +1,26 @@
 {
-  "name": "Komtas",
-  "logo": "/img/company/komtas.svg",
-  "web": "https://komtas.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/komtas.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Komtas",
   "contact": {
-    "email": "",
+    "web": "https://komtas.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/komtas-bilgi-yonetimi",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/komtasbilgiyonetimi",
     "youtube": ""
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Focabex",
-  "logo": "/img/company/focabex.svg",
-  "web": "https://focabex.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/focabex.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Focabex",
   "contact": {
-    "email": "",
+    "web": "https://focabex.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/introduction"
   }
 }

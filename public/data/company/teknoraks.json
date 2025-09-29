@@ -1,26 +1,26 @@
 {
-  "name": "Teknoraks",
-  "logo": "/img/company/teknoraks.svg",
-  "web": "https://teknoraks.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/teknoraks.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Teknoraks",
   "contact": {
-    "email": "",
+    "web": "https://teknoraks.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/teknoraks-teknoloji-market",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/teknoraks.tr",
     "youtube": ""
   }
 }

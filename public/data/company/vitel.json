@@ -1,26 +1,27 @@
 {
-  "name": "Vitel",
-  "logo": "/img/company/vitel.svg",
-  "web": "https://vitel.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/vitel.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Vitel",
   "contact": {
-    "email": "",
+    "web": "https://vitel.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/vitel-a.s.",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/viteltr",
+    "instagram": "https://instagram.com/viteltr",
+    "youtube": "https://youtube.com/channel/channelvitel",
+    "x": "https://x.com/Vitel_As"
   }
 }

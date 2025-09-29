@@ -1,26 +1,26 @@
 {
-  "name": "Santsg",
-  "logo": "/img/company/santsg.svg",
-  "web": "https://santsg.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/santsg.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Santsg",
   "contact": {
-    "email": "",
+    "web": "https://santsg.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/santsg",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
+    "facebook": "https://facebook.com/SanTourismSoftwareGroup",
+    "instagram": "https://instagram.com/san.tsg",
     "youtube": ""
   }
 }

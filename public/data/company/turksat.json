@@ -1,26 +1,27 @@
 {
-  "name": "Turksat",
-  "logo": "/img/company/turksat.svg",
-  "web": "https://turksat.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/turksat.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Turksat",
   "contact": {
-    "email": "",
+    "web": "https://turksat.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/turksat",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/user/turksatpr",
+    "x": "https://x.com/turksat"
   }
 }

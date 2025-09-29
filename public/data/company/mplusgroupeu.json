@@ -1,26 +1,26 @@
 {
-  "name": "Mplusgroup Eu",
-  "logo": "/img/company/mplusgroupeu.svg",
-  "web": "https://mplusgroup.eu/turkiye",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/mplusgroupeu.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Mplusgroup Eu",
   "contact": {
-    "email": "",
+    "web": "https://mplusgroup.eu/turkiye",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/mplusofficial",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/mplusgroup",
+    "instagram": "https://instagram.com/m_plusgroup",
+    "youtube": "https://youtube.com/@mplusofficial"
   }
 }

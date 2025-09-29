@@ -1,26 +1,27 @@
 {
-  "name": "Protel",
-  "logo": "/img/company/protel.svg",
-  "web": "https://protel.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/protel.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Protel",
   "contact": {
-    "email": "",
+    "web": "https://protel.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/protel-tr",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/protel",
+    "instagram": "https://instagram.com/protelturkiye",
+    "youtube": "https://youtube.com/@Protel_TR",
+    "x": "https://x.com/protelturkiye"
   }
 }

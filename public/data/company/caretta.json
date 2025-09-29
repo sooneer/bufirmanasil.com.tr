@@ -1,26 +1,27 @@
 {
-  "name": "Caretta",
-  "logo": "/img/company/caretta.svg",
-  "web": "https://caretta.net",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/caretta.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Caretta",
   "contact": {
-    "email": "",
+    "web": "https://caretta.net",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/caretta",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/CarettaYazilim",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/CarettaYazilim"
   }
 }

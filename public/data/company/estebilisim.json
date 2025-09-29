@@ -1,26 +1,27 @@
 {
-  "name": "Estebilisim",
-  "logo": "/img/company/estebilisim.svg",
-  "web": "https://estebilisim.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/estebilisim.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Estebilisim",
   "contact": {
-    "email": "",
+    "web": "https://estebilisim.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/estebilisim",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/estebilisim",
+    "instagram": "https://instagram.com/estebilisim",
+    "youtube": "",
+    "x": "https://x.com/estebilisim"
   }
 }

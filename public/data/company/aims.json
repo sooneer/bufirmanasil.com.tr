@@ -25,11 +25,11 @@
     "taxNumber": ""
   },
   "social": {
-    "linkedin": "",
-    "x": "",
-    "instagram": "",
-    "facebook": "",
-    "youtube": "",
+    "linkedin": "https://linkedin.com/company/aimsartificialintelligence",
+    "x": "https://x.com/AimsArtificial",
+    "instagram": "https://instagram.com/AIMS_ArtificialIntelligence",
+    "facebook": "https://facebook.com/aimsartificialintelligence",
+    "youtube": "https://youtube.com/@AIMS_artificialintelligence",
     "github": ""
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Datamarket",
-  "logo": "/img/company/datamarket.svg",
-  "web": "https://datamarket.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/datamarket.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Datamarket",
   "contact": {
-    "email": "",
+    "web": "https://datamarket.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/datamarket1992",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/datamarket1992",
+    "instagram": "https://instagram.com/DataMarket1992",
+    "youtube": "https://youtube.com/user/datamarket1992",
+    "x": "https://x.com/DataMarket1992"
   }
 }

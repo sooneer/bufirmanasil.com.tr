@@ -1,26 +1,27 @@
 {
-  "name": "Simsoft",
-  "logo": "/img/company/simsoft.svg",
-  "web": "https://simsoft.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/simsoft.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Simsoft",
   "contact": {
-    "email": "",
+    "web": "https://simsoft.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/simsoftofficial",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/SimsoftOfficial",
+    "instagram": "https://instagram.com/simsoftofficial",
+    "youtube": "https://youtube.com/c/SimsoftOfficial",
+    "x": "https://x.com/SimsoftOfficial"
   }
 }

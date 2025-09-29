@@ -1,26 +1,27 @@
 {
-  "name": "Milsoft",
-  "logo": "/img/company/milsoft.svg",
-  "web": "https://milsoft.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/milsoft.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Milsoft",
   "contact": {
-    "email": "",
+    "web": "https://milsoft.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/643103",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/milsoftyazilim",
+    "instagram": "https://instagram.com/milsoftyazilim",
+    "youtube": "https://youtube.com/channel/UCBzEs9Z4v9dmJ4Wvg8RiyAg",
+    "x": "https://x.com/MilSOFT_AS"
   }
 }

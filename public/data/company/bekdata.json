@@ -1,26 +1,27 @@
 {
-  "name": "Bekdata",
-  "logo": "/img/company/bekdata.svg",
-  "web": "https://bekdata.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/bekdata.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Bekdata",
   "contact": {
-    "email": "",
+    "web": "https://bekdata.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/bekdata",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/bekdata",
+    "instagram": "https://instagram.com/bekdata",
+    "youtube": "https://youtube.com/channel/UCIwkbKMQmBelKf_6BVo8xXA?view_as=subscriber",
+    "x": "https://x.com/Bekdata"
   }
 }

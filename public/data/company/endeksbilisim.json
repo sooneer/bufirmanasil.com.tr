@@ -1,26 +1,26 @@
 {
-  "name": "Endeksbilisim",
-  "logo": "/img/company/endeksbilisim.svg",
-  "web": "https://endeksbilisim.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/endeksbilisim.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Endeksbilisim",
   "contact": {
-    "email": "",
+    "web": "https://endeksbilisim.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/endeksbilisim",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
+    "facebook": "https://facebook.com/EndeksBilisim",
+    "instagram": "https://instagram.com/endeksbilisim",
     "youtube": ""
   }
 }

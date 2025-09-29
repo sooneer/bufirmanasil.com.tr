@@ -1,26 +1,27 @@
 {
-  "name": "Galaksity",
-  "logo": "/img/company/galaksity.svg",
-  "web": "https://galaksity.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/galaksity.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Galaksity",
   "contact": {
-    "email": "",
+    "web": "https://galaksity.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/galaksity",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/galaksity",
+    "instagram": "https://instagram.com/galaksity",
+    "youtube": "",
+    "x": "https://x.com/galaksity"
   }
 }

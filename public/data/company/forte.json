@@ -1,26 +1,27 @@
 {
-  "name": "Forte",
-  "logo": "/img/company/forte.svg",
-  "web": "https://forte.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/forte.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Forte",
   "contact": {
-    "email": "",
+    "web": "https://forte.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/forte-teknoloji",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/forte_teknoloji",
+    "youtube": "",
+    "x": "https://x.com/ForteTeknoloji"
   }
 }

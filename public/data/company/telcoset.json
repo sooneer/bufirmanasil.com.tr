@@ -1,26 +1,26 @@
 {
-  "name": "Telcoset",
-  "logo": "/img/company/telcoset.svg",
-  "web": "https://telcoset.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/telcoset.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Telcoset",
   "contact": {
-    "email": "",
+    "web": "https://telcoset.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/telcoset",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/telcoset",
     "youtube": ""
   }
 }

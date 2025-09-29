@@ -1,26 +1,27 @@
 {
-  "name": "D Teknoloji",
-  "logo": "/img/company/d-teknoloji.svg",
-  "web": "https://d-teknoloji.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/d-teknoloji.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "D Teknoloji",
   "contact": {
-    "email": "",
+    "web": "https://d-teknoloji.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/dogus-teknoloji",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/dogusteknoloji",
+    "instagram": "https://instagram.com/dogusteknoloji",
+    "youtube": "https://youtube.com/channel/UCqWUO6vpl-wa-vCR0tGZAXw",
+    "x": "https://x.com/DogusTeknoloji"
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Net Bt",
-  "logo": "/img/company/net-bt.svg",
-  "web": "https://net-bt.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/net-bt.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Net Bt",
   "contact": {
-    "email": "",
+    "web": "https://net-bt.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/netbt-consulting",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/NetBTdanismanlik",
+    "instagram": "https://instagram.com/netbtdanismanlik",
+    "youtube": "https://youtube.com/channel/UC-bHcffMCpAYVq2kt2_NfpQ",
+    "x": "https://x.com/NetBTconsultng"
   }
 }

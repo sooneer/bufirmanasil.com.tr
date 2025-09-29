@@ -1,26 +1,27 @@
 {
-  "name": "Penta",
-  "logo": "/img/company/penta.svg",
-  "web": "https://penta.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/penta.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Penta",
   "contact": {
-    "email": "",
+    "web": "https://penta.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/537508",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/pentateknoloji",
+    "instagram": "https://instagram.com/pentateknoloji",
+    "youtube": "https://youtube.com/channel/UCw6_tNyqZ5_Awv-SGrlLK6A",
+    "x": "https://x.com/pentateknoloji"
   }
 }

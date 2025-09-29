@@ -1,26 +1,26 @@
 {
-  "name": "Yasarbilgi",
-  "logo": "/img/company/yasarbilgi.svg",
-  "web": "https://yasarbilgi.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/yasarbilgi.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Yasarbilgi",
   "contact": {
-    "email": "",
+    "web": "https://yasarbilgi.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/astron---ya-ar-bilgi-i-lem",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/yasarbilgi_tr",
     "youtube": ""
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Redington",
-  "logo": "/img/company/redington.svg",
-  "web": "https://redington.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/redington.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Redington",
   "contact": {
-    "email": "",
+    "web": "https://redington.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/75078384",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/redingtonturkiye",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/channel/UCMMJJpnyEtv0yxKMCzBFF5g",
+    "x": "https://x.com/redingtontr_"
   }
 }

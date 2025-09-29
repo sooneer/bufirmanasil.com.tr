@@ -1,26 +1,27 @@
 {
-  "name": "Spro",
-  "logo": "/img/company/spro.svg",
-  "web": "https://spro.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/spro.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Spro",
   "contact": {
-    "email": "",
+    "web": "https://spro.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/spro-technology",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/sproteknoloji",
+    "instagram": "https://instagram.com/spro_teknoloji",
+    "youtube": "",
+    "x": "https://x.com/SPROconsultancy"
   }
 }

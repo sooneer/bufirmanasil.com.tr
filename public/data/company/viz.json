@@ -1,26 +1,26 @@
 {
-  "name": "Viz",
-  "logo": "/img/company/viz.svg",
-  "web": "https://viz.net",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/viz.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Viz",
   "contact": {
-    "email": "",
+    "web": "https://viz.net",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/viznetbilisim",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
+    "facebook": "https://facebook.com/Viznet-Bilişim-Hizmetleri-110389997804428",
+    "instagram": "https://instagram.com/viznetbilisim",
     "youtube": ""
   }
 }

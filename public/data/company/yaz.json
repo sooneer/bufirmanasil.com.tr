@@ -1,26 +1,27 @@
 {
-  "name": "Yaz",
-  "logo": "/img/company/yaz.svg",
-  "web": "https://yaz.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/yaz.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Yaz",
   "contact": {
-    "email": "",
+    "web": "https://yaz.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/yaz-bilgi-sistemleri-a-s-",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/yazbilgisistemleri",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/yaz_bilgi"
   }
 }

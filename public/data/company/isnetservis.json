@@ -1,26 +1,27 @@
 {
-  "name": "İsnetservis",
-  "logo": "/img/company/isnetservis.svg",
-  "web": "https://isnetservis.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/isnetservis.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "İsnetservis",
   "contact": {
-    "email": "",
+    "web": "https://isnetservis.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/2844406?trk=hp-feed-company-name",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/isnetservis"
   }
 }

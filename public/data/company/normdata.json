@@ -1,26 +1,27 @@
 {
-  "name": "Normdata",
-  "logo": "/img/company/normdata.svg",
-  "web": "https://normdata.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/normdata.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Normdata",
   "contact": {
-    "email": "",
+    "web": "https://normdata.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/normdataa",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/NormData"
   }
 }

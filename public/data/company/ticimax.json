@@ -1,26 +1,27 @@
 {
-  "name": "Ticimax",
-  "logo": "/img/company/ticimax.svg",
-  "web": "https://ticimax.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/ticimax.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Ticimax",
   "contact": {
-    "email": "",
+    "web": "https://ticimax.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/ticimax",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/ticimax",
+    "instagram": "https://instagram.com/ticimax",
+    "youtube": "https://youtube.com/@Ticimaxeticaret",
+    "x": "https://x.com/e-ticaret-paketleri"
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Prolink",
-  "logo": "/img/company/prolink.svg",
-  "web": "https://prolink.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/prolink.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Prolink",
   "contact": {
-    "email": "",
+    "web": "https://prolink.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/prolinktr",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/prolinktr?fref=ts",
+    "instagram": "https://instagram.com/prolink.solvingit",
+    "youtube": "https://youtube.com/@prolink.solvingit",
+    "x": "https://x.com/products"
   }
 }

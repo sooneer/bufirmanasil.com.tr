@@ -25,10 +25,10 @@
     "taxNumber": ""
   },
   "social": {
-    "linkedin": "",
-    "x": "",
+    "linkedin": "https://linkedin.com/company/altaygrupas",
+    "x": "https://x.com/altaygrupas",
     "instagram": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/pages",
     "youtube": "",
     "github": ""
   }

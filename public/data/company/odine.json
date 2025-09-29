@@ -1,26 +1,27 @@
 {
-  "name": "Odine",
-  "logo": "/img/company/odine.svg",
-  "web": "https://odine.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/odine.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Odine",
   "contact": {
-    "email": "",
+    "web": "https://odine.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/telecomoman",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/odinesolutions",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/OdineSolutions"
   }
 }

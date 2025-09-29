@@ -1,25 +1,25 @@
 {
-  "name": "Verisis",
-  "logo": "/img/company/verisis.svg",
-  "web": "https://verisis.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/verisis.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Verisis",
   "contact": {
-    "email": "",
+    "web": "https://verisis.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/1762401",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/VerisisClims",
     "instagram": "",
     "youtube": ""
   }

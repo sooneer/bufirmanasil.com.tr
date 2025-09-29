@@ -1,26 +1,27 @@
 {
-  "name": "Blink",
-  "logo": "/img/company/blink.svg",
-  "web": "https://blink.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/blink.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Blink",
   "contact": {
-    "email": "",
+    "web": "https://blink.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/blinkbilisim",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/BlinkTurkey",
+    "instagram": "https://instagram.com/blinkbilisim",
+    "youtube": "https://youtube.com/user/BlinkTR",
+    "x": "https://x.com/blinkbilisim"
   }
 }

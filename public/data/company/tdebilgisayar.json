@@ -1,26 +1,26 @@
 {
-  "name": "Tdebilgisayar",
-  "logo": "/img/company/tdebilgisayar.svg",
-  "web": "https://tdebilgisayar.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/tdebilgisayar.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Tdebilgisayar",
   "contact": {
-    "email": "",
+    "web": "https://tdebilgisayar.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/tdebilgisayar",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/tdebilgisayar",
     "youtube": ""
   }
 }

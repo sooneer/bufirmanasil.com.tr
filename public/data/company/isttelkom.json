@@ -1,26 +1,27 @@
 {
-  "name": "İsttelkom",
-  "logo": "/img/company/isttelkom.svg",
-  "web": "https://isttelkom.istanbul",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/isttelkom.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "İsttelkom",
   "contact": {
-    "email": "",
+    "web": "https://isttelkom.istanbul",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/isttelkom-a-%C5%9F-",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/isttelkom",
+    "instagram": "https://instagram.com/isttelkom",
+    "youtube": "https://youtube.com/channel/UCf9tNrVZCRu5uVJXqJ784Sg",
+    "x": "https://x.com/isttelkom"
   }
 }

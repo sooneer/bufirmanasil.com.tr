@@ -1,26 +1,26 @@
 {
-  "name": "Novatel",
-  "logo": "/img/company/novatel.svg",
-  "web": "https://novatel.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/novatel.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Novatel",
   "contact": {
-    "email": "",
+    "web": "https://novatel.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/novatel-haberlesme",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/novatelhaberlesme",
+    "instagram": "https://instagram.com/novateltr",
+    "youtube": "https://youtube.com/channel/UCJ383WV0mXy2snueXhZhLEg"
   }
 }

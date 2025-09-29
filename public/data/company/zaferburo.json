@@ -1,26 +1,26 @@
 {
-  "name": "Zaferburo",
-  "logo": "/img/company/zaferburo.svg",
-  "web": "https://zaferburo.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/zaferburo.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Zaferburo",
   "contact": {
-    "email": "",
+    "web": "https://zaferburo.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/zafer-b%C3%BCro-makinalar%C4%B1",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/zafer-b%C3%BCro-makineleri-190488904300804",
+    "instagram": "https://instagram.com/zaferburomakinalari?igshid=YmMyMTA2M2Y=",
+    "youtube": "https://youtube.com/@canon-zaferburomakineleri6156"
   }
 }

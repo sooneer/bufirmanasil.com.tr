@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "C:\Github\sooneer\bufirmanasil.com.tr\scripts\batch-update-simple.py", line 146, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "C:\Github\sooneer\bufirmanasil.com.tr\scripts\batch-update-simple.py", line 44, in main
+    print(f"\U0001f4c1 Toplam {len(json_files)} ■irket bulundu")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\soner.acar\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1254.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4c1' in position 0: character maps to <undefined>

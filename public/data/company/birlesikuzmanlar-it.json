@@ -1,26 +1,26 @@
 {
-  "name": "Birleşik Uzmanlar IT",
-  "logo": "/img/company/birlesikuzmanlar-it.svg",
-  "web": "https://birlesikuzmanlar-it.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/birlesikuzmanlar-it.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Birleşik Uzmanlar IT",
   "contact": {
-    "email": "",
+    "web": "https://birlesikuzmanlar-it.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/birle-ik-uzmanlar-bili-im-a-",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/birlesikuzmanlar?igsh=eTRya2FzMnNpajhh",
+    "youtube": "https://youtube.com/@BuzBilisim"
   }
 }

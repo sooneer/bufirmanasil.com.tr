@@ -1,26 +1,27 @@
 {
-  "name": "BI Technology",
-  "logo": "/img/company/bitechnology.svg",
-  "web": "https://bitechnology.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/bitechnology.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "BI Technology",
   "contact": {
-    "email": "",
+    "web": "https://bitechnology.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/bitechnology-turkiye",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/bitechnology1",
+    "instagram": "https://instagram.com/bi_technology",
+    "youtube": "https://youtube.com/channel/UCjQDgMnnFgke1MjXrfSHFqQ",
+    "x": "https://x.com/QlikViewTurkiye?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "ARD Bilişim",
-  "logo": "/img/company/ardbilisim.svg",
-  "web": "https://ardbilisim.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/ardbilisim.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "ARD Bilişim",
   "contact": {
-    "email": "",
+    "web": "https://ardbilisim.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/ardgrupofficial",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/ardgrupofficial",
+    "instagram": "https://instagram.com/ardgrupofficial",
+    "youtube": "",
+    "x": "https://x.com/ardgrupofficial"
   }
 }

@@ -1,26 +1,26 @@
 {
-  "name": "Milleni",
-  "logo": "/img/company/milleni.svg",
-  "web": "https://milleni.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/milleni.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Milleni",
   "contact": {
-    "email": "",
+    "web": "https://milleni.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/millenicom",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
+    "facebook": "https://facebook.com/millenicom",
+    "instagram": "https://instagram.com/millenicom",
     "youtube": ""
   }
 }

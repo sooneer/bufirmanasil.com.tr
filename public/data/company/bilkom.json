@@ -1,26 +1,27 @@
 {
-  "name": "Bilkom",
-  "logo": "/img/company/bilkom.svg",
-  "web": "https://bilkom.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/bilkom.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Bilkom",
   "contact": {
-    "email": "",
+    "web": "https://bilkom.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/bilkom",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/bilkom",
+    "instagram": "https://instagram.com/p",
+    "youtube": "https://youtube.com/channel/UC6ncaEYZ54TYx6DYlZ6xe9g",
+    "x": "https://x.com/Bilkom"
   }
 }

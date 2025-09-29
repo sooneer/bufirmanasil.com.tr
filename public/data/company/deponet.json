@@ -1,26 +1,26 @@
 {
-  "name": "Deponet",
-  "logo": "/img/company/deponet.svg",
-  "web": "https://deponet.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/deponet.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Deponet",
   "contact": {
-    "email": "",
+    "web": "https://deponet.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/deponet-elektronik",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/deponetelektronik",
     "youtube": ""
   }
 }

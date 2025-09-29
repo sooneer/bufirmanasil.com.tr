@@ -1,26 +1,27 @@
 {
-  "name": "Linktera",
-  "logo": "/img/company/linktera.svg",
-  "web": "https://linktera.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/linktera.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Linktera",
   "contact": {
-    "email": "",
+    "web": "https://linktera.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/linktera",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/linkteratr",
+    "youtube": "",
+    "x": "https://x.com/linktera"
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Atak Domain",
-  "logo": "/img/company/atakdomain.svg",
-  "web": "https://atakdomain.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/atakdomain.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Atak Domain",
   "contact": {
-    "email": "",
+    "web": "https://atakdomain.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/atak-domain",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/atakdomainhosting",
+    "instagram": "https://instagram.com/tr.atakdomain",
+    "youtube": "",
+    "x": "https://x.com/atakdomain"
   }
 }

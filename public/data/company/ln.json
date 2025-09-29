@@ -1,26 +1,26 @@
 {
-  "name": "Ln",
-  "logo": "/img/company/ln.svg",
-  "web": "https://ln.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/ln.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Ln",
   "contact": {
-    "email": "",
+    "web": "https://ln.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/lnbilgisayar",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/lnbilgisayar",
+    "youtube": "https://youtube.com/@LNBilgisayar"
   }
 }

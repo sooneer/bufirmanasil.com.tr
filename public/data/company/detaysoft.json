@@ -1,26 +1,27 @@
 {
-  "name": "Detaysoft",
-  "logo": "/img/company/detaysoft.svg",
-  "web": "https://detaysoft.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/detaysoft.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Detaysoft",
   "contact": {
-    "email": "",
+    "web": "https://detaysoft.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/detaysoft",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/detaysoft",
+    "instagram": "https://instagram.com/detaysoft",
+    "youtube": "https://youtube.com/user/detaysoft",
+    "x": "https://x.com/detaysoft?ref_src=twsrc%5Etfw"
   }
 }

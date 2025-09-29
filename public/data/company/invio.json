@@ -1,26 +1,27 @@
 {
-  "name": "İnvio",
-  "logo": "/img/company/invio.svg",
-  "web": "https://invio.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/invio.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "İnvio",
   "contact": {
-    "email": "",
+    "web": "https://invio.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/invio",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/invio.bilisim",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/inviobilisim?lang=en"
   }
 }

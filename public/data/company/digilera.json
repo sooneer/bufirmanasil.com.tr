@@ -1,26 +1,26 @@
 {
-  "name": "Digilera",
-  "logo": "/img/company/digilera.svg",
-  "web": "https://digilera.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/digilera.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Digilera",
   "contact": {
-    "email": "",
+    "web": "https://digilera.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/digilera-bilgi-teknolojileri-ltd-ti-",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
+    "facebook": "https://facebook.com/Digilerasoftware",
+    "instagram": "https://instagram.com/digilerabt",
     "youtube": ""
   }
 }

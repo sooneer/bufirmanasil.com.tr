@@ -1,26 +1,26 @@
 {
-  "name": "Netsmart",
-  "logo": "/img/company/netsmart.svg",
-  "web": "https://netsmart.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/netsmart.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Netsmart",
   "contact": {
-    "email": "",
+    "web": "https://netsmart.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/netsmartsecurity",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/netsmartlife",
+    "youtube": "https://youtube.com/@netsmartsecurity"
   }
 }

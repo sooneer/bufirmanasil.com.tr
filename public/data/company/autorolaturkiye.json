@@ -1,26 +1,26 @@
 {
-  "name": "Autorola Türkiye",
-  "logo": "/img/company/autorolaturkiye.svg",
-  "web": "https://autorolaturkiye.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/autorolaturkiye.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Autorola Türkiye",
   "contact": {
-    "email": "",
+    "web": "https://autorolaturkiye.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/autorola-turkiye",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/people",
+    "instagram": "https://instagram.com/autorolaturkiye",
+    "youtube": "https://youtube.com/channel/UCdZxnu7gANW4bmysKi-godg"
   }
 }

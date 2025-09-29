@@ -1,26 +1,27 @@
 {
-  "name": "İriss",
-  "logo": "/img/company/iriss.svg",
-  "web": "https://iriss.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/iriss.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "İriss",
   "contact": {
-    "email": "",
+    "web": "https://iriss.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/irisstech",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/irisstech",
+    "instagram": "https://instagram.com/iriss_tech",
+    "youtube": "https://youtube.com/channel/UCOcX48lxzE8-odaitEj1oJQ",
+    "x": "https://x.com/irisstech"
   }
 }

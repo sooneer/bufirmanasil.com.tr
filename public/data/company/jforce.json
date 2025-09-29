@@ -1,26 +1,27 @@
 {
-  "name": "Jforce",
-  "logo": "/img/company/jforce.svg",
-  "web": "https://jforce.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/jforce.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Jforce",
   "contact": {
-    "email": "",
+    "web": "https://jforce.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/jforce",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/sharer",
+    "instagram": "https://instagram.com/jforcebilisim",
+    "youtube": "",
+    "x": "https://x.com/share?url=https:"
   }
 }

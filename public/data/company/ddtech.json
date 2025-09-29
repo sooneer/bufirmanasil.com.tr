@@ -1,26 +1,27 @@
 {
-  "name": "Ddtech",
-  "logo": "/img/company/ddtech.svg",
-  "web": "https://ddtech.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/ddtech.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Ddtech",
   "contact": {
-    "email": "",
+    "web": "https://ddtech.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/ddtechnology",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/DDTECHDX"
   }
 }

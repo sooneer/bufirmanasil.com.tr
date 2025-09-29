@@ -1,26 +1,27 @@
 {
-  "name": "Softwareone",
-  "logo": "/img/company/softwareone.svg",
-  "web": "https://softwareone.com/tr-tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/softwareone.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Softwareone",
   "contact": {
-    "email": "",
+    "web": "https://softwareone.com/tr-tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/softwareone",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/Softwareone",
+    "instagram": "https://instagram.com/softwareone",
+    "youtube": "https://youtube.com/@SoftwareONE-Global",
+    "x": "https://x.com/SoftwareOne"
   }
 }

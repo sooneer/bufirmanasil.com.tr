@@ -1,26 +1,27 @@
 {
-  "name": "İntron",
-  "logo": "/img/company/intron.svg",
-  "web": "https://intron.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/intron.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "İntron",
   "contact": {
-    "email": "",
+    "web": "https://intron.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/intronglobal",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/sharer",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/share?url=https:"
   }
 }

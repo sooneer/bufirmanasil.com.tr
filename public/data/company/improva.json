@@ -1,26 +1,27 @@
 {
-  "name": "İmprova",
-  "logo": "/img/company/improva.svg",
-  "web": "https://improva.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/improva.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "İmprova",
   "contact": {
-    "email": "",
+    "web": "https://improva.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/improvaconsulting",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/improvaconsulting",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/@improvatechnology",
+    "x": "https://x.com/ImprovaCons"
   }
 }

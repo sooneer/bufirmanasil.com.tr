@@ -1,26 +1,26 @@
 {
-  "name": "Ceyber",
-  "logo": "/img/company/ceyber.svg",
-  "web": "https://ceyber.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/ceyber.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Ceyber",
   "contact": {
-    "email": "",
+    "web": "https://ceyber.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/ceyber-cm",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/CeyBerCM",
+    "instagram": "https://instagram.com/ceybercm",
+    "youtube": "https://youtube.com/channel/UCPuLcX0Go2tOTWnI-DlppVg"
   }
 }

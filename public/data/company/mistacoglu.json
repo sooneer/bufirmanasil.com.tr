@@ -1,26 +1,26 @@
 {
-  "name": "Mistacoglu",
-  "logo": "/img/company/mistacoglu.svg",
-  "web": "https://mistacoglu.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/mistacoglu.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Mistacoglu",
   "contact": {
-    "email": "",
+    "web": "https://mistacoglu.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/mistacogluholding",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
+    "facebook": "https://facebook.com/mistacogluholding",
+    "instagram": "https://instagram.com/mistacogluholding",
     "youtube": ""
   }
 }

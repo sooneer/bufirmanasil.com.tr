@@ -1,26 +1,27 @@
 {
-  "name": "Lunabilisim",
-  "logo": "/img/company/lunabilisim.svg",
-  "web": "https://lunabilisim.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/lunabilisim.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Lunabilisim",
   "contact": {
-    "email": "",
+    "web": "https://lunabilisim.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/luna-bili-im-teknolojileri",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/lunabilisimteknolojileri",
+    "instagram": "https://instagram.com/lunabilisim",
+    "youtube": "https://youtube.com/user/lunabilisim",
+    "x": "https://x.com/Lunabilisimtekn"
   }
 }

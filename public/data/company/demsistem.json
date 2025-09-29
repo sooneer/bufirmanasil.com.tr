@@ -1,26 +1,27 @@
 {
-  "name": "Demsistem",
-  "logo": "/img/company/demsistem.svg",
-  "web": "https://demsistem.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/demsistem.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Demsistem",
   "contact": {
-    "email": "",
+    "web": "https://demsistem.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/demsistem",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/demsistem"
   }
 }

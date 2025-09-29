@@ -1,26 +1,27 @@
 {
-  "name": "Ode Al",
-  "logo": "/img/company/odeal.svg",
-  "web": "https://ode.al",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/odeal.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Ode Al",
   "contact": {
-    "email": "",
+    "web": "https://ode.al",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/ode-al",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/odealpos",
+    "instagram": "https://instagram.com/odealapp",
+    "youtube": "https://youtube.com/channel/UCu-ax5FHIMAFMCSTSr7k6jQ",
+    "x": "https://x.com/odealpos"
   }
 }

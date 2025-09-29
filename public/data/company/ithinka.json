@@ -1,26 +1,26 @@
 {
-  "name": "İthinka",
-  "logo": "/img/company/ithinka.svg",
-  "web": "https://ithinka.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/ithinka.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "İthinka",
   "contact": {
-    "email": "",
+    "web": "https://ithinka.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/10636144",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/ithinka.official",
     "youtube": ""
   }
 }

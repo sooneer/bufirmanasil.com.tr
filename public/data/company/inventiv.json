@@ -1,26 +1,27 @@
 {
-  "name": "İnventiv",
-  "logo": "/img/company/inventiv.svg",
-  "web": "https://inventiv.com.tr/tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/inventiv.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "İnventiv",
   "contact": {
-    "email": "",
+    "web": "https://inventiv.com.tr/tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/inventivtech",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/inventivtech",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/inventivtech"
   }
 }

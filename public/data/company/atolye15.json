@@ -1,26 +1,28 @@
 {
-  "name": "Atölye15",
-  "logo": "/img/company/atolye15.svg",
-  "web": "https://atolye15.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/atolye15.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Atölye15",
   "contact": {
-    "email": "",
+    "web": "https://atolye15.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/atolye15",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/atolye15",
+    "instagram": "https://instagram.com/atolye15",
+    "youtube": "https://youtube.com/c/Atolye15",
+    "x": "https://x.com/atolye15",
+    "github": "https://github.com/atolye15"
   }
 }

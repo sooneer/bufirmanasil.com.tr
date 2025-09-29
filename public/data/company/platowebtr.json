@@ -1,25 +1,25 @@
 {
-  "name": "Plato Web Tr",
-  "logo": "/img/company/platowebtr.svg",
-  "web": "https://plato.web.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/platowebtr.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Plato Web Tr",
   "contact": {
-    "email": "",
+    "web": "https://plato.web.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/platohppartner",
     "instagram": "",
     "youtube": ""
   }

@@ -25,10 +25,10 @@
     "taxNumber": ""
   },
   "social": {
-    "linkedin": "",
-    "x": "",
-    "instagram": "",
-    "facebook": "",
+    "linkedin": "https://linkedin.com/company/ankara-netmon-a-",
+    "x": "https://x.com/AnkaraNetmon",
+    "instagram": "https://instagram.com/ankaranetmon",
+    "facebook": "https://facebook.com/ankaranetmon",
     "youtube": "",
     "github": ""
   }

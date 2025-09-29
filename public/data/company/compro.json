@@ -1,26 +1,27 @@
 {
-  "name": "Compro",
-  "logo": "/img/company/compro.svg",
-  "web": "https://compro.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/compro.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Compro",
   "contact": {
-    "email": "",
+    "web": "https://compro.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/compro-information-technologies-inc-",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/comprobilisim",
+    "youtube": "",
+    "x": "https://x.com/comprobilisim"
   }
 }

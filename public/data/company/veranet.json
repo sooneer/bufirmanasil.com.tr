@@ -1,26 +1,26 @@
 {
-  "name": "Veranet",
-  "logo": "/img/company/veranet.svg",
-  "web": "https://veranet.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/veranet.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Veranet",
   "contact": {
-    "email": "",
+    "web": "https://veranet.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/veranet-teknoloji-hizmetleri",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
+    "facebook": "https://facebook.com/Veranet-Teknoloji-105706795136768",
+    "instagram": "https://instagram.com/veranetteknoloji",
     "youtube": ""
   }
 }

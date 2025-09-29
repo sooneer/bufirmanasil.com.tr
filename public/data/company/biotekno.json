@@ -1,26 +1,27 @@
 {
-  "name": "Bio Tekno",
-  "logo": "/img/company/biotekno.svg",
-  "web": "https://biotekno.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/biotekno.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Bio Tekno",
   "contact": {
-    "email": "",
+    "web": "https://biotekno.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/biotekno",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/biotekno",
+    "instagram": "https://instagram.com/biotekno.biz",
+    "youtube": "https://youtube.com/c/BioteknoMedya",
+    "x": "https://x.com/bioteknobiz"
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Karel",
-  "logo": "/img/company/karel.svg",
-  "web": "https://karel.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/karel.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Karel",
   "contact": {
-    "email": "",
+    "web": "https://karel.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/karel-tr",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/Karel.ComTr",
+    "instagram": "https://instagram.com/karelcomtr",
+    "youtube": "",
+    "x": "https://x.com/karelcomtr"
   }
 }

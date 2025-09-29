@@ -1,26 +1,27 @@
 {
-  "name": "Turkbelge",
-  "logo": "/img/company/turkbelge.svg",
-  "web": "https://turkbelge.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/turkbelge.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Turkbelge",
   "contact": {
-    "email": "",
+    "web": "https://turkbelge.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/türkbelge",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/turkbelgecomtr",
+    "instagram": "https://instagram.com/turkbelgecomtr",
+    "youtube": "https://youtube.com/channel/UCoN_hCT5vi_D-FyWujdH2IA",
+    "x": "https://x.com/turkbelgecomtr"
   }
 }

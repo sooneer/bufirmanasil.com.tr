@@ -1,26 +1,27 @@
 {
-  "name": "Turkuaz",
-  "logo": "/img/company/turkuaz.svg",
-  "web": "https://turkuaz.net",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/turkuaz.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Turkuaz",
   "contact": {
-    "email": "",
+    "web": "https://turkuaz.net",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/turkuaz-bilgisayar95",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/turkuazkurumsal",
+    "youtube": "",
+    "x": "https://x.com/turkuaz_net"
   }
 }

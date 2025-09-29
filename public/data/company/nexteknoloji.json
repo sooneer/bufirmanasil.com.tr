@@ -1,26 +1,26 @@
 {
-  "name": "Nexteknoloji",
-  "logo": "/img/company/nexteknoloji.svg",
-  "web": "https://nexteknoloji.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/nexteknoloji.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Nexteknoloji",
   "contact": {
-    "email": "",
+    "web": "https://nexteknoloji.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/nexteknoloji",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/nexteknoloji",
     "youtube": ""
   }
 }

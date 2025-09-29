@@ -1,26 +1,27 @@
 {
-  "name": "Prmyazilim",
-  "logo": "/img/company/prmyazilim.svg",
-  "web": "https://prmyazilim.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/prmyazilim.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Prmyazilim",
   "contact": {
-    "email": "",
+    "web": "https://prmyazilim.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/prm-yazilim",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/PRMYAZILIM",
+    "instagram": "https://instagram.com/prmyazilim",
+    "youtube": "https://youtube.com/channel/UCQXyvac4PxM_HpVAbgACd3g",
+    "x": "https://x.com/prmyazilim"
   }
 }

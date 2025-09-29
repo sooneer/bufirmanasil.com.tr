@@ -1,26 +1,27 @@
 {
-  "name": "Arena",
-  "logo": "/img/company/arena.svg",
-  "web": "https://arena.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/arena.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Arena",
   "contact": {
-    "email": "",
+    "web": "https://arena.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/arena",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/bilgisayararena",
+    "instagram": "https://instagram.com/arena.bilgisayar",
+    "youtube": "https://youtube.com/channel/UCbpwJuklJPTdIyOpOuzL4eg",
+    "x": "https://x.com/bilgisayararena"
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Badel",
-  "logo": "/img/company/badel.svg",
-  "web": "https://badel.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/badel.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Badel",
   "contact": {
-    "email": "",
+    "web": "https://badel.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/in/badel-bilgisayar-9b8a92377",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/BadelPlus",
+    "instagram": "https://instagram.com/badelplus",
+    "youtube": "",
+    "x": "https://x.com/badelplus"
   }
 }

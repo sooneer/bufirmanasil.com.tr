@@ -1,26 +1,26 @@
 {
-  "name": "Radore",
-  "logo": "/img/company/radore.svg",
-  "web": "https://radore.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/radore.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Radore",
   "contact": {
-    "email": "",
+    "web": "https://radore.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/radore",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/radorecom",
+    "youtube": "https://youtube.com/@Radore"
   }
 }

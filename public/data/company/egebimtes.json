@@ -1,26 +1,27 @@
 {
-  "name": "Egebimtes",
-  "logo": "/img/company/egebimtes.svg",
-  "web": "https://egebimtes.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/egebimtes.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Egebimtes",
   "contact": {
-    "email": "",
+    "web": "https://egebimtes.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/egebimtes-san-tic-as",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/egebimtes",
+    "instagram": "https://instagram.com/egebimtes",
+    "youtube": "",
+    "x": "https://x.com/egebimtes"
   }
 }

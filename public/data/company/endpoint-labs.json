@@ -1,26 +1,27 @@
 {
-  "name": "Endpoint Labs",
-  "logo": "/img/company/endpoint-labs.svg",
-  "web": "https://endpoint-labs.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/endpoint-labs.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Endpoint Labs",
   "contact": {
-    "email": "",
+    "web": "https://endpoint-labs.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/endpoint-labs-cyber-security-r&d-corp-",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/endpointlabs",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "github": "https://github.com/endpointlabs"
   }
 }

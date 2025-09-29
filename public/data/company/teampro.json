@@ -1,26 +1,27 @@
 {
-  "name": "Teampro",
-  "logo": "/img/company/teampro.svg",
-  "web": "https://teampro.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/teampro.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Teampro",
   "contact": {
-    "email": "",
+    "web": "https://teampro.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/teampro-techno",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/TeamProTechnology",
+    "instagram": "https://instagram.com/teamprotechnology",
+    "youtube": "https://youtube.com/@teampro-technology",
+    "x": "https://x.com/TeamProTechno"
   }
 }

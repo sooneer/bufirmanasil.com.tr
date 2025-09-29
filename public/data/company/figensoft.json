@@ -1,26 +1,27 @@
 {
-  "name": "Figensoft",
-  "logo": "/img/company/figensoft.svg",
-  "web": "https://figensoft.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/figensoft.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Figensoft",
   "contact": {
-    "email": "",
+    "web": "https://figensoft.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/figensoft",
+    "instagram": "https://instagram.com/figensoft",
+    "youtube": "",
+    "x": "https://x.com/figensoft"
   }
 }

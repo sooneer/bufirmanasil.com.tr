@@ -1,26 +1,26 @@
 {
-  "name": "Mnsbilisim",
-  "logo": "/img/company/mnsbilisim.svg",
-  "web": "https://mnsbilisim.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/mnsbilisim.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Mnsbilisim",
   "contact": {
-    "email": "",
+    "web": "https://mnsbilisim.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/mnsbilisim",
+    "instagram": "https://instagram.com/mnspazar",
+    "youtube": "https://youtube.com/channel/UC5obxRLu-uWnxL9tdUvB3Uw"
   }
 }

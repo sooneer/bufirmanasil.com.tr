@@ -1,26 +1,27 @@
 {
-  "name": "Toptel",
-  "logo": "/img/company/toptel.svg",
-  "web": "https://toptel.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/toptel.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Toptel",
   "contact": {
-    "email": "",
+    "web": "https://toptel.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/toptel-telekom-nikasyon-ltd--ti-",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/TopTelTurkey",
+    "instagram": "https://instagram.com/toptelturkiye",
+    "youtube": "",
+    "x": "https://x.com/ToptelTurkiye"
   }
 }

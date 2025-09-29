@@ -1,26 +1,26 @@
 {
-  "name": "Primeteknoloji",
-  "logo": "/img/company/primeteknoloji.svg",
-  "web": "https://primeteknoloji.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/primeteknoloji.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Primeteknoloji",
   "contact": {
-    "email": "",
+    "web": "https://primeteknoloji.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/prime-teknoloji",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/primeteknoloji",
     "youtube": ""
   }
 }

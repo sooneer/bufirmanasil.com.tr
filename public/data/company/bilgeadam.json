@@ -25,10 +25,10 @@
     "taxNumber": ""
   },
   "social": {
-    "linkedin": "",
-    "x": "",
-    "instagram": "",
-    "facebook": "",
+    "linkedin": "https://linkedin.com/company/bilgeadam",
+    "x": "https://x.com/bilgeadam",
+    "instagram": "https://instagram.com/bilgeadam_teknoloji",
+    "facebook": "https://facebook.com/bilgeadam",
     "youtube": "",
     "github": ""
   }

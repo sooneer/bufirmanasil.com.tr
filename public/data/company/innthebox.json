@@ -1,26 +1,27 @@
 {
-  "name": "İnnthebox",
-  "logo": "/img/company/innthebox.svg",
-  "web": "https://innthebox.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/innthebox.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "İnnthebox",
   "contact": {
-    "email": "",
+    "web": "https://innthebox.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/innthebox",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/innthebox",
+    "instagram": "https://instagram.com/innthebox",
+    "youtube": "",
+    "x": "https://x.com/#home"
   }
 }

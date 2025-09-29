@@ -1,26 +1,27 @@
 {
-  "name": "Titra",
-  "logo": "/img/company/titra.svg",
-  "web": "https://titra.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/titra.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Titra",
   "contact": {
-    "email": "",
+    "web": "https://titra.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/titrateknoloji",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/titrateknoloji",
+    "youtube": "https://youtube.com/channel/UC0V_GhwPiBsq0zzxhoFQ8Fg",
+    "x": "https://x.com/titrateknoloji?ref_src=twsrc%5Etfw"
   }
 }

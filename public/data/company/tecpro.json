@@ -1,26 +1,26 @@
 {
-  "name": "Tecpro",
-  "logo": "/img/company/tecpro.svg",
-  "web": "https://tecpro.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/tecpro.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Tecpro",
   "contact": {
-    "email": "",
+    "web": "https://tecpro.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/tecpro-bilgi-teknolojileri",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/tecprobt",
+    "instagram": "https://instagram.com/tecprobt",
+    "youtube": "https://youtube.com/channel/UC3pHtIx4Rm4EuUQ3-OVl8bQ"
   }
 }

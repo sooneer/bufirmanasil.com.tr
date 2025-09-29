@@ -1,26 +1,26 @@
 {
-  "name": "Kafein",
-  "logo": "/img/company/kafein.svg",
-  "web": "https://kafein.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/kafein.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Kafein",
   "contact": {
-    "email": "",
+    "web": "https://kafein.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/kafein-software",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/kafeintechnology",
     "youtube": ""
   }
 }

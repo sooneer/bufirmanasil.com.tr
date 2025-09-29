@@ -1,26 +1,27 @@
 {
-  "name": "Eplatform",
-  "logo": "/img/company/eplatform.svg",
-  "web": "https://eplatform.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/eplatform.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Eplatform",
   "contact": {
-    "email": "",
+    "web": "https://eplatform.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/eplatform",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/ePlatformTr",
+    "instagram": "https://instagram.com/eplatformtr",
+    "youtube": "",
+    "x": "https://x.com/ePlatformTr"
   }
 }

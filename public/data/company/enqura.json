@@ -1,26 +1,26 @@
 {
-  "name": "Enqura",
-  "logo": "/img/company/enqura.svg",
-  "web": "https://enqura.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/enqura.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Enqura",
   "contact": {
-    "email": "",
+    "web": "https://enqura.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/enqura",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/enquraglobal",
+    "youtube": "https://youtube.com/@enqura"
   }
 }

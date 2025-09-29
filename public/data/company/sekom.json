@@ -1,26 +1,26 @@
 {
-  "name": "Sekom",
-  "logo": "/img/company/sekom.svg",
-  "web": "https://sekom.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/sekom.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Sekom",
   "contact": {
-    "email": "",
+    "web": "https://sekom.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/sekom",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/@sekomiletisimsistemleri5355"
   }
 }

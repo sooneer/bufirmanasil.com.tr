@@ -1,26 +1,27 @@
 {
-  "name": "Rasyotek",
-  "logo": "/img/company/rasyotek.svg",
-  "web": "https://rasyotek.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/rasyotek.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Rasyotek",
   "contact": {
-    "email": "",
+    "web": "https://rasyotek.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/rasyotek-insan-kaynaklari-bili%C5%9Fim-a-%C5%9F-",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/rasyotek",
+    "instagram": "https://instagram.com/rasyotek",
+    "youtube": "https://youtube.com/c/Rasyotek%C4%B0nsanKaynaklar%C4%B1Bili%C5%9FimA%C5%9E",
+    "x": "https://x.com/rasyotek"
   }
 }

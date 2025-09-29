@@ -1,26 +1,26 @@
 {
-  "name": "Neafor",
-  "logo": "/img/company/neafor.svg",
-  "web": "https://neafor.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/neafor.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Neafor",
   "contact": {
-    "email": "",
+    "web": "https://neafor.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/neafor",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/neafor",
+    "instagram": "https://instagram.com/neafor.teknoloji",
+    "youtube": "https://youtube.com/channel/UCIQXWI6AvY21nYUFT5Q8KSQ"
   }
 }

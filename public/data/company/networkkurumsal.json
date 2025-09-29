@@ -1,26 +1,27 @@
 {
-  "name": "Networkkurumsal",
-  "logo": "/img/company/networkkurumsal.svg",
-  "web": "https://networkkurumsal.com/tr/",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/networkkurumsal.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Networkkurumsal",
   "contact": {
-    "email": "",
+    "web": "https://networkkurumsal.com/tr/",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/vamtam"
   }
 }

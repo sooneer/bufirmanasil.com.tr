@@ -1,26 +1,27 @@
 {
-  "name": "İsbak",
-  "logo": "/img/company/isbak.svg",
-  "web": "https://isbak.istanbul",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/isbak.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "İsbak",
   "contact": {
-    "email": "",
+    "web": "https://isbak.istanbul",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/isbak",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/isbakas?locale=tr_TR",
+    "instagram": "https://instagram.com/isbakas",
+    "youtube": "https://youtube.com/@akilliulasim",
+    "x": "https://x.com/isbakas"
   }
 }

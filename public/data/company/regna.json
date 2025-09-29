@@ -1,26 +1,27 @@
 {
-  "name": "Regna",
-  "logo": "/img/company/regna.svg",
-  "web": "https://regna.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/regna.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Regna",
   "contact": {
-    "email": "",
+    "web": "https://regna.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/regna-consulting",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/RegnaConsulting",
+    "instagram": "https://instagram.com/regnaconsulting",
+    "youtube": "https://youtube.com/@regnaconsulting",
+    "x": "https://x.com/regnaconsulting"
   }
 }

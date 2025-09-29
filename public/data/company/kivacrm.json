@@ -1,26 +1,27 @@
 {
-  "name": "Kivacrm",
-  "logo": "/img/company/kivacrm.svg",
-  "web": "https://kivacrm.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/kivacrm.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Kivacrm",
   "contact": {
-    "email": "",
+    "web": "https://kivacrm.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/kivacrm",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/KivaCRM",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/channel/UCibdO9z_H0SuvTfpdNLyjYg",
+    "x": "https://x.com/KivaCRM"
   }
 }

@@ -1,26 +1,27 @@
 {
-  "name": "Arkel",
-  "logo": "/img/company/arkel.svg",
-  "web": "https://arkel.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/arkel.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Arkel",
   "contact": {
-    "email": "",
+    "web": "https://arkel.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/arkel-elektrik-elektronik-tic.-ltd.-sti.",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/arkelelektrik",
+    "instagram": "https://instagram.com/arkel_elektronik",
+    "youtube": "https://youtube.com/channel/UC2tl4Dc0DVe0iI2oYuFeTXA",
+    "x": "https://x.com/ArkelElektrik"
   }
 }

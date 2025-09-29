@@ -1,26 +1,26 @@
 {
-  "name": "Destel",
-  "logo": "/img/company/destel.svg",
-  "web": "https://destel.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/destel.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Destel",
   "contact": {
-    "email": "",
+    "web": "https://destel.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/destel-bilisim-cozumleri",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/profile.php?id=100054574699043",
+    "instagram": "https://instagram.com/destelbilisim?igsh=MTc5Z3hnemppendyMA%3D%3D&utm_source=qr",
+    "youtube": "https://youtube.com/channel/UCKaVqK7Klc3qCAc2SJP-cgw"
   }
 }

@@ -1,26 +1,26 @@
 {
-  "name": "Goateknoloji",
-  "logo": "/img/company/goateknoloji.svg",
-  "web": "https://goateknoloji.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/goateknoloji.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Goateknoloji",
   "contact": {
-    "email": "",
+    "web": "https://goateknoloji.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/goasoft",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
+    "facebook": "https://facebook.com/GOA-Teknoloji-399453767234685",
+    "instagram": "https://instagram.com/goateknoloji",
     "youtube": ""
   }
 }

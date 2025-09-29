@@ -1,26 +1,27 @@
 {
-  "name": "Fark",
-  "logo": "/img/company/fark.svg",
-  "web": "https://fark.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/fark.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Fark",
   "contact": {
-    "email": "",
+    "web": "https://fark.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/farkbilgi.islem",
+    "instagram": "https://instagram.com/farkbilgiislem",
+    "youtube": "",
+    "x": "https://x.com/FARKBILGIISLEM"
   }
 }

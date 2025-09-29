@@ -25,11 +25,11 @@
     "taxNumber": ""
   },
   "social": {
-    "linkedin": "",
-    "x": "",
-    "instagram": "",
+    "linkedin": "https://linkedin.com/company/agito-software-&-consulting",
+    "x": "https://x.com/AgitoYazilim",
+    "instagram": "https://instagram.com/agitoyazilim",
     "facebook": "",
-    "youtube": "",
+    "youtube": "https://youtube.com/@AgitoYazilim",
     "github": ""
   }
 }

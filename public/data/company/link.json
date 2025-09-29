@@ -1,26 +1,27 @@
 {
-  "name": "Link",
-  "logo": "/img/company/link.svg",
-  "web": "https://link.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/link.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Link",
   "contact": {
-    "email": "",
+    "web": "https://link.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/linkbilgisayar",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/linkbilgisayar",
+    "instagram": "https://instagram.com/link.bilgisayar",
+    "youtube": "https://youtube.com/@LinkBilgisayar",
+    "x": "https://x.com/linkbilgisayar"
   }
 }

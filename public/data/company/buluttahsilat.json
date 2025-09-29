@@ -1,26 +1,27 @@
 {
-  "name": "Buluttahsilat",
-  "logo": "/img/company/buluttahsilat.svg",
-  "web": "https://buluttahsilat.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/buluttahsilat.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Buluttahsilat",
   "contact": {
-    "email": "",
+    "web": "https://buluttahsilat.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/@buluttahsilat142",
+    "x": "https://x.com/BulutTahsilat"
   }
 }

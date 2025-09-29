@@ -1,26 +1,27 @@
 {
-  "name": "Mbi",
-  "logo": "/img/company/mbi.svg",
-  "web": "https://mbi.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/mbi.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Mbi",
   "contact": {
-    "email": "",
+    "web": "https://mbi.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/modelerp",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/people",
+    "instagram": "https://instagram.com/model_erp",
+    "youtube": "",
+    "x": "https://x.com/modelerp"
   }
 }

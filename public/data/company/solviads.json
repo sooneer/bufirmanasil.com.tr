@@ -1,26 +1,27 @@
 {
-  "name": "Solviads",
-  "logo": "/img/company/solviads.svg",
-  "web": "https://solviads.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/solviads.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Solviads",
   "contact": {
-    "email": "",
+    "web": "https://solviads.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/solvia-digital-solutions",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/solviads",
+    "instagram": "https://instagram.com/solviads",
+    "youtube": "https://youtube.com/channel/UCcuQFxOH8eZTFITOwfABA6A",
+    "x": "https://x.com/solviads"
   }
 }

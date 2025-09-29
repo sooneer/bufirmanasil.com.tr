@@ -1,26 +1,26 @@
 {
-  "name": "Nacsoft",
-  "logo": "/img/company/nacsoft.svg",
-  "web": "https://nacsoft.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/nacsoft.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Nacsoft",
   "contact": {
-    "email": "",
+    "web": "https://nacsoft.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/nacsoft-yaz-l-m",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/nacsoftyazilim",
+    "youtube": "https://youtube.com/channel/UC4n-R-0pC1gqAVwh5fNYeKw"
   }
 }

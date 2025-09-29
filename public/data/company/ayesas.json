@@ -1,26 +1,27 @@
 {
-  "name": "Ayesas",
-  "logo": "/img/company/ayesas.svg",
-  "web": "https://ayesas.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/ayesas.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Ayesas",
   "contact": {
-    "email": "",
+    "web": "https://ayesas.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/ayesas",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "instagram": "https://instagram.com/ayesastr",
+    "youtube": "",
+    "x": "https://x.com/ayesastr"
   }
 }

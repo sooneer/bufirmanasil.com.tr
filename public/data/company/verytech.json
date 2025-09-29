@@ -1,26 +1,26 @@
 {
-  "name": "Verytech",
-  "logo": "/img/company/verytech.svg",
-  "web": "https://verytech.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/verytech.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Verytech",
   "contact": {
-    "email": "",
+    "web": "https://verytech.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/verytech-bili%C5%9Fim-sistemleri-a.%C5%9F",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://instagram.com/verytech.bilisim",
     "youtube": ""
   }
 }

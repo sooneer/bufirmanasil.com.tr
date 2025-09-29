@@ -1,26 +1,26 @@
 {
-  "name": "Senkron",
-  "logo": "/img/company/senkron.svg",
-  "web": "https://senkron.net",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/senkron.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Senkron",
   "contact": {
-    "email": "",
+    "web": "https://senkron.net",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/senkronyazilim",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/senkronyazilim",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/@senkrontech"
   }
 }

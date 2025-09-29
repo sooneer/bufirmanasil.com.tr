@@ -1,26 +1,27 @@
 {
-  "name": "Pro Sistem",
-  "logo": "/img/company/pro-sistem.svg",
-  "web": "https://pro-sistem.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/pro-sistem.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Pro Sistem",
   "contact": {
-    "email": "",
+    "web": "https://pro-sistem.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
     "linkedin": "",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/Pro-Sistem-Bilgisayar-Yaz%C4%B1l%C4%B1m-ve-Donan%C4%B1m-Hizmetleri-157375917713864",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/prosistembil"
   }
 }

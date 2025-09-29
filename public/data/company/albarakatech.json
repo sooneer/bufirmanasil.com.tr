@@ -25,11 +25,11 @@
     "taxNumber": ""
   },
   "social": {
-    "linkedin": "",
-    "x": "",
-    "instagram": "",
+    "linkedin": "https://linkedin.com/company/albaraka-tech-global?",
+    "x": "https://x.com/AlbarakaTech",
+    "instagram": "https://instagram.com/albarakatech",
     "facebook": "",
-    "youtube": "",
+    "youtube": "https://youtube.com/channel/UC9LhHIJ2PbzEhRdIQqttkEw",
     "github": ""
   }
 }

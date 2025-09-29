@@ -1,26 +1,26 @@
 {
-  "name": "Dogus",
-  "logo": "/img/company/dogus.svg",
-  "web": "https://dogus.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/dogus.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Dogus",
   "contact": {
-    "email": "",
+    "web": "https://dogus.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/doguselektrikelektronik",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/@doguselektrikelektronik"
   }
 }

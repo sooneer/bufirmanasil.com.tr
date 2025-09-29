@@ -1,26 +1,27 @@
 {
-  "name": "Medyasoft",
-  "logo": "/img/company/medyasoft.svg",
-  "web": "https://medyasoft.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/medyasoft.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Medyasoft",
   "contact": {
-    "email": "",
+    "web": "https://medyasoft.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/medyasoft",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/medyasoft",
+    "instagram": "https://instagram.com/medyasoft",
+    "youtube": "",
+    "x": "https://x.com/medyasoft"
   }
 }

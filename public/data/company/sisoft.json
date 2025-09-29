@@ -1,26 +1,27 @@
 {
-  "name": "Sisoft",
-  "logo": "/img/company/sisoft.svg",
-  "web": "https://sisoft.com.tr",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/sisoft.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Sisoft",
   "contact": {
-    "email": "",
+    "web": "https://sisoft.com.tr",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/sisoftsocial",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/sisoftsocial",
+    "instagram": "https://instagram.com/sisoftsocial",
+    "youtube": "https://youtube.com/user/sisocare",
+    "x": "https://x.com/sisoftsocial"
   }
 }

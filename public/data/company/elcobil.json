@@ -1,26 +1,27 @@
 {
-  "name": "Elcobil",
-  "logo": "/img/company/elcobil.svg",
-  "web": "https://elcobil.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/elcobil.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Elcobil",
   "contact": {
-    "email": "",
+    "web": "https://elcobil.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/elcobil-bili-im",
     "twitter": "",
-    "facebook": "",
+    "facebook": "https://facebook.com/Elcobil-1029687767050308",
     "instagram": "",
-    "youtube": ""
+    "youtube": "",
+    "x": "https://x.com/Elcobil"
   }
 }

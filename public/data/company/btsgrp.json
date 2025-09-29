@@ -1,26 +1,26 @@
 {
-  "name": "Btsgrp",
-  "logo": "/img/company/btsgrp.svg",
-  "web": "https://btsgrp.com",
-  "description": "",
-  "sector": "",
   "founded": "",
   "employees": "",
-  "headquarters": "",
-  "tags": [],
+  "logo": "/img/company/btsgrp.svg",
   "careers": "",
+  "headquarters": "",
+  "description": "",
   "internship": "",
+  "tags": [],
   "remote": "",
+  "name": "Btsgrp",
   "contact": {
-    "email": "",
+    "web": "https://btsgrp.com",
     "phone": "",
+    "email": "",
     "address": ""
   },
+  "sector": "",
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/btsgroup",
     "twitter": "",
     "facebook": "",
     "instagram": "",
-    "youtube": ""
+    "youtube": "https://youtube.com/@btsgrp"
   }
 }
