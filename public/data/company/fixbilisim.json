@@ -1,27 +1,26 @@
 {
-    "name": "Fixbilisim",
-    "logo": "/img/company/fixbilisim.svg",
-    "web": "https://fixbilisim.com.tr",
-    "description": "",
-    "sector": "",
-    "founded": "",
-    "employees": "",
-    "headquarters": "",
-    "tags": [],
-    "products": [],
-    "careers": "",
-    "internship": "",
-    "remote": "",
-    "contact": {
-        "email": "",
-        "phone": "",
-        "address": ""
-    },
-    "social": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "instagram": "",
-        "youtube": ""
-    }
+  "name": "Fixbilisim",
+  "logo": "/img/company/fixbilisim.svg",
+  "web": "https://fixbilisim.com.tr",
+  "description": "",
+  "sector": "",
+  "founded": "",
+  "employees": "",
+  "headquarters": "",
+  "tags": [],
+  "careers": "",
+  "internship": "",
+  "remote": "",
+  "contact": {
+    "email": "",
+    "phone": "",
+    "address": ""
+  },
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  }
 }

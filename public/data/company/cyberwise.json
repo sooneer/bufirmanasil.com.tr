@@ -1,27 +1,26 @@
 {
-    "name": "Cyberwise",
-    "logo": "/img/company/cyberwise.svg",
-    "web": "https://cyberwise.com.tr",
-    "description": "",
-    "sector": "",
-    "founded": "",
-    "employees": "",
-    "headquarters": "",
-    "tags": [],
-    "products": [],
-    "careers": "",
-    "internship": "",
-    "remote": "",
-    "contact": {
-        "email": "",
-        "phone": "",
-        "address": ""
-    },
-    "social": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "instagram": "",
-        "youtube": ""
-    }
+  "name": "Cyberwise",
+  "logo": "/img/company/cyberwise.svg",
+  "web": "https://cyberwise.com.tr",
+  "description": "",
+  "sector": "",
+  "founded": "",
+  "employees": "",
+  "headquarters": "",
+  "tags": [],
+  "careers": "",
+  "internship": "",
+  "remote": "",
+  "contact": {
+    "email": "",
+    "phone": "",
+    "address": ""
+  },
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  }
 }

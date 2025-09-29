@@ -1,27 +1,26 @@
 {
-    "name": "Erben",
-    "logo": "/img/company/erben.svg",
-    "web": "https://erben.com.tr",
-    "description": "",
-    "sector": "",
-    "founded": "",
-    "employees": "",
-    "headquarters": "",
-    "tags": [],
-    "products": [],
-    "careers": "",
-    "internship": "",
-    "remote": "",
-    "contact": {
-        "email": "",
-        "phone": "",
-        "address": ""
-    },
-    "social": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "instagram": "",
-        "youtube": ""
-    }
+  "name": "Erben",
+  "logo": "/img/company/erben.svg",
+  "web": "https://erben.com.tr",
+  "description": "",
+  "sector": "",
+  "founded": "",
+  "employees": "",
+  "headquarters": "",
+  "tags": [],
+  "careers": "",
+  "internship": "",
+  "remote": "",
+  "contact": {
+    "email": "",
+    "phone": "",
+    "address": ""
+  },
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  }
 }

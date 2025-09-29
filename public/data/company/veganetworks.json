@@ -1,27 +1,26 @@
 {
-    "name": "Veganetworks",
-    "logo": "/img/company/veganetworks.svg",
-    "web": "https://veganetworks.net",
-    "description": "",
-    "sector": "",
-    "founded": "",
-    "employees": "",
-    "headquarters": "",
-    "tags": [],
-    "products": [],
-    "careers": "",
-    "internship": "",
-    "remote": "",
-    "contact": {
-        "email": "",
-        "phone": "",
-        "address": ""
-    },
-    "social": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "instagram": "",
-        "youtube": ""
-    }
+  "name": "Veganetworks",
+  "logo": "/img/company/veganetworks.svg",
+  "web": "https://veganetworks.net",
+  "description": "",
+  "sector": "",
+  "founded": "",
+  "employees": "",
+  "headquarters": "",
+  "tags": [],
+  "careers": "",
+  "internship": "",
+  "remote": "",
+  "contact": {
+    "email": "",
+    "phone": "",
+    "address": ""
+  },
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  }
 }

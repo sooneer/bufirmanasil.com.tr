@@ -1,24 +1,30 @@
 export class Company {
   name: string;
   logo: string;
-  tagline: string;
+  web?: string;
+  description?: string;
+  tagline?: string;
   foundationYear?: number;
-  about: string;
+  founded?: string;
+  about?: string;
+  employees?: string;
+  headquarters?: string;
   BIST?: {
     code: string;
     KAP: string;
   };
   sector?: string[];
-  services: { title: string; description: string }[];
-  softwares: { title: string; description: string }[];
-  solutions: { title: string; description: string }[];
-  clients: string[];
-  contact: {
+  tags?: string[];
+  clients?: string[];
+  careers?: string;
+  internship?: string;
+  remote?: string;
+  contact?: {
     web?: string;
-    email: string;
-    phone: string;
+    email?: string;
+    phone?: string;
     phone2?: string;
-    address: string;
+    address?: string;
     googleMaps?: string;
     googleMapsIframe?: string;
     formEndpoint?: string;
@@ -27,25 +33,34 @@ export class Company {
     taxOffice: string;
     taxNumber: string;
   };
-  social: {
-    linkedin: string;
-    x: string;
-    instagram: string;
-    facebook: string;
-    youtube: string;
-    github: string;
+  social?: {
+    linkedin?: string;
+    x?: string;
+    twitter?: string;
+    instagram?: string;
+    facebook?: string;
+    youtube?: string;
+    github?: string;
   };
 
   constructor(data: any) {
     this.name = data.name;
     this.logo = data.logo;
+    this.web = data.web;
+    this.description = data.description;
     this.tagline = data.tagline;
     this.foundationYear = data.foundationYear;
+    this.founded = data.founded;
     this.about = data.about;
+    this.employees = data.employees;
+    this.headquarters = data.headquarters;
     this.BIST = data.BIST;
     this.sector = data.sector;
-    this.services = data.services;
+    this.tags = data.tags;
     this.clients = data.clients;
+    this.careers = data.careers;
+    this.internship = data.internship;
+    this.remote = data.remote;
     this.contact = data.contact;
     this.tax = data.tax;
     this.social = data.social;

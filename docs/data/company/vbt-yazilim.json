@@ -8,20 +8,10 @@
     "code": "VBTYZ",
     "KAP": "https://kap.org.tr/tr/sirket-bilgileri/ozet/5369-vbt-yazilim-a-s"
   },
-  "sector": ["Teknoloji", "Bilişim", "Yazılım"],
-  "services": [
-    {
-      "title": "Eğitim Hizmetleri",
-      "description": "IBM Z-OS ve Bileşenleri, Açık Sistemler, Programlama Dilleri, IBM DB2, MS-SQL, Oracle, Postgre SQL, MySQL vb..."
-    },
-    {
-      "title": "Danışmanlık Hizmetleri",
-      "description": "Proje Yönetimi, Süreç Danışmanlığı, Bilgi Sistemleri Servis Yönetimi (ITSM) Danışmanlığı, Uygulama Geliştirme Hizmetlerimiz, Veri Tabanları Destek Hizmetlerimiz, İşletim Sistemleri Destek Hizmetlerimiz"
-    },
-    {
-      "title": "Modernizasyon Hizmetleri",
-      "description": "Şu anda belirli bir platformda çalışan tüm uygulamalarınızı veya uygulamalarınızın bir bölümünü JAVA veya .NET gibi yeni teknolojilere taşıyabiliriz. NATURAL ve COBOL gibi yazılım dillerinden JAVA'ya aktarım konusunda özel uzmanlığımız bulunmaktadır. Yine AS/400 platformlarındaki uygulamalarınızı JAVA ortamlarına taşıyabiliriz."
-    }
+  "sector": [
+    "Teknoloji",
+    "Bilişim",
+    "Yazılım"
   ],
   "clients": [
     "12punto",

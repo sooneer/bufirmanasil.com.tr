@@ -8,43 +8,27 @@
     "code": "",
     "KAP": ""
   },
-  "sector": ["Teknoloji", "Bilişim", "Yazılım"],
-  "services": [
-    {
-      "title": "",
-      "description": ""
-    },
-    {
-      "title": "",
-      "description": ""
-    },
-    {
-      "title": "",
-      "description": ""
-    }
+  "sector": [
+    "Teknoloji",
+    "Bilişim",
+    "Yazılım"
   ],
-  "softwares": [
-    {
-      "title": "",
-      "description": ""
-    },
-    {
-      "title": "",
-      "description": ""
-    }
+  "clients": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
-  "solutions": [
-    {
-      "title": "",
-      "description": ""
-    },
-    {
-      "title": "",
-      "description": ""
-    }
+  "partners": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
-  "clients": ["","","","","",""],
-  "partners": ["","","","","",""],
   "contact": {
     "web": "",
     "email": "",

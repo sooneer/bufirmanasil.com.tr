@@ -1,27 +1,26 @@
 {
-    "name": "Ayssoft",
-    "logo": "/img/company/ayssoft.svg",
-    "web": "https://ayssoft.com",
-    "description": "",
-    "sector": "",
-    "founded": "",
-    "employees": "",
-    "headquarters": "",
-    "tags": [],
-    "products": [],
-    "careers": "",
-    "internship": "",
-    "remote": "",
-    "contact": {
-        "email": "",
-        "phone": "",
-        "address": ""
-    },
-    "social": {
-        "linkedin": "",
-        "twitter": "",
-        "facebook": "",
-        "instagram": "",
-        "youtube": ""
-    }
+  "name": "Ayssoft",
+  "logo": "/img/company/ayssoft.svg",
+  "web": "https://ayssoft.com",
+  "description": "",
+  "sector": "",
+  "founded": "",
+  "employees": "",
+  "headquarters": "",
+  "tags": [],
+  "careers": "",
+  "internship": "",
+  "remote": "",
+  "contact": {
+    "email": "",
+    "phone": "",
+    "address": ""
+  },
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  }
 }

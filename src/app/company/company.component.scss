@@ -256,46 +256,6 @@
 }
 
 /* --- Specific Card Styles (Light Theme) --- */
-.services-card {
-  .services-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1rem;
-  }
-
-  .service-card {
-    background: #f8f9fa;
-    padding: 1rem;
-    border-radius: 12px;
-    text-align: center;
-    border: 1px solid #e9ecef;
-    transition: background 0.3s ease, transform 0.3s ease;
-
-    &:hover {
-      background: #fff;
-      transform: translateY(-4px);
-    }
-
-    .service-icon {
-      font-size: 2rem;
-      margin-bottom: 0.5rem;
-      color: #667eea;
-    }
-
-    h3 {
-      font-size: 1.1rem;
-      margin: 0 0 0.5rem;
-      color: #343a40;
-    }
-
-    p {
-      font-size: 0.9rem;
-      color: #6c757d;
-      margin: 0;
-    }
-  }
-}
-
 .clients-card {
   .card-header {
     display: flex;

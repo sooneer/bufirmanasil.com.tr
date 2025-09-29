@@ -5,10 +5,11 @@
   "foundationYear": 2010,
   "about": "Ado Bilişim, Bosch bayiliği, proje, ürün tedariki ve distribütörlük konularında uzun yıllar tecrübesi olan bir ekip tarafından, müşterilerine hızlı, güvenilir ve ekonomik bir şekilde ürün tedariki sağlamayı amaçlayarak kurulmuştur. Başlıca hedefimiz müşterilerimizin memnuniyetidir. Ado Bilişim, 2015-2024 yılları arasındaki faaliyetleriyle Türkiye'nin ilk 500 Bilişim Şirketi arasında yer almıştır. 2025 yılında başarısını arttırarak sürdürmektedir.",
   "BIST": null,
-  "sector": ["E-Ticaret", "Bilişim", "Yazılım"],
-  "services": [],
-  "softwares": [],
-  "solutions": [],
+  "sector": [
+    "E-Ticaret",
+    "Bilişim",
+    "Yazılım"
+  ],
   "clients": [],
   "partners": [],
   "contact": {

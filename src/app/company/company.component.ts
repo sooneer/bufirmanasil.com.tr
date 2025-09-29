@@ -72,9 +72,6 @@ export class CompanyComponent implements OnInit {
           foundationYear: 2000,
           about: `${this.CompanyUrl} hakkında bilgiler`,
           sector: ['Teknoloji'],
-          services: [],
-          softwares: [],
-          solutions: [],
           clients: [],
           contact: {
             web: 'https://example.com',

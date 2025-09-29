@@ -5,10 +5,11 @@
   "foundationYear": 2006,
   "about": "2006 yılında kurulan AGC Yazılım, faaliyete geçtiği yıldan bugüne Bilgi Teknolojileri sektöründeki gelişmeleri yakından takip ederek pazarın değişimleri ile bütünleşerek, hızla büyüyen şirketlerden birisi olmuştur. İstanbul, İzmir, Houston ve Dubai’deki ofislerinde yazılım geliştirme ve danışmanlık hizmetleri sunmaktadır.",
   "BIST": null,
-  "sector": ["Teknoloji", "Bilişim", "Yazılım"],
-  "services": [],
-  "softwares": [],
-  "solutions": [],
+  "sector": [
+    "Teknoloji",
+    "Bilişim",
+    "Yazılım"
+  ],
   "clients": [
     "ALLIANCE YAPIM",
     "ANAKO YUMURTA VE ÜRÜNLERİ",

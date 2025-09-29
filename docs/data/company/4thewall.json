@@ -5,17 +5,10 @@
   "foundationYear": 2012,
   "about": "As the 4THEWALL family, we have been providing services on a global scale since 2012 with simple or complicated PRO AV & Control Software solutions, we continue to be in a position that makes a difference with our corporate structure and understanding and continue to grow day by day.",
   "BIST": null,
-  "sector": ["Appliances", "Electrical", "Electronics Manufacturing"],
-  "services": [],
-  "softwares": [
-    {
-      "title": "Designer V Control Management",
-      "description": "Designer V6 is a web-based (https) application that works on any smart platform with access to a web browser (Supports all Windows versions, Linux, Apple, iPhone, IPad, Android Phone and Android Tablet platforms)."
-    },
-    {
-      "title": "Designer S Control Management",
-      "description": "Designer is a web-based (https) application that work on any smart platform that has access to a web browser (Supports all Windows versions, Linux, Apple, IPhone, IPad, Android Phone and Android Tablet platforms)."
-    }
+  "sector": [
+    "Appliances",
+    "Electrical",
+    "Electronics Manufacturing"
   ],
   "clients": [],
   "contact": {
