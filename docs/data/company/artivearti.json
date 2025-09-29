@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/artivearti.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Artive Arti","contact":{"web":"https://artivearti.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/artivearti.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Artive Arti",
+  "contact": {
+    "web": "https://artivearti.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/artivearti",
+    "twitter": "",
+    "facebook": "https://facebook.com/ArtiveArtiTeknoloji",
+    "instagram": "https://instagram.com/artiveartiteknoloji",
+    "youtube": "https://youtube.com/channel/UCXC9l4Yw2Q3lmYSFdcE2o4w",
+    "x": "https://x.com/artivearti"
+  }
+}

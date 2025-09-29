@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/sestek.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Sestek","contact":{"web":"https://sestek.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/sestek.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Sestek",
+  "contact": {
+    "web": "https://sestek.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/sestek",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": "https://youtube.com/user/Sestek1",
+    "x": "https://x.com/sestek"
+  }
+}

@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/veribox.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Veribox","contact":{"web":"https://veribox.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/veribox.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Veribox",
+  "contact": {
+    "web": "https://veribox.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/veribox-technology",
+    "twitter": "",
+    "facebook": "https://facebook.com/veribox.com.tr",
+    "instagram": "https://instagram.com/veriboxtechnology",
+    "youtube": "",
+    "x": "https://x.com/VeriboxTR"
+  }
+}

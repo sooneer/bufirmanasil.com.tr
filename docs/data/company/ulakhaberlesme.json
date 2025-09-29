@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/ulakhaberlesme.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Ulakhaberlesme","contact":{"web":"https://ulakhaberlesme.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/ulakhaberlesme.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Ulakhaberlesme",
+  "contact": {
+    "web": "https://ulakhaberlesme.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/ulakhaberlesme",
+    "twitter": "",
+    "facebook": "https://facebook.com/ulakhaberlesme",
+    "instagram": "https://instagram.com/ulakhaberlesme",
+    "youtube": "https://youtube.com/@ulakhaberlesmea.s.8135",
+    "x": "https://x.com/UlakHaberlesme"
+  }
+}

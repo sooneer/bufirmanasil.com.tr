@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/ln.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Ln","contact":{"web":"https://ln.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/ln.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Ln",
+  "contact": {
+    "web": "https://ln.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/lnbilgisayar",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "https://instagram.com/lnbilgisayar",
+    "youtube": "https://youtube.com/@LNBilgisayar"
+  }
+}

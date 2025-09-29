@@ -3,7 +3,7 @@ import { Component, ViewEncapsulation, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { HttpClient } from '@angular/common/http';
-import { URLHelpers } from '../../_helpers/url-helpers';
+import { CompanyListItem } from '../../_shared/models/Company';
 import { SeoService } from '../../_shared/services/seo.service';
 
 @Component({
@@ -14,51 +14,45 @@ import { SeoService } from '../../_shared/services/seo.service';
 })
 export class HomeComponent implements OnInit {
   SearchText: string = '';
-  Companies: string[] = ['VBT Yazılım'];
-
-
-  filteredCompanies: string[] = [];
+  Companies: CompanyListItem[] = [];
+  filteredCompanies: CompanyListItem[] = [];
 
   constructor(
     private router: Router,
     private http: HttpClient,
     private seoService: SeoService
-  ) {
-    this.filteredCompanies = this.Companies;
-  }
+  ) {}
 
   ngOnInit() {
     // SEO ayarları
     this.seoService.setHomePage();
 
-    this.filteredCompanies = this.Companies;
-    this.http.get<string[]>('/data/companies.json').subscribe((data) => {
-      //console.log(data);
+    this.http.get<CompanyListItem[]>('/data/companies.json').subscribe((data) => {
       this.Companies = data;
+      this.filteredCompanies = [];
     });
   }
 
   onSearchTextChanged() {
     const search = this.SearchText?.toLowerCase() || '';
     this.filteredCompanies = this.Companies.filter((c) =>
-      c.toLowerCase().includes(search)
+      c.name.toLowerCase().includes(search)
     ).slice(0, 10); // En fazla 10 sonuç göster
   }
 
-  selectCompany(company: string) {
-    this.SearchText = company;
+  selectCompany(company: CompanyListItem) {
+    this.SearchText = company.name;
     this.filteredCompanies = [];
     this.Search();
   }
 
   Search() {
-    //console.log(this.SearchText);
     const company = this.Companies.find(
-      (c) => c.toLowerCase() === this.SearchText.toLowerCase()
+      (c) => c.name.toLowerCase() === this.SearchText.toLowerCase()
     );
     if (company) {
-      const url = URLHelpers.toFriendlyUrl(company);
-      this.router.navigate(['/company/' + url]);
+      // Artık slug'ı kullanabiliyoruz
+      this.router.navigate(['/company/' + company.slug]);
     } else {
       alert('Company not found!');
     }

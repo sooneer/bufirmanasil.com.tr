@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/rivo.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Rivo","contact":{"web":"https://rivo.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/rivo.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Rivo",
+  "contact": {
+    "web": "https://rivo.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/rivoguvenlik",
+    "twitter": "",
+    "facebook": "https://facebook.com/rivoguvenlik",
+    "instagram": "https://instagram.com/rivoguvenlik",
+    "youtube": "https://youtube.com/channel/UCgFcF6QOEq-NHysLHbZi6sA",
+    "x": "https://x.com/rivoteknoloji"
+  }
+}

@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/yazilim3d.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Yazilim3d","contact":{"web":"https://yazilim3d.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/yazilim3d.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Yazilim3d",
+  "contact": {
+    "web": "https://yazilim3d.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/yaz%C4%B1l%C4%B1m-3d",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "https://instagram.com/yazilim3d",
+    "youtube": "https://youtube.com/user/yazilim3d",
+    "x": "https://x.com/Yazilim3D"
+  }
+}

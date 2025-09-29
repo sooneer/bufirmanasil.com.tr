@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/senkron.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Senkron","contact":{"web":"https://senkron.net","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/senkron.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Senkron",
+  "contact": {
+    "web": "https://senkron.net",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/senkronyazilim",
+    "twitter": "",
+    "facebook": "https://facebook.com/senkronyazilim",
+    "instagram": "",
+    "youtube": "https://youtube.com/@senkrontech"
+  }
+}

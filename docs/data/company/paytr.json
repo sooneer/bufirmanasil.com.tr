@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/paytr.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Paytr","contact":{"web":"https://paytr.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/paytr.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Paytr",
+  "contact": {
+    "web": "https://paytr.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/paytr",
+    "twitter": "",
+    "facebook": "https://facebook.com/paytrcom",
+    "instagram": "https://instagram.com/paytrcom",
+    "youtube": "https://youtube.com/@paytrcom",
+    "x": "https://x.com/paytrcom"
+  }
+}

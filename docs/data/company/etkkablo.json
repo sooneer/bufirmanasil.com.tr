@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/etkkablo.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Etkkablo","contact":{"web":"https://etkkablo.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/etkkablo.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Etkkablo",
+  "contact": {
+    "web": "https://etkkablo.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/etkkablo",
+    "twitter": "",
+    "facebook": "https://facebook.com/etkkablo",
+    "instagram": "https://instagram.com/etkkablo",
+    "youtube": "https://youtube.com/user/etkkablo",
+    "x": "https://x.com/etkkablo"
+  }
+}

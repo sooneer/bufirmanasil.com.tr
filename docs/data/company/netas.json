@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/netas.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Netas","contact":{"web":"https://netas.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/netas.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Netas",
+  "contact": {
+    "web": "https://netas.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/netastr",
+    "twitter": "",
+    "facebook": "https://facebook.com/netastr",
+    "instagram": "https://instagram.com/netastr",
+    "youtube": "https://youtube.com/@NetasTR",
+    "x": "https://x.com/netastr"
+  }
+}

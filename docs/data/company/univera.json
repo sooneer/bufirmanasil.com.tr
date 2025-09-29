@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/univera.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Univera","contact":{"web":"https://univera.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/univera.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Univera",
+  "contact": {
+    "web": "https://univera.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/univerakurumsalteknolojicozumleri",
+    "twitter": "",
+    "facebook": "https://facebook.com/univerasocial",
+    "instagram": "https://instagram.com/univeracenter",
+    "youtube": "https://youtube.com/channel/UCY57-91o5IlrW5if-ft6BeQ",
+    "x": "https://x.com/@univerasocial"
+  }
+}

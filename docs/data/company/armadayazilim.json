@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/armadayazilim.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Armada Yazılım","contact":{"web":"https://armadayazilim.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/armadayazilim.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Armada Yazılım",
+  "contact": {
+    "web": "https://armadayazilim.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/armadayazilim",
+    "twitter": "",
+    "facebook": "https://facebook.com/armadayazilim",
+    "instagram": "https://instagram.com/armadayazilimofficial",
+    "youtube": "https://youtube.com/@armadayazilimas",
+    "x": "https://x.com/ArmadaYazilim"
+  }
+}

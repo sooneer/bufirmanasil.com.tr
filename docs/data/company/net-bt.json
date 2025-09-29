@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/net-bt.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Net Bt","contact":{"web":"https://net-bt.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/net-bt.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Net Bt",
+  "contact": {
+    "web": "https://net-bt.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/netbt-consulting",
+    "twitter": "",
+    "facebook": "https://facebook.com/NetBTdanismanlik",
+    "instagram": "https://instagram.com/netbtdanismanlik",
+    "youtube": "https://youtube.com/channel/UC-bHcffMCpAYVq2kt2_NfpQ",
+    "x": "https://x.com/NetBTconsultng"
+  }
+}

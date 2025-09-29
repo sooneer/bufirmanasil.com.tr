@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/setyazilim.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Setyazilim","contact":{"web":"https://setyazilim.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/setyazilim.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Setyazilim",
+  "contact": {
+    "web": "https://setyazilim.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/set-yazilim",
+    "twitter": "",
+    "facebook": "https://facebook.com/setyazilim",
+    "instagram": "",
+    "youtube": "",
+    "x": "https://x.com/setyazilim"
+  }
+}

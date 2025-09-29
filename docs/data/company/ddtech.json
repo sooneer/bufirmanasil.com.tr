@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/ddtech.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Ddtech","contact":{"web":"https://ddtech.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/ddtech.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Ddtech",
+  "contact": {
+    "web": "https://ddtech.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/ddtechnology",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": "",
+    "x": "https://x.com/DDTECHDX"
+  }
+}

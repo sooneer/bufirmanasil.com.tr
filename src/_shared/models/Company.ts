@@ -1,3 +1,11 @@
+// companies.json için lightweight liste modeli
+export interface CompanyListItem {
+  slug: string;        // Dosya adı (ado-bilisim)
+  name: string;        // Şirket adı (Ado Bilişim)
+  web: string;         // Web sitesi
+  logo: string;        // Logo path
+}
+
 export class Company {
   name: string;
   logo: string;

@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/provis.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Provis","contact":{"web":"https://provis.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/provis.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Provis",
+  "contact": {
+    "web": "https://provis.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/provis-bilgi-sistemleri",
+    "twitter": "",
+    "facebook": "https://facebook.com/provisbilsis",
+    "instagram": "https://instagram.com/provisbilsis",
+    "youtube": ""
+  }
+}

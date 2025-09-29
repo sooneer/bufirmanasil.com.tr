@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/nttdata-solutions.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Nttdata Solutions","contact":{"web":"https://nttdata-solutions.com/tr/","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/nttdata-solutions.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Nttdata Solutions",
+  "contact": {
+    "web": "https://nttdata-solutions.com/tr/",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/ntt-data-business-solutions",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "https://instagram.com/ndbs_turkiye",
+    "youtube": "https://youtube.com/channel/UCVRXIThBUFziWIWI_7E7l3w"
+  }
+}

@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/asiselektronik.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Asis Elektronik","contact":{"web":"https://asiselektronik.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/asiselektronik.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Asis Elektronik",
+  "contact": {
+    "web": "https://asiselektronik.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/asis-elektronik",
+    "twitter": "",
+    "facebook": "https://facebook.com/asiselektronikcomtr",
+    "instagram": "https://instagram.com/asis_elektronik",
+    "youtube": "https://youtube.com/channel/UCIPmWoPPSCBqLEiLaMI4DbQ",
+    "x": "https://x.com/Asis_elektronik"
+  }
+}

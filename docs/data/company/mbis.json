@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/mbis.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Mbis","contact":{"web":"https://mbis.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/mbis.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Mbis",
+  "contact": {
+    "web": "https://mbis.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/mbis",
+    "twitter": "",
+    "facebook": "https://facebook.com/MBISConsulting",
+    "instagram": "https://instagram.com/mbis_consulting",
+    "youtube": "https://youtube.com/channel/UCY_kVwnbtJNjQWSywrgF-SQ",
+    "x": "https://x.com/MBISConsulting"
+  }
+}

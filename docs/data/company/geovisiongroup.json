@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/geovisiongroup.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Geovisiongroup","contact":{"web":"https://geovisiongroup.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/geovisiongroup.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Geovisiongroup",
+  "contact": {
+    "web": "https://geovisiongroup.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/geovision-group",
+    "twitter": "",
+    "facebook": "https://facebook.com/GeovisionGroup",
+    "instagram": "https://instagram.com/geovision.group",
+    "youtube": "https://youtube.com/@geovisiongroup2916",
+    "x": "https://x.com/geovisiongroup_"
+  }
+}

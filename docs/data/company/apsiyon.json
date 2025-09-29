@@ -25,11 +25,11 @@
     "taxNumber": ""
   },
   "social": {
-    "linkedin": "",
-    "x": "",
-    "instagram": "",
-    "facebook": "",
-    "youtube": "",
+    "linkedin": "https://linkedin.com/company/apsiyon",
+    "x": "https://x.com/apsiyon",
+    "instagram": "https://instagram.com/apsiyon",
+    "facebook": "https://facebook.com/apsiyoncom",
+    "youtube": "https://youtube.com/c/Apsiyon",
     "github": ""
   }
 }

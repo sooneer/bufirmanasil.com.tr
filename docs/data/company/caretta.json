@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/caretta.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Caretta","contact":{"web":"https://caretta.net","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/caretta.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Caretta",
+  "contact": {
+    "web": "https://caretta.net",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/caretta",
+    "twitter": "",
+    "facebook": "https://facebook.com/CarettaYazilim",
+    "instagram": "",
+    "youtube": "",
+    "x": "https://x.com/CarettaYazilim"
+  }
+}

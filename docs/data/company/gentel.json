@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/gentel.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Gentel","contact":{"web":"https://gentel.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/gentel.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Gentel",
+  "contact": {
+    "web": "https://gentel.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/gentel",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  }
+}

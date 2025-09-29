@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/koddata.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Koddata","contact":{"web":"https://koddata.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/koddata.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Koddata",
+  "contact": {
+    "web": "https://koddata.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/koddata",
+    "twitter": "",
+    "facebook": "https://facebook.com/koddata",
+    "instagram": "https://instagram.com/koddata",
+    "youtube": "https://youtube.com/@koddata",
+    "x": "https://x.com/koddata"
+  }
+}

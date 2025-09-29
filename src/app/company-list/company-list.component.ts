@@ -2,7 +2,7 @@ import { Component, OnInit, ViewEncapsulation } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
-import { URLHelpers } from '../../_helpers/url-helpers';
+import { CompanyListItem } from '../../_shared/models/Company';
 import { SeoService } from '../../_shared/services/seo.service';
 
 @Component({
@@ -13,7 +13,7 @@ import { SeoService } from '../../_shared/services/seo.service';
   encapsulation: ViewEncapsulation.None,
 })
 export class CompanyListComponent implements OnInit {
-  companies: string[] = [];
+  companies: CompanyListItem[] = [];
 
   constructor(
     private http: HttpClient,
@@ -24,13 +24,8 @@ export class CompanyListComponent implements OnInit {
     // SEO ayarları
     this.seoService.setCompanyListPage();
 
-    this.http.get<string[]>('/data/companies.json').subscribe((data) => {
-      //console.log(data);
+    this.http.get<CompanyListItem[]>('/data/companies.json').subscribe((data) => {
       this.companies = data;
     });
-  }
-
-  toFriendlyUrl(company) {
-    return URLHelpers.toFriendlyUrl(company);
   }
 }

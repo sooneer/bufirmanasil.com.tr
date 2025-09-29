@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/datamarket.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Datamarket","contact":{"web":"https://datamarket.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/datamarket.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Datamarket",
+  "contact": {
+    "web": "https://datamarket.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/datamarket1992",
+    "twitter": "",
+    "facebook": "https://facebook.com/datamarket1992",
+    "instagram": "https://instagram.com/DataMarket1992",
+    "youtube": "https://youtube.com/user/datamarket1992",
+    "x": "https://x.com/DataMarket1992"
+  }
+}

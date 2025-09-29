@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/boss.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Boss","contact":{"web":"https://boss.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/boss.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Boss",
+  "contact": {
+    "web": "https://boss.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/cottgroup",
+    "twitter": "",
+    "facebook": "https://facebook.com/CottGroup",
+    "instagram": "https://instagram.com/cottgroupsocial",
+    "youtube": "https://youtube.com/@CottGroupSocial",
+    "x": "https://x.com/cottgroup"
+  }
+}

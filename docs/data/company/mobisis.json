@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/mobisis.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Mobisis","contact":{"web":"https://mobisis.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/mobisis.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Mobisis",
+  "contact": {
+    "web": "https://mobisis.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/mobisis",
+    "twitter": "",
+    "facebook": "https://facebook.com/mobisis",
+    "instagram": "https://instagram.com/mobisisteknoloji",
+    "youtube": "",
+    "x": "https://x.com/mobisistr"
+  }
+}

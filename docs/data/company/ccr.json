@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/ccr.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Ccr","contact":{"web":"https://ccr.group","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/ccr.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Ccr",
+  "contact": {
+    "web": "https://ccr.group",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/ccrgroup",
+    "twitter": "",
+    "facebook": "https://facebook.com/CallCenterResources",
+    "instagram": "",
+    "youtube": "https://youtube.com/channel/UCoicJGuLYUOnopf2m1bmAug",
+    "x": "https://x.com/CCR_TR"
+  }
+}

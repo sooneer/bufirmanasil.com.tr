@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/bilisim.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Bilişim","contact":{"web":"https://bilisim.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/bilisim.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Bilişim",
+  "contact": {
+    "web": "https://bilisim.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/bilisim-as",
+    "twitter": "",
+    "facebook": "https://facebook.com/BilisimAS",
+    "instagram": "https://instagram.com/bilisimas",
+    "youtube": "https://youtube.com/channel/UCQX1cKh-XWsl3oixYV6Hi_A",
+    "x": "https://x.com/BilisimAS"
+  }
+}

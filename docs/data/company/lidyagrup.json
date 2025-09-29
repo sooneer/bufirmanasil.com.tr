@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/lidyagrup.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Lidyagrup","contact":{"web":"https://lidyagrup.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/lidyagrup.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Lidyagrup",
+  "contact": {
+    "web": "https://lidyagrup.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/lidya-grup",
+    "twitter": "",
+    "facebook": "https://facebook.com/LidyaGrup",
+    "instagram": "https://instagram.com/lidya_grup",
+    "youtube": "https://youtube.com/channel/UCTE6RBH60MvThebz8b-Sjaw",
+    "x": "https://x.com/grup_lidya"
+  }
+}

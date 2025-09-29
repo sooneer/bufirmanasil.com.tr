@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/komtera.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Komtera","contact":{"web":"https://komtera.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/komtera.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Komtera",
+  "contact": {
+    "web": "https://komtera.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/komtera-teknoloji-as",
+    "twitter": "",
+    "facebook": "https://facebook.com/KomteraTeknoloji",
+    "instagram": "https://instagram.com/komterateknoloji",
+    "youtube": "https://youtube.com/channel/UCdFt31kQJWphg106BO1GaQw",
+    "x": "https://x.com/komteratech"
+  }
+}

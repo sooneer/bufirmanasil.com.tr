@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/asistbt.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Asist BT","contact":{"web":"https://asistbt.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/asistbt.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Asist BT",
+  "contact": {
+    "web": "https://asistbt.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/asistbt",
+    "twitter": "",
+    "facebook": "https://facebook.com/asistbt",
+    "instagram": "https://instagram.com/asistbt",
+    "youtube": "",
+    "x": "https://x.com/asistbt"
+  }
+}

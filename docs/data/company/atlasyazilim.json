@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/atlasyazilim.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Atlas Yazılım","contact":{"web":"https://atlasyazilim.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/atlasyazilim.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Atlas Yazılım",
+  "contact": {
+    "web": "https://atlasyazilim.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "https://facebook.com/AtlasYazilim",
+    "instagram": "https://instagram.com/atlasyazilim",
+    "youtube": ""
+  }
+}

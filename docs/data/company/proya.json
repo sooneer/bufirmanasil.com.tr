@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/proya.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Proya","contact":{"web":"https://proya.net","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/proya.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Proya",
+  "contact": {
+    "web": "https://proya.net",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/proya-canada-corporation",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": "https://youtube.com/@PROYACANADACorporation-rn9vc"
+  }
+}

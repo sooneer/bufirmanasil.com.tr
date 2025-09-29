@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/hitsoft.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Hitsoft","contact":{"web":"https://hitsoft.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/hitsoft.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Hitsoft",
+  "contact": {
+    "web": "https://hitsoft.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/hitsoft",
+    "twitter": "",
+    "facebook": "https://facebook.com/HitsoftTR",
+    "instagram": "https://instagram.com/hitsoft",
+    "youtube": "https://youtube.com/@hitsofttv1267",
+    "x": "https://x.com/Hitsoft"
+  }
+}

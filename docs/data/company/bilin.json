@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/bilin.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Bilin","contact":{"web":"https://bilin.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/bilin.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Bilin",
+  "contact": {
+    "web": "https://bilin.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/bilinyazilim",
+    "twitter": "",
+    "facebook": "https://facebook.com/bilinyazilim",
+    "instagram": "https://instagram.com/bilinyazilim?igshid=1paqtoe9vvtxb",
+    "youtube": "",
+    "x": "https://x.com/bilinyazilim"
+  }
+}

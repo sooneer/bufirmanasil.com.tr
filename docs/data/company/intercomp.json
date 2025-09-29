@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/intercomp.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"İntercomp","contact":{"web":"https://intercomp.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/intercomp.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "İntercomp",
+  "contact": {
+    "web": "https://intercomp.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/intercompteknoloji",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "https://instagram.com/intercompteknoloji",
+    "youtube": "",
+    "x": "https://x.com/intercomptek"
+  }
+}

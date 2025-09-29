@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/eray.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Eray","contact":{"web":"https://eray.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/eray.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Eray",
+  "contact": {
+    "web": "https://eray.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/erayteknoloji-as",
+    "twitter": "",
+    "facebook": "https://facebook.com/ErayTeknolojiAS",
+    "instagram": "https://instagram.com/erayteknoloji",
+    "youtube": "https://youtube.com/channel/UC_-6uCf_9Za4zMjpUf3y9tw",
+    "x": "https://x.com/ErayTeknolojiAS"
+  }
+}

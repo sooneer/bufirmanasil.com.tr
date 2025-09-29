@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/erpateknoloji.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Erpateknoloji","contact":{"web":"https://erpateknoloji.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/erpateknoloji.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Erpateknoloji",
+  "contact": {
+    "web": "https://erpateknoloji.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/erpa-teknoloji",
+    "twitter": "",
+    "facebook": "https://facebook.com/Erpa.Kurumsal",
+    "instagram": "https://instagram.com/erpa.teknoloji",
+    "youtube": "https://youtube.com/@Erpateknoloji95",
+    "x": "https://x.com/Erpa_Teknoloji"
+  }
+}

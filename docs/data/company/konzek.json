@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/konzek.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Konzek","contact":{"web":"https://konzek.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/konzek.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Konzek",
+  "contact": {
+    "web": "https://konzek.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/konzekteknoloji",
+    "twitter": "",
+    "facebook": "https://facebook.com/konzekteknolojii",
+    "instagram": "https://instagram.com/konzekteknoloji",
+    "youtube": "https://youtube.com/@konzekteknoloji6308",
+    "x": "https://x.com/konzekteknoloji?s=11&t=Mr7v2b1IvTI50RupSfLz8w"
+  }
+}

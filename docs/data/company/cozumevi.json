@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/cozumevi.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Cozumevi","contact":{"web":"https://cozumevi.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/cozumevi.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Cozumevi",
+  "contact": {
+    "web": "https://cozumevi.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/cozumevi-consulting",
+    "twitter": "",
+    "facebook": "https://facebook.com/cozumevi",
+    "instagram": "https://instagram.com/czmdanismanlik",
+    "youtube": "https://youtube.com/channel/UCrWGo0B6jvqUl6EA252dtfQ",
+    "x": "https://x.com/Cozumevi_"
+  }
+}

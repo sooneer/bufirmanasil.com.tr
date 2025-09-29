@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/prysmiangroup.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Prysmiangroup","contact":{"web":"https://prysmiangroup.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/prysmiangroup.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Prysmiangroup",
+  "contact": {
+    "web": "https://prysmiangroup.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/prysmian",
+    "twitter": "",
+    "facebook": "https://facebook.com/prysmiankablo",
+    "instagram": "https://instagram.com/prysmiankablo",
+    "youtube": "https://youtube.com/c/PrysmianKablo1964",
+    "x": "https://x.com/prysmiankablo"
+  }
+}

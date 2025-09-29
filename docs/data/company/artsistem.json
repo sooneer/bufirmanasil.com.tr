@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/artsistem.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Art Sistem","contact":{"web":"https://artsistem.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/artsistem.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Art Sistem",
+  "contact": {
+    "web": "https://artsistem.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/artsistem",
+    "twitter": "",
+    "facebook": "https://facebook.com/ArtSistem",
+    "instagram": "https://instagram.com/artsistem",
+    "youtube": "https://youtube.com/channel/UC5V1MNZYedlHLnzpPdHlWsw"
+  }
+}

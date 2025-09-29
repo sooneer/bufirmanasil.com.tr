@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/maccom.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Maccom","contact":{"web":"https://maccom.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/maccom.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Maccom",
+  "contact": {
+    "web": "https://maccom.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "https://facebook.com/elmazamani",
+    "instagram": "",
+    "youtube": ""
+  }
+}

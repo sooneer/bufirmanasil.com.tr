@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/payten.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Payten","contact":{"web":"https://payten.com/tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/payten.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Payten",
+  "contact": {
+    "web": "https://payten.com/tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/payten",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": "https://youtube.com/user/AssecoSEE",
+    "x": "https://x.com/Asseco_SEE"
+  }
+}

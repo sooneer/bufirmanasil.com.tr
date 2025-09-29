@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/bimel.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Bimel","contact":{"web":"https://bimel.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/bimel.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Bimel",
+  "contact": {
+    "web": "https://bimel.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/bimel-elektronik",
+    "twitter": "",
+    "facebook": "https://facebook.com/bimel.a.s",
+    "instagram": "",
+    "youtube": "https://youtube.com/user/bimelltd",
+    "x": "https://x.com/bimelelektronik"
+  }
+}

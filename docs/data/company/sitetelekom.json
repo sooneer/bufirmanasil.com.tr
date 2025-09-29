@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/sitetelekom.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Sitetelekom","contact":{"web":"https://sitetelekom.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/sitetelekom.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Sitetelekom",
+  "contact": {
+    "web": "https://sitetelekom.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/sitetelekom",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "https://instagram.com/sitetelekom",
+    "youtube": "https://youtube.com/@sitetelekom",
+    "x": "https://x.com/site_telekom"
+  }
+}

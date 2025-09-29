@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/basistek.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Basistek","contact":{"web":"https://basistek.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/basistek.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Basistek",
+  "contact": {
+    "web": "https://basistek.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/basistek-bilgi-teknolojileri-a-%C5%9F",
+    "twitter": "",
+    "facebook": "https://facebook.com/BasistekBT",
+    "instagram": "https://instagram.com/basistekbt",
+    "youtube": "https://youtube.com/channel/UCKYaVAHFx3iIiKzVxDaiK0w"
+  }
+}

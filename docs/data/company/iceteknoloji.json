@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/iceteknoloji.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"İceteknoloji","contact":{"web":"https://iceteknoloji.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/iceteknoloji.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "İceteknoloji",
+  "contact": {
+    "web": "https://iceteknoloji.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/iceteknoloji",
+    "twitter": "",
+    "facebook": "https://facebook.com/iceteknoloji",
+    "instagram": "https://instagram.com/iceteknoloji",
+    "youtube": "",
+    "x": "https://x.com/iceteknoloji"
+  }
+}

@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/hitit.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Hitit","contact":{"web":"https://hitit.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/hitit.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Hitit",
+  "contact": {
+    "web": "https://hitit.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/hitit-computer-services",
+    "twitter": "",
+    "facebook": "https://facebook.com/Hitit-Computer-Services-215828528451104",
+    "instagram": "https://instagram.com/hititcs",
+    "youtube": "https://youtube.com/channel/UCKlRiQja9Vwj4rte-Jxisvg",
+    "x": "https://x.com/HititCS"
+  }
+}

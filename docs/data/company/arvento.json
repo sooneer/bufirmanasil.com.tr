@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/arvento.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Arvento","contact":{"web":"https://arvento.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/arvento.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Arvento",
+  "contact": {
+    "web": "https://arvento.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/arvento-mobile-systems",
+    "twitter": "",
+    "facebook": "https://facebook.com/arvento",
+    "instagram": "https://instagram.com/arventoaractakip",
+    "youtube": "https://youtube.com/c/arvento",
+    "x": "https://x.com/arventomobile?s=21"
+  }
+}

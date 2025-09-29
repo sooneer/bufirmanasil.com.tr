@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/sentez.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Sentez","contact":{"web":"https://sentez.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/sentez.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Sentez",
+  "contact": {
+    "web": "https://sentez.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/sentezyazilim",
+    "twitter": "",
+    "facebook": "https://facebook.com/SentezYazilim",
+    "instagram": "https://instagram.com/sentezyazilim",
+    "youtube": "",
+    "x": "https://x.com/sentezyazilim"
+  }
+}

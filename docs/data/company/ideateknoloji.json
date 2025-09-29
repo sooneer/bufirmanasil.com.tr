@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/ideateknoloji.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"İdeateknoloji","contact":{"web":"https://ideateknoloji.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/ideateknoloji.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "İdeateknoloji",
+  "contact": {
+    "web": "https://ideateknoloji.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/975088",
+    "twitter": "",
+    "facebook": "https://facebook.com/IdeaTeknolojiCozumleri.TR",
+    "instagram": "https://instagram.com/ideateknolojicozumleri",
+    "youtube": "https://youtube.com/channel/UCb43Gjg6qzWpBvl-vBha7Ig",
+    "x": "https://x.com/idea_teknoloji"
+  }
+}

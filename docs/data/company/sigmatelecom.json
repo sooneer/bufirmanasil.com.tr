@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/sigmatelecom.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Sigmatelecom","contact":{"web":"https://sigmatelecom.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/sigmatelecom.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Sigmatelecom",
+  "contact": {
+    "web": "https://sigmatelecom.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/wix-com",
+    "twitter": "",
+    "facebook": "https://facebook.com/WixStudio",
+    "instagram": "https://instagram.com/wix",
+    "youtube": "https://youtube.com/user/Wix",
+    "x": "https://x.com/WixStudio"
+  }
+}

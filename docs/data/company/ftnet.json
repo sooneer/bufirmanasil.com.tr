@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/ftnet.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Ftnet","contact":{"web":"https://ftnet.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/ftnet.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Ftnet",
+  "contact": {
+    "web": "https://ftnet.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/ftnet-bilgi-ve-i%CC%87leti%C5%9Fim-hizmetleri-ti%CC%87caret-limited-%C5%9Firketi",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  }
+}

@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/globalict.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Globalict","contact":{"web":"https://globalict.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/globalict.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Globalict",
+  "contact": {
+    "web": "https://globalict.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": "",
+    "x": "https://x.com/globalictInfo"
+  }
+}

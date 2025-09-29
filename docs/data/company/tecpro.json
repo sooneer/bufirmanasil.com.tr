@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/tecpro.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Tecpro","contact":{"web":"https://tecpro.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/tecpro.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Tecpro",
+  "contact": {
+    "web": "https://tecpro.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/tecpro-bilgi-teknolojileri",
+    "twitter": "",
+    "facebook": "https://facebook.com/tecprobt",
+    "instagram": "https://instagram.com/tecprobt",
+    "youtube": "https://youtube.com/channel/UC3pHtIx4Rm4EuUQ3-OVl8bQ"
+  }
+}

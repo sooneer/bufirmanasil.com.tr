@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/yaz.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Yaz","contact":{"web":"https://yaz.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/yaz.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Yaz",
+  "contact": {
+    "web": "https://yaz.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/yaz-bilgi-sistemleri-a-s-",
+    "twitter": "",
+    "facebook": "https://facebook.com/yazbilgisistemleri",
+    "instagram": "",
+    "youtube": "",
+    "x": "https://x.com/yaz_bilgi"
+  }
+}

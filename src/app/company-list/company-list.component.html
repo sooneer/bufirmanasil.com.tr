@@ -6,7 +6,7 @@
 <div class="page-container">
   <ul>
     <li *ngFor="let company of companies">
-      <a [routerLink]="['/company', toFriendlyUrl(company)]">{{ company }}</a>
+      <a [routerLink]="['/company', company.slug]">{{ company.name }}</a>
     </li>
   </ul>
 </div>

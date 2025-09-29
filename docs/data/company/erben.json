@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/erben.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Erben","contact":{"web":"https://erben.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/erben.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Erben",
+  "contact": {
+    "web": "https://erben.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/erben-control-systems",
+    "twitter": "",
+    "facebook": "https://facebook.com/ErbenKontrolSistemleri",
+    "instagram": "https://instagram.com/erbenkontrolsistemleri",
+    "youtube": ""
+  }
+}

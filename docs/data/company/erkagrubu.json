@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/erkagrubu.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Erkagrubu","contact":{"web":"https://erkagrubu.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/erkagrubu.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Erkagrubu",
+  "contact": {
+    "web": "https://erkagrubu.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/bizigo",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "https://instagram.com/bizigocom",
+    "youtube": "https://youtube.com/@Bizigo"
+  }
+}

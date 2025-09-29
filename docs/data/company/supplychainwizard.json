@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/supplychainwizard.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Supplychainwizard","contact":{"web":"https://supplychainwizard.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/supplychainwizard.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Supplychainwizard",
+  "contact": {
+    "web": "https://supplychainwizard.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/supply-chain-wizard-llc",
+    "twitter": "",
+    "facebook": "https://facebook.com/supplychainwizard",
+    "instagram": "https://instagram.com/supplychainwizard",
+    "youtube": "",
+    "x": "https://x.com/SC_wizard"
+  }
+}

@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/miateknoloji.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Miateknoloji","contact":{"web":"https://miateknoloji.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/miateknoloji.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Miateknoloji",
+  "contact": {
+    "web": "https://miateknoloji.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/miateknolojias",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "https://instagram.com/miateknoloji",
+    "youtube": "https://youtube.com/channel/UC1vMUd8urMXtMiRm5hJhGEA",
+    "x": "https://x.com/miateknoloji"
+  }
+}

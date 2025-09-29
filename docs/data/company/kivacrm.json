@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/kivacrm.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Kivacrm","contact":{"web":"https://kivacrm.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/kivacrm.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Kivacrm",
+  "contact": {
+    "web": "https://kivacrm.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/kivacrm",
+    "twitter": "",
+    "facebook": "https://facebook.com/KivaCRM",
+    "instagram": "",
+    "youtube": "https://youtube.com/channel/UCibdO9z_H0SuvTfpdNLyjYg",
+    "x": "https://x.com/KivaCRM"
+  }
+}

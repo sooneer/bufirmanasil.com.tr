@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/beyaz.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Beyaz","contact":{"web":"https://beyaz.net","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/beyaz.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Beyaz",
+  "contact": {
+    "web": "https://beyaz.net",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/beyaz.net",
+    "twitter": "",
+    "facebook": "https://facebook.com/beyaznet",
+    "instagram": "https://instagram.com/beyaznet1",
+    "youtube": "",
+    "x": "https://x.com/beyaznet1"
+  }
+}

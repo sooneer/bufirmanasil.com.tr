@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/beyn.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Beyn","contact":{"web":"https://beyn.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/beyn.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Beyn",
+  "contact": {
+    "web": "https://beyn.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/18212697",
+    "twitter": "",
+    "facebook": "https://facebook.com/beyncomtr",
+    "instagram": "https://instagram.com/beyncomtr",
+    "youtube": "",
+    "x": "https://x.com/beyncomtr"
+  }
+}

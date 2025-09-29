@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/netaxtech.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Netaxtech","contact":{"web":"https://netaxtech.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/netaxtech.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Netaxtech",
+  "contact": {
+    "web": "https://netaxtech.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/netax",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  }
+}

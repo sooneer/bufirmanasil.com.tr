@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/dekatechs.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Dekatechs","contact":{"web":"https://dekatechs.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/dekatechs.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Dekatechs",
+  "contact": {
+    "web": "https://dekatechs.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/dekatechs",
+    "twitter": "",
+    "facebook": "https://facebook.com/dekatechs",
+    "instagram": "",
+    "youtube": "",
+    "x": "https://x.com/dekatechnology"
+  }
+}

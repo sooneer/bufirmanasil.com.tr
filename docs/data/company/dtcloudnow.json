@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/dtcloudnow.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Dtcloudnow","contact":{"web":"https://dtcloudnow.com/tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/dtcloudnow.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Dtcloudnow",
+  "contact": {
+    "web": "https://dtcloudnow.com/tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/dtcloud",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "https://instagram.com/dtdigitaltransformation",
+    "youtube": "https://youtube.com/@dtcloud?si=3Mhnv_fVn7NfW0J6",
+    "x": "https://x.com/DTCloudnow"
+  }
+}

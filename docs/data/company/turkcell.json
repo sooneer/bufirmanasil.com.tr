@@ -25,10 +25,10 @@
     "taxNumber": ""
   },
   "social": {
-    "linkedin": "",
-    "x": "",
-    "instagram": "",
-    "facebook": "",
+    "linkedin": "https://linkedin.com/company/turkcell",
+    "x": "https://x.com/Turkcell",
+    "instagram": "https://instagram.com/Turkcell",
+    "facebook": "https://facebook.com/Turkcell",
     "youtube": "",
     "github": ""
   }

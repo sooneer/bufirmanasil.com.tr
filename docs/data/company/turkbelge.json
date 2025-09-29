@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/turkbelge.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Turkbelge","contact":{"web":"https://turkbelge.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/turkbelge.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Turkbelge",
+  "contact": {
+    "web": "https://turkbelge.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/türkbelge",
+    "twitter": "",
+    "facebook": "https://facebook.com/turkbelgecomtr",
+    "instagram": "https://instagram.com/turkbelgecomtr",
+    "youtube": "https://youtube.com/channel/UCoN_hCT5vi_D-FyWujdH2IA",
+    "x": "https://x.com/turkbelgecomtr"
+  }
+}

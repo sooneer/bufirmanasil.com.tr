@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/biletinial.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Biletinial","contact":{"web":"https://biletinial.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/biletinial.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Biletinial",
+  "contact": {
+    "web": "https://biletinial.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/biletinial",
+    "twitter": "",
+    "facebook": "https://facebook.com/biletinial",
+    "instagram": "https://instagram.com/biletinial",
+    "youtube": "https://youtube.com/channel/UCa0l9znRJ9opfl09iYBJVug?sub_confirmation=1",
+    "x": "https://x.com/biletinial"
+  }
+}

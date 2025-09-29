@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/kalemyazilim.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Kalemyazilim","contact":{"web":"https://kalemyazilim.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/kalemyazilim.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Kalemyazilim",
+  "contact": {
+    "web": "https://kalemyazilim.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/781274?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A781274%2Cidx%3A1-1-1%2CtarId%3A1456922934960%2Ctas%3Akalem%20yaz%C4%B1l%C4%B1m",
+    "twitter": "",
+    "facebook": "https://facebook.com/kalemyazilimcom",
+    "instagram": "https://instagram.com/kalemyazilimcom",
+    "youtube": "https://youtube.com/channel/UCYQPknm8XxPjO7PaCgeYtpg",
+    "x": "https://x.com/kalemyazilimcom"
+  }
+}

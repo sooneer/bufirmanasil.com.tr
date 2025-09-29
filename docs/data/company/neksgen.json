@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/neksgen.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Neksgen","contact":{"web":"https://neksgen.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/neksgen.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Neksgen",
+  "contact": {
+    "web": "https://neksgen.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/nexgen-bilisim-teknolojileri",
+    "twitter": "",
+    "facebook": "https://facebook.com/Nexgenitsolutiontr",
+    "instagram": "",
+    "youtube": "",
+    "x": "https://x.com/NexGenBilisim"
+  }
+}

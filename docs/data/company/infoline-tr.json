@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/infoline-tr.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"İnfoline Tr","contact":{"web":"https://infoline-tr.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/infoline-tr.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "İnfoline Tr",
+  "contact": {
+    "web": "https://infoline-tr.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/infolinetr",
+    "twitter": "",
+    "facebook": "https://facebook.com/infolinebilgiteknolojileri",
+    "instagram": "https://instagram.com/infolinetr",
+    "youtube": "https://youtube.com/channel/UCzQ5O0c4iLPEak5JoN6q4zA"
+  }
+}

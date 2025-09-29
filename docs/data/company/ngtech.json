@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/ngtech.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Ngtech","contact":{"web":"https://ngtech.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/ngtech.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Ngtech",
+  "contact": {
+    "web": "https://ngtech.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/ngtech-bilgi-ve-iletişim-teknolojileri",
+    "twitter": "",
+    "facebook": "https://facebook.com/ngtechbilgiteknolojileri?locale=tr_TR",
+    "instagram": "https://instagram.com/ngtechtr",
+    "youtube": "",
+    "x": "https://x.com/ngtech_tr"
+  }
+}

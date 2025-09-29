@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/turkticaret.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Turkticaret","contact":{"web":"https://turkticaret.net","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/turkticaret.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Turkticaret",
+  "contact": {
+    "web": "https://turkticaret.net",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/turkticaretnet",
+    "twitter": "",
+    "facebook": "https://facebook.com/turkticaretnet",
+    "instagram": "https://instagram.com/turkticaretnet",
+    "youtube": "https://youtube.com/channel/UC98D45HtmnSPbHFXy3wQnKw",
+    "x": "https://x.com/turkticaretnet"
+  }
+}

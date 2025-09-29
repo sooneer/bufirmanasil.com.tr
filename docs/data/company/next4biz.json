@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/next4biz.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Next4biz","contact":{"web":"https://next4biz.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/next4biz.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Next4biz",
+  "contact": {
+    "web": "https://next4biz.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/next4biz",
+    "twitter": "",
+    "facebook": "https://facebook.com/next4biz",
+    "instagram": "https://instagram.com/next4biz",
+    "youtube": "https://youtube.com/@next4biz"
+  }
+}

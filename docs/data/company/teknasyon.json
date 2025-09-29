@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/teknasyon.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Teknasyon","contact":{"web":"https://teknasyon.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/teknasyon.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Teknasyon",
+  "contact": {
+    "web": "https://teknasyon.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/teknasyon",
+    "twitter": "",
+    "facebook": "https://facebook.com/teknasyon",
+    "instagram": "https://instagram.com/teknasyon",
+    "youtube": "https://youtube.com/c/TeknasyonTech",
+    "x": "https://x.com/teknasyontech"
+  }
+}

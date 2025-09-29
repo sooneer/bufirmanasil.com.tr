@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/e-cozum.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"E Cozum","contact":{"web":"https://e-cozum.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/e-cozum.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "E Cozum",
+  "contact": {
+    "web": "https://e-cozum.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/e-cozum-bilisim",
+    "twitter": "",
+    "facebook": "https://facebook.com/eCozum",
+    "instagram": "",
+    "youtube": "",
+    "x": "https://x.com/ecozumbilisim"
+  }
+}

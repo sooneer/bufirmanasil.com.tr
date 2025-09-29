@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/mbi.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Mbi","contact":{"web":"https://mbi.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/mbi.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Mbi",
+  "contact": {
+    "web": "https://mbi.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/modelerp",
+    "twitter": "",
+    "facebook": "https://facebook.com/people",
+    "instagram": "https://instagram.com/model_erp",
+    "youtube": "",
+    "x": "https://x.com/modelerp"
+  }
+}

@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/enfobilisim.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Enfobilisim","contact":{"web":"https://enfobilisim.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/enfobilisim.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Enfobilisim",
+  "contact": {
+    "web": "https://enfobilisim.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/enfobilisim",
+    "twitter": "",
+    "facebook": "https://facebook.com/enfobilisim",
+    "instagram": "https://instagram.com/enfobilisim",
+    "youtube": "",
+    "x": "https://x.com/enfobilisim"
+  }
+}

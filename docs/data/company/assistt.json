@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/assistt.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Assistt","contact":{"web":"https://assistt.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/assistt.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Assistt",
+  "contact": {
+    "web": "https://assistt.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/assisttkurumsal",
+    "twitter": "",
+    "facebook": "https://facebook.com/AssisTTkurumsal",
+    "instagram": "https://instagram.com/assisttkurumsal",
+    "youtube": "https://youtube.com/c/AssisTTkurumsal",
+    "x": "https://x.com/assisttkurumsal"
+  }
+}

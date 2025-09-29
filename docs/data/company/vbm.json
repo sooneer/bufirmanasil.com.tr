@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/vbm.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Vbm","contact":{"web":"https://vbm.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/vbm.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Vbm",
+  "contact": {
+    "web": "https://vbm.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/vbm-technology",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  }
+}

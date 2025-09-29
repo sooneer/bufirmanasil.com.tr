@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/tescom-ups.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Tescom Ups","contact":{"web":"https://tescom-ups.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/tescom-ups.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Tescom Ups",
+  "contact": {
+    "web": "https://tescom-ups.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/tescom-ups",
+    "twitter": "",
+    "facebook": "https://facebook.com/TescomUPS",
+    "instagram": "https://instagram.com/tescom_ups",
+    "youtube": "https://youtube.com/@TescomUPS?sub_confirmation=1",
+    "x": "https://x.com/TESCOM_UPS"
+  }
+}

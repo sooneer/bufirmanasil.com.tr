@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/vmind.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Vmind","contact":{"web":"https://vmind.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/vmind.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Vmind",
+  "contact": {
+    "web": "https://vmind.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/vmind-bilgi-teknolojileri",
+    "twitter": "",
+    "facebook": "https://facebook.com/vmindbilgi",
+    "instagram": "https://instagram.com/vmind",
+    "youtube": "https://youtube.com/user/vmindinfo",
+    "x": "https://x.com/vmindinfo"
+  }
+}

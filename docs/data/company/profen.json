@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/profen.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Profen","contact":{"web":"https://profen.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/profen.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Profen",
+  "contact": {
+    "web": "https://profen.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/profen-group",
+    "twitter": "",
+    "facebook": "https://facebook.com/profengroup",
+    "instagram": "https://instagram.com/profen_group",
+    "youtube": "",
+    "x": "https://x.com/profengroup"
+  }
+}

@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/bilkom.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Bilkom","contact":{"web":"https://bilkom.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/bilkom.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Bilkom",
+  "contact": {
+    "web": "https://bilkom.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/bilkom",
+    "twitter": "",
+    "facebook": "https://facebook.com/bilkom",
+    "instagram": "https://instagram.com/p",
+    "youtube": "https://youtube.com/channel/UC6ncaEYZ54TYx6DYlZ6xe9g",
+    "x": "https://x.com/Bilkom"
+  }
+}

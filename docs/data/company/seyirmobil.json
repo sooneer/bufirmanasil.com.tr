@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/seyirmobil.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Seyirmobil","contact":{"web":"https://seyirmobil.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/seyirmobil.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Seyirmobil",
+  "contact": {
+    "web": "https://seyirmobil.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/seyirmobil",
+    "twitter": "",
+    "facebook": "https://facebook.com/seyirmobil",
+    "instagram": "https://instagram.com/seyirmobil",
+    "youtube": "https://youtube.com/channel/UC3o7kMyQfCxz5xSXEkxB09g",
+    "x": "https://x.com/seyirmobil"
+  }
+}

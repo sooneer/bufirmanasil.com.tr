@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/ardbilisim.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"ARD Bilişim","contact":{"web":"https://ardbilisim.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/ardbilisim.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "ARD Bilişim",
+  "contact": {
+    "web": "https://ardbilisim.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/ardgrupofficial",
+    "twitter": "",
+    "facebook": "https://facebook.com/ardgrupofficial",
+    "instagram": "https://instagram.com/ardgrupofficial",
+    "youtube": "",
+    "x": "https://x.com/ardgrupofficial"
+  }
+}

@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/iriss.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"İriss","contact":{"web":"https://iriss.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/iriss.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "İriss",
+  "contact": {
+    "web": "https://iriss.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/irisstech",
+    "twitter": "",
+    "facebook": "https://facebook.com/irisstech",
+    "instagram": "https://instagram.com/iriss_tech",
+    "youtube": "https://youtube.com/channel/UCOcX48lxzE8-odaitEj1oJQ",
+    "x": "https://x.com/irisstech"
+  }
+}

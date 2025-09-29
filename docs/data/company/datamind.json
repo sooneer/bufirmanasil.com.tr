@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/datamind.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Datamind","contact":{"web":"https://datamind.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/datamind.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Datamind",
+  "contact": {
+    "web": "https://datamind.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/treomind-make-ai-work",
+    "twitter": "",
+    "facebook": "https://facebook.com/treomind",
+    "instagram": "https://instagram.com/treomind.hq",
+    "youtube": "https://youtube.com/@treomind",
+    "x": "https://x.com/treomind_hq"
+  }
+}

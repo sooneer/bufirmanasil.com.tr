@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/penta.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Penta","contact":{"web":"https://penta.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/penta.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Penta",
+  "contact": {
+    "web": "https://penta.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/537508",
+    "twitter": "",
+    "facebook": "https://facebook.com/pentateknoloji",
+    "instagram": "https://instagram.com/pentateknoloji",
+    "youtube": "https://youtube.com/channel/UCw6_tNyqZ5_Awv-SGrlLK6A",
+    "x": "https://x.com/pentateknoloji"
+  }
+}

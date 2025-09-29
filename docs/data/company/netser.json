@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/netser.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Netser","contact":{"web":"https://netser.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/netser.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Netser",
+  "contact": {
+    "web": "https://netser.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/netsergrup",
+    "twitter": "",
+    "facebook": "https://facebook.com/netsergrup",
+    "instagram": "https://instagram.com/netsergrup",
+    "youtube": "https://youtube.com/channel/UCrFRn0Qn39Y7IjpR2vueI_g?view_as=subscriber",
+    "x": "https://x.com/netsergrup"
+  }
+}

@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/vektora.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Vektora","contact":{"web":"https://vektora.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/vektora.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Vektora",
+  "contact": {
+    "web": "https://vektora.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/vektora",
+    "twitter": "",
+    "facebook": "https://facebook.com/vektora",
+    "instagram": "https://instagram.com/vektorayazilim",
+    "youtube": "https://youtube.com/user/VektoraTR",
+    "x": "https://x.com/vektora"
+  }
+}

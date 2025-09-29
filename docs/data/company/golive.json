@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/golive.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Golive","contact":{"web":"https://golive.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/golive.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Golive",
+  "contact": {
+    "web": "https://golive.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/golive-consulting",
+    "twitter": "",
+    "facebook": "https://facebook.com/GoLiveYazilimAS",
+    "instagram": "https://instagram.com/goliveyazilim",
+    "youtube": "",
+    "x": "https://x.com/GoLiveYazilimAS"
+  }
+}

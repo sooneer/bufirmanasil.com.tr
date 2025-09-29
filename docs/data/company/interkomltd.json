@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/interkomltd.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"İnterkomltd","contact":{"web":"https://interkomltd.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/interkomltd.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "İnterkomltd",
+  "contact": {
+    "web": "https://interkomltd.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/in/interkom-telekomünikasyon-6b5942b7",
+    "twitter": "",
+    "facebook": "https://facebook.com/interkomltd",
+    "instagram": "https://instagram.com/interkomtelekomunikasyon",
+    "youtube": "",
+    "x": "https://x.com/interkomltd"
+  }
+}

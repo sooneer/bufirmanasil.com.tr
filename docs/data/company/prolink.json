@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/prolink.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Prolink","contact":{"web":"https://prolink.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/prolink.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Prolink",
+  "contact": {
+    "web": "https://prolink.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/prolinktr",
+    "twitter": "",
+    "facebook": "https://facebook.com/prolinktr?fref=ts",
+    "instagram": "https://instagram.com/prolink.solvingit",
+    "youtube": "https://youtube.com/@prolink.solvingit",
+    "x": "https://x.com/products"
+  }
+}

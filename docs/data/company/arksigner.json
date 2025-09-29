@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/arksigner.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Arksigner","contact":{"web":"https://arksigner.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/arksigner.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Arksigner",
+  "contact": {
+    "web": "https://arksigner.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/arksigner",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "https://instagram.com/arksigner",
+    "youtube": "https://youtube.com/channel/UCK3erCM_xoqujBAE-hhPUmw",
+    "x": "https://x.com/ArkSigner"
+  }
+}

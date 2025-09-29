@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/stm.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Stm","contact":{"web":"https://stm.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/stm.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Stm",
+  "contact": {
+    "web": "https://stm.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/stmdefence",
+    "twitter": "",
+    "facebook": "https://facebook.com/STMDefence",
+    "instagram": "https://instagram.com/stmdefence",
+    "youtube": "https://youtube.com/c/STMDefence",
+    "x": "https://x.com/STMDefence"
+  }
+}

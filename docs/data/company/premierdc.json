@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/premierdc.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Premierdc","contact":{"web":"https://premierdc.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/premierdc.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Premierdc",
+  "contact": {
+    "web": "https://premierdc.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/premierdc",
+    "twitter": "",
+    "facebook": "https://facebook.com/premierdc",
+    "instagram": "https://instagram.com/premier.dc",
+    "youtube": "https://youtube.com/@premierdc.verimerkezi",
+    "x": "https://x.com/Premierdc_tr"
+  }
+}

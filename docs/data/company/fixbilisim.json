@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/fixbilisim.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Fixbilisim","contact":{"web":"https://fixbilisim.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/fixbilisim.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Fixbilisim",
+  "contact": {
+    "web": "https://fixbilisim.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/6418484",
+    "twitter": "",
+    "facebook": "https://facebook.com/469610276524978",
+    "instagram": "https://instagram.com/fix_bilisim",
+    "youtube": "https://youtube.com/channel/UCJdxxTRhA5XgVxvYCdUTs7A",
+    "x": "https://x.com/FixBilisim"
+  }
+}

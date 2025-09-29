@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/robotistan.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Robotistan","contact":{"web":"https://robotistan.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/robotistan.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Robotistan",
+  "contact": {
+    "web": "https://robotistan.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/3202451",
+    "twitter": "",
+    "facebook": "https://facebook.com/Robotistancom",
+    "instagram": "https://instagram.com/robotistan",
+    "youtube": "https://youtube.com/@robotistan",
+    "x": "https://x.com/robotistan"
+  }
+}

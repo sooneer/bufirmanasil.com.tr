@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/asis.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Asis","contact":{"web":"https://asis.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/asis.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Asis",
+  "contact": {
+    "web": "https://asis.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/asis-automation-inc",
+    "twitter": "",
+    "facebook": "https://facebook.com/asisotomasyon",
+    "instagram": "https://instagram.com/asisotomasyon",
+    "youtube": "https://youtube.com/channel/UCgiJh9vUXazk_OsjIz33VYw",
+    "x": "https://x.com/AsisAutomation"
+  }
+}

@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/vescom.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Vescom","contact":{"web":"https://vescom.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/vescom.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Vescom",
+  "contact": {
+    "web": "https://vescom.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/in/vescomcomtr",
+    "twitter": "",
+    "facebook": "https://facebook.com/vescomcomtr",
+    "instagram": "https://instagram.com/vescomcomtr",
+    "youtube": "https://youtube.com/@vescomcomtr164",
+    "x": "https://x.com/vescomcomtr"
+  }
+}

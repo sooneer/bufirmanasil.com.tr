@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/coretek.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Coretek","contact":{"web":"https://coretek.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/coretek.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Coretek",
+  "contact": {
+    "web": "https://coretek.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/coretek-bilgi-teknolojileri",
+    "twitter": "",
+    "facebook": "https://facebook.com/coretekbt",
+    "instagram": "https://instagram.com/coretekbt",
+    "youtube": "",
+    "x": "https://x.com/coretekbt"
+  }
+}

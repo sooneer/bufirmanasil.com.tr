@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/samm.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Samm","contact":{"web":"https://samm.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/samm.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Samm",
+  "contact": {
+    "web": "https://samm.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/sammteknoloji",
+    "twitter": "",
+    "facebook": "https://facebook.com/SammTeknoloji",
+    "instagram": "https://instagram.com/sammteknoloji",
+    "youtube": "",
+    "x": "https://x.com/SammTeknoloji"
+  }
+}

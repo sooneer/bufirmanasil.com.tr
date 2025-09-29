@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/inavitas.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"İnavitas","contact":{"web":"https://inavitas.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/inavitas.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "İnavitas",
+  "contact": {
+    "web": "https://inavitas.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/inavitascom",
+    "twitter": "",
+    "facebook": "https://facebook.com/inavitasenergymanagementsolutions",
+    "instagram": "https://instagram.com/inavitascom",
+    "youtube": "https://youtube.com/@inavitas",
+    "x": "https://x.com/inavitascom"
+  }
+}

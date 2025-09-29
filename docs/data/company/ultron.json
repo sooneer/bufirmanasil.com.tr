@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/ultron.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Ultron","contact":{"web":"https://ultron.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/ultron.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Ultron",
+  "contact": {
+    "web": "https://ultron.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/ultronbilisim",
+    "twitter": "",
+    "facebook": "https://facebook.com/ULTRONBILISIM",
+    "instagram": "https://instagram.com/ultron.bilisim",
+    "youtube": ""
+  }
+}

@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/elcobil.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Elcobil","contact":{"web":"https://elcobil.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/elcobil.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Elcobil",
+  "contact": {
+    "web": "https://elcobil.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/elcobil-bili-im",
+    "twitter": "",
+    "facebook": "https://facebook.com/Elcobil-1029687767050308",
+    "instagram": "",
+    "youtube": "",
+    "x": "https://x.com/Elcobil"
+  }
+}

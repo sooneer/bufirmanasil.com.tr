@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/turkkep.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Turkkep","contact":{"web":"https://turkkep.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/turkkep.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Turkkep",
+  "contact": {
+    "web": "https://turkkep.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/turkkepcomtr",
+    "twitter": "",
+    "facebook": "https://facebook.com/turkkepcomtr",
+    "instagram": "https://instagram.com/turkkepcomtr",
+    "youtube": "https://youtube.com/c/T%C3%9CRKKEPKAYITLIELEKTRON%C4%B0KPOSTAA%C5%9E",
+    "x": "https://x.com/turkkepcomtr"
+  }
+}

@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/stratus.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Stratus","contact":{"web":"https://stratus.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/stratus.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Stratus",
+  "contact": {
+    "web": "https://stratus.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/esetturkiye",
+    "twitter": "",
+    "facebook": "https://facebook.com/ESETTurkiye",
+    "instagram": "https://instagram.com/eset.tr",
+    "youtube": "https://youtube.com/@eset-tr",
+    "x": "https://x.com/esetturkiye"
+  }
+}

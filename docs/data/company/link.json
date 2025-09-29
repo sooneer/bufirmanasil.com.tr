@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/link.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Link","contact":{"web":"https://link.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/link.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Link",
+  "contact": {
+    "web": "https://link.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/linkbilgisayar",
+    "twitter": "",
+    "facebook": "https://facebook.com/linkbilgisayar",
+    "instagram": "https://instagram.com/link.bilgisayar",
+    "youtube": "https://youtube.com/@LinkBilgisayar",
+    "x": "https://x.com/linkbilgisayar"
+  }
+}

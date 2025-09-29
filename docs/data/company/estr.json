@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/estr.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Estr","contact":{"web":"https://estr.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/estr.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Estr",
+  "contact": {
+    "web": "https://estr.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/es-localization-services-ltd",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "https://instagram.com/eslocalization",
+    "youtube": "",
+    "x": "https://x.com/eslocalization"
+  }
+}

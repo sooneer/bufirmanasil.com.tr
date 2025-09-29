@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/kyoceradocumentsolutions.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Kyoceradocumentsolutions","contact":{"web":"https://kyoceradocumentsolutions.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/kyoceradocumentsolutions.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Kyoceradocumentsolutions",
+  "contact": {
+    "web": "https://kyoceradocumentsolutions.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/kyocera-document-solutions-turkiye",
+    "twitter": "",
+    "facebook": "https://facebook.com/KyoceraTR",
+    "instagram": "https://instagram.com/kyoceraturkey",
+    "youtube": "https://youtube.com/user/Bilgitas",
+    "x": "https://x.com/KyoceraTR"
+  }
+}

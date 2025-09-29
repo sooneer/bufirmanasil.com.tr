@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/milsoftas.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Milsoftas","contact":{"web":"https://milsoftas.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/milsoftas.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Milsoftas",
+  "contact": {
+    "web": "https://milsoftas.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "https://facebook.com/milsoftsistem",
+    "instagram": "",
+    "youtube": "",
+    "x": "https://x.com/Milsoft_Sistem"
+  }
+}

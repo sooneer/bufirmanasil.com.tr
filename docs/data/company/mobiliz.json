@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/mobiliz.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Mobiliz","contact":{"web":"https://mobiliz.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/mobiliz.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Mobiliz",
+  "contact": {
+    "web": "https://mobiliz.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/mobiliz-bilgi-iletisim-teknolojileri",
+    "twitter": "",
+    "facebook": "https://facebook.com/mobiliztakip",
+    "instagram": "https://instagram.com/mobiliz_takip",
+    "youtube": "https://youtube.com/channel/UCp6dPtcwzUisfrxk0GnZ1Jg?view_as=public",
+    "x": "https://x.com/mobiliztakip"
+  }
+}

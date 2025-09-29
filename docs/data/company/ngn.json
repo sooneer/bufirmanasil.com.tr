@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/ngn.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Ngn","contact":{"web":"https://ngn.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/ngn.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Ngn",
+  "contact": {
+    "web": "https://ngn.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/ngnturkey",
+    "twitter": "",
+    "facebook": "https://facebook.com/ngnturkey",
+    "instagram": "https://instagram.com/ngnturkey",
+    "youtube": "https://youtube.com/channel/UCZqFA4hjiZZLOKaCMRLma8w",
+    "x": "https://x.com/ngnturkey"
+  }
+}

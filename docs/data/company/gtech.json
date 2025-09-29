@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/gtech.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Gtech","contact":{"web":"https://gtech.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/gtech.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Gtech",
+  "contact": {
+    "web": "https://gtech.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/gtechtr",
+    "twitter": "",
+    "facebook": "https://facebook.com/GTechTR",
+    "instagram": "https://instagram.com/gtech_global",
+    "youtube": "https://youtube.com/@gtech8875"
+  }
+}

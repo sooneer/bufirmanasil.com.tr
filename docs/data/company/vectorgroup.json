@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/vectorgroup.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Vectorgroup","contact":{"web":"https://vectorgroup.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/vectorgroup.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Vectorgroup",
+  "contact": {
+    "web": "https://vectorgroup.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/vector-barcode-&-information-technology",
+    "twitter": "",
+    "facebook": "https://facebook.com/VectorBT?ref=hl",
+    "instagram": "https://instagram.com/vectorbilgitekn",
+    "youtube": "https://youtube.com/channel/UCLUOiRYkZ4E6FkNz32XnLNw",
+    "x": "https://x.com/VectorBilgiTekn"
+  }
+}

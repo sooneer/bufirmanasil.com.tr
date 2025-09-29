@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/bilicra.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Bilicra","contact":{"web":"https://bilicra.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/bilicra.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Bilicra",
+  "contact": {
+    "web": "https://bilicra.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/bilicra",
+    "twitter": "",
+    "facebook": "https://facebook.com/bilicra",
+    "instagram": "https://instagram.com/bilicra",
+    "youtube": "https://youtube.com/@BilicraBiliyorumicimrahat",
+    "x": "https://x.com/bilicra"
+  }
+}

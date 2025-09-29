@@ -25,11 +25,11 @@
     "taxNumber": ""
   },
   "social": {
-    "linkedin": "",
-    "x": "",
-    "instagram": "",
-    "facebook": "",
-    "youtube": "",
+    "linkedin": "https://linkedin.com/company/logo-yazilim",
+    "x": "https://x.com/logoyazilim",
+    "instagram": "https://instagram.com/logoyazilim",
+    "facebook": "https://facebook.com/logoyazilim",
+    "youtube": "https://youtube.com/user/LOGOYazilim",
     "github": ""
   }
 }

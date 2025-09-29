@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/teletek.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Teletek","contact":{"web":"https://teletek.net.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/teletek.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Teletek",
+  "contact": {
+    "web": "https://teletek.net.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/teletek-bulut-bili-im-ve-ileti-im-hizmetleri-a-",
+    "twitter": "",
+    "facebook": "https://facebook.com/TeletekBulutBilisim",
+    "instagram": "https://instagram.com/teletekbulut",
+    "youtube": "",
+    "x": "https://x.com/teletekbulut"
+  }
+}

@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/netbilisim-tr.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Netbilisim Tr","contact":{"web":"https://netbilisim-tr.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/netbilisim-tr.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Netbilisim Tr",
+  "contact": {
+    "web": "https://netbilisim-tr.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/netaksesuarbilisim",
+    "twitter": "",
+    "facebook": "https://facebook.com/netbilisimurunleri",
+    "instagram": "https://instagram.com/netbilisim",
+    "youtube": "https://youtube.com/channel/UCRRAtZhwsWDR8lO0ysCSYiQ",
+    "x": "https://x.com/netbilisim_tr"
+  }
+}

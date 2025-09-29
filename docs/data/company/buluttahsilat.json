@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/buluttahsilat.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Buluttahsilat","contact":{"web":"https://buluttahsilat.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/buluttahsilat.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Buluttahsilat",
+  "contact": {
+    "web": "https://buluttahsilat.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": "https://youtube.com/@buluttahsilat142",
+    "x": "https://x.com/BulutTahsilat"
+  }
+}

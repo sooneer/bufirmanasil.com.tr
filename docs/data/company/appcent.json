@@ -25,11 +25,11 @@
     "taxNumber": ""
   },
   "social": {
-    "linkedin": "",
-    "x": "",
-    "instagram": "",
+    "linkedin": "https://linkedin.com/company/appcent",
+    "x": "https://x.com/appcenttech",
+    "instagram": "https://instagram.com/appcenttech",
     "facebook": "",
-    "youtube": "",
+    "youtube": "https://youtube.com/channel/UCIiiJ2rz0r_jpe5GGKXQe_w",
     "github": ""
   }
 }

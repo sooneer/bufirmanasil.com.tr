@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/cozumtek.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Cozumtek","contact":{"web":"https://cozumtek.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/cozumtek.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Cozumtek",
+  "contact": {
+    "web": "https://cozumtek.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/cozumtek",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "https://instagram.com/cozumtekinformationtech",
+    "youtube": "",
+    "x": "https://x.com/cozumtekt"
+  }
+}

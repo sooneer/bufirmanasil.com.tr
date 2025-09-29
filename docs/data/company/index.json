@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/index.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"İndex","contact":{"web":"https://index.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/index.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "İndex",
+  "contact": {
+    "web": "https://index.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/index-grup",
+    "twitter": "",
+    "facebook": "https://facebook.com/indexgruptr",
+    "instagram": "https://instagram.com/indexgrup",
+    "youtube": "https://youtube.com/user/IndexGrup",
+    "x": "https://x.com/indexgrup"
+  }
+}

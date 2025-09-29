@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/veribase.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Veribase","contact":{"web":"https://veribase.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/veribase.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Veribase",
+  "contact": {
+    "web": "https://veribase.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/veribase.com",
+    "twitter": "",
+    "facebook": "https://facebook.com/veribase.com.tr",
+    "instagram": "",
+    "youtube": "",
+    "x": "https://x.com/Veribase"
+  }
+}

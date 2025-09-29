@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/safe.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Safe","contact":{"web":"https://safe.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/safe.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Safe",
+  "contact": {
+    "web": "https://safe.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "https://facebook.com/profile.php?id=100074566399609",
+    "instagram": "https://instagram.com/safe_teknoloji",
+    "youtube": "",
+    "x": "https://x.com/Safe_Bilgisayar"
+  }
+}

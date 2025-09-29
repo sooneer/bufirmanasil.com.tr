@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/etg-itglobal.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Etg İt Global","contact":{"web":"https://etg-it.global","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/etg-itglobal.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Etg İt Global",
+  "contact": {
+    "web": "https://etg-it.global",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/etg-consulting",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  }
+}

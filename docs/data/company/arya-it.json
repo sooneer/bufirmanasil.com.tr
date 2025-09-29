@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/arya-it.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Arya IT","contact":{"web":"https://arya-it.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/arya-it.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Arya IT",
+  "contact": {
+    "web": "https://arya-it.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/arya-it",
+    "twitter": "",
+    "facebook": "https://facebook.com/aryaitbilisim",
+    "instagram": "https://instagram.com/aryaitbilisim",
+    "youtube": ""
+  }
+}

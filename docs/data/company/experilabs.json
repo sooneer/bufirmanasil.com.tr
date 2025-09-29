@@ -1,1 +1,28 @@
-{"founded":"","employees":"","logo":"/img/company/experilabs.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Experilabs","contact":{"web":"https://experilabs.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/experilabs.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Experilabs",
+  "contact": {
+    "web": "https://experilabs.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/experilabs-company",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "https://instagram.com/experilabslife",
+    "youtube": "https://youtube.com/channel/UCk16-9cFfVqsNuAplIdbNNg",
+    "x": "https://x.com/experilabs",
+    "github": "https://github.com/Experilabs"
+  }
+}

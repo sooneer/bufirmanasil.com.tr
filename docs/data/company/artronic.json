@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/artronic.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Artronic","contact":{"web":"https://artronic.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/artronic.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Artronic",
+  "contact": {
+    "web": "https://artronic.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/artronictr",
+    "twitter": "",
+    "facebook": "https://facebook.com/ARTronic-UPS-266935180007107",
+    "instagram": "https://instagram.com/artronicups",
+    "youtube": "https://youtube.com/channel/UCY9ENxxon2o9W-nnMKDC6JA",
+    "x": "https://x.com/ARTronicUPS"
+  }
+}

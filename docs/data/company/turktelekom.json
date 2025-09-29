@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/turktelekom.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Turktelekom","contact":{"web":"https://turktelekom.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/turktelekom.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Turktelekom",
+  "contact": {
+    "web": "https://turktelekom.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/turktelekom",
+    "twitter": "",
+    "facebook": "https://facebook.com/TurkTelekom",
+    "instagram": "https://instagram.com/TurkTelekom",
+    "youtube": "https://youtube.com/channel/UC39dZy9pIYVhn8iIDZ0K-cA",
+    "x": "https://x.com/turktelekom"
+  }
+}

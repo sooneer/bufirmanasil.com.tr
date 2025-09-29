@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/metasoft.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Metasoft","contact":{"web":"https://metasoft.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/metasoft.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Metasoft",
+  "contact": {
+    "web": "https://metasoft.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/in/burak-kortan-a17563238",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  }
+}

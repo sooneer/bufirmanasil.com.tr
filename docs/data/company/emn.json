@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/emn.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Emn","contact":{"web":"https://emn.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/emn.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Emn",
+  "contact": {
+    "web": "https://emn.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/emn-technology",
+    "twitter": "",
+    "facebook": "https://facebook.com/emnteknoloji",
+    "instagram": "https://instagram.com/emn_tech",
+    "youtube": "",
+    "x": "https://x.com/emn_tech"
+  }
+}

@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/egemsoft.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Egemsoft","contact":{"web":"https://egemsoft.net","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/egemsoft.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Egemsoft",
+  "contact": {
+    "web": "https://egemsoft.net",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/egemsoft",
+    "twitter": "",
+    "facebook": "https://facebook.com/egembilgi",
+    "instagram": "https://instagram.com/egemsoft",
+    "youtube": "https://youtube.com/@egemsoft9194",
+    "x": "https://x.com/egemsoft"
+  }
+}

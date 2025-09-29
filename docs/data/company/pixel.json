@@ -1,1 +1,27 @@
-{"founded":"","employees":"","logo":"/img/company/pixel.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Pixel","contact":{"web":"https://pixel.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "logo": "/img/company/pixel.svg",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Pixel",
+  "contact": {
+    "web": "https://pixel.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "https://linkedin.com/company/pixelbilisim",
+    "twitter": "",
+    "facebook": "https://facebook.com/pixelbilgiiletisim",
+    "instagram": "https://instagram.com/pixelkurumsal?igshid=YmMTA2M2Y=",
+    "youtube": "",
+    "x": "https://x.com/PixelBilisim"
+  }
+}
