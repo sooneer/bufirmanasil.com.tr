@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/practicallsolutions.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/practicallsolutions",
     "instagram": "https://instagram.com/pratikiletisim.resmi",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/practicallsolutions.png"
 }

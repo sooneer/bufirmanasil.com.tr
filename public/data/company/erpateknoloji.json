@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/erpateknoloji.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/erpa.teknoloji",
     "youtube": "https://youtube.com/@Erpateknoloji95",
     "x": "https://x.com/Erpa_Teknoloji"
-  }
+  },
+  "logo": "img/company/erpateknoloji.svg"
 }

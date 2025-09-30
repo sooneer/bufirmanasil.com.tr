@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/asis.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/asisotomasyon",
     "youtube": "https://youtube.com/channel/UCgiJh9vUXazk_OsjIz33VYw",
     "x": "https://x.com/AsisAutomation"
-  }
+  },
+  "logo": "img/company/asis.png"
 }

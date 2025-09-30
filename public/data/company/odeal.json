@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/odeal.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/odealapp",
     "youtube": "https://youtube.com/channel/UCu-ax5FHIMAFMCSTSr7k6jQ",
     "x": "https://x.com/odealpos"
-  }
+  },
+  "logo": "img/company/odeal.png"
 }

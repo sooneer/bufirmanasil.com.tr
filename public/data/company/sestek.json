@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/sestek.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/user/Sestek1",
     "x": "https://x.com/sestek"
-  }
+  },
+  "logo": "img/company/sestek.png"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/yaz.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "",
     "x": "https://x.com/yaz_bilgi"
-  }
+  },
+  "logo": "img/company/yaz.png"
 }

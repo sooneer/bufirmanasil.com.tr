@@ -1,6 +1,5 @@
 {
   "name": "Ankara BT",
-  "logo": "/img/company/ankarabt.svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "",
     "youtube": "https://youtube.com/@AnkaraBilgiTeknolojileri",
     "github": ""
-  }
+  },
+  "logo": "img/company/ankarabt.svg"
 }

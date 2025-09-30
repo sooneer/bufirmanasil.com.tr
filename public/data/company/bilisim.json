@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/bilisim.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/bilisimas",
     "youtube": "https://youtube.com/channel/UCQX1cKh-XWsl3oixYV6Hi_A",
     "x": "https://x.com/BilisimAS"
-  }
+  },
+  "logo": "img/company/bilisim.png"
 }

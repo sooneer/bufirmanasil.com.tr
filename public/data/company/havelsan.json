@@ -1,6 +1,5 @@
 {
   "name": "Havelsan",
-  "logo": "/img/company/havelsan.svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "",
     "youtube": "",
     "github": ""
-  }
+  },
+  "logo": "img/company/havelsan.svg"
 }

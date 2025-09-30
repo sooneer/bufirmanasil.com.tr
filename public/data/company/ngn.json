@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/ngn.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/ngnturkey",
     "youtube": "https://youtube.com/channel/UCZqFA4hjiZZLOKaCMRLma8w",
     "x": "https://x.com/ngnturkey"
-  }
+  },
+  "logo": "img/company/ngn.png"
 }

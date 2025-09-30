@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/solviads.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/solviads",
     "youtube": "https://youtube.com/channel/UCcuQFxOH8eZTFITOwfABA6A",
     "x": "https://x.com/solviads"
-  }
+  },
+  "logo": "img/company/solviads.webp"
 }

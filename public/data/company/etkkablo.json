@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/etkkablo.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/etkkablo",
     "youtube": "https://youtube.com/user/etkkablo",
     "x": "https://x.com/etkkablo"
-  }
+  },
+  "logo": "img/company/etkkablo.png"
 }

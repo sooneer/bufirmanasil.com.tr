@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/veribase.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "",
     "x": "https://x.com/Veribase"
-  }
+  },
+  "logo": "img/company/veribase.png"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/inavitas.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/inavitascom",
     "youtube": "https://youtube.com/@inavitas",
     "x": "https://x.com/inavitascom"
-  }
+  },
+  "logo": "img/company/inavitas.svg"
 }

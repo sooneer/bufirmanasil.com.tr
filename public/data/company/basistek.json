@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/basistek.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/BasistekBT",
     "instagram": "https://instagram.com/basistekbt",
     "youtube": "https://youtube.com/channel/UCKYaVAHFx3iIiKzVxDaiK0w"
-  }
+  },
+  "logo": "img/company/basistek.jpg"
 }

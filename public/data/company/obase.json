@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/obase.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/channel/UCAzosuoJ_nPW6Mm_AlHMdmw",
     "x": "https://x.com/obasesocial"
-  }
+  },
+  "logo": "img/company/obase.svg"
 }

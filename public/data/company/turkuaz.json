@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/turkuaz.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/turkuazkurumsal",
     "youtube": "",
     "x": "https://x.com/turkuaz_net"
-  }
+  },
+  "logo": "img/company/turkuaz.png"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/isbak.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/isbakas",
     "youtube": "https://youtube.com/@akilliulasim",
     "x": "https://x.com/isbakas"
-  }
+  },
+  "logo": "img/company/isbak.png"
 }

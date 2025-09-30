@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/bilin.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/bilinyazilim?igshid=1paqtoe9vvtxb",
     "youtube": "",
     "x": "https://x.com/bilinyazilim"
-  }
+  },
+  "logo": "img/company/bilin.png"
 }

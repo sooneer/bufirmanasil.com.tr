@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/cesa.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/cesabilism",
     "instagram": "",
     "youtube": "https://youtube.com/channel/UCreLANWtx-claeZd2rGDS_Q"
-  }
+  },
+  "logo": "img/company/cesa.png"
 }

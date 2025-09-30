@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/seyirmobil.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/seyirmobil",
     "youtube": "https://youtube.com/channel/UC3o7kMyQfCxz5xSXEkxB09g",
     "x": "https://x.com/seyirmobil"
-  }
+  },
+  "logo": "img/company/seyirmobil.svg"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/cadbim.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/cadbimizmir",
     "instagram": "https://instagram.com/cadbim_izmir",
     "youtube": "https://youtube.com/c/CadbimTeknikDestek"
-  }
+  },
+  "logo": "img/company/cadbim.png"
 }

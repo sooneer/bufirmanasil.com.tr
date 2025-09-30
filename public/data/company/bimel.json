@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/bimel.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/user/bimelltd",
     "x": "https://x.com/bimelelektronik"
-  }
+  },
+  "logo": "img/company/bimel.png"
 }

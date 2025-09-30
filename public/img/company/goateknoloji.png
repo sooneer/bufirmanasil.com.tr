@@ -1,0 +1,55 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Not Found</title>
+    <base href="/" />
+    <link rel="stylesheet" type="text/css" href="resources/website/css/bootstrap.min.css">
+    <script type="text/javascript" src="resources/website/js/bootstrap.min.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="refresh"
+          content="5; url=/">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+    <div class="content-wrapper" style="padding-top:10%; background-color:white !important;">
+        <div class="navbar navbar-default default header3 default" role="navigation" style="display: block; border:none;">
+            <div class="top-bar inverse-wrapper" style="background-color:white !important;">
+                <div class="container" style="text-align:center;">
+
+                    <div class="row">
+                        <div class="col-xs-12 col-md-6">
+                            <div style="text-align:center; border:1px dashed green; border-radius:10px; padding-bottom:10px;margin-bottom:10px;">
+                                <p class="h1">We are sorry, the resource you requested could not found</p>
+                                <p class="h3">You're being redirected to the homepage</p>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-md-6" >
+                            <div style="text-align:center; border:1px dashed green; border-radius:10px; padding-bottom:10px; margin-left:2px;">
+                                <p class="h1">Üzgünüz, aradığınız sayfa bulunamadı</p>
+                                <p class="h3">Anasayfa'ya yönlendiriliyorsunuz</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer inverse-wrapper" style="position:fixed;bottom:0 !important;width:100% !important;">
+        <div class="container inner2" style="width:80% !important;">
+            <div class="row">
+                <div class="img-fluid">
+                    <img src="/resources/website/img/404.not.found.jpg" width="100%;" />
+                </div>
+
+            </div>
+        </div>
+        <!-- .sub-footer -->
+    </footer>
+
+</body>
+</html>

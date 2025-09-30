@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/senkron.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/senkronyazilim",
     "instagram": "",
     "youtube": "https://youtube.com/@senkrontech"
-  }
+  },
+  "logo": "img/company/senkron.png"
 }

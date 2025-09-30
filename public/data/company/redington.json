@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/redington.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/channel/UCMMJJpnyEtv0yxKMCzBFF5g",
     "x": "https://x.com/redingtontr_"
-  }
+  },
+  "logo": "img/company/redington.svg"
 }

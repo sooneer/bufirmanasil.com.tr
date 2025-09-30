@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/neafor.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/neafor",
     "instagram": "https://instagram.com/neafor.teknoloji",
     "youtube": "https://youtube.com/channel/UCIQXWI6AvY21nYUFT5Q8KSQ"
-  }
+  },
+  "logo": "img/company/neafor.png"
 }

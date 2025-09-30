@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/armada.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/ingrammicrotr",
     "youtube": "",
     "x": "https://x.com/https:"
-  }
+  },
+  "logo": "img/company/armada.svg"
 }

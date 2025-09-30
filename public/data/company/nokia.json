@@ -1,6 +1,5 @@
 {
   "name": "Nokia",
-  "logo": "/img/company/nokia.svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "https://facebook.com/nokia",
     "youtube": "https://youtube.com/user/nokia",
     "github": ""
-  }
+  },
+  "logo": "img/company/nokia.png"
 }

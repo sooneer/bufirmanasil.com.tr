@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/noyabilgisayar.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/noyatechofficial",
     "youtube": "https://youtube.com/@noyateknoloji",
     "x": "https://x.com/noya_tech"
-  }
+  },
+  "logo": "img/company/noyabilgisayar.png"
 }

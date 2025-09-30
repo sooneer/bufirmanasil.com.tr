@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/asiselektronik.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/asis_elektronik",
     "youtube": "https://youtube.com/channel/UCIPmWoPPSCBqLEiLaMI4DbQ",
     "x": "https://x.com/Asis_elektronik"
-  }
+  },
+  "logo": "img/company/asiselektronik.png"
 }

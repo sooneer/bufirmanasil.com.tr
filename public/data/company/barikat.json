@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/barikat.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/channel/UCdqlnTKO_SHX3WgNlslTZcw",
     "x": "https://x.com/BarikatSibGuv"
-  }
+  },
+  "logo": "img/company/barikat.png"
 }

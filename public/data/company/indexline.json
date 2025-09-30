@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/indexline.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"İndexline","contact":{"web":"https://indexline.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "İndexline",
+  "contact": {
+    "web": "https://indexline.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "logo": "img/company/indexline.svg"
+}

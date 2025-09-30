@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/camlica.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/camlica_barkod",
     "youtube": "",
     "x": "https://x.com/camlicabarkod"
-  }
+  },
+  "logo": "img/company/camlica.jpg"
 }

@@ -1,6 +1,5 @@
 {
   "name": "Innova",
-  "logo": "/img/company/innova.svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "https://facebook.com/innovabilisim",
     "youtube": "https://youtube.com/@InnovaTr",
     "github": ""
-  }
+  },
+  "logo": "img/company/innova.png"
 }

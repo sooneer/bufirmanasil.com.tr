@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/mistacoglu.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/mistacogluholding",
     "instagram": "https://instagram.com/mistacogluholding",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/mistacoglu.png"
 }

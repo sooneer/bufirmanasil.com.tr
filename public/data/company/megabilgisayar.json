@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/megabilgisayar.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/Mega-Bilgisayar-Kayseri-294796307238655",
     "instagram": "",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/megabilgisayar.png"
 }

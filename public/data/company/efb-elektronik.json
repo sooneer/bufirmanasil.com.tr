@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/efb-elektronik.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/EFB-Elektronik-Ltd%C5%9Eti-T%C3%BCrkiye-980478345310387",
     "instagram": "",
     "youtube": "https://youtube.com/channel/UCtFNGfz_2KI7nlFZycox4Uw"
-  }
+  },
+  "logo": "img/company/efb-elektronik.svg"
 }

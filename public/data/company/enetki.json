@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/enetki.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/enetkisavunma",
     "youtube": "https://youtube.com/channel/UCc83OdDn-R-v9-hgX0GGlvA",
     "x": "https://x.com/enetkisavunma"
-  }
+  },
+  "logo": "img/company/enetki.png"
 }

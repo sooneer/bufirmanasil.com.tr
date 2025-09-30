@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/nttdata-solutions.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "",
     "instagram": "https://instagram.com/ndbs_turkiye",
     "youtube": "https://youtube.com/channel/UCVRXIThBUFziWIWI_7E7l3w"
-  }
+  },
+  "logo": "img/company/nttdata-solutions.svg"
 }

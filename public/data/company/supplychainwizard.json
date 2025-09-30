@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/supplychainwizard.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/supplychainwizard",
     "youtube": "",
     "x": "https://x.com/SC_wizard"
-  }
+  },
+  "logo": "img/company/supplychainwizard.png"
 }

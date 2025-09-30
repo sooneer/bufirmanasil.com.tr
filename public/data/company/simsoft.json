@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/simsoft.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/simsoftofficial",
     "youtube": "https://youtube.com/c/SimsoftOfficial",
     "x": "https://x.com/SimsoftOfficial"
-  }
+  },
+  "logo": "img/company/simsoft.png"
 }

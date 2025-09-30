@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/ccr.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/channel/UCoicJGuLYUOnopf2m1bmAug",
     "x": "https://x.com/CCR_TR"
-  }
+  },
+  "logo": "img/company/ccr.webp"
 }

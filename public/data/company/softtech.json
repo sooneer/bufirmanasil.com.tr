@@ -1,6 +1,5 @@
 {
   "name": "Softtech",
-  "logo": "/img/company/softtech.svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "",
     "youtube": "",
     "github": ""
-  }
+  },
+  "logo": "img/company/softtech.png"
 }

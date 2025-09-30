@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/estebilisim.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/estebilisim",
     "youtube": "",
     "x": "https://x.com/estebilisim"
-  }
+  },
+  "logo": "img/company/estebilisim.svg"
 }

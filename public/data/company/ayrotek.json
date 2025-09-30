@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/ayrotek.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/Ayrotek",
     "instagram": "",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/ayrotek.png"
 }

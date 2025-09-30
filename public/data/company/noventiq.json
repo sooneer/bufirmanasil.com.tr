@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/noventiq.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/noventiqTR",
     "instagram": "https://instagram.com/noventiq_turkiye",
     "youtube": "https://youtube.com/channel/UCAaKsBorH9ECNCFCYyMSu3Q"
-  }
+  },
+  "logo": "img/company/noventiq.svg"
 }

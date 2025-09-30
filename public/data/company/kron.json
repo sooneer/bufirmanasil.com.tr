@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/kron.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/kron.tech",
     "youtube": "https://youtube.com/channel/UCMV3_pdImKw-DeL6TC0uQQA?view_as=subscriber",
     "x": "https://x.com/kron_tech"
-  }
+  },
+  "logo": "img/company/kron.svg"
 }

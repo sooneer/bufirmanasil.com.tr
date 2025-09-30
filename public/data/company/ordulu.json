@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/ordulu.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/ordulutech",
     "youtube": "https://youtube.com/channel/UCuuXdout_422AWbwg96ctHA",
     "x": "https://x.com/OrduluTech"
-  }
+  },
+  "logo": "img/company/ordulu.png"
 }

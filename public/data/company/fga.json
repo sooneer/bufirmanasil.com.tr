@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/fga.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/fgamimarlik",
     "instagram": "https://instagram.com/fgamimarlik",
     "youtube": "https://youtube.com/@fgamimarlik"
-  }
+  },
+  "logo": "img/company/fga.svg"
 }

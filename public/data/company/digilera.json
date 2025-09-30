@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/digilera.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/Digilerasoftware",
     "instagram": "https://instagram.com/digilerabt",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/digilera.png"
 }

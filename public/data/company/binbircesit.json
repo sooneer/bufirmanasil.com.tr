@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/binbircesit.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/binbircesitcom",
     "youtube": "https://youtube.com/channel/UCmmhut23X6Bgo-DNykCFZOA",
     "x": "https://x.com/binbircesit_com"
-  }
+  },
+  "logo": "img/company/binbircesit.png"
 }

@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="tr">
+<head>
+<title>bimel :: Anasayfa</title>
+<link rel="alternate" hreflang="tr" href="https://www.bimel.com.tr/tr" />
+<link rel="alternate" hreflang="x-default" href="https://www.bimel.com.tr/" />
+<link rel="canonical" href="https://www.bimel.com.tr/tr/anasayfa" /><meta name="description" content="Bimel"/><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-2738987-4', 'bimel.com.tr');ga('send', 'pageview');</script><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><link href="/theme/Bimel2/bimel-favicon.ico" type="image/x-icon" rel="icon"/><link href="/theme/Bimel2/bimel-favicon.ico" type="image/x-icon" rel="shortcut icon"/><link rel="stylesheet" type="text/css" href="/theme/Bimel2/css/bootstrap.css"/><link rel="stylesheet" type="text/css" href="/theme/Bimel2/css/app.css" media="all" 1="1"/><link rel="stylesheet" type="text/css" href="/theme/Bimel2/css/font-icons.css"/><link rel="stylesheet" type="text/css" href="/theme/Bimel2/css/animate.css"/><link rel="stylesheet" type="text/css" href="/theme/Bimel2/css/magnific-popup.css"/><link rel="stylesheet" type="text/css" href="/theme/Bimel2/css/responsive.css"/><meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!--[if lt IE 9]>
+		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<![endif]-->
+</head>
+<body class="stretched">
+	<!-- popup -->
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.js"></script>
+<style>
+	.popup-wrap{
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		background-color: rgba(0,0,0,0.5);
+		display: none;
+		z-index: 1000;
+		/*transition: all 1.7s ease;*/
+	}
+
+	.popup{
+		position: relative;
+		width: 650px;
+		height: 700px;
+		background-color: rgba(0,0,0,1);
+		margin: 100px auto;
+	}
+	.popup-content {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.popup-timer{
+		width: auto;
+		height: 25px;
+		color: #fff;
+		position: absolute;
+		right: 10px;
+		line-height: 25px;
+		padding: 0px 10px;
+	}
+	.popup-btn-close{
+		background-color: #fff;
+		width: 25px;
+		height: 25px;
+		text-align: center;
+		line-height: 22px;
+		position: absolute;
+		right: -10px;
+		top: -10px;
+		cursor: pointer;
+		transition: all 0.5s ease;
+		border-radius: 50%;
+	}
+	.popup-btn-close:hover{
+		transform: rotate(360deg);
+	}
+</style>
+<div class="popup-wrap">
+		<div class="popup">
+			<div class="popup-timer"><span class="seconds"></span> saniye sonra kapanacak</div>
+			<div class="popup-btn-close">x</div>
+			<div class="popup-content">
+				<img src="move.jpg" />
+			</div>
+		</div>
+	</div>
+<script>
+	$(document).ready(function(){
+
+$(window).load(function(){
+	$duration = 10;
+	$('.seconds').text($duration);
+	$('.popup-wrap').fadeIn(1500);
+
+	$myTimer = setInterval(function(){ startTimer() }, 1000);
+	$('.popup .popup-btn-close').on("click",function(){
+		clearInterval($myTimer);
+		$('.popup-wrap').fadeOut(500);
+	});
+	
+	function startTimer(){
+		$duration--;
+		$('.seconds').text($duration);
+		if($duration==0){
+			clearInterval($myTimer);
+			$('.popup-wrap').fadeOut(500);
+		}
+	}
+});
+});
+</script> -->
+<!-- popup -->
+<article class="hidden">
+Aten Distribitörü
+Aten ToptancısıBimel
+Aten DağıtıcısıBimel
+Beek Distribitörü Bimel
+Beek ToptancısıBimel
+Beek Dağıtıcısı Bimel
+Assmann Distribitörü Bimel
+Assmann Toptancısı  Bimel
+Assmann Dağıtıcısı Bimel
+Digitus Distribitörü Bimel
+Digitus Toptancısı Bimel
+Digitus Dağıtıcısı Bimel
+Ednet Distribitörü Bimel
+Ednet Toptancısı Bimel
+Ednet Dağıtıcısı Bimel
+DSG Canusa Distribitörü Bimel
+DSG Canusa Toptancısı Bimel
+DSG Canusa Dağıtıcısı Bimel
+Planet Distribitörü Bimel
+Planet Toptancısı Bimel
+Planet Dağıtıcısı Bimel
+Ruckus Sistem Entegratör Bimel
+Ruckus Sistem UygulayıcısıBimel
+Ruckus Sistem Uzmanı Bimel
+Ruijie Sistem Entegratör Bimel
+Ruijie Sistem Uygulayıcısı Bimel
+Ruijie Sistem Uzmanı Bimel
+Cisco Sistem Entegratör Bimel
+Cisco Sistem Uygulayıcısı Bimel
+Cisco Sistem Uzmanı Bimel
+Schukat Distribitörü Bimel
+Tumtec Distribitörü Bimel
+Viavi Distribitörü Bimel
+Allied Telesis Sistem Entegratör Bimel
+Allied Telesis Sistem Uygulayıcısı Bimel
+Allied Telesis Sistem Uzmanı Bimel
+Formrack Temsilcisi Bimel</article><article class="hidden">Network Ürünleri Bimel
+Ağ Ürünleri Bimel
+Switch  Bimel
+Kablo Bimel
+Kablosuz Bimel
+Wireless Ürünler Bimel
+Kabinet Bimel
+Bilgisayar Malzemeleri Bimel
+Bilgisayar Ürünleri Bimel
+Elektronik Malzeme Bimel
+Bilgisayar Yan Ürünleri Bimel
+Wired Ürünler Bimel
+KVM Switch Bimel
+Endüstriyel Ürünler Bimel</article>
+	<!-- Document Wrapper
+	============================================= -->
+	<div id="wrapper" class="clearfix">
+		
+		<!-- Top Bar
+		============================================= -->
+		<div id="top-bar">
+
+			<div id="top-bar">
+
+			<div class="container clearfix">
+
+				<div class="col_half nobottommargin">
+				</div>
+
+				<div class="col_half col_last fright nobottommargin">
+
+					<!-- Top Links
+					============================================= -->
+					<div class="top-links">
+						<ul>
+							<li style="margin-right: 20px; color: red; font-size: 16px;">Döviz Kurları USD 41,4695 - EUR 48,6946</li>
+							<li><a href="https://bayi.bimel.com.tr">Bayi Girişi</a></li>
+							<li><a href="/tr/soru-oneri">Soru ve Öneriler</a></li>
+							<li><a href="/tr/iletisim">İletişim</a></li>
+							<li><a href="https://duyuru.bimel.com">Duyurulara Üyelik</a></li>
+							<li><a href="https://www.bimel.com.tr/digitus.html">Digitus</a></li>
+
+						</ul>
+					</div><!-- .top-links end -->
+
+				</div>
+
+			</div>
+
+		</div>
+
+		</div><!-- #top-bar end -->
+
+		<!-- Header
+		============================================= -->
+		<header id="header" class="bottommargin-sm">
+
+			<div id="header-wrap">
+
+				<div class="container clearfix ">
+
+					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+<div id="logo" class="static">
+	<a href="/" class="standard-logo" alt="Bimel Logo"><img src="/theme/Bimel2/image/bimel60.jpg" alt=""/></a>	<a href="/" class="retina-logo" alt="Bimel Logo"><img src="/theme/Bimel2/image/bimel60%402x.jpg" alt=""/></a></div>
+<nav id="primary-menu" class="style-2">
+	<ul>
+	<li class='mega-menu'><a href="/urunler">Ürünler</a><div class='mega-menu-content style-2 clearfix'><ul class='mega-menu-column col-md-3'><li class='mega-menu-title'><a href="/urunler/bilgisayar">Bilgisayar</a><ul><li><a href="/urunler/bilgisayar/sunucu">Çok İşlevli Ağ Cihazı / Çoklu Hizmet Sunan Internet Kutusu</a></li></ul></li><li class='mega-menu-title'><a href="/urunler/bilgisayar_yan_urunleri">Bilgisayar Yan Ürünleri</a><ul><li><a href="/urunler/bilgisayar_yan_urunleri/adaptor">Adaptör</a></li><li><a href="/urunler/bilgisayar_yan_urunleri/amfi">Amfi</a></li><li><a href="/urunler/bilgisayar_yan_urunleri/monitor_aski_aparatlari_1">Askı Aparatları</a></li><li><a href="/urunler/bilgisayar_yan_urunleri/ata_1">ATA</a></li><li><a href="/urunler/bilgisayar_yan_urunleri/barkod_tarayicisi">Barkod Tarayıcısı ve Kabloları</a></li><li><a href="/urunler/bilgisayar_yan_urunleri">&gt;&gt;Devamı</a></li></ul></li></ul><ul class='mega-menu-column col-md-3'><li class='mega-menu-title'><a href="/urunler/elektrik_malzemeleri">Elektrik Malzemeleri</a><ul><li><a href="/urunler/elektrik_malzemeleri/otomat">Otomat ve Aksesuarları</a></li><li><a href="/urunler/elektrik_malzemeleri/reglet">Reglet</a></li><li><a href="/urunler/elektrik_malzemeleri/sayac">Sayaç</a></li></ul></li><li class='mega-menu-title'><a href="/urunler/elektronik_malzeme">Elektronik Malzeme</a><ul><li><a href="/urunler/elektronik_malzeme/isi_ile_daralan_makaron">Isı İle Daralan Makaron</a></li><li><a href="/urunler/elektronik_malzeme/lcd_gostergeler">LCD Göstergeler</a></li><li><a href="/urunler/elektronik_malzeme/pasif_devre_elemanlari">Pasif Devre Elemanları</a></li><li><a href="/urunler/elektronik_malzeme/yari_iletkenler">Yarı İletkenler</a></li></ul></li></ul><ul class='mega-menu-column col-md-3'><li class='mega-menu-title'><a href="/urunler/kamera_sistemleri">Kamera Sistemleri</a><ul><li><a href="/urunler/kamera_sistemleri/aksesuar_1">Aksesuar</a></li><li><a href="/urunler/kamera_sistemleri/analog_board_kamerasi">Analog Board Kamerası</a></li><li><a href="/urunler/kamera_sistemleri/dome_kamerasi">Analog Dome Kamerası</a></li><li><a href="/urunler/kamera_sistemleri/gece_gunduz_kamerasi">Analog Gece/Gündüz Kamerası</a></li><li><a href="/urunler/kamera_sistemleri/spot_kamera">Analog Spot Kamera</a></li><li><a href="/urunler/kamera_sistemleri">&gt;&gt;Devamı</a></li></ul></li><li class='mega-menu-title'><a href="/urunler/network">Network</a><ul><li><a href="/urunler/network/aktif_network_urunleri">Aktif Network Ürünleri</a></li><li><a href="/urunler/network/pasif_network_urunleri">Pasif Network Ürünleri</a></li><li><a href="/urunler/network/test_aletleri">Test Aletleri</a></li></ul></li></ul><ul class='mega-menu-column col-md-3'><ul><li><a href="/tr/urun-reklam-ve-videolari">Banner</a></li><li><a href="/tr/kalitesiz-taklit-urunlere-dikkat">Kalitesiz Taklit Ürünlere Dikkat</a></li><li><a href="/tr/kampanya-1">Kampanya</a></li><li><a href="/tr/raf">Raf</a></li><li><a href="/tr/rohs-ve-weee">RoHS ve WEEE</a></li><li><a href="/tr/urun-videolari"> Videolar</a></li></ul></ul></div></li>	</li>
+	<li><a href="/tr/firmamiz">Kurumsal</a><ul><li><a href="/tr/calistigimiz-firma-ve-markalar1">Çalıştığımız Firma ve Markalar</a></li><li><a href="/tr/bimel-duvar-kagitlari">Duvar Kağıtları</a></li><li><a href="/tr/firmamiz">Firmamız</a></li><li><a href="/tr/haberler">Haberler</a></li><li><a href="/tr/is-ilanlari">İş İlanları</a></li><li><a href="/tr/musteri-destek-noktalari">Müşteri Destek Noktaları</a></li><li><a href="/tr/musteri-memnuniyet-formu">Müşteri Memnuniyet Formu</a></li><li><a href="/tr/projeler">Projeler</a></li><li><a href="/tr/oduller">Sertifika ve Ödüller</a></li><li><a href="/tr/kredi-karti-odeme">Kredi Kartı Ödeme</a></li></ul>	</li>
+	<li><a href="/tr">Hizmetler</a><ul><li><a href="/tr/dr-net">Dr.NET</a></li><li><a href="/tr/firewall-kurulumu-ve-konfigurasyonlari">Firewall</a></li><li><a href="/tr/bimel-urun-iade-politikasi">İade Politikası</a></li><li><a href="/tr/urun-kataloglari">Kataloglar</a></li><li><a href="/tr/satis-ve-odeme-sartlari">Satış ve Ödeme Şartları</a></li></ul>	</li>
+	<li><a href="/tr">Destek</a><ul><li><a href="/tr/ariza-takip">Arıza Takip</a></li><li><a href="/tr/soru-ve-oneriler">Soru ve Öneriler</a></li><li><a href="/tr/suruculer-driver">Sürücüler (Driver)</a></li></ul>	</li>
+	<li><a href="/tr/haberler/projeler">Projeler</a></li>	</li>
+	<li><a href="//www.bimel.com.tr/tr/calistigimiz-firma-ve-markalar1">Markalar</a></li>	</li>
+			<form action="/arama" class="navbar-form navbar-right" style="float=right;" id="ProductCatalogSearchForm" method="get" accept-charset="utf-8">		<div class="input-group">
+			<input type="hidden" name="t" value="keyandcode" id="ProductCatalogT"/>			<input name="q" class="form-control" placeholder="Ürün Ara..." required="required" type="text" id="ProductCatalogQ"/>	      <span class="input-group-btn">
+	      	<button type="submit" class="btn btn-default"><i class="fal fa-search"></i></button>	      </span>
+	    </div>						
+		</form>	</ul>
+</nav>
+				</div>
+
+			</div>
+
+		</header><!-- #header end -->
+
+		
+
+		<!-- Content
+		============================================= -->
+		<section id="slider" class="slider-parallax clearfix" style="background-color: #222;">
+
+			<div id="oc-slider" class="owl-carousel carousel-widget" data-margin="0" data-items="1" data-pagi="false" data-loop="false" data-effect="slide" data-speed="1000" data-autoplay="5000" data-animate-in='fadeIn' data-animate-out='fadeOut'>
+								<a href='#'>				<img src="//reklam.bimel.com.tr/banner-by-campaign/9524" title="Daha fazla bilgi için tıklayınız!" /></a>				
+				
+							</div>
+
+</section>
+		<section id="content">
+			
+
+				<div class="container clearfix topmargin-sm">
+								<div class="row">
+	<div class="col-md-2">
+		<div class="well well-sm anasayfawell">
+			<div class="container-fluid">
+				<div class="row vcenter">
+					<div class="col-sm-4 nopadding">
+						<a href="//www.bimel.com.tr/urunler/network"><img alt="" src="//www.bimel.com.tr/dosya/14923" /></a></div>
+					<div class="col-sm-8 nopadding center">
+						<h5>
+							<a href="//www.bimel.com.tr/urunler/network">Network Ürünleri</a></h5>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-2 col-half-offset">
+		<div class="well well-sm anasayfawell">
+			<div class="container-fluid">
+				<div class="row vcenter">
+					<div class="col-sm-4 nopadding">
+						<a href="//www.bimel.com.tr/urunler/bilgisayar_yan_urunleri/kablo_2"><img alt="" src="//www.bimel.com.tr/dosya/14920" /></a></div>
+					<div class="col-sm-8 nopadding center">
+						<h5>
+							<a href="http://www.bimel.com.tr/arama?t=keyandcode&amp;q=kablo">Kablo ve Konnektörler</a></h5>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-2 col-half-offset">
+		<div class="well well-sm anasayfawell">
+			<div class="container-fluid">
+				<div class="row vcenter">
+					<div class="col-sm-4 nopadding">
+						<a href="http://www.bimel.com.tr/urunler/bilgisayar_yan_urunleri/kvm_switch"><img alt="" src="//www.bimel.com.tr/dosya/14922" /></a></div>
+					<div class="col-sm-8 nopadding center">
+						<h5>
+							<a href="http://www.bimel.com.tr/urunler/bilgisayar_yan_urunleri/kvm_switch">KVM Switch, Video Wall, Matrix Switch</a></h5>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-2 col-half-offset">
+		<div class="well well-sm anasayfawell">
+			<div class="container-fluid">
+				<div class="row vcenter">
+					<div class="col-sm-4 nopadding">
+						<a href="//www.bimel.com.tr/urunler/network/test_aletleri"><img alt="" src="//www.bimel.com.tr/dosya/14924" /></a></div>
+					<div class="col-sm-8 nopadding center">
+						<h5>
+							<a href="//www.bimel.com.tr/urunler/network/test_aletleri">Test ve Ölçüm Cihazları, El Aletleri</a></h5>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-2 col-half-offset">
+		<div class="well well-sm anasayfawell">
+			<div class="container-fluid">
+				<div class="row vcenter">
+					<div class="col-sm-4 nopadding">
+						<a href="//www.bimel.com.tr/urunler/bilgisayar_yan_urunleri"><img alt="" src="//www.bimel.com.tr/dosya/14915" /></a></div>
+					<div class="col-sm-8 nopadding center">
+						<h5>
+							<a href="//www.bimel.com.tr/urunler/bilgisayar_yan_urunleri">Bilgisayar Aksesuarları</a></h5>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-2">
+		<div class="well well-sm anasayfawell">
+			<div class="container-fluid">
+				<div class="row vcenter">
+					<div class="col-sm-4 nopadding">
+						<a href="//www.bimel.com.tr/urunler/elektronik_malzeme"><img alt="" src="//www.bimel.com.tr/dosya/14917" /></a></div>
+					<div class="col-sm-8 nopadding center">
+						<h5>
+							<a href="//www.bimel.com.tr/urunler/elektronik_malzeme">Elektronik Malzeme</a></h5>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-2 col-half-offset">
+		<div class="well well-sm anasayfawell">
+			<div class="container-fluid">
+				<div class="row vcenter">
+					<div class="col-sm-4 nopadding">
+						<a href="//www.bimel.com.tr/urunler/kamera_sistemleri"><img alt="" src="//www.bimel.com.tr/dosya/14921" /></a></div>
+					<div class="col-sm-8 nopadding center">
+						<h5>
+							<a href="//www.bimel.com.tr/urunler/kamera_sistemleri">Güvenlik Kameraları</a></h5>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-2 col-half-offset">
+		<div class="well well-sm anasayfawell">
+			<div class="container-fluid">
+				<div class="row vcenter">
+					<div class="col-sm-4 nopadding">
+						<a href="//www.bimel.com.tr/urunler/kabinet"><img alt="" src="//www.bimel.com.tr/dosya/14919" /></a></div>
+					<div class="col-sm-8 nopadding center">
+						<h5>
+							<a href="//www.bimel.com.tr/urunler/kabinet">Kabinler, Kabin Aksesuarları</a></h5>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-2 col-half-offset">
+		<div class="well well-sm anasayfawell">
+			<div class="container-fluid">
+				<div class="row vcenter">
+					<div class="col-sm-4 nopadding">
+						<a href="//www.bimel.com.tr/urunler/bilgisayar_yan_urunleri"><img alt="" src="//www.bimel.com.tr/dosya/14916" /></a></div>
+					<div class="col-sm-8 nopadding center">
+						<h5>
+							<a href="//www.bimel.com.tr/urunler/bilgisayar_yan_urunleri">Diğer Tüketici Ürünleri</a></h5>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-2 col-half-offset">
+		<div class="well well-sm anasayfawell">
+			<div class="container-fluid">
+				<div class="row vcenter">
+					<div class="col-sm-4 nopadding">
+						<a href="//www.bimel.com.tr/tr/hizmetler"><img alt="" src="//www.bimel.com.tr/dosya/14918" /></a></div>
+					<div class="col-sm-8 nopadding center">
+						<h5>
+							<a href="//www.bimel.com.tr/tr/hizmetler">Hizmetler</a></h5>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<hr />
+<div class="row topmargin-sm">
+	<div class="col-md-12">
+		<!-- <div id="oc-clients-full" class="owl-carousel owl-carousel-full image-carousel carousel-widget" data-margin="30" data-loop="true" data-nav="true" data-pagi="false" data-autoplay="3000" data-items-xxs="3" data-items-xs="3" data-items-sm="5" data-items-md="6" data-items-lg="9">
+											<div class="oc-item"><a href="/urunler/acuteq" title="Acuteq"><img src="/resim?s=24190&amp;w=100&amp;h=35&amp;q=70" alt="Acuteq Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/allied_telesis" title="Allied Telesis"><img src="/resim?s=5710&amp;w=100&amp;h=35&amp;q=70" alt="Allied Telesis Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/assmann" title="Assmann"><img src="/resim?s=27778&amp;w=100&amp;h=35&amp;q=70" alt="Assmann Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/aten" title="Aten"><img src="/resim?s=11670&amp;w=100&amp;h=35&amp;q=70" alt="Aten Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/beek" title="BEEK"><img src="/resim?s=8734&amp;w=100&amp;h=35&amp;q=70" alt="BEEK Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/cisco" title="Cisco"><img src="/resim?s=5709&amp;w=100&amp;h=35&amp;q=70" alt="Cisco Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/dadi" title="DADI"><img src="/resim?s=24191&amp;w=100&amp;h=35&amp;q=70" alt="DADI Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/dptek" title="DPTEK"><img src="/resim?s=26791&amp;w=100&amp;h=35&amp;q=70" alt="DPTEK Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/dsg_canusa" title="DSG-Canusa"><img src="/resim?s=28655&amp;w=100&amp;h=35&amp;q=70" alt="DSG-Canusa Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/ednet" title="ednet"><img src="/resim?s=12267&amp;w=100&amp;h=35&amp;q=70" alt="ednet Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/eneo" title="Eneo"><img src="/resim?s=5716&amp;w=100&amp;h=35&amp;q=70" alt="Eneo Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/formrack" title="Formrack"><img src="/resim?s=9790&amp;w=100&amp;h=35&amp;q=70" alt="Formrack Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/leviton" title="Leviton"><img src="/resim?s=21474&amp;w=100&amp;h=35&amp;q=70" alt="Leviton Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/lindy" title="Lindy"><img src="/resim?s=24192&amp;w=100&amp;h=35&amp;q=70" alt="Lindy Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/maipu" title="Maipu"><img src="/resim?s=26790&amp;w=100&amp;h=35&amp;q=70" alt="Maipu Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/netgear" title="Netgear"><img src="/resim?s=10136&amp;w=100&amp;h=35&amp;q=70" alt="Netgear Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/nets" title="Nets"><img src="/resim?s=24193&amp;w=100&amp;h=35&amp;q=70" alt="Nets Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/planet" title="Planet"><img src="/resim?s=7171&amp;w=100&amp;h=35&amp;q=70" alt="Planet Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/ransnet" title="RansNet"><img src="/resim?s=21476&amp;w=100&amp;h=35&amp;q=70" alt="RansNet Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/ruckus_wireless" title="Ruckus Wireless"><img src="/resim?s=25930&amp;w=100&amp;h=35&amp;q=70" alt="Ruckus Wireless Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/ruijie" title="Ruijie"><img src="/resim?s=13750&amp;w=100&amp;h=35&amp;q=70" alt="Ruijie Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/schukat" title="Schukat"><img src="/resim?s=5722&amp;w=100&amp;h=35&amp;q=70" alt="Schukat Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/systimax" title="Systimax"><img src="/resim?s=24195&amp;w=100&amp;h=35&amp;q=70" alt="Systimax Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/teltonika" title="Teltonika"><img src="/resim?s=21477&amp;w=100&amp;h=35&amp;q=70" alt="Teltonika Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/tumtec" title="Tumtec"><img src="/resim?s=21472&amp;w=100&amp;h=35&amp;q=70" alt="Tumtec Logo 1"/></a></div>
+																															<div class="oc-item"><a href="/urunler/viavi" title="Viavi"><img src="/resim?s=10815&amp;w=100&amp;h=35&amp;q=70" alt="Viavi Logo 1"/></a></div>
+																				</div> -->
+
+</module></div>
+</div>
+<hr />
+<div class="row topmargin-sm bottommargin-sm">
+	<div class="col-md-7">
+		<div class="panel panel-default">
+			<div class="panel-body">
+				<div class="fancy-title title-border">
+					<h3>
+						Yeni Ürünler!!</h3>
+				</div>
+				<div id="oc-team-list" class="owl-carousel team-carousel carousel-widget" data-margin="30" data-nav="false" data-items-sm="1" data-items-lg="1">
+<div class='oc-item'><div class='team team-list clearfix'><div class='team-image'><a href="/urun/pl-ics-2102ts"><img src="/resim?s=23816&amp;w=250&amp;h=250&amp;q=70" border="0" style="float:left;" alt=""/></a></div><div class='team-desc'><div class='team-title'><h4><a href="/urun/pl-ics-2102ts"><b>Planet - PL-ICS-2102TS</b></a></h4></div><div class='team-content'><p>IP30 Endüstriyel 1-Port RS232/RS422/RS485 Serial Device Sunucu (IP30 Industrial 1-Port RS232/RS422/RS485 Serial Device Server)<br>
+1 x 100FX SC, SM/30km<br>
+-40~75 derece C</p><a href="/urun/pl-ics-2102ts" class="button button-rounded button-reveal button-small button-border-thin tright fright"><i class='icon-angle-right'></i><span>Ürünü İncele</span></a></div></div></div></div><div class='oc-item'><div class='team team-list clearfix'><div class='team-image'><a href="/urun/4n35"><img src="/resim?s=24&amp;w=250&amp;h=250&amp;q=70" border="0" style="float:left;" alt=""/></a></div><div class='team-desc'><div class='team-title'><h4><a href="/urun/4n35"><b>Schukat - 4N35</b></a></h4></div><div class='team-content'><p>OPTO-C %100 CTR, 2.33KV</p><a href="/urun/4n35" class="button button-rounded button-reveal button-small button-border-thin tright fright"><i class='icon-angle-right'></i><span>Ürünü İncele</span></a></div></div></div></div><div class='oc-item'><div class='team team-list clearfix'><div class='team-image'><a href="/urun/pl-igs-820tf-pn"><img src="/resim?s=32947&amp;w=250&amp;h=250&amp;q=70" border="0" style="float:left;" alt=""/></a></div><div class='team-desc'><div class='team-title'><h4><a href="/urun/pl-igs-820tf-pn"><b>Planet - PL-IGS-820TF-PN</b></a></h4></div><div class='team-content'><p>Compact Industrial 6-Port 10/100/1000T + 2-Port 100/1000X SFP PROFINET Switch(-40~75 degrees C operating temperature)</p><a href="/urun/pl-igs-820tf-pn" class="button button-rounded button-reveal button-small button-border-thin tright fright"><i class='icon-angle-right'></i><span>Ürünü İncele</span></a></div></div></div></div></div>
+</module></div>
+		</div>
+	</div>
+	<div class="col-md-5">
+		<section id="slider" class="slider clearfix" style="background-color: #222;">
+
+			<div id="oc-slider" class="owl-carousel carousel-widget" data-margin="0" data-items="1" data-pagi="false" data-loop="true" data-effect="slide" data-speed="600" data-autoplay="8000" data-animate-in='slideInLeft' data-animate-out='slideOutRight'>
+								<a href="http://www.bimel.com.tr/urun/bc-dsp-mdp-ha-1">				<img src="//reklam.bimel.com.tr/banner-by-campaign/8878" title="Daha fazla bilgi için tıklayınız!" />
+				</a>								<a href="http://www.bimel.com.tr/urun/bc-dsp-mdp-ha-1">				<img src="//reklam.bimel.com.tr/banner-by-campaign/8878" title="Daha fazla bilgi için tıklayınız!" />
+				</a>								<a href="http://www.bimel.com.tr/urun/ds-12880">				<img src="//reklam.bimel.com.tr/banner-by-campaign/8532" title="Daha fazla bilgi için tıklayınız!" />
+				</a>								<a href="http://www.bimel.com.tr/urun/null">				<img src="//reklam.bimel.com.tr/banner-by-campaign/9416" title="Daha fazla bilgi için tıklayınız!" />
+				</a>								<a href="http://www.bimel.com.tr/urun/bc-adp-hd15-mf">				<img src="//reklam.bimel.com.tr/banner-by-campaign/8561" title="Daha fazla bilgi için tıklayınız!" />
+				</a>							</div>
+
+</section>
+</module></div>
+</div>
+<p>
+	&nbsp;</p>
+				</div>
+		</section><!-- #content end -->
+
+			<!-- Footer
+		============================================= -->
+		<footer id="footer" class="notopborder">
+
+			<div class="container">
+
+				<!-- Footer Widgets
+				============================================= -->
+				<div class="clearfix footer-widgets-wrap">
+					<div class="clearfix row">
+					<div class="col-lg-12">
+					<div class="row">
+<div class="col-md-12">
+<div class='col-md-6'><div class='widget clearfix'><div class='row'><div class='col-md-6 widget_links'><ul><h4><a href="/urunler">Ürünler</a></h4><li><a href="/urunler/bilgisayar">Bilgisayar</a></li><li><a href="/urunler/bilgisayar_yan_urunleri">Bilgisayar Yan Ürünleri</a></li><li><a href="/urunler/elektrik_malzemeleri">Elektrik Malzemeleri</a></li><li><a href="/urunler/elektronik_malzeme">Elektronik Malzeme</a></li><li><a href="/urunler/kamera_sistemleri">Kamera Sistemleri</a></li><li><a href="/urunler/network">Network</a></li><li><a href="/tr/urun-reklam-ve-videolari">Banner</a></li><li><a href="/tr/kalitesiz-taklit-urunlere-dikkat">Kalitesiz Taklit Ürünlere Dikkat</a></li><li><a href="/tr/kampanya-1">Kampanya</a></li><li><a href="/tr/raf">Raf</a></li><li><a href="/tr/rohs-ve-weee">RoHS ve WEEE</a></li><li><a href="/tr/urun-videolari"> Videolar</a></li></ul></div><div class='col-md-6 widget_links'><ul><h4><a href="/tr/firmamiz">Kurumsal</a></h4><li><a href="/tr/calistigimiz-firma-ve-markalar1">Çalıştığımız Firma ve Markalar</a></li><li><a href="/tr/bimel-duvar-kagitlari">Duvar Kağıtları</a></li><li><a href="/tr/firmamiz">Firmamız</a></li><li><a href="/tr/haberler">Haberler</a></li><li><a href="/tr/is-ilanlari">İş İlanları</a></li><li><a href="/tr/musteri-destek-noktalari">Müşteri Destek Noktaları</a></li><li><a href="/tr/musteri-memnuniyet-formu">Müşteri Memnuniyet Formu</a></li><li><a href="/tr/projeler">Projeler</a></li><li><a href="/tr/oduller">Sertifika ve Ödüller</a></li><li><a href="/tr/kredi-karti-odeme">Kredi Kartı Ödeme</a></li></ul></div></div></div></div><div class='col-md-6'><div class='row'><div class='col-md-3 widget_links'><ul><h4><a href="/tr">Hizmetler</a></h4><li><a href="/tr/dr-net">Dr.NET</a></li><li><a href="/tr/firewall-kurulumu-ve-konfigurasyonlari">Firewall</a></li><li><a href="/tr/bimel-urun-iade-politikasi">İade Politikası</a></li><li><a href="/tr/urun-kataloglari">Kataloglar</a></li><li><a href="/tr/satis-ve-odeme-sartlari">Satış ve Ödeme Şartları</a></li></ul></div><div class='col-md-3 widget_links'><ul><h4><a href="/tr">Destek</a></h4><li><a href="/tr/ariza-takip">Arıza Takip</a></li><li><a href="/tr/soru-ve-oneriler">Soru ve Öneriler</a></li><li><a href="/tr/suruculer-driver">Sürücüler (Driver)</a></li></ul></div><div class='col-md-3 widget_links'><ul><h4><a href="/tr/haberler/projeler">Projeler</a></h4></ul></div><div class='col-md-3 widget_links'><ul><h4><a href="//www.bimel.com.tr/tr/calistigimiz-firma-ve-markalar1">Markalar</a></h4></ul></div>
+
+
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="widget clearfix" data-class-lg="fright" data-class-md="fright" data-class-sm="fright" data-class-xs="" data-class-xxs="">
+<a href="https://www.linkedin.com/company/bimel-elektronik/" class="social-icon si-colored si-linkedin" title="Linkedin">
+                                                                        <i class="icon-linkedin"></i>
+                                                                        <i class="icon-linkedin"></i>
+                                                                </a>								
+<a href="https://twitter.com/bimelelektronik" class="social-icon si-colored si-x" title="Twitter">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="37" height="37" viewBox="0 0 256 256" xml:space="preserve">
+        <defs></defs>
+        <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)">
+            <polygon points="24.89,23.01 57.79,66.99 65.24,66.99 32.34,23.01 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform="  matrix(1 0 0 1 0 0) " />
+            <path d="M 72.349 0 H 17.651 C 7.902 0 0 7.902 0 17.651 v 54.699 C 0 82.098 7.902 90 17.651 90 h 54.699 C 82.098 90 90 82.098 90 72.349 V 17.651 C 90 7.902 82.098 0 72.349 0 z M 56.032 70.504 L 41.054 50.477 L 22.516 70.504 h -4.765 L 38.925 47.63 L 17.884 19.496 h 16.217 L 47.895 37.94 l 17.072 -18.444 h 4.765 L 50.024 40.788 l 22.225 29.716 H 56.032 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+        </g>
+    </svg>                                                                
+</a>
+<a href="https://www.facebook.com/bimel.a.s/" class="social-icon si-colored si-facebook" title="Facebook">
+									<i class="icon-facebook"></i>
+									<i class="icon-facebook"></i>
+								</a>
+								<a href="https://plus.google.com/115057735501606106562" class="social-icon si-colored si-gplus">
+									<i class="icon-gplus"></i>
+									<i class="icon-gplus"></i>
+								</a>
+								<a href="https://www.youtube.com/user/bimelltd/featured" class="social-icon si-colored si-youtube" title="Youtube">
+									<i class="icon-youtube"></i>
+									<i class="icon-youtube"></i>
+								</a>
+								<a href="http://bimis.bimel.com.tr/" class="social-icon si-colored si-blogger" title="Blogger">
+									<i class="icon-blogger"></i>
+									<i class="icon-blogger"></i>
+								</a>
+								<a href="http://www.bimel.com.tr/tr/haberler.rss" class="social-icon si-colored si-rss" title="RSS">
+									<i class="icon-rss"></i>
+									<i class="icon-rss"></i>
+								</a>
+								
+
+								
+							</div>
+</div>
+</div>
+					</div>
+					</div>
+				</div><!-- .footer-widgets-wrap end -->
+
+			</div>
+		</footer><!-- #footer end -->
+<!-- .footer-widgets-wrap end -->
+
+			</div>
+
+			<!-- Copyrights
+			============================================= -->
+			<div id="copyrights">
+
+				<div class="container clearfix">
+
+					<div class="col_half">
+					<dl class="dl-horizontal">
+						  <dt><a href="./tr/ankara">Ankara Merkez</a></dt>
+						  <dd class="nobottommargin"><b>Tel:</b> (312) 434-2245 <b>Faks:</b> (312) 431 19 53</dd>
+						  <dt><a href="./tr/istanbul-network">İstanbul (Anadolu)</a></dt>
+						  <dd class="nobottommargin"><b>Tel:</b> (216) 384-5061 <b>Faks:</b> (216) 384 50 26</dd>
+						  <dt><a href="./tr/istanbul-malzeme-satis">İstanbul (Avrupa)</a></dt>
+						  <dd class="nobottommargin"><b>Tel:</b> (212) 347-7540 <b>Faks:</b> (212) 347 75 44</dd>
+						  <dt><a href="./tr/izmir">İzmir</a></dt>
+						  <dd class="nobottommargin"><b>Tel:</b> (232) 489-0755 <b>Faks:</b> (232) 425 21 49</dd>
+						  <dt><a href="./tr/bursa">Bursa</a></dt>
+						  <dd class="nobottommargin"><b>Tel:</b> (224) 274-0055 <b>Faks:</b> (224) 273 00 26</dd>
+						</dl>
+
+						<div class="clear"></div>
+						<div class="copyright-links"><a href="https://int.bimel.com.tr/">Intranet</a> | <a href="https://www.bimel.com.tr/tr/aydinlatma-metni">Aydınlatma Metni</a> | <a href="https://www.bimel.com.tr/tr/veri-guvenligi-politikamiz">Veri Güvenliği Politikamız</a> | <a href="https://www.bimel.com.tr/dosya/24711">Veri Sahibi Başvuru Formu</a></div>
+					</div>
+
+					<div class="col_half col_last tright">
+					2025© Bimel Elektronik Mamulleri Pazarlama A.Ş. internet sitesinin yayın hakları, tüm görsel malzeme ve bilgilerin elektronik ortamlar dahil kullanım hakkı sadece Bimel Elektronik Mamulleri Pazarlama A.Ş.'ne aittir. İzinsiz kullanmak, kopyalamak ve alıntı yapmak yasal kovuşturma hakkı doğurur.
+					<br>
+					</div>
+
+				</div>
+
+			</div><!-- #copyrights end -->
+
+		</footer><!-- #footer end -->
+
+	</div><!-- #wrapper end -->
+
+	<!-- Go To Top
+	============================================= -->
+	<div id="gotoTop" class="icon-angle-up"></div>
+	
+	
+	<script type="text/javascript" src="/theme/Bimel2/js/jquery.js"></script><script type="text/javascript" src="/theme/Bimel2/js/plugins.js"></script><script type="text/javascript" src="/theme/Bimel2/js/functions.js"></script><!-- <script type="text/javascript">
+          (function( w ){
+	    // if the class is already set, we're good.
+	    if( w.document.documentElement.className.indexOf( "fonts-loaded" ) > -1 ){
+	        return;
+	    }
+	    var fontA = new w.FontFaceObserver( "Source Sans Pro", {
+	        weight: 400
+	    });
+	    var fontB = new w.FontFaceObserver( "Source Sans Pro", {
+	        weight: 700
+	    });
+	    w.Promise
+	        .all([fontA.load(), fontB.load()])
+	        .then(function(){
+	            w.document.documentElement.className += " fonts-loaded";
+	        });
+	}( this ));
+	</script> -->
+</body>
+</html>
+

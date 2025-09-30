@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/istar.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"İstar","contact":{"web":"https://istar.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "İstar",
+  "contact": {
+    "web": "https://istar.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "logo": "img/company/istar.png"
+}

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/proya.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "",
     "instagram": "",
     "youtube": "https://youtube.com/@PROYACANADACorporation-rn9vc"
-  }
+  },
+  "logo": "img/company/proya.png"
 }

@@ -1,6 +1,5 @@
 {
   "name": "Bilge Adam",
-  "logo": "/img/company/bilgeadam.svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "https://facebook.com/bilgeadam",
     "youtube": "",
     "github": ""
-  }
+  },
+  "logo": "img/company/bilgeadam.svg"
 }

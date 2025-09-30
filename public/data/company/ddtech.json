@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/ddtech.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "",
     "x": "https://x.com/DDTECHDX"
-  }
+  },
+  "logo": "img/company/ddtech.png"
 }

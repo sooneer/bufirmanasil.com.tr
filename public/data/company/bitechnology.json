@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/bitechnology.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/bi_technology",
     "youtube": "https://youtube.com/channel/UCjQDgMnnFgke1MjXrfSHFqQ",
     "x": "https://x.com/QlikViewTurkiye?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-  }
+  },
+  "logo": "img/company/bitechnology.png"
 }

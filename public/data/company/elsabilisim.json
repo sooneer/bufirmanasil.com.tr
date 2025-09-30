@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/elsabilisim.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "",
     "instagram": "",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/elsabilisim.png"
 }

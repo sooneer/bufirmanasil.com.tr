@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/spro.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/spro_teknoloji",
     "youtube": "",
     "x": "https://x.com/SPROconsultancy"
-  }
+  },
+  "logo": "img/company/spro.png"
 }

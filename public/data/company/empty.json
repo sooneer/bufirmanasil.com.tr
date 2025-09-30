@@ -1,6 +1,5 @@
 {
   "name": "",
-  "logo": "/img/company/[URL-NAME].svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "",
     "youtube": "",
     "github": ""
-  }
+  },
+  "logo": "img/company/empty.svg"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/beyn.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/beyncomtr",
     "youtube": "",
     "x": "https://x.com/beyncomtr"
-  }
+  },
+  "logo": "img/company/beyn.png"
 }

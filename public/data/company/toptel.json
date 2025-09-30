@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/toptel.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/toptelturkiye",
     "youtube": "",
     "x": "https://x.com/ToptelTurkiye"
-  }
+  },
+  "logo": "img/company/toptel.svg"
 }

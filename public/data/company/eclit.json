@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/eclit.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/eclit_tech",
     "youtube": "https://youtube.com/channel/UCW2hOV_B4x_ONcEVN6WnnfQ",
     "x": "https://x.com/eclit_tech"
-  }
+  },
+  "logo": "img/company/eclit.png"
 }

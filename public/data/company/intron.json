@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/intron.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "",
     "x": "https://x.com/share?url=https:"
-  }
+  },
+  "logo": "img/company/intron.png"
 }

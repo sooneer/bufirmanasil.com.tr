@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/sys.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Sys","contact":{"web":"https://sys.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Sys",
+  "contact": {
+    "web": "https://sys.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "logo": "img/company/sys.svg"
+}

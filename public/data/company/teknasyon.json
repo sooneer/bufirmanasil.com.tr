@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/teknasyon.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/teknasyon",
     "youtube": "https://youtube.com/c/TeknasyonTech",
     "x": "https://x.com/teknasyontech"
-  }
+  },
+  "logo": "img/company/teknasyon.png"
 }

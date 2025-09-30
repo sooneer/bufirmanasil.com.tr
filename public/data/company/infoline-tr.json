@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/infoline-tr.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/infolinebilgiteknolojileri",
     "instagram": "https://instagram.com/infolinetr",
     "youtube": "https://youtube.com/channel/UCzQ5O0c4iLPEak5JoN6q4zA"
-  }
+  },
+  "logo": "img/company/infoline-tr.png"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/artronic.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/artronicups",
     "youtube": "https://youtube.com/channel/UCY9ENxxon2o9W-nnMKDC6JA",
     "x": "https://x.com/ARTronicUPS"
-  }
+  },
+  "logo": "img/company/artronic.png"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/yazilim3d.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/yazilim3d",
     "youtube": "https://youtube.com/user/yazilim3d",
     "x": "https://x.com/Yazilim3D"
-  }
+  },
+  "logo": "img/company/yazilim3d.svg"
 }

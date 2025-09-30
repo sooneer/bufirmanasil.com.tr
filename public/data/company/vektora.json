@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/vektora.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/vektorayazilim",
     "youtube": "https://youtube.com/user/VektoraTR",
     "x": "https://x.com/vektora"
-  }
+  },
+  "logo": "img/company/vektora.png"
 }

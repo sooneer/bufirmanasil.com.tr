@@ -1,6 +1,5 @@
 {
   "name": "Albaraka Tech",
-  "logo": "/img/company/albarakatech.svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "",
     "youtube": "https://youtube.com/channel/UC9LhHIJ2PbzEhRdIQqttkEw",
     "github": ""
-  }
+  },
+  "logo": "img/company/albarakatech.png"
 }

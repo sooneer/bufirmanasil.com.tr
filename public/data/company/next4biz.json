@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/next4biz.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/next4biz",
     "instagram": "https://instagram.com/next4biz",
     "youtube": "https://youtube.com/@next4biz"
-  }
+  },
+  "logo": "img/company/next4biz.png"
 }

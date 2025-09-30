@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/provis.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/provisbilsis",
     "instagram": "https://instagram.com/provisbilsis",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/provis.png"
 }

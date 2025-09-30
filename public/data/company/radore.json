@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/radore.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "",
     "instagram": "https://instagram.com/radorecom",
     "youtube": "https://youtube.com/@Radore"
-  }
+  },
+  "logo": "img/company/radore.png"
 }

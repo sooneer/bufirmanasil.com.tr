@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/titra.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/titrateknoloji",
     "youtube": "https://youtube.com/channel/UC0V_GhwPiBsq0zzxhoFQ8Fg",
     "x": "https://x.com/titrateknoloji?ref_src=twsrc%5Etfw"
-  }
+  },
+  "logo": "img/company/titra.png"
 }

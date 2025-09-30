@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/kalemyazilim.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/kalemyazilimcom",
     "youtube": "https://youtube.com/channel/UCYQPknm8XxPjO7PaCgeYtpg",
     "x": "https://x.com/kalemyazilimcom"
-  }
+  },
+  "logo": "img/company/kalemyazilim.png"
 }

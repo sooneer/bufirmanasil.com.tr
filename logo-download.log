@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "C:\Github\sooneer\bufirmanasil.com.tr\scripts\download-company-logos.py", line 306, in <module>
+    main()
+    ~~~~^^
+  File "C:\Github\sooneer\bufirmanasil.com.tr\scripts\download-company-logos.py", line 303, in main
+    downloader.process_all_companies(limit=args.limit)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Github\sooneer\bufirmanasil.com.tr\scripts\download-company-logos.py", line 266, in process_all_companies
+    print(f"\U0001f680 Toplam {len(json_files)} ■irket i■lenecek\n")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\soner.acar\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1254.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f680' in position 0: character maps to <undefined>

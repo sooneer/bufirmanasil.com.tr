@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/ln.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "",
     "instagram": "https://instagram.com/lnbilgisayar",
     "youtube": "https://youtube.com/@LNBilgisayar"
-  }
+  },
+  "logo": "img/company/ln.png"
 }

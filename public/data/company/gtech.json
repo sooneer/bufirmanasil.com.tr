@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/gtech.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/GTechTR",
     "instagram": "https://instagram.com/gtech_global",
     "youtube": "https://youtube.com/@gtech8875"
-  }
+  },
+  "logo": "img/company/gtech.png"
 }

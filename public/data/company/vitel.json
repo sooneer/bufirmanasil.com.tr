@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/vitel.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/viteltr",
     "youtube": "https://youtube.com/channel/channelvitel",
     "x": "https://x.com/Vitel_As"
-  }
+  },
+  "logo": "img/company/vitel.png"
 }

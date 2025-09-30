@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/zaferburo.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/zafer-b%C3%BCro-makineleri-190488904300804",
     "instagram": "https://instagram.com/zaferburomakinalari?igshid=YmMyMTA2M2Y=",
     "youtube": "https://youtube.com/@canon-zaferburomakineleri6156"
-  }
+  },
+  "logo": "img/company/zaferburo.jpg"
 }

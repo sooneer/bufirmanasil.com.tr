@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/atolye15.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -24,5 +23,6 @@
     "youtube": "https://youtube.com/c/Atolye15",
     "x": "https://x.com/atolye15",
     "github": "https://github.com/atolye15"
-  }
+  },
+  "logo": "img/company/atolye15.svg"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/iriss.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/iriss_tech",
     "youtube": "https://youtube.com/channel/UCOcX48lxzE8-odaitEj1oJQ",
     "x": "https://x.com/irisstech"
-  }
+  },
+  "logo": "img/company/iriss.png"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/kolaysoft.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/kolaysoft",
     "youtube": "https://youtube.com/@kolaysoftteknoloji6105",
     "x": "https://x.com/kolaysoft_sm"
-  }
+  },
+  "logo": "img/company/kolaysoft.png"
 }

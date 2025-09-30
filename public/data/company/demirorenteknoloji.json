@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/demirorenteknoloji.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Demirorenteknoloji","contact":{"web":"https://demirorenteknoloji.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Demirorenteknoloji",
+  "contact": {
+    "web": "https://demirorenteknoloji.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "logo": "img/company/demirorenteknoloji.png"
+}

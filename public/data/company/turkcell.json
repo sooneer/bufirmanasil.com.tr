@@ -1,6 +1,5 @@
 {
   "name": "Turkcell",
-  "logo": "/img/company/turkcell.svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "https://facebook.com/Turkcell",
     "youtube": "",
     "github": ""
-  }
+  },
+  "logo": "img/company/turkcell.png"
 }

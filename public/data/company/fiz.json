@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/fiz.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/channel/UCQEIxPupPLleZFZLOw4T9_Q",
     "x": "https://x.com/fizp2p"
-  }
+  },
+  "logo": "img/company/fiz.png"
 }

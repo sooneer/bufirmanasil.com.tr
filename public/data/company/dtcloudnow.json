@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/dtcloudnow.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/dtdigitaltransformation",
     "youtube": "https://youtube.com/@dtcloud?si=3Mhnv_fVn7NfW0J6",
     "x": "https://x.com/DTCloudnow"
-  }
+  },
+  "logo": "img/company/dtcloudnow.png"
 }

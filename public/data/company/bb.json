@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/bb.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/bilisim_bilgisayar_as",
     "youtube": "",
     "x": "https://x.com/bilisimkayseri?s=11&t=Gm1tvM3HFfumnv6rsU8Suw"
-  }
+  },
+  "logo": "img/company/bb.svg"
 }

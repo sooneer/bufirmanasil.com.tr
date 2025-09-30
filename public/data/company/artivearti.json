@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/artivearti.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/artiveartiteknoloji",
     "youtube": "https://youtube.com/channel/UCXC9l4Yw2Q3lmYSFdcE2o4w",
     "x": "https://x.com/artivearti"
-  }
+  },
+  "logo": "img/company/artivearti.png"
 }

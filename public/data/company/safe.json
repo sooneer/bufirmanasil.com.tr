@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/safe.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/safe_teknoloji",
     "youtube": "",
     "x": "https://x.com/Safe_Bilgisayar"
-  }
+  },
+  "logo": "img/company/safe.png"
 }

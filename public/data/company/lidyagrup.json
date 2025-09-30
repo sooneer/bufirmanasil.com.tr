@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/lidyagrup.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/lidya_grup",
     "youtube": "https://youtube.com/channel/UCTE6RBH60MvThebz8b-Sjaw",
     "x": "https://x.com/grup_lidya"
-  }
+  },
+  "logo": "img/company/lidyagrup.svg"
 }

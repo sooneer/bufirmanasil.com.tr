@@ -1,6 +1,5 @@
 {
   "name": "Akpinar Bilişim",
-  "logo": "/img/company/akpinarbilisim.svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "https://facebook.com/www.netech.com.tr",
     "youtube": "",
     "github": ""
-  }
+  },
+  "logo": "img/company/akpinarbilisim.svg"
 }

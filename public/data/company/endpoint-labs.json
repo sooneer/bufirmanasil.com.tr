@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/endpoint-labs.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "",
     "github": "https://github.com/endpointlabs"
-  }
+  },
+  "logo": "img/company/endpoint-labs.png"
 }

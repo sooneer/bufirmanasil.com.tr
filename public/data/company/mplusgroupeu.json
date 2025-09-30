@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/mplusgroupeu.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/mplusgroup",
     "instagram": "https://instagram.com/m_plusgroup",
     "youtube": "https://youtube.com/@mplusofficial"
-  }
+  },
+  "logo": "img/company/mplusgroupeu.png"
 }
