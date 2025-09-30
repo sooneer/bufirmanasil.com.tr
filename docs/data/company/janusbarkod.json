@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/janusbarkod.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Janusbarkod","contact":{"web":"https://janusbarkod.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Janusbarkod",
+  "contact": {
+    "web": "https://janusbarkod.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "logo": "img/company/janusbarkod.png"
+}

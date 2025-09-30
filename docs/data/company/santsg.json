@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/santsg.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/SanTourismSoftwareGroup",
     "instagram": "https://instagram.com/san.tsg",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/santsg.svg"
 }

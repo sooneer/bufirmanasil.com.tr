@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/bilgibirikim.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Bilgi Birikim","contact":{"web":"https://bilgibirikim.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Bilgi Birikim",
+  "contact": {
+    "web": "https://bilgibirikim.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "logo": "img/company/bilgibirikim.svg"
+}

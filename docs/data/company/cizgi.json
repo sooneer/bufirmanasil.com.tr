@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/cizgi.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/cizgiteknolojias",
     "instagram": "https://instagram.com/cizgi_teknoloji",
     "youtube": "https://youtube.com/channel/UCwDQ6IzlUqCkU0JdvkddvyQ"
-  }
+  },
+  "logo": "img/company/cizgi.png"
 }

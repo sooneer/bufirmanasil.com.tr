@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/softwareone.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/softwareone",
     "youtube": "https://youtube.com/@SoftwareONE-Global",
     "x": "https://x.com/SoftwareOne"
-  }
+  },
+  "logo": "img/company/softwareone.png"
 }

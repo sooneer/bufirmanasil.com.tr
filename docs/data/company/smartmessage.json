@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/smartmessage.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/smartmessagemarketing",
     "youtube": "https://youtube.com/@smartmessagemarketing",
     "x": "https://x.com/smart_message"
-  }
+  },
+  "logo": "img/company/smartmessage.png"
 }

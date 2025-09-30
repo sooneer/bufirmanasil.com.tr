@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/turkkep.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/turkkepcomtr",
     "youtube": "https://youtube.com/c/T%C3%9CRKKEPKAYITLIELEKTRON%C4%B0KPOSTAA%C5%9E",
     "x": "https://x.com/turkkepcomtr"
-  }
+  },
+  "logo": "img/company/turkkep.png"
 }

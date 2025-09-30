@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/sigmatelecom.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/wix",
     "youtube": "https://youtube.com/user/Wix",
     "x": "https://x.com/WixStudio"
-  }
+  },
+  "logo": "img/company/sigmatelecom.png"
 }

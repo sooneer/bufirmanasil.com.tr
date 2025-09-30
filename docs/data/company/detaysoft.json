@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/detaysoft.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/detaysoft",
     "youtube": "https://youtube.com/user/detaysoft",
     "x": "https://x.com/detaysoft?ref_src=twsrc%5Etfw"
-  }
+  },
+  "logo": "img/company/detaysoft.png"
 }

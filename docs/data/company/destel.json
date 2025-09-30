@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/destel.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/profile.php?id=100054574699043",
     "instagram": "https://instagram.com/destelbilisim?igsh=MTc5Z3hnemppendyMA%3D%3D&utm_source=qr",
     "youtube": "https://youtube.com/channel/UCKaVqK7Klc3qCAc2SJP-cgw"
-  }
+  },
+  "logo": "img/company/destel.png"
 }

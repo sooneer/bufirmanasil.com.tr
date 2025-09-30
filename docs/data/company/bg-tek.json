@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/bg-tek.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/bgtek.tr",
     "youtube": "",
     "x": "https://x.com/en"
-  }
+  },
+  "logo": "img/company/bg-tek.png"
 }

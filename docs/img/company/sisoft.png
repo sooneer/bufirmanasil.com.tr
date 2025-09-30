@@ -1,0 +1,1627 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="tr" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="tr" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="tr">
+<!--<![endif]--><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="google-site-verification" content="ifZr8coPR6ltyH3tE4pV_4oYQLoOciErsh6P-dbvAgY" />
+    <title>HBYS - Hastane Bilgi Yönetim Sistemleri - Sisoft Sağlık Bilgi Sistemleri</title>
+    <meta name="keywords" content="HBYS, Hastane Bilgi Yönetim Sistemi, Hastane Bilgi Yönetim Sistemleri, EBYS, HIMSS, Elektronik Belge Yönetimi, Aile Hekimliği, PACS, FAMILY, MOBILE, PMI, Hastane Programı, HBYS Modülleri">
+    <meta name="description" content="Hastane Bilgi Yönetim Sistemi hizmeti sunmakta olan şirketimizin, sunmuş olduğu hizmetler ve ürünler hakkında bilgi paylaşımı yapmış olduğu sayfadır." />
+    <!--<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
+    <script type="text/javascript" src="assets/plugins/jquery/jquery.min.js"></script>
+    <script type="text/javascript">
+        function youtube_popup(elm) {
+            var dv1 = document.createElement('div');
+            dv1.id = 'dv_youtube_mainblock';
+            dv1.style.position = 'absolute';
+            dv1.style.left = '0px';
+            dv1.style.top = (document.body.scrollTop + document.documentElement.scrollTop) + 'px';
+            dv1.style.width = '100%';
+            dv1.style.height = '100%';
+            dv1.style.cursor = 'pointer';
+            dv1.style.opacity = 0;
+            dv1.style.background = 'rgba(0,0,0,0.7)';
+            dv1.style.zIndex = 1000;
+            dv1.style.transition = 'all 400ms linear';
+            dv1.onclick = function() {
+                document.body.removeChild(this);
+                document.body.style.overflow = 'auto';
+            }
+            var dv2 = document.createElement('div');
+            dv2.style.position = 'absolute';
+            dv2.style.borderRadius = '10px';
+            dv2.style.top = '50%';
+            dv2.style.left = '50%';
+            dv2.style.width = '670px';
+            dv2.style.height = '390px';
+            dv2.style.marginLeft = '-335px';
+            dv2.style.marginTop = '-195px';
+            dv2.style.background = '#FFF';
+            dv1.appendChild(dv2);
+
+            var img1 = document.createElement('img');
+            img1.src = '/tr/fancybox/fancy_close.png';
+            img1.style.position = 'absolute';
+            img1.style.left = '655px';
+            img1.style.top = '-15px';
+            dv2.appendChild(img1);
+
+            var if1 = document.createElement('iframe');
+            if1.setAttribute('width', '640');
+            if1.setAttribute('height', '360');
+            if1.setAttribute('frameborder', '0');
+            if1.setAttribute('allowfullscreen', true);
+            if1.setAttribute('src', elm.getAttribute('rel'));
+            if1.style.margin = '15px';
+            dv2.appendChild(if1);
+
+            document.body.style.overflow = 'hidden';
+            document.body.appendChild(dv1);
+            setTimeout(function() {
+                document.getElementById('dv_youtube_mainblock').style.opacity = 1;
+            }, 300);
+        }
+
+        function sisoPopUp() {
+            document.body.style.overflow = 'hidden';
+            var w = myWidth();
+            var h = myHeight();
+            var x = 650;
+            var y = 650;
+            var dv = document.createElement('div');
+            dv.style.position = 'fixed';
+            dv.style.zIndex = 10000;
+            dv.style.width = '100%';
+            dv.style.height = '100%';
+            dv.style.top = '0px';
+            dv.style.left = '0px';
+            dv.style.background = 'rgba(0,0,0,0.7)';
+            dv.style.cursor = 'pointer';
+            dv.style.transition = 'all 1000ms',
+                dv.title = 'Kapatmak için tıklayınız';
+            dv.onclick = function() {
+                sisoClosePopUp(this);
+            }
+
+            var img = document.createElement('img');
+            img.style.position = 'relative';
+
+             img.src = 'img/30zafer2025.png';
+            img.style.width = x + 'px';
+            img.style.height = y + 'px';
+            img.style.top = '50%';
+            img.style.left = '50%';
+            img.style.marginLeft = (-1 * parseInt(x / 2)) + 'px';
+            img.style.marginTop = (-1 * parseInt(y / 2)) + 'px';
+            img.title = 'Kapatmak için tıklayınız';
+            dv.appendChild(img);
+            document.body.insertBefore(dv, document.body.childNodes[0]);
+        }
+
+        function sisoClosePopUp(elm) {
+            elm.style.opacity = 0;
+            setTimeout(function() {
+                elm.parentNode.removeChild(elm);
+                document.body.style.overflow = 'auto';
+            }, 1500);
+        }
+
+        function myWidth() {
+            if (typeof(window.innerWidth) == 'number') {
+                return window.innerWidth;
+            } else if (document.documentElement && (document.documentElement.clientWidth ||
+                    document.documentElement.clientHeight)) {
+                return document.documentElement.clientWidth;
+            } else if (document.body && (document.body.clientWidth || document.body.clientHeight)) {
+                return document.body.clientWidth;
+            }
+        }
+
+        function myHeight() {
+            if (typeof(window.innerWidth) == 'number') {
+                return window.innerHeight;
+            } else if (document.documentElement && (document.documentElement.clientWidth ||
+                    document.documentElement.clientHeight)) {
+                return document.documentElement.clientHeight;
+            } else if (document.body && (document.body.clientWidth || document.body.clientHeight)) {
+                return document.body.clientHeight;
+            }
+        }
+    </script>
+    
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<!-- Web Fonts -->
+	<link rel='stylesheet' type='text/css' href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic,latin'>
+
+	<!-- CSS Global Compulsory -->
+	<link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/style.css">
+
+	<!-- CSS Header and Footer -->
+	<link rel="stylesheet" href="assets/css/headers/header-default.css">
+	<link rel="stylesheet" href="assets/css/footers/footer-v1.css">
+
+	<!-- CSS Implementing Plugins -->
+	<link rel="stylesheet" href="assets/plugins/animate.css">
+	<link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/plugins/parallax-slider/css/parallax-slider.css">
+	<link rel="stylesheet" href="assets/plugins/owl-carousel/owl-carousel/owl.carousel.css">
+	<link rel="stylesheet" href="assets/plugins/fancybox/source/jquery.fancybox.css">
+
+	<!-- CSS Customization -->
+	<link rel="stylesheet" href="assets/css/pages/page_one.css">
+	<link rel="stylesheet" href="assets/css/theme-colors/blue.css"/>
+	<link rel="stylesheet" href="assets/css/custom.css">
+
+<style>
+
+.header .topbar ul.languages li a {
+  
+    text-transform: inherit !important;
+}
+
+	.dropdown, .dropdown-menu, .mega-menu-fullwidth {
+		z-index: 9999;
+	}
+</style>
+</head>
+
+<body class="header-fixed">
+
+	<script>
+		window.fbAsyncInit = function() {
+			FB.init({
+			  appId      : '648338648636380',
+			  xfbml      : true,
+			  version    : 'v2.4'
+			});
+		};
+
+		(function(d, s, id){
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) {return;}
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/tr_TR/sdk.js";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+
+
+		function resizeIframe1(obj) {
+			obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+		}
+
+		function resizeIframe2(obj) {
+			obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+		}
+
+		function resizeIframe3(obj) {
+			obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+		}
+	</script>
+
+<div class="wrapper">
+	<!--=== Header ===-->
+	<div class="header header-sticky" style="box-shadow: 0 0 10px">
+		<div class="container">
+			<!-- Logo -->
+			<a class="logo" href="/tr/">
+				<img src="assets/img/sisoft-logo.png" alt="Sisoft Sağlık Bilgi Sistemleri">
+			</a>
+			<!-- /Logo -->
+
+			<!-- Topbar -->
+        <div class="topbar">
+        <ul class="loginbar pull-right">
+        <li class="hoverSelector">
+        <a href="../tr/index.jsp"><img src="" class="flag flag-tr" alt="" /></a>
+        <a href="../en/index.jsp"><img src="" class="flag flag-us" alt="" /></a>
+        <a href="../fr/index.jsp"><img src="" class="flag flag-fr" alt="" /></a>
+        <a href="../ru/index.jsp"><img src="" class="flag flag-ru" alt="" /></a>
+        <a href="../az/index.jsp"><img src="" class="flag flag-az" alt="" /></a>
+        <a href="../ar/index.jsp"><img src="" class="flag flag-sa" alt="" /></a>
+        <ul class="languages hoverSelectorBlock">
+        <li><a href="../tr/index.jsp"><img src="" class="flag flag-tr" alt="" /> Türkçe</a></li>
+        <li><a href="../en/index.jsp"><img src="" class="flag flag-us" alt="" /> English</a></li>
+        <li><a href="../fr/index.jsp"><img src="" class="flag flag-fr" alt="" /> Français</a></li>
+        <li><a href="../ru/index.jsp"><img src="" class="flag flag-ru" alt="" /> русский</a></li>
+        <li><a href="../az/index.jsp"><img src="" class="flag flag-az" alt="" /> Azerİce</a></li>
+        <li><a href="../ar/index.jsp"><img src="" class="flag flag-sa" alt="" /> العربية </a></li>
+        </ul>
+        </li>
+        </ul>
+        </div>
+        <!-- /Topbar -->
+			<!-- Acilir-kapanir Mobil Menu -->
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+				<span class="sr-only">MENU</span>
+				<span class="fa fa-bars"></span>
+			</button>
+			<!-- /Acilir-kapanir Mobil Menu -->
+		</div><!--/end container-->
+
+		<title>Sisoft Sağlık Bilgi Sistemleri - Hastane Bilgi Sistemi</title>
+<meta name="description" content="Hastane Bilgi Yönetim Sistemleri, HBYS, Pacs, Family, EBYS, Mobile, Temp, insurance, healthnet">
+<meta name="keywords" content="Hastane Bilgi Yönetim Sistemleri tarafından sunulan hbys hizmetinde dünya genelinde hizmet veren şirketimizin, tarihçe, ürün, yayın ve başarılarını sunmuş olduğu sayfadır. ">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
+    <div class="container">
+        <ul class="nav navbar-nav">
+            <!-- ana sayfa -->
+            <li><a href="/">Ana Sayfa</a></li>
+            <!-- /ana sayfa -->
+
+            <!-- hakkimizda -->
+            <li class="dropdown mega-menu-fullwidth">
+                <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">HAKKIMIZDA</a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <div class="mega-menu-content disable-icons">
+                            <div class="container">
+                                <div class="row equal-height">
+                                    <div class="col-md-5 equal-height-in">
+                                        <div style="padding-right:30px; text-align:justify">
+                                            <h2>Tarihçe</h2>
+                                            <a style="display:block; overflow:hidden; float:left; padding:2px 15px 5px 0; margin:0; border:none;" href="sunus.jsp"><img src="/tr/img/bina3.jpg" alt="Ömer Siso" /></a>Sisoft, Ömer Siso tarafından 1987 yılında Sivas'ta Çözüm Bilgisayar adıyla kurulmuş, 1989 yılında da şirketleşerek tüzel kişilik kazanmıştır.
+
+Yazılımlarımızı o yıllarda geliştirmeye başladık. DOS tabanlı yazılımların ilki olan Çözüm Eczane ve İlaç Takip 1988 yılında, o tarihte Başhekim olan Op. Dr. Ahmet ÜSTÜN'ün talebi üzerine SSK Tokat Hastanesi için hazırlanmış, o günlerde yaygın olarak tanınan BASIC dili kullanılmıştı. Veri saklama ve kapasite sorunları yüzünden çok kısa süre içinde kodlar dBase kullanılarak yeniden yazılmıştı. Kısa bir süre sonra, tek makine ile yapılan bu işlemin ana makine kullanılarak birden fazla terminal ile yapılması istendiğinde ise, dBase'in bu işlem için pahalı olması nedeni ile Clipper Summer 87 kullanılmaya karar verilmişti. <a href="tarihce.jsp" style="color:#1d6eb5">Devamı için <i class="fa fa-angle-right"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-7 equal-height-in">
+                                        <table border="0" style="margin:0 20px; font-size:90%">
+                                            <tr>
+                                                <td height="301" colspan="2">
+                                                
+                                                    <i class="fa fa-eye" style="display:block; overflow:hidden; float:left; padding:2px 2px 5px 0; font-size:40px; margin:5px 0px; border:none; color:#999"></i><br /><strong>Vizyonumuz</strong> : <br />İnsan
+                                                    odaklı yaklaşım ile sağlık paydaşları için <b>uçtan uca sürdürülebilir çözümler</b> sunmak.<br />
+                                                    <br />
+                                                    <i class="fa fa-heart" style="display:block; overflow:hidden; float:left; padding:2px 2px 5px 0; font-size:40px; margin:10px 0px; border:none; color:#999"></i><br /><strong>Misyonumuz</strong> : <br
+                                                    />Yenilikçi yazılımlar, entegre çözümler ile <b>sağlık bilişiminin geleceğini</b> şekillendirmek ve yaşam kalitesini artırmak.<br/>
+                                                    <br/>
+                                                    <i class="fa fa-male" style="display:block; overflow:hidden; float:left; padding:2px 2px 5px 0; font-size:40px; margin:10px 0px; border:none; color:#999"></i><br />
+                                                    <strong>Yönetim Kurulu </strong>: <br /> Yönetim Kurulu Listesini Görmek İçin <a href="yonetimKurulu.jsp" style="color:#1d6eb5">Tıklayınız. <i class="fa fa-angle-right"></i></a></td>
+                                            </tr>
+                                            <tr>
+                                                <td align="center">
+                                                    <a href="uyeliklerimiz.jsp">
+                                                        <h4>Üyeliklerimiz</h4>
+                                                    </a><a href="uyeliklerimiz.jsp"><i class="fa fa-slideshare" style="font-size:40px; color:#1d6eb5"></i></a> </td>
+
+                                                <td align="center">
+                                                    <a href="tanitimFilmleri1.jsp">
+                                                        <h4>Tanıtım Filmleri</h4>
+                                                    </a><a href="tanitimFilmleri1.jsp"><i class="fa fa-video-camera" style="font-size:40px; color:#dd2c24"></i></a></td>
+                                                <td align="center">
+                                                    <a href="sema/organizasyon_semasi.jpg">
+                                                        <h4>Organizasyon Şeması</h4>
+                                                    </a><a href="sema/organizasyon_semasi.jpg"><i class="fa fa-sitemap" style="font-size:40px; color:#1d6eb5"></i></a></td>
+
+
+
+
+                                            </tr>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </li>
+            <!-- /hakkimizda -->
+
+            <!-- urunlerimiz -->
+            <li class="dropdown mega-menu">
+                <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
+					ÜRÜNLERİMİZ
+				</a>
+                <ul class="dropdown-menu menu-urunler">
+                    <li>
+                        <div class="mega-menu-content disable-icons">
+                            <div class="container">
+                                <div class="row equal-height">
+                                    <div class="col-md-4 equal-height-in siso-menu-hucre">
+                                        <a href="/tr/hbys/"><b>SisoHBYS</b><img src="/tr/img/hbys.jpg" alt="Hastane Bilgi Yönetim Sistemi" /></a>
+                                    </div>
+                                    <div class="col-md-4 equal-height-in siso-menu-hucre">
+                                        <a target="_blank" href="http://www.sisopacs.com.tr/"><b>SisoPacs</b><img src="/tr/img/pacs.jpg" alt="Görüntü Arşivleme Ve İletişim Sistemi" /></a>
+                                    </div>
+                                    <div class="col-md-4 equal-height-in siso-menu-hucre">
+                                        <a target="_blank" href="http://www.sisofamily.com.tr/"><b>SisoFamily</b><img src="/tr/img/family.png" alt="Aile Hekimliği Bilgi Sistemi" /></a>
+                                    </div>
+                                </div>
+                                <div class="row equal-height">
+                                    <div class="col-md-4 equal-height-in siso-menu-hucre">
+                                        <a target="_blank" href="https://sisoft.com.tr/tr/ebysnew.jsp"><b>SisoEBYS</b><img src="/tr/img/ebys.png" alt="Elektronik Belge Yönetim Sistemi" /></a>
+                                    </div>
+                                    <div class="col-md-4 equal-height-in siso-menu-hucre">
+                                        <a href="/tr/mobile.jsp"><b>SisoMobile</b><img src="/tr/img/mobile.jpg" alt="Hastane Bilgi Yönetim Sistemi Mobil Çözümler" /></a>
+                                    </div>
+                                    <div class="col-md-4 equal-height-in siso-menu-hucre">
+                                        <a target="_blank" href="/tr/argedonanim/index.jsp"><b>SisoDonanım</b><img src="/tr/img/temp.png" alt="Donanım Ürünleri" /></a>
+                                    </div>
+
+                                </div>
+                                <div class="row equal-height">
+                                    <div class="col-md-4 equal-height-in siso-menu-hucre">
+                                        <a href="/tr/insurance.jsp"><b>SisoInsurance</b><img src="/tr/img/insurance_k.jpg" alt="Hastane Bilgi Yönetim Sistemi" /></a>
+                                    </div>
+                                    <div class="col-md-4 equal-height-in siso-menu-hucre">
+                                        <a href="healthnet.jsp"><b>SisoHealthNET</b><img src="/tr/img/healtnet_k.jpg" alt="Hastane Bilgi Yönetim Sistemleri" /></a>
+                                    </div>
+                                    <div class="col-md-4 equal-height-in siso-menu-hucre">
+                                        <a href="sisoicu.jsp"><b>SisoICU</b><img src="/tr/img/sisoicok.jpg" alt="Hastane Bilgi Yönetim Sistemleri" /></a>
+                                    </div>
+
+
+
+
+
+
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <br /><em>Tüm Sisoft ürünleri, <span class="text-border text-border-red">ileri seviye</span> mühendislik ve güvenlik süreçlerinden geçerek sunulmaktadır.</em>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </li>
+            <!-- /urunlerimiz -->
+
+            <!-- basarilarimiz -->
+            <li class="dropdown">
+                <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
+					BAŞARILARIMIZ
+				</a>
+                <ul class="dropdown-menu menu-basari pull-right">
+                    <li>
+                        <div class="mega-menu-content disable-icons">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <div class="row equal-height">
+                                            <div class="col-md-6 equal-height-in">
+                                                <a href="hastanelerimiz.jsp"><i class="fa fa-h-square"></i>Hastanelerimiz</a>
+                                            </div>
+                                            <div class="col-md-6 equal-height-in">
+                                                <a href="odullerimiz.jsp"><i class="fa fa-bookmark"></i>Ödüllerimiz</a>
+                                            </div>
+                                        </div>
+                                        <div class="row equal-height">
+                                            <div class="col-md-6 equal-height-in">
+                                                <a href="/tr/basindasisoft.jsp"><i class="fa fa-eye"></i>Basında Sisoft</a>
+                                            </div>
+                                            <div class="col-md-6 equal-height-in">
+                                                <a href="referanslarimiz.jsp"><i class="fa fa-comment"></i>Referanslarımız</b></a>
+                                            </div>
+                                        </div>
+                                        <div class="row equal-height">
+                                            <div class="col-md-6 equal-height-in">
+                                                <a href="belgelerimiz.jsp"><i class="fa fa-file"></i>Belgelerimiz</a>
+                                            </div>
+                                            <div class="col-md-6 equal-height-in">
+                                                <a href="basarioykuleri.jsp"><i class="fa fa-child"></i>Başarı Öyküleri</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 menu-tek-gorsel">
+                                        <a href="himssakreditasyon.jsp"><img src="/tr/himssakreditasyon/himss_stage6_award_k.jpg" alt="Hastane Bilgi Yönetim Sistemleri - Hims Stage 6" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </li>
+            <!-- /basarilarimiz -->
+
+            <!-- yayinlarimiz -->
+            <li class="dropdown">
+                <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
+					YAYINLARIMIZ
+				</a>
+                <ul class="dropdown-menu menu-basari pull-right">
+                    <li>
+                        <div class="mega-menu-content disable-icons">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <div class="row equal-height">
+                                            <div class="col-md-6 equal-height-in">
+                                                <a href="son-yayinlarimiz.jsp"><i class="fa fa-plus-square"></i>Son Yayınlar</a>
+                                            </div>
+                                            <div class="col-md-6 equal-height-in">
+                                                <a href="sirket-logosu.jsp"><i class="fa fa-circle-o"></i>Şirket Logosu</a>
+                                            </div>
+                                        </div>
+                                        <div class="row equal-height">
+                                            <div class="col-md-6 equal-height-in">
+                                                <a href="kitaplar.jsp"><i class="fa fa-book"></i>Ek Dökümanlar</a>
+                                            </div>
+                                            <div class="col-md-6 equal-height-in">
+                                                <a href="afis-reklamlar.jsp"><i class="fa fa-bullseye"></i>Afiş ve Reklamlar</b></a>
+                                            </div>
+                                        </div>
+                                        <div class="row equal-height">
+                                            <div class="col-md-6 equal-height-in">
+                                                <a href="katologlar.jsp"><i class="fa fa-file"></i>Kataloglar</a>
+                                            </div>
+                                            <div class="col-md-6 equal-height-in">
+                                                <a href="teknoloji_yayinlari.jsp"><i class="fa fa-cogs"></i>Teknik Yayınlar</a>
+                                            </div>
+                                        </div>
+                                        <div class="row equal-height">
+                                            <div class="col-md-6 equal-height-in">
+                                                <a href="dergiler.jsp"><i class="fa fa-book"></i>Dergiler</a>
+                                            </div>
+                                            <div class="col-md-6 equal-height-in">
+                                                <a href="makale1.jsp"><i class="fa fa-file-text-o"></i>Makaleler</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 menu-tek-gorsel">
+                                        <a href="dergiler.jsp"><img src="/tr/img/dergi.jpg" width="100" alt="Hastane Bilgi Yönetim Sistemleri" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </li>
+            <!-- /yayinlarimiz -->
+
+            <!-- iletisim -->
+            <li class="dropdown">
+                <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">
+					İLETİŞİM
+				</a>
+                <ul class="dropdown-menu menu-iletisim pull-right">
+                    <li>
+                        <div class="mega-menu-content disable-icons">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-5 mobilgizle menu-tek-gorsel">
+                                        <a href="iletisim.jsp"><img src="/tr/img/contact.jpg" alt="Hastane Bilgi Yönetim Sistemleri İletişim" /></a>
+                                    </div>
+                                    <div class="col-md-7">
+                                        <div class="row equal-height">
+                                            <div class="col-md-12 equal-height-in">
+                                                <a href="iletisim.jsp"><i class="fa fa-info"></i>İletişim Bilgileri</a>
+                                            </div>
+                                        </div>
+                                        <div class="row equal-height">
+                                            <div class="col-md-12 equal-height-in">
+                                                <a href="genel-bilgiler.jsp"><i class="fa fa-asterisk"></i>Şirket Genel Bilgileri</a>
+                                            </div>
+                                        </div>
+                                        <div class="row equal-height">
+                                            <div class="col-md-12 equal-height-in">
+                                                <a href="bayi-basvuru-formu.jsp"><i class="fa fa-pencil-square-o"></i>Bayii Başvurusu</a>
+                                            </div>
+                                        </div>
+                                        <div class="row equal-height">
+                                            <div class="col-md-12 equal-height-in">
+                                                <a href="SikcaSorulanSorular.jsp"><i class="fa fa-pencil-square-o"></i>Sıkça Sorulan Sorular</a>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                    </li>
+                </ul>
+            </li>
+            <!-- /iletisim -->
+        </ul>
+        </div>
+        <!--/end container-->
+    </div>
+	</div>
+	<!--=== End Header ===-->
+
+    <script language="Javascript" type="text/javascript">
+         //sisoPopUp();
+    </script>
+    <style>
+        .body {
+            background-color: #bbb;
+        }
+        
+        .container--head {
+            background: #FFFFFF;
+        }
+        
+        .tooltip-carousel {
+            position: absolute;
+            z-index: 11;
+            border-radius: 50%;
+        }
+        
+        .caraousel-tooltip-item {
+            display: none;
+        }
+        
+        .caraousel-tooltip-item.active {
+            display: block;
+        }
+        
+        .app-download {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            direction: rtl;
+            background-color: #dc1e4d;
+            position: fixed;
+            flex-direction: column;
+            z-index: 100;
+            left: 2rem;
+            border-bottom-right-radius: 50%;
+            border-bottom-left-radius: 50%;
+            box-shadow: 1px 2px 14px 5px #000 70;
+            padding: 1rem;
+        }
+        
+        .app-download:focus {
+            outline: none;
+        }
+        
+        .app-download label {
+            margin-top: 0.5rem;
+            margin-bottom: 0.5rem;
+            color: #fff;
+            cursor: pointer;
+            line-height: 0ch;
+        }
+        
+        .app-download label#first-title {
+            font-size: 1rem;
+        }
+        
+        .app-download label#second-title {
+            font-size: 0.8rem;
+        }
+        
+        .app-download .fa-mobile-phone {
+            color: #fff;
+            font-size: 2.5rem;
+            width: 45px;
+            height: 45px;
+            display: flex;
+            border: 2px dotted #fff;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            margin: 0.5rem 0;
+            cursor: pointer;
+        }
+        
+        .app-download .close-download-app {
+            color: #fff;
+            margin-top: 0.5rem;
+            font-size: 0.7rem;
+            cursor: pointer;
+        }
+        
+        .bounce {
+            animation: bounce 0.5s;
+            animation-direction: alternate;
+            animation-timing-function: cubic-bezier(0.5, 0.05, 1, 0.5);
+            animation-iteration-count: infinite;
+            -webkit-animation-name: bounce;
+            -webkit-animation-duration: 0.5s;
+            -webkit-animation-direction: alternate;
+            -webkit-animation-timing-function: cubic-bezier(0.5, 0.05, 1, 0.5);
+            -webkit-animation-iteration-count: infinite;
+        }
+        
+        @keyframes bounce {
+            from {
+                transform: translate3d(0, 0, 0);
+            }
+            to {
+                transform: translate3d(0, 3px, 0);
+            }
+        }
+        
+        @-webkit-keyframes bounce {
+            from {
+                -webkit-transform: translate3d(0, 0, 0);
+                transform: translate3d(0, 0, 0);
+            }
+            to {
+                -webkit-transform: translate3d(0, 3px, 0);
+                transform: translate3d(0, 3px, 0);
+            }
+        }
+        
+        #page-wrapper {
+            padding: 1.5em;
+        }
+        
+        p.center {
+            text-align: center;
+        }
+        
+        h1 {
+            color: #0198cc;
+            text-align: center;
+            text-transform: uppercase;
+            font-weight: 400;
+        }
+        /* Modal Styles */
+        
+        #css-modal {
+            bottom: 0;
+            height: 100%;
+            left: 0;
+            pointer-events: none;
+            position: fixed;
+            right: 0;
+            text-align: center;
+            top: 0;
+            white-space: nowrap;
+            z-index: 10000000;
+        }
+        
+        #css-modal h2 {
+            color: #0198cc;
+            font-size: 2em;
+            letter-spacing: 0.02em;
+            padding: 0;
+            margin-bottom: 0.5em;
+            margin-top: 0;
+        }
+        
+        #css-modal .css-modal-check {
+            display: none;
+            pointer-events: auto;
+        }
+        
+        #css-modal .css-modal-check:checked~.css-modal {
+            opacity: 1;
+            pointer-events: auto;
+        }
+        
+        #css-modal .css-modal {
+            background: #fff;
+            border-radius: 3px;
+            display: inline-block;
+            max-width: 550px;
+            opacity: 0;
+            padding: .25em;
+            pointer-events: none;
+            position: relative;
+            text-align: center;
+            vertical-align: middle;
+            white-space: normal;
+            z-index: 1;
+        }
+        
+        #css-modal .css-modal p {
+            text-align: left;
+        }
+        
+        #css-modal .css-modal .close {
+            position: absolute;
+            right: 1em;
+            top: 0.5em;
+        }
+        
+        #css-modal .css-modal .css-modal-btn button {
+            font-weight: 700;
+            letter-spacing: 0.05em;
+            margin-top: 1em;
+        }
+        
+        #css-modal .css-modal-check:checked~#overlay {
+            opacity: 0.8;
+            pointer-events: auto;
+        }
+        
+        #css-modal #overlay {
+            background: #000;
+            bottom: 0;
+            left: 0;
+            opacity: 0;
+            position: absolute;
+            right: 0;
+            top: 0;
+            transition: opacity 0.8s;
+        }
+        
+        #css-modal:before {
+            content: "";
+            display: inline-block;
+            height: 100%;
+            vertical-align: middle;
+        }
+        
+        .close:after {
+            color: #0198cc;
+            content: "\0058";
+            float: right;
+            font-size: 1.75em;
+        }
+        
+        #css-modal .btn-primary {
+            color: #fff;
+            background-color: #0198cc;
+        }
+        
+        #css-modal .btn-primary:hover {
+            background-color: #01afea;
+        }
+        
+        #css-modal .btn {
+            background-image: none;
+            border: 1px solid transparent;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1em;
+            padding: 0.75em 1.25em;
+            text-align: center;
+        }
+        
+        .responsive {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+    <!--/slider-->
+
+
+    
+
+<div class="container--head">
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+
+
+            <!-- Indicators -->
+            <ol class="carousel-indicators" style="bottom: 0 !important">
+		 <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+               	<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+
+
+             	      
+               
+            </ol>
+
+            <!-- Wrapper for slides -->
+            
+                       
+            <!-- https://www.sisoft.com.tr/tr/sisonews.jsp -->
+            
+           
+            
+            <div class="carousel-inner">
+			
+            			
+                          <div class="item active">
+
+
+
+<video loop muted autoplay width="100%">
+  <source src="img/Sisoft-banner.mp4" type="video/mp4" />
+</video>
+
+ </div>                  
+                        
+                        
+                <div class="item ">
+                    <img src="img/slide22.jpg" alt="..." style="width:100%">
+                    <div class="carousel-caption" style="background-color: 000000063; border-radius: 20px; padding: 1rem 5rem; margin-bottom: 2rem;">
+                        <h3>
+                            <a style="color:rgb(255, 255, 255)" href="/tr/hbys/index.jsp">YAZILIMLARIMIZ</a></h3>
+                        <a style="color:rgb(255, 255, 255);" href="/tr/hbys/index.jsp"> 1987'den beri tecrübemizle, sizler için, sektör lideri, birinci sınıf yazılımlar üretiyoruz.</a>
+                    </div>
+                </div>
+                   
+       
+	
+				
+		<div class="item">
+                 <img src="img/inovalig-2022.jpg" alt="..." style="width:100%">
+                    <div class="carousel-caption" style="background-color: 000000063; border-radius: 20px; padding: 1rem 5rem; margin-bottom: 2rem;">
+                        <h3>
+                            <a style="color:white; " href="/haber/page?lang=&dergi=&SYF=Detay&hb=2522">SİSOFT, İnovaLİG'den Üçüncü Kez Ödülle Döndü </a></h3>
+                        <a style="color:white; " href="/haber/page?lang=&dergi=&SYF=Detay&hb=2522"> Türkiye İnovasyon Haftası ödül törenine katılan Sisoft yönetimi, “Inovalig Ödülleri kapsamında düzenlenen Türkiye İnovasyon Haftası’nda, büyük firmalar “İnovasyon Sonuçları” kategorisinde 3. olarak ödül almaya hak kazandık. Ödülümüz Ticaret Bakanı Sn. Mehmet Muş ve Türkiye İhracatçılar Meclisi Başkanı Sn. Mustafa Gültepe tarafında Yönetim Kurulu Başkanı Ömer Siso'ya verildi. </a>
+                    </div>
+
+                </div>
+
+		
+            
+            
+                <div class="item">
+                    <img src="img/slide4.jpg" alt="..." style="width:100%">
+                    <div class="carousel-caption" style="background-color: 000000063; border-radius: 20px; padding: 1rem 5rem; margin-bottom: 2rem;">
+                        <h3><a style="color:whitesmoke;" href="/haber/page?lang=&dergi=&SYF=Detay&hb=2449">CUMHURBAŞKANIMIZDAN SİSOFT'A AR-GE ÖDÜLÜ</a>
+                        </h3><a style="color:whitesmoke;" href="/haber/page?lang=&dergi=&SYF=Detay&hb=2449">ASO 54. Yıl Ödül Töreni Cumhurbaşkanı Recep Tayyip Erdoğan'ın ev sahipliğinde gerçekleştirildi</a>
+                    </div>
+                </div>
+               
+                
+
+                
+                
+
+
+                        <!-- Controls -->
+                        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left"></span>
+                        </a>
+                        <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right"></span>
+                        </a>
+                    </div>
+                </div>
+
+                <!--=== End Slider ===-->
+
+
+
+                <!--=== Purchase Block ===-->
+                <div class="purchase">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-9 animated fadeInLeft">
+                                <span>Gelecek Şimdi Sizinle..</span>
+                                <p>Yarının teknolojilerini bugün üretiyor ve hizmetinize sunuyoruz. Uzman yazılım ve tasarım ekiplerimiz her ihtiyacınız için daha siz ihtiyaç duymadan önce çalışıyor ve ürünlerimizi hazır hale getiriyorlar.</p>
+                                <br>
+                                <a href="hbys1.jsp" class="btn-u btn-u-lg one-page-btn"><i class="fa fa-bell"></i> Detaylar</a>
+                            </div>
+
+                            <div class="col-md-3"><br />
+                                <a href="destek7-24.jsp" class="btn-u btn-u-red btn-u-lg one-page-btn"><i class="fa fa-headphones"></i> 7/24
+                                                                                                                            Online Destek</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/row-->
+                <!-- End Purchase Block -->
+
+                <!--=== Content Part ===-->
+                <div class="container content-xs">
+                    <!-- Service Blocks -->
+                    <div class="row">
+                        <!-- Welcome Block -->
+                        <div class="col-md-6">
+                            <div class="headline">
+                                <h2>Sisoft'un Ayrıcalıklı Dünyasına Hoşgeldiniz</h2>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <img class="img-responsive margin-bottom-20" src="assets/img/dergi.jpg" alt="Hastane Bilgi Yönetim Sistemleri" style="float:left;
+        margin-right:20px" />
+                                    <p>Beğenilen, takdir edilen çözümler sunmak için çözüm ortaklarımız (sağlık hizmetinin sunucu ve alıcıları) için, onlarla birlikte en yeniyi, en gelişmişi, en teknolojik olanı oluşturmak için çalışıyoruz.</p>
+                                    <ul class="list-unstyled">
+                                        <li><i class="fa fa-check color-green"></i> Kuruma Özel</li>
+                                        <li><i class="fa fa-check color-green"></i> Bulut Bilişim</li>
+                                        <li><i class="fa fa-check color-green"></i> Mobil Erişim İmkanı</li>
+                                        <li><i class="fa fa-check color-green"></i> 7/24 Destek!</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <blockquote class="hero-unify">
+                                <p style="font-family:georgia, Times New Roman; font-style:italic; font-size:90%">Geleceği doğru okumak, buna göre yeniden konumlanmak, özellikle teknoloji kullanan ve üreten firmalar için "olmak ya da olmamak" gibi hayati bir durum. Önümüzdeki günler, Sağlık Bulutu için öngörülenler, Sağlık Bilişimimizi
+                                    ve biz yazılım firmalarını seçkinleştirerek, ülkemizdeki sağlık uygulamalarını da tüm dünya için rol model yapacağına yürekten inanıyorum.
+                                </p>
+                                <small>CEO, Ömer SİSO</small>
+                            </blockquote>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="headline">
+                                <h2>Bizden Haberler</h2>
+                            </div>
+                            <iframe id="" src="../haber/cozum?dil=responsive" frameborder="0" scrolling="no" width="100%" height="360px" onload='javascript:resizeIframe1(this);'></iframe>
+                            <div class="row">
+                                <div class="col-md-12 text-right">
+                                    <a href="/tr/haberler.jsp" class="fadeInRight btn-u btn-u-sm btn-u-blue" type="button">Tüm
+                                                                                                                                Haberler <i class="fa fa-angle-double-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--/Bizden Haberler-->
+                    </div>
+                    <!-- End Service Blokcs -->
+                </div>
+                <!--=== End Content Part ===-->
+                   <!--=== Purchase Block ===-->
+                   <div class="purchase">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-2"><br />
+                                <a href="https://www.dmo.gov.tr/Arama?s=SİSOHBYS"><img src="assets/img/dmo_logo.png" alt="Sisohbys" style="height:150px"></a>
+                                
+                            </div>
+                            <div class="col-md-8 animated fadeInLeft">
+                                <span>Ürünlerimiz  <a href="https://www.dmo.gov.tr/Arama?s=SİSOHBYS" target="_blank"><img src="assets/img/dmo-logo2.png" alt="Sisohbys" style="height:50px"></a>'n de Satışa Sunulmuştur...</span>
+                                <p> Sağlık tesislerinde tüm birimler arasında uyumlu çalışma ortamının sağlanması amacıyla tasarımından yapımına kadar, tüm hakları firmamıza ait olan SİSOHBYS kamuya direkt satış imkanına kavuşmuştur.</p>
+                                <br>
+                                <a href="https://www.dmo.gov.tr/Arama?s=SİSOHBYS" target="_blank"class="btn-u btn-u-lg one-page-btn" style="background-color: #1a4395;"><i class="fa fa-bell"></i> Detaylar</a>
+                            </div>
+                            <div class="col-md-2"><br/>
+                                <a href="https://www.dmo.gov.tr/Arama?s=SİSOHBYS" target="_blank"><img src="assets/img/dmosiso.png" alt="Sisohbys" style="height:150px"></a>
+                                
+                            </div>
+
+                            
+                        </div>
+                    </div>
+                </div>
+                <!--/row-->
+
+
+                <div class="one-page">
+                    <div class="one-page-inner one-grey">
+                        <div class="container">
+
+                            <div class="headline-center margin-bottom-30">
+                                <h2>YAZILIMLARIMIZ</h2>
+                                <p>Yazılım dünyasının uluslararası liderlerinden <span class="text-highlights text-highlights-red
+        rounded"><strong>Oracle</strong></span> ile yaptığımız Partnerlik ve 32 yılı aşkın tecrübemizle, sizler için, sektör lideri, birinci sınıf yazılımlar üretiyoruz. </p>
+                            </div>
+                            <!--/end Headline Center-->
+
+                            <div class="row yazilimlarimiz">
+                                <div class="col-md-4">
+                                    <ul class="row list-row yazilim-list margin-bottom-30">
+                                        <li class="col-md-12 md-margin-bottom-30">
+                                            <div class="content-boxes-v3 block-grid-v1 rounded box-shadow shadow-effect-2">
+                                                <i class="icon-custom icon rounded-x icon-bg-red fa fa-heart"></i>
+                                                <div class="content-boxes-in-v3">
+                                                    <a href="hbys1.jsp"><img src="assets/img/hbys.png" alt="Sisohbys" style="height:33px"></a>
+                                                    <h3><a href="hbys1.jsp">Hastane Bilgi Yönetim Sistemi</a></h3>
+                                                    <a href="hbys1.jsp"><img src="/tr/img/imghbys/hbys_giris.jpg" alt="Hastane Bilgi Yönetim Sistemleri - HBYS" />
+                                                        <p style="line-height:1.39em"><br />Sağlık tesislerinde tüm birimler arasında uyumlu çalışma sağlar.</p>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-8">
+                                    <ul class="row list-row yazilim-list margin-bottom-30">
+                                        <li class="col-md-6 md-margin-bottom-30">
+                                            <div class="content-boxes-v3 block-grid-v1 rounded box-shadow shadow-effect-2">
+                                                <i class="icon-custom icon rounded-x icon-bg-red fa fa-picture-o"></i>
+                                                <div class="content-boxes-in-v3">
+                                                    <a target="_blank" href="http://www.sisopacs.com.tr/"><img src="assets/img/pacs.png" alt="Sisopacs" width="154" height="33" style="height:33px" /></a>
+                                                    <h3><a target="_blank" href="http://www.sisopacs.com.tr/">Görüntü Arşivleme ve İletişim Sistemi</a></h3>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="col-md-6 md-margin-bottom-30">
+                                            <div class="content-boxes-v3 block-grid-v1 rounded box-shadow shadow-effect-2">
+                                                <i class="icon-custom icon rounded-x icon-bg-blue fa fa-user-md"></i>
+                                                <div class="content-boxes-in-v3">
+                                                    <a target="_blank" href="http://www.sisofamily.com.tr/"><img src="assets/img/family.png" alt="Sisofamily" width="183" height="33" style="height:33px" /></a>
+                                                    <h3><a target="_blank" href="http://www.sisofamily.com.tr/">Aile Hekimliği Bilgi Sistemi</a></h3>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                    <ul class="row list-row yazilim-list margin-bottom-30">
+                                        <li class="col-md-6 md-margin-bottom-30">
+                                            <div class="content-boxes-v3 block-grid-v1 rounded box-shadow shadow-effect-2">
+                                                <i class="icon-custom icon rounded-x icon-bg-orange fa fa-file-o"></i>
+                                                <div class="content-boxes-in-v3">
+                                                    <a target="_blank" href="http://www.sisoebys.com.tr/"><img src="assets/img/ebys.png" alt="Sisoebys" width="158" height="33" style="height:33px" /></a>
+                                                    <h3><a target="_blank" href="http://www.sisoebys.com.tr/">Elektronik Belge Yönetim Sistemi</a></h3>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="col-md-6 md-margin-bottom-30">
+                                            <div class="content-boxes-v3 block-grid-v1 rounded box-shadow shadow-effect-2">
+                                                <i class="icon-custom icon rounded-x icon-bg-green fa fa-mobile"></i>
+                                                <div class="content-boxes-in-v3">
+                                                    <a href="mobile.jsp"><img src="assets/img/mobile.png" alt="Sisomobile" width="199" height="33" style="height:33px" /></a>
+                                                    <h3><a href="mobile.jsp">Mobil Çözümler</a></h3>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                    <ul class="row list-row yazilim-list margin-bottom-30">
+                                        <li class="col-md-6 md-margin-bottom-30">
+                                            <div class="content-boxes-v3 block-grid-v1 rounded box-shadow shadow-effect-2">
+                                                <i class="icon-custom icon rounded-x icon-bg-purple fa fa-child"></i>
+                                                <div class="content-boxes-in-v3">
+                                                    <a href="sisopmi.jsp"><img src="assets/img/pmi.png" alt="Sisopmi" width="149" height="33" style="height:33px" /></a>
+                                                    <h3><a href="sisopmi.jsp">Hasta Gözlem ve Eğlence Arayüzü</a></h3>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="col-md-6 md-margin-bottom-30">
+                                            <div class="content-boxes-v3 block-grid-v1 rounded box-shadow shadow-effect-2">
+                                                <i class="icon-custom icon rounded-x icon-bg-brown fa fa-lock"></i>
+                                                <div class="content-boxes-in-v3">
+                                                    <a href="sisoguard.jsp"><img src="assets/img/guard.png" alt="Sisoguard" width="178" height="33" style="height:33px" /></a>
+                                                    <h3><a href="sisoguard.jsp">Entegre Güvenlik Sistemleri</a></h3>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+                <!--=== Content Part ===-->
+                <div class="container content-sm">
+                    <!-- Recent Works -->
+                    <div class="headline">
+                        <h2>Video ve Tanıtımlarımız </h2>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6">
+                            <div class="thumbnail-img thumbnail-style">
+                                <div class="thumbnail-img">
+                                    <a id="video4" title="Sisoft Tanıtım Videosu" onclick="youtube_popup(this);" href="Javascript:void;" rel="https://www.youtube.com/embed/zh0Qw8ZQIYI/iyfo2zdQ7dU?feature=player_embedded&autoplay=1"><img style="width: 100%; height: auto;" src="/tr/fancybox/video4.jpg" /></a>
+                                </div>
+                                <div class="caption">
+                                    <h3><a class="hover-effect">Sisoft Tanıtım Videosu</a></h3>
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="thumbnail-img thumbnail-style">
+                                <div class="thumbnail-img">
+                                    <a id="video2" title="Hastane Bilgi Yönetim Sistemleri" onclick="youtube_popup(this);" href="Javascript:void;" rel="https://www.youtube.com/embed/6t7ltZc-vMU/DWRYcF0Ko_E?feature=player_embedded&autoplay=1"><img style="width: 100%; height: auto;" src="/tr/fancybox/video2.jpg" /></a>
+                                </div>
+                                <div class="caption">
+                                    <h3><a class="hover-effect">Hastane Bilgi Yönetim Sistemleri </a></h3>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="thumbnails thumbnail-style">
+                                <div class="thumbnail-img">
+                                    <a id="video3" title="Sisoft - Sisomobile" onclick="youtube_popup(this);" href="Javascript:void;" rel="https://www.youtube.com/embed/eFBwLjc9ymg/iyfo2zdQ7dU?feature=player_embedded&autoplay=1"><img style="width: 100%; height: auto;" src="/tr/fancybox/video3.jpg" /></a>
+                                </div>
+                                <div class="caption">
+                                    <h3><a class="hover-effect">Sisomobile Tanıtım Videosu</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="thumbnails thumbnail-style">
+                                <div class="thumbnail-img">
+                                    <a id="video1" title="Sisoft Tanıtım Videosu" onclick="youtube_popup(this);" href="Javascript:void;" rel="https://www.youtube.com/embed/MEB1R1MowgQ/-0VrTjZPix0?feature=player_embedded&autoplay=1"><img style="width: 100%; height: auto;" src="/tr/fancybox/video1.jpg" /></a>
+                                </div>
+                                <div class="caption">
+                                    <h3><a class="hover-effect">Sisoft Tanıtım Videosu</a></h3>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 text-right">
+                            <a href="tanitimFilmleri.jsp" class="fadeInRight btn-u btn-u-sm btn-u-blue" type="button"> Tüm Videolarımız <i class="fa fa-angle-double-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- End Recent Works -->
+                </div>
+                <!--=== End Content Part ===-->
+
+
+                <!-- Manset Etkinlik -->
+                <!-- <div class="one-page">
+    <div class="one-page-inner one-blue" style="padding: 10px 0 0px">
+    <div class="container content">
+    <div class="row">
+    <div class="col-md-6">
+    <h2>Bandırma Devlet Hastanesi HIMSS Stage 6 Olarak Akredite Edildi</h2>
+    <p>Sağlık ve bilişim dünyasını buluşturan Sağlık Bilişim Zirvesi kapsamında, bu yıl üçüncüsü düzenlenen "Altın
+    Steteskop Ödülleri" sahiplerini buldu. Ödül Töreni kapsamında Bandırma Devlet Hastanesi, En İyi Dijital Hastane
+    Ödülü'ne layık görüldü. 8 Mayıs Cuma akşamı Haliç Kongre Merkezinde düzenlenen Altın Steteskop ödül töreninde
+    Gelişen ve yenilenen sağlık sektöründe inovasyona yönelik konsepti en iyi şekilde kurgulamış ve teknolojiyi en
+    verimli şekilde entegre edebilen hastane olarak seçilen Bandırma Devlet Hastanesi "En İyi Dijital Hastane''
+    ödülünün sahibi oldu.</p>
+    <p>Ödülü, Bandırma Devlet Hastanesi adına Hastane yöneticisi ve Başhekim Uzman Doktor Muzaffer Şenveli, Marmara
+    Üniversitesi Sağlık Bilimleri Fakültesi Sağlık Yönetimi Bölümü Başkanı Prof. Dr. Mehveş Tarım'ın elinden
+    aldı.</p>
+    <a href="../haber/page?lang=tr&dergi=&SYF=Detay&hb=2308" class="btn-u btn-u-red one-page-btn"><i class="fa
+    fa-bell"></i> Devamı</a>
+    </div>
+    <div class="col-md-6">
+    <img src="../haber/resimgetir?folder=2299&name=RESIM1.JPG" class="margin-bottom-10 img-responsive" alt="">
+    </div>
+    </div>
+    </div>
+    </div>
+    </div> -->
+                <div class="one-page">
+                    <div class="one-page-inner one-blue" style="padding: 10px 0 0px">
+                        <div class="container content">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <h2>SISOFT HIMSS Europe Tarafından Yapılan Değerlendirmede Ülke Lideri</h2>
+                                    <p>HIMSS Europe tarafından araştırma ve değerlendirmeler neticesinde, ülke bazında yapılan "Yazılım Firmaları Pazar Payı" ve "HBYS Firmaları Pazar Payı" başlıklarında Sisoft, HIMSS Europe kaynaklarına göre Türkiye'nin
+                                        lider firması konumunda. Ülkemiz ise Sağlık Bilişimi alanında önde gelen gelişmiş ülkeler arasında yer almakta.
+                                    </p>
+                                    <p>
+                                        Kaynaklar: HIMSS Europe<br /><br /> Country Comparison Report 2013, HIMSS Europe Database 07/30/2014<br /> eHospital Census Country Reports 2013/14, HIMSS Europe Database 07/30/2014
+                                    </p>
+                                    <a href="../haber/page?lang=tr&dergi=&SYF=Detay&hb=2319" class="btn-u btn-u-red one-page-btn"><i class="fa
+        fa-bell"></i> Devamı</a>
+                                </div>
+                                <div class="col-md-6">
+                                    <img src="assets/img/slider/himms-europe-1-sisoft.png" class="margin-bottom-10 img-responsive" alt="Hastane Bilgi Yönetim Sistemi">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /Manset Etkinlik -->
+
+
+                <div class="container content-sm">
+
+                    <div class="row">
+
+                        <div class="col-md-5">
+                            <!-- Etkinliklerimiz -->
+                            <div class="headline">
+                                <h2>Etkinliklerimiz</h2>
+                            </div>
+                            <iframe id="" src="../haber/cozum?dil=responsive&page=etkinlik_haberler" frameborder="0" scrolling="no" width="100%" height="289px" onload='javascript:resizeIframe2(this);'></iframe>
+                            <!-- /Etkinliklerimiz -->
+                            <div class="row">
+                                <div class="col-md-12 text-right">
+                                    <a href="etkinlikler.jsp" class="fadeInRight btn-u btn-u-sm btn-u-blue" type="button">Tüm Etkinlikler <i
+                                class="fa fa-angle-double-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="col-md-7">
+                            <!-- Etkinlik Takvimi -->
+                            <div class="headline">
+                                <h2>Etkinlik Takvimi</h2>
+                            </div>
+                            <iframe id="" src="../haber/etkinliktakvimi2015?lang=tr" frameborder="0" scrolling="no" width="100%" height="289px" onload='javascript:resizeIframe3(this);'></iframe>
+                            <!-- /Etkinlik Takvimi -->
+                            <div class="row">
+                                <div class="col-md-12 text-right">
+                                    <a href="etkinlikler-tumu.jsp" class="fadeInRight btn-u btn-u-sm btn-u-blue" type="button">Tümü <i class="fa
+        fa-angle-double-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Owl Clients v1 -->
+                    <div class="content">
+                        <a href="uyeliklerimiz.jsp">
+                            <div class="headline">
+                                <h2>Üyeliklerimiz</h2>
+                            </div>
+                        </a>
+                        <center>
+                            <a href="https://partner-finder.oracle.com/catalog/Partner/SC2PP-COZUMBILGISAYAR" target="_blank"><img src="assets/img/uyelikler/oracle.png" width="110" alt="Türkiye Hastane Bilgi Yönetim Sistemleri"></a>
+                            <a href="http://www.himss.org/ASP/index.asp" target="_blank"><img src="assets/img/uyelikler/himss.png" width="110" alt="Hastane Bilgi Yönetim Sistemleri"></a>
+                            <a href="https://chpl.healthit.gov/#/listing/9462"><img src="assets/img/uyelikler/onccertifiedhit.png" width="130px" alt="Hastane Bilgi Yönetim Sistemleri"></a>
+                            <a href="http://www.ihe.net" target="_blank"> <img src="assets/img/uyelikler/ihe.png" width="110" alt="Hastane Bilgi Yönetim Sistemleri"></a>
+                            <a href="http://www.hl7.org" target="_blank"><img src="assets/img/uyelikler/hl7.png" width="110" alt="Hastane Bilgi Yönetim Sistemleri"></a>
+                            <a href="https://www.hacettepeteknokent.com.tr/tr/firma/sisoft_saglik_bilgi_sistemleri_anonim_sirketi-1491" target="_blank"> <img src="assets/img/uyelikler/hteknokent.png" width="150" alt="Hastane Bilgi Yönetim Sistemleri"></a>
+                            <a href="https://www.deik.org.tr/" target="_blank"> <img src="assets/img/uyelikler/deik.png" width="110" alt="Hastane Bilgi Yönetim Sistemleri"></a>
+                            <!-- <a href="http://www.tubisad.org.tr/Tr/Members/Sayfalar/MemberList.aspx" target="_blank"><img src="assets/img/uyelikler/tubisad.png" width="110" alt="Hastane Bilgi Yönetim Sistemleri"></a> -->
+                            <a href="https://www.immib.org.tr/tr/" target="_blank"><img src="assets/img/uyelikler/immib.png" width="110" alt="Hastane Bilgi Yönetim Sistemleri"></a>
+                        </center>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Owl Clients v1 -->
+    </div>
+    <!--/container-->
+    </div>
+
+    <!-- Keywords -->
+    <style type="text/css">
+        .keywords p {
+            font-size: 85%;
+            color: #ccc !important
+        }
+    </style>
+
+    <div class="one-page" style="height:auto">
+        <div class="one-page-inner one-grey" style="padding:10px 30px; background:#666; min-height:auto">
+            <div class="container content" style="padding:30px 0 20px">
+                <div class="row keywords">
+                    <p><strong>Sisoft</strong> <strong>Sağlık Bilgi Sistemleri</strong>, Hastane Bilgi Yönetim Sistemi ve WEB HBYS, HBYS alanlarında ödüllü bir Türk yazılım şirketidir.</p>
+                    <p>LBYS, AHBS, PACS, Merkezi PACS ve TS 13298 alanlarında da liderliği elinde bulunduran Sisoft ayrıca Aile Hekimliği, Kağıtsız Hastane ve Hastane Otomasyonu konularında da özel yazılım ürünleri geliştirmektedir.</p>
+                    <p><b>SisoHBYS</b> markasıyla Hastane Bilgi Sistemleri ve Hastane Bilgi Yönetim Sistemleri alanlarında Sağlık Bilişimi için Merkezi HBYS, Merkezi PACS ve Merkezi LIS ile birlikte Tek Şema HBYS ve Merkezi Hastane konularında uzman bir
+                        yazılım ve yönetim ekibine sahiptir.</p>
+                    <p>Sisoft'un Tele-tıp, Tele-radyoloji, ICD10, <b>HL7</b>, LOINC, Common Criteria (ortak kriterler), DICOM, EHR, EMR, SPICE konularında da uzmanlıkları dünya çapındadır.</p>
+                  <p>  
+ONC CERTIFIED HIT® is a registered trademark of HHS. </p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Keywords -->
+
+    <!-- End Content Part -->
+
+    <!--Canlı Destek Acıldı-->
+    <script type="text/javascript">
+        var Tawk_API = Tawk_API || {},
+            Tawk_LoadStart = new Date();
+        (function() {
+            var s1 = document.createElement("script"),
+                s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/5d2f0615bfcb827ab0cc3fa0/default';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+    </script>
+    <!--Canlı Destek kapandı-->
+
+
+
+    <title>Sisoft Sağlık Bilgi Sistemleri - Hastane Bilgi Sistemi</title>
+<meta name="description" content="Hastane Bilgi Yönetim Sistemleri, HBYS, hbys haber, hbys video, hbys ödüller, hbys başarılar">
+<meta name="keywords" content="Hastane Bilgi Yönetim Sistemleri tarafından sunulan hbys hizmetinde dünya genelinde hizmet veren şirketimizin, hbys konusundaki liderliğini anlatmış olduğu sayfadır. ">
+ <style>
+				 * {
+				  padding: 0;
+				  margin: 0;
+				  box-sizing: border-box;
+				}
+				body {
+				  background-color: #f5f8ff;
+				}
+				#cookiePopup {
+				  background-color: #ffffff;
+				  position: fixed;
+				  font-size: 14px;
+				  width: 100%;
+				  max-width: 100%;
+				  box-shadow: 0 0 2em rgba(5, 0, 31, 0.15);
+				  font-family: "Poppins", sans-serif;
+				  text-align: justify;
+				  line-height: 1.8em;
+				  padding: 2em 1.4em;
+				  border-radius: 6px;
+				  transition: all 0.5s ease-in;
+				}
+				#cookiePopup img {
+				  display: block;
+				  width: 3.75em;
+				  transform: translateZ(0);
+				  position: relative;
+				  margin: auto;
+				}
+				#cookiePopup p {
+				  text-align: center;
+				  margin: 1.4em 0;
+				}
+				#cookiePopup button {
+				  background-color: #4a80c3;
+				  border: none;
+				  color: #ffffff;
+				  font-size: 1.2em;
+				  padding: 1em 1.4em;
+				  display: block;
+				  position: relative;
+				  margin: auto;
+				  border-radius: 5px;
+				}
+				#cookiePopup a {
+				  color: #6859fe;
+				}
+				.hide {
+				  visibility: hidden;
+				  bottom: 0;
+				  right: 2em;
+				}
+				.show {
+				  visibility: visible;
+				  bottom: 2em;
+				}
+				@media only screen and (max-width: 37.5em) {
+				  #cookiePopup {
+					width: 100%;
+				  }
+				  .hide {
+					bottom: 2em;
+					right: 0;
+				  }
+				  .show {
+					right: 0;
+					bottom: 0;
+				  }
+				}
+	</style>
+
+<!--=== Footer Version 1 ===-->
+<div class="footer-v1">
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <!-- About -->
+                <div class="col-md-3 md-margin-bottom-40">
+                    <a href="http://www.sisoft.com.tr/tr/"><img id="logo-footer" class="footer-logo" src="assets/img/sisoft-logo.png" alt="Hastane Bilgi Yönetim Sistemleri"></a>
+                    <p>Sisoft Sağlık Bilgi Sistemleri, "Sağlık Bilişimi"nde ileri teknolojiye sahip alt yapısı ve uzman personeli ile yüzünü dünyaya dönmeyi başarmış, çeyrek yüzyılı aşkın bilgi ve birikime sahiptir.</p>
+                    <span style="font-size:13px; line-height:1.1; color:#fff">Sisoft, <h3 style="display:initial; color:#fff;
+        font-size:13px; line-height:1.1">Hastane Bilgi Sistemleri</h3> ve <h3 style="display:initial; color:#fff;
+        font-size:13px; line-height:1.1">Hastane Bilgi Yönetim Sistemleri</h3> konularında Türkiye'nin lider
+        kuruluşudur.</span>
+                </div>
+                <!--/col-md-3-->
+                <!-- End About -->
+
+                <!-- Latest -->
+                <div class="col-md-3 md-margin-bottom-40">
+                    <div class="posts">
+                        <div class="headline">
+                            <h2>Son Haberler</h2>
+                        </div>
+                        <iframe id="" src="../haber/kayan_yazinew.htm" frameborder="0" scrolling="no" width="100%"></iframe>
+                    </div>
+                </div>
+                <!--/col-md-3-->
+                <!-- End Latest -->
+
+                <!-- Link List -->
+                <div class="col-md-3 md-margin-bottom-40">
+                    <div class="headline">
+                        <h2>Hızlı Bağlantılar</h2>
+                    </div>
+                    <ul class="list-unstyled link-list">
+                        <li><a href="tarihce.jsp">Hakkımızda</a><i class="fa fa-angle-right"></i></li>
+                        <li><a href="tanitimFilmleri.jsp">Videolar</a><i class="fa fa-angle-right"></i></li>
+                        <li><a href="odullerimiz.jsp">Aldığımız Ödüller</a><i class="fa fa-angle-right"></i></li>
+                        <li><a href="ik.jsp">Kariyer</a><i class="fa fa-angle-right"></i></li>
+                        <li><a href="iletisim.jsp">Bize Ulaşın</a><i class="fa fa-angle-right"></i></li>
+                    </ul>
+                </div>
+                <!--/col-md-3-->
+                <!-- End Link List -->
+
+                <!-- Address -->
+                <div class="col-md-3 map-img md-margin-bottom-40">
+                    <div class="headline">
+                        <h2>İletişim</h2>
+                    </div>
+                    <address class="md-margin-bottom-40">
+        Mutlukent Mahallesi 1989 Cadde No:2 <br />
+        06810 Çankaya  / TR<br />
+        Tel: +90 850 955 74 76<br />
+        Fax: +90 312 210 19 24 <br />
+        Email: <a href="mailto:sisoft@sisoft.com.tr" class="">sisoft@sisoft.com.tr</a>
+        </address>
+
+                    <style type="text/css">
+                        .footerSocial {
+                            display: block;
+                            overflow: hidden
+                        }
+                        
+                        .footerSocial a {
+                            margin-right: 15px;
+                            color: #fff;
+                            font-size: 150%
+                        }
+                    </style>
+                    <div class="footerSocial">
+
+                        <a target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Instagram" title="Instagram" href="https://www.instagram.com/sisoftsocial"><i class="fa fa-instagram"></i></a>
+
+                        <a target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Facebook" title="Facebook" href="https://www.facebook.com/sisoftsocial"><i class="fa fa-facebook"></i></a>
+
+                        <a target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Twitter" title="Twitter" href="https://twitter.com/sisoftsocial"><i class="fa fa-twitter"></i></a>
+
+                        <a target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Linkedin" title="Linkedin" href="https://www.linkedin.com/company/sisoftsocial"><i class="fa fa-linkedin"></i></a>
+
+                        <a target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Youtube" title="Youtube" href="https://www.youtube.com/user/sisocare"><i class="fa fa-youtube-play"></i></a> &nbsp;
+                    </div>
+
+                </div>
+                <!--/col-md-3-->
+                <!-- End Address -->
+            </div>
+        </div>
+    </div>
+    <!--/footer-->
+
+    <div class="copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p>
+                        2025
+                            &copy; Tüm hakları saklıdır. <a href="gizlilik-sozlesmesi.jsp">Gizlilik Sözleşmesi</a> | <a href="kullanim-haklari.jsp">Kullanım Hakları</a> |<a href="kisiselveri.jsp">Kişisel Verilerin Korunması</a> | <a href="pdfler/cerezpolitikasi.pdf"
+                                target="_blank">Çerez Politikası</a>
+                                
+                                | <a href="pdfler/kalite_politikasi.pdf"
+                                target="_blank">Kalite Politikası</a>   | <a href="pdfler/bgys_politikasi.pdf"
+                                target="_blank">BGYS Politikası</a>
+                                | <a href="pdfler/ISG.pdf"
+                                target="_blank">İSG Politikası</a>
+                    </p>
+                </div>
+
+                <!-- Social Links -->
+                <!-- <div class="col-md-6">
+        <iframe style="float:right; width:150px; height:32px; margin-top:5px;" id="kayan_yazi2" frameborder="0"
+        scrolling="No" src="http://www.cozumbil.com.tr/sayacNew.php" name="kayan_yazi"></iframe>
+        </div>-->
+                <!-- End Social Links -->
+            </div>
+        </div>
+    </div>
+    <!--/copyright-->
+</div>
+<div id="cookiePopup" class="hide">
+      <img src="assets/img/sisoft-logo-1.png" />
+      <p>
+        Bu web sitesi sadece işlem güvenliği amaçlı çerez kullanmaktadır. Bu web sitesini
+kullanarak bu çerezleri kullanmamıza izin vermiş oluyorsunuz. Daha Fazlası için <a href="https://sisoft.com.tr/tr/pdfler/cerezpolitikasi.pdf">Çerez Politikamızı Okuyun.</a>
+      </p>
+      <button id="acceptCookie">Kabul Et</button>
+    </div>
+<!--=== End Footer Version 1 ===-->
+</div>
+<!--/wrapper-->
+
+<!-- JS Global Compulsory -->
+<script type="text/javascript" src="assets/plugins/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="assets/plugins/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<!-- JS Implementing Plugins -->
+<script type="text/javascript" src="assets/plugins/back-to-top.js"></script>
+<script type="text/javascript" src="assets/plugins/smoothScroll.js"></script>
+<script type="text/javascript" src="assets/plugins/parallax-slider/js/modernizr.js"></script>
+<script type="text/javascript" src="assets/plugins/parallax-slider/js/jquery.cslider.js"></script>
+<script type="text/javascript" src="assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
+<script type="text/javascript" src="assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script>
+<!-- JS Customization -->
+<script type="text/javascript" src="assets/js/custom.js"></script>
+<!-- JS Page Level -->
+<script type="text/javascript" src="assets/js/app.js"></script>
+<script type="text/javascript" src="assets/js/plugins/fancy-box.js"></script>
+<script type="text/javascript" src="assets/js/plugins/owl-carousel.js"></script>
+<script type="text/javascript" src="assets/js/plugins/parallax-slider.js"></script>
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        App.init();
+        OwlCarousel.initOwlCarousel();
+        ParallaxSlider.initParallaxSlider();
+    });
+</script>
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        App.init();
+        FancyBox.initFancybox();
+        //StyleSwitcher.initStyleSwitcher();
+    });
+</script>
+<script src="assets/plugins/respond.js"></script>
+<script src="assets/plugins/html5shiv.js"></script>
+<script src="assets/plugins/placeholder-IE-fixes.js"></script>
+
+<!--[if lt IE 9]>
+        <script src="assets/plugins/respond.js"></script>
+        <script src="assets/plugins/html5shiv.js"></script>
+        <script src="assets/plugins/placeholder-IE-fixes.js"></script>
+        <![endif]-->
+<!-- Oracle Analytics -->
+<script type='text/javascript'>
+(function() { var zanalytics_ = document.createElement('script'); 
+zanalytics_.type = 'text/javascript';
+zanalytics_.async = false; 
+zanalytics_.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'static.ziftsolutions.com/analytics/8a9982f07031fef00170340eb5794277.js';
+document.getElementsByTagName('script')[0].parentNode.appendChild(zanalytics_);
+})();
+</script> 
+
+<!-- Oracle Analytics -->
+
+
+<!-- Google Analytics -->
+<script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-29715427-1', 'auto');
+    ga('send', 'pageview');
+</script>
+<!-- Google Analytics -->
+
+ 
+<script type="text/javascript">
+  // Bu kod, pop-up modalı kontrol etmek için kullanılır
+  let popUp = document.getElementById("cookiePopup");
+
+  // Kullanıcı "Kabul Et" düğmesine tıkladığında
+  document.getElementById("acceptCookie").addEventListener("click", () => {
+    // Tarih nesnesi oluşturulur
+    let d = new Date();
+    // Geçerlilik süresi 1 dakika eklenir (çerez 1 dakika sonra süresi dolacak)
+    d.setMinutes(d.getMinutes() + 7*1440);
+    // Çerez oluşturulur: isim = myCookieName, değer = thisIsMyCookie, geçerlilik süresi = 1 dakika
+    document.cookie = "myCookieName=thisIsMyCookie; expires=" + d + ";";
+    // Popup'ı gizle
+    popUp.classList.add("hide");
+    popUp.classList.remove("show");
+  });
+
+  // Çerezin var olup olmadığı kontrol edilir
+  const checkCookie = () => {
+    // Çerez okunur ve "=" üzerinden bölünür
+    let cookies = document.cookie.split(";");
+    let cookieExists = false;
+
+    // Çerezler kontrol edilir
+    for (let i = 0; i < cookies.length; i++) {
+      let cookie = cookies[i].trim();
+      // Çerezin adı "myCookieName" ise var olduğu belirtilir
+      if (cookie.indexOf("myCookieName=") === 0) {
+        cookieExists = true;
+        break;
+      }
+    }
+
+    // Çerez kontrol edilir ve popup modal gösterilir/gizlenir
+    if (cookieExists) {
+      // Çerez varsa popup'ı gizle
+      popUp.classList.add("hide");
+      popUp.classList.remove("show");
+    } else {
+      // Çerez yoksa popup'ı göster
+      popUp.classList.add("show");
+      popUp.classList.remove("hide");
+    }
+  };
+
+  // Sayfa yüklendiğinde çerez varlığı kontrol edilir
+  window.onload = () => {
+    setTimeout(() => {
+      checkCookie();
+    }, 2000);
+  };
+</script>
+
+</body>
+
+</html>

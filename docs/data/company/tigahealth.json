@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/tigahealth.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/tiga.health",
     "youtube": "https://youtube.com/@tiga.health",
     "x": "https://x.com/tigahealth"
-  }
+  },
+  "logo": "img/company/tigahealth.svg"
 }

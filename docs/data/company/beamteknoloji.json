@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/beamteknoloji.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "",
     "instagram": "",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/beamteknoloji.png"
 }

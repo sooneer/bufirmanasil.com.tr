@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/despro.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/desprobt",
     "instagram": "https://instagram.com/desprobt",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/despro.png"
 }

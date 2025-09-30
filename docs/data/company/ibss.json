@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/ibss.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/lifeatibss",
     "youtube": "https://youtube.com/user/ibssconsulting",
     "x": "https://x.com/ibssconsulting"
-  }
+  },
+  "logo": "img/company/ibss.jpg"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/biotekno.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/biotekno.biz",
     "youtube": "https://youtube.com/c/BioteknoMedya",
     "x": "https://x.com/bioteknobiz"
-  }
+  },
+  "logo": "img/company/biotekno.png"
 }

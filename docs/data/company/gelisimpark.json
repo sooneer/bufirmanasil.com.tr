@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/gelisimpark.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Gelisimpark","contact":{"web":"https://gelisimpark.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Gelisimpark",
+  "contact": {
+    "web": "https://gelisimpark.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "logo": "img/company/gelisimpark.png"
+}

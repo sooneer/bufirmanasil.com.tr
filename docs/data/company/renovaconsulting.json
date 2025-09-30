@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/renovaconsulting.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/RenovaCons",
     "instagram": "https://instagram.com/renovacons",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/renovaconsulting.svg"
 }

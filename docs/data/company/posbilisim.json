@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/posbilisim.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/posbilisim",
     "youtube": "https://youtube.com/channel/UCP5qZocvUv1GcGiGndhrrHg",
     "x": "https://x.com/posbilisim"
-  }
+  },
+  "logo": "img/company/posbilisim.png"
 }

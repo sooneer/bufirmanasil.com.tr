@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/novatel.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/novatelhaberlesme",
     "instagram": "https://instagram.com/novateltr",
     "youtube": "https://youtube.com/channel/UCJ383WV0mXy2snueXhZhLEg"
-  }
+  },
+  "logo": "img/company/novatel.png"
 }

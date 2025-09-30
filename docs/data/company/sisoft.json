@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/sisoft.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/sisoftsocial",
     "youtube": "https://youtube.com/user/sisocare",
     "x": "https://x.com/sisoftsocial"
-  }
+  },
+  "logo": "img/company/sisoft.png"
 }

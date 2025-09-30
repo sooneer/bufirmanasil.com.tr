@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/vas.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/vasbilisim",
     "instagram": "https://instagram.com/vasbilisim",
     "youtube": "https://youtube.com/@vasbilisim"
-  }
+  },
+  "logo": "img/company/vas.png"
 }

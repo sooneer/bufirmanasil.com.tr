@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/ticimax.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/ticimax",
     "youtube": "https://youtube.com/@Ticimaxeticaret",
     "x": "https://x.com/e-ticaret-paketleri"
-  }
+  },
+  "logo": "img/company/ticimax.png"
 }

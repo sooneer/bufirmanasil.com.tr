@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/ayesas.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/ayesastr",
     "youtube": "",
     "x": "https://x.com/ayesastr"
-  }
+  },
+  "logo": "img/company/ayesas.png"
 }

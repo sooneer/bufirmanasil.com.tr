@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/coretek.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/coretekbt",
     "youtube": "",
     "x": "https://x.com/coretekbt"
-  }
+  },
+  "logo": "img/company/coretek.png"
 }

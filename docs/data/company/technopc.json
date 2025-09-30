@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/technopc.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/technopcofficial",
     "youtube": "https://youtube.com/channel/UCyVKYJLarfHZ0HVkdHixkmw",
     "x": "https://x.com/Technopc_Global"
-  }
+  },
+  "logo": "img/company/technopc.png"
 }

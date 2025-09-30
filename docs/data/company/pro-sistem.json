@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/pro-sistem.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "",
     "x": "https://x.com/prosistembil"
-  }
+  },
+  "logo": "img/company/pro-sistem.svg"
 }

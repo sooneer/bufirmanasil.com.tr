@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/verisis.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/VerisisClims",
     "instagram": "",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/verisis.png"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/forte.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/forte_teknoloji",
     "youtube": "",
     "x": "https://x.com/ForteTeknoloji"
-  }
+  },
+  "logo": "img/company/forte.svg"
 }

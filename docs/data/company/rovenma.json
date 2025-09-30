@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/rovenma.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Rovenma","contact":{"web":"https://rovenma.com","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Rovenma",
+  "contact": {
+    "web": "https://rovenma.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "logo": "img/company/rovenma.png"
+}

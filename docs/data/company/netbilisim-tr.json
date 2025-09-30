@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/netbilisim-tr.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/netbilisim",
     "youtube": "https://youtube.com/channel/UCRRAtZhwsWDR8lO0ysCSYiQ",
     "x": "https://x.com/netbilisim_tr"
-  }
+  },
+  "logo": "img/company/netbilisim-tr.png"
 }

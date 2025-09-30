@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/tecpro.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/tecprobt",
     "instagram": "https://instagram.com/tecprobt",
     "youtube": "https://youtube.com/channel/UC3pHtIx4Rm4EuUQ3-OVl8bQ"
-  }
+  },
+  "logo": "img/company/tecpro.png"
 }

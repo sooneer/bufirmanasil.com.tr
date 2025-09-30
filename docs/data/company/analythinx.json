@@ -1,6 +1,5 @@
 {
   "name": "Analythinx",
-  "logo": "/img/company/analythinx.svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "",
     "youtube": "",
     "github": ""
-  }
+  },
+  "logo": "img/company/analythinx.png"
 }

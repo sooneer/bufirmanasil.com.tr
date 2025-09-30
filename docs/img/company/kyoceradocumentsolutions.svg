@@ -1,0 +1,3429 @@
+ <!DOCTYPE HTML>
+<html lang="tr-TR">
+    <head>
+    <meta charset="UTF-8"/>
+    
+
+
+<meta name="description" content="KYOCERA fotokopi makinesi ve lazer yazıcıların kiralama, satış ve servis hizmetleri ile katma değerli baskı çözümleri sunuyoruz."/>
+  <link rel="preload" href="/etc/designs/kyocera-clientlibs/publish/resources/fonts/GT-Eesti-Pro-Light.woff2" as="font" type="font/woff2" crossorigin/>
+  <link rel="preload" href="/etc/designs/kyocera-clientlibs/publish/resources/fonts/GT-Eesti-Pro-Regular.woff2" as="font" type="font/woff2" crossorigin/>
+  <link rel="preload" href="/etc/designs/kyocera-clientlibs/publish/resources/fonts/GT-Eesti-Pro-Medium.woff2" as="font" type="font/woff2" crossorigin/>
+
+
+
+     
+
+<script data-datalayer-script data-datalayer-event-schema='
+  {
+      &quot;event&quot;: {
+          &quot;eventName&quot;: &quot;&quot;,
+          &quot;eventAction&quot;: &quot;&quot;,
+          &quot;eventComponent&quot;: &quot;&quot;,
+          &quot;eventType&quot;: &quot;&quot;
+         }
+  }' data-datalayer-profile-schema='
+  {
+      &quot;profile&quot;: {
+          &quot;userType&quot;: &quot;&quot;,
+          &quot;loginStatus&quot;: &quot;&quot;,
+          &quot;userId&quot;: &quot;&quot;,
+          &quot;ckCatAnalytics&quot;: &quot;&quot;,
+          &quot;ckCatMarketing&quot;: &quot;&quot;
+         }
+  }' data-datalayer-search-schema='
+  {
+      &quot;search&quot;: {
+          &quot;searchTerm&quot;: &quot;&quot;
+         }
+  }' data-datalayer-product-schema='
+  {
+    &quot;product&quot;: {
+      &quot;businessCategory&quot;: &quot;&quot;,
+      &quot;label&quot;: &quot;&quot;,
+      &quot;productClass&quot;: &quot;&quot;,
+      &quot;name&quot;: &quot;&quot;
+      }
+  }' data-launch-url="//assets.adobedtm.com/1e42da7e0aa8/1f38dd73fd1c/launch-41da60f2f209.min.js">
+  window.dataLayer = [{
+    'page': {
+      'pageName': 'KYOCERA Document Solutions Turkey ',
+      'pageType': '\/apps\/kyocera\/templates\/home',
+      'market': 'tr',
+      'language': 'tr',
+      'siteSection': ''
+    }
+  }];
+</script>
+
+
+<meta property="og:title" content="Kyocera Document Solutions"/>
+<meta name="twitter:title" content="KYOCERA Document Solutions Turkey "/>
+<meta property="og:description" content="KYOCERA fotokopi makinesi ve lazer yazıcıların kiralama, satış ve servis hizmetleri ile katma değerli baskı çözümleri sunuyoruz."/>
+<meta name="twitter:description" content="KYOCERA fotokopi makinesi ve lazer yazıcıların kiralama, satış ve servis hizmetleri ile katma değerli baskı çözümleri sunuyoruz."/>
+
+<meta property="og:image" content="https://www.kyoceradocumentsolutions.com.tr/content/dam/kyocera/common/images/square/11. square-540x540-deploying-a-print-fleet.jpg"/>
+<meta name="twitter:image"/>
+<meta property="og:type" content="website"/>
+<meta name="twitter:card" content="summary"/>
+
+<meta property="og:url" content="https://www.kyoceradocumentsolutions.com.tr/tr.html"/>
+<meta name="twitter:url" content="https://www.kyoceradocumentsolutions.com.tr/tr.html"/>
+
+<meta name="google-site-verification" content="ZjnNTcIq2F95U_Snh3hu5d4KChrahOm04aivk1CRmlU"/>
+
+
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "KYOCERA Document Solutions",
+    "logo": "https://www.kyoceradocumentsolutions.com.tr/content/dam/kyocera/common/images/logo/kyocera-logo.svg",
+    "telephone": "",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "",
+      "addressLocality": "",
+      "addressRegion": "",
+      "addressCountry": "",
+      "postalCode": ""
+    },
+    "url": "https://www.kyoceradocumentsolutions.com.tr/tr.html"
+  }
+</script>
+
+
+
+
+
+<!--Taking out product schema temporarily, once we have the required data we will add it back-->
+<!--<sly data-sly-include="social/productSchema.html"></sly>-->
+
+
+     <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5XKMGL2');</script>
+<!-- End Google Tag Manager -->
+<!-- MS Clarity -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "rcvcif7mv2");
+</script>
+<!-- End MS Clarity -->
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+
+
+
+    
+<link rel="stylesheet" href="/etc/designs/kyocera-clientlibs/publish.lc-20250904080523-lc.min.css" type="text/css">
+
+
+
+
+
+<script>
+  const reCaptchaScript = document.createElement('script');
+  reCaptchaScript.type = 'text/javascript';
+  reCaptchaScript.async = true;
+  reCaptchaScript.defer = true;
+  reCaptchaScript.src = 'https://www.google.com/recaptcha/api.js';
+  document.head.append(reCaptchaScript);
+</script>
+
+
+<title>KYOCERA Document Solutions Turkey </title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+
+    
+    
+    
+
+    
+</head>
+    <body>
+        
+        
+            
+     
+
+
+<header class="l-header" id="content__kyocera__tr__public__tr__jcr__content__header" data-login-trigger-container>
+  
+
+<div class="l-header__tools l-header-tools">
+  <div class="l-container l-header-tools__container">
+    <div class="l-header__logo-container">
+      <div class="l-header__logo c-logo">
+
+<a data-datalayer-event='{"event":{"eventName":"Logo_image","eventAction":"click","eventComponent":"Logo","eventType":"cta"}}' class="c-logo__link" href="/tr.html">
+  
+  
+  
+  
+  
+    <img src="/content/dam/kyocera/common/images/logo/kyocera-logo.svg" width="147" height="32" class="c-logo__image"/>
+    
+  
+
+  
+  
+
+</a>
+</div>
+      <div class="l-header__brand c-text">
+        <span>KYOCERA Document Solutions</span>
+      </div>
+    </div>
+    <ul class="l-header-tools__list">
+      <li class="l-header__language-selector">
+  <a class="l-header__language-selector-link" tabindex="0" aria-label="language selector: TR" href="/tr/about-us/contact-us/kyocera-around-the-world.html">
+    <div class="l-header__language-icon c-icon">
+      <svg>
+        <use xlink:href="#icon-globe"></use>
+      </svg>
+    </div>
+    <span class="l-header__language-abbreviation">TR</span>
+    <span class="l-header__country-name">tr</span>
+  </a>
+</li>
+
+      
+      
+      <li class="l-header-tools__item">
+        <a data-datalayer-event='{"event":{"eventName":"Partner Login","eventAction":"click","eventComponent":"Login","eventType":"overlay"}}' href="/content/kyocera/tr/public/tr/login" class="l-header-tools__link" data-login-trigger>Benim Kyoceram</a>
+        
+      </li>
+    </ul>
+  </div>
+</div>
+
+  <div class="l-container">
+    <div class="l-header__container l-header__wrapper" data-nav data-nav-menu>
+      <div class="l-header__logo-container l-header__logo-container-mobile">
+        <div class="l-header__logo c-logo">
+
+<a data-datalayer-event='{"event":{"eventName":"Logo_image","eventAction":"click","eventComponent":"Logo","eventType":"cta"}}' class="c-logo__link" href="/tr.html">
+  
+  
+  
+  
+  
+    <img src="/content/dam/kyocera/common/images/logo/kyocera-logo.svg" width="147" height="32" class="c-logo__image"/>
+    
+  
+
+  
+  
+
+</a>
+</div>
+        <div class="l-header__brand c-text">
+          <span>KYOCERA Document Solutions</span>
+        </div>
+      </div>
+      
+
+<ul class="l-header__buttons-container">
+  <li class="l-header__language-selector">
+  <a class="l-header__language-selector-link" tabindex="0" aria-label="language selector: TR" href="/tr/about-us/contact-us/kyocera-around-the-world.html">
+    <div class="l-header__language-icon c-icon">
+      <svg>
+        <use xlink:href="#icon-globe"></use>
+      </svg>
+    </div>
+    <span class="l-header__language-abbreviation">TR</span>
+    <span class="l-header__country-name">tr</span>
+  </a>
+</li>
+
+  <li class="l-header-buttons">
+    
+    
+    
+      <a class="l-header-buttons__item" data-datalayer-event='{"event":{"eventName":"Partner Login","eventAction":"click","eventComponent":"Login","eventType":"overlay"}}' data-login-trigger>
+        <span class="l-header-buttons__icon c-icon c-icon--sm">
+          <svg><use xlink:href="#icon-user"></use></svg>
+        </span>
+      </a>
+    
+    
+
+    <button title="Search" class="l-header-buttons__item l-header-buttons__item--toggle" data-open-search>
+      <span class="l-header-buttons__icon c-icon c-icon--sm" data-datalayer-event='{"event":{"eventName":"search","eventAction":"open","eventComponent":"Search","eventType":"overlay"}}'>
+        <svg><use xlink:href="#icon-search"></use></svg>
+      </span>
+      <span class="l-header-buttons__icon c-icon c-icon--sm" data-datalayer-event='{"event":{"eventName":"search","eventAction":"close","eventComponent":"Search","eventType":"overlay"}}'>
+        <svg><use xlink:href="#icon-close"></use></svg>
+      </span>
+    </button>
+
+    <button title="Menu" class="l-header-buttons__item l-header-buttons__item--toggle" data-nav-trigger="nav" data-nav-item>
+      <span data-datalayer-event='{"event":{"eventName":"Menu","eventAction":"open","eventComponent":"Global Navigation Icon [Mobile]","eventType":"nav"}}' class="l-header-buttons__icon c-icon c-icon--sm">
+        <svg><use xlink:href="#icon-menu"></use></svg>
+      </span>
+      <span data-datalayer-event='{"event":{"eventName":"Menu","eventAction":"close","eventComponent":"Global Navigation Icon [Mobile]","eventType":"nav"}}' class="l-header-buttons__icon c-icon c-icon--sm">
+        <svg><use xlink:href="#icon-close"></use></svg>
+      </span>
+    </button>
+  </li>
+</ul>
+
+      <nav class="l-header__nav l-nav" data-nav-menu="nav" aria-label="main navigation">
+  <div class="l-nav__container l-container">
+    <ul class="l-nav__list l-nav__list--main" data-nav-menu="main">
+      
+        <li class="l-nav__item">
+          
+          
+  <a data-datalayer-event='{"event":{"eventName":"Akıllı İşletmeler","eventAction":"click","eventComponent":"Level 1 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--primary l-nav__link--top-level" data-nav-trigger="smarter-workspaces" target="_self" href="/tr/smarter-workspaces.html">
+  <span class="l-nav__back c-icon c-icon--sm">
+        <svg><use xlink:href="#icon-arrow-left"/></svg>
+      </span>
+    <span>Akıllı İşletmeler</span>
+  </a>
+  
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+  <div class="l-nav__submenu l-nav-submenu" data-nav-menu="smarter-workspaces">
+    <div class="l-nav-submenu__container l-container">
+      <div class="l-nav-submenu__inner">
+        <aside class="l-nav-submenu__teaser l-nav-teaser">
+          <div class="l-nav-submenu__teaser-text">
+              <span class="c-title c-title--h2 c-title--spacer-m">
+                Akıllı İşletmeler
+              </span>
+            <p class="l-nav-teaser__text c-text c-text--minor">
+              Size işletme dönüşümünüz süresince hibrit bir çalışma ortamı yaratma konusunda rehberlik edebilecek en iyi Kyocera seçimlerini sunuyoruz.
+            </p>
+          </div>
+          <a data-datalayer-event='{"event":{"eventName":"Nasıl olduğunu keşfet","eventAction":"click","eventComponent":"Level 2 Navigation Title CTA","eventType":"cta"}}' class="c-button c-button--primary l-nav-teaser__button" target="_self" href="/tr/smarter-workspaces.html">
+            Nasıl olduğunu keşfet
+            <span class="l-nav-teaser__button--text-mobile" data-teaser-button-text>
+              Nasıl olduğunu keşfet
+            </span>
+          </a>
+        </aside>
+        <div class="l-nav-submenu__content">
+          <ul class="l-nav__list l-nav__list--nested l-nav__list--level-2">
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Karşılaşılan zorluklar","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="business-challenges" target="_self" href="/tr/smarter-workspaces/business-challenges.html">
+                <span class="l-nav__link-label">
+                  Karşılaşılan zorluklar
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              <ul class="l-nav__list l-nav__list--nested  l-nav__list--level-3" data-nav-menu="business-challenges">
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Karşılaşılan zorluklar","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/smarter-workspaces/business-challenges.html">
+                    <span class="l-nav__link-label">
+                      Karşılaşılan zorluklar
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Bulut","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/smarter-workspaces/business-challenges/the-cloud.html">
+                    <span class="l-nav__link-label">
+                      Bulut
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Güvenlik","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/smarter-workspaces/business-challenges/security.html">
+                    <span class="l-nav__link-label">
+                      Güvenlik
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Kağıtsız ortam","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/smarter-workspaces/business-challenges/paperless.html">
+                    <span class="l-nav__link-label">
+                      Kağıtsız ortam
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Mobilite","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/smarter-workspaces/business-challenges/mobility.html">
+                    <span class="l-nav__link-label">
+                      Mobilite
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"İnovasyon","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/smarter-workspaces/business-challenges/innovation.html">
+                    <span class="l-nav__link-label">
+                      İnovasyon
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+
+              </ul>
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Bilgi Merkezi","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="insights-hub" target="_self" href="/tr/smarter-workspaces/insights-hub/insights-from-kyocera.html">
+                <span class="l-nav__link-label">
+                  Bilgi Merkezi
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              <ul class="l-nav__list l-nav__list--nested  l-nav__list--level-3" data-nav-menu="insights-hub">
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Kyocera\u0027dan ipuçları","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/smarter-workspaces/insights-hub/insights-from-kyocera.html">
+                    <span class="l-nav__link-label">
+                      Kyocera&#39;dan ipuçları
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Makaleler","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/smarter-workspaces/insights-hub/articles.html">
+                    <span class="l-nav__link-label">
+                      Makaleler
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Teknik İncelemeler","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/smarter-workspaces/insights-hub/whitepapers.html">
+                    <span class="l-nav__link-label">
+                      Teknik İncelemeler
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"E-kitaplar ","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/smarter-workspaces/insights-hub/e-books.html">
+                    <span class="l-nav__link-label">
+                      E-kitaplar 
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Başarı öyküleri","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/smarter-workspaces/insights-hub/case-studies.html">
+                    <span class="l-nav__link-label">
+                      Başarı öyküleri
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Inkjet Üretim Baskısı Yatırım Getirisini Hesaplayın","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/smarter-workspaces/insights-hub/calculate-your-return-on-investment.html">
+                    <span class="l-nav__link-label">
+                      Inkjet Üretim Baskısı Yatırım Getirisini Hesaplayın
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Size Özel Üretim Baskısı Çözümü","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/smarter-workspaces/insights-hub/personalised-production-printing-solution.html">
+                    <span class="l-nav__link-label">
+                      Size Özel Üretim Baskısı Çözümü
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+
+              </ul>
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Üst Düzey Güvenlik","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="revolutionizing-security" target="_self" href="/tr/smarter-workspaces/revolutionizing-security.html">
+                <span class="l-nav__link-label">
+                  Üst Düzey Güvenlik
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+        </li>
+      
+        <li class="l-nav__item">
+          
+          
+  <a data-datalayer-event='{"event":{"eventName":"İçerik Hizmetleri","eventAction":"click","eventComponent":"Level 1 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--primary l-nav__link--top-level" data-nav-trigger="content-services" target="_self" href="/tr/content-services.html">
+  <span class="l-nav__back c-icon c-icon--sm">
+        <svg><use xlink:href="#icon-arrow-left"/></svg>
+      </span>
+    <span>İçerik Hizmetleri</span>
+  </a>
+  
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+
+  <div class="l-nav__submenu l-nav-submenu" data-nav-menu="content-services">
+    <div class="l-nav-submenu__container l-container">
+      <div class="l-nav-submenu__inner">
+        <aside class="l-nav-submenu__teaser l-nav-teaser">
+          <div class="l-nav-submenu__teaser-text">
+              <span class="c-title c-title--h2 c-title--spacer-m">
+                İçerik Hizmetleri
+              </span>
+            <p class="l-nav-teaser__text c-text c-text--minor">
+              Kuruluşunuzun rekabet avantajı elde etmesine yardımcı olacak kişiselleştirilmiş teknoloji çözümleri.
+            </p>
+          </div>
+          <a data-datalayer-event='{"event":{"eventName":"Nasıl olduğunu keşfet","eventAction":"click","eventComponent":"Level 2 Navigation Title CTA","eventType":"cta"}}' class="c-button c-button--primary l-nav-teaser__button" target="_self" href="/tr/content-services.html">
+            Nasıl olduğunu keşfet
+            <span class="l-nav-teaser__button--text-mobile" data-teaser-button-text>
+              Nasıl olduğunu keşfet
+            </span>
+          </a>
+        </aside>
+        <div class="l-nav-submenu__content">
+          <ul class="l-nav__list l-nav__list--nested l-nav__list--level-2">
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Departmanlar","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="departments" target="_self" href="/tr/content-services/departments.html">
+                <span class="l-nav__link-label">
+                  Departmanlar
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              <ul class="l-nav__list l-nav__list--nested  l-nav__list--level-3" data-nav-menu="departments">
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Departmanlar","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/departments.html">
+                    <span class="l-nav__link-label">
+                      Departmanlar
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Satış","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/departments/sales.html">
+                    <span class="l-nav__link-label">
+                      Satış
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Finans \u0026 Muhasebe","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/departments/finance-accounting.html">
+                    <span class="l-nav__link-label">
+                      Finans &amp; Muhasebe
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Satın Alma","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/departments/procurement.html">
+                    <span class="l-nav__link-label">
+                      Satın Alma
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+
+              </ul>
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Sektörler","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="industry" target="_self" href="/tr/content-services/industry.html">
+                <span class="l-nav__link-label">
+                  Sektörler
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              <ul class="l-nav__list l-nav__list--nested  l-nav__list--level-3" data-nav-menu="industry">
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Sektörler","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/industry.html">
+                    <span class="l-nav__link-label">
+                      Sektörler
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Lojistik","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/industry/logistics.html">
+                    <span class="l-nav__link-label">
+                      Lojistik
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Sağlık ","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/industry/healthcare.html">
+                    <span class="l-nav__link-label">
+                      Sağlık 
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Finans","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/industry/financial-services.html">
+                    <span class="l-nav__link-label">
+                      Finans
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Kamu","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/industry/government.html">
+                    <span class="l-nav__link-label">
+                      Kamu
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Eğitim","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/industry/education.html">
+                    <span class="l-nav__link-label">
+                      Eğitim
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Üretim","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/industry/manufacturing.html">
+                    <span class="l-nav__link-label">
+                      Üretim
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+
+              </ul>
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Çözümler","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="solutions" target="_self" href="/tr/content-services/solutions.html">
+                <span class="l-nav__link-label">
+                  Çözümler
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              <ul class="l-nav__list l-nav__list--nested  l-nav__list--level-3" data-nav-menu="solutions">
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Çözümler","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/solutions.html">
+                    <span class="l-nav__link-label">
+                      Çözümler
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"İşbirliği","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/solutions/collaboration.html">
+                    <span class="l-nav__link-label">
+                      İşbirliği
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"İş Yönetimi İçeriği","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/solutions/business-management-content.html">
+                    <span class="l-nav__link-label">
+                      İş Yönetimi İçeriği
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Veri Yakalama","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/solutions/capture.html">
+                    <span class="l-nav__link-label">
+                      Veri Yakalama
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Yönetilen Doküman Hizmetleri ","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/solutions/fotokopi-makinesi-ve-yazici-kiralama.html">
+                    <span class="l-nav__link-label">
+                      Yönetilen Doküman Hizmetleri 
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Bilgi ve İletişim Teknolojileri Çözümlerimiz","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/content-services/solutions/bilgi-ve-iletisim-teknolojileri-cozumleri.html">
+                    <span class="l-nav__link-label">
+                      Bilgi ve İletişim Teknolojileri Çözümlerimiz
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+
+              </ul>
+            </li>
+          
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+        </li>
+      
+        <li class="l-nav__item">
+          
+          
+  <a data-datalayer-event='{"event":{"eventName":"Ürünler","eventAction":"click","eventComponent":"Level 1 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--primary l-nav__link--top-level" data-nav-trigger="products" target="_self" href="/tr/products.html">
+  <span class="l-nav__back c-icon c-icon--sm">
+        <svg><use xlink:href="#icon-arrow-left"/></svg>
+      </span>
+    <span>Ürünler</span>
+  </a>
+  
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+
+  <div class="l-nav__submenu l-nav-submenu" data-nav-menu="products">
+    <div class="l-nav-submenu__container l-container">
+      <div class="l-nav-submenu__inner">
+        <aside class="l-nav-submenu__teaser l-nav-teaser">
+          <div class="l-nav-submenu__teaser-text">
+              <span class="c-title c-title--h2 c-title--spacer-m">
+                Ürünler
+              </span>
+            <p class="l-nav-teaser__text c-text c-text--minor">
+              Akıllı fikirlerden, daha düşük maliyetlerden, daha fazla üretkenlikten yararlanın. Ödüllü yazıcılar, yazılım çözümleri ve sarf malzemeleri arasından seçim yapın.
+            </p>
+          </div>
+          <a data-datalayer-event='{"event":{"eventName":"Şimdi arayın","eventAction":"click","eventComponent":"Level 2 Navigation Title CTA","eventType":"cta"}}' class="c-button c-button--primary l-nav-teaser__button" target="_self" href="/tr/products.html">
+            Şimdi arayın
+            <span class="l-nav-teaser__button--text-mobile" data-teaser-button-text>
+              Şimdi arayın
+            </span>
+          </a>
+        </aside>
+        <div class="l-nav-submenu__content">
+          <ul class="l-nav__list l-nav__list--nested l-nav__list--level-2">
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Yazıcılar","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="printers" target="_self" href="/tr/products/printers.html">
+                <span class="l-nav__link-label">
+                  Yazıcılar
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"MFP","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="mfp" target="_self" href="/tr/products/mfp.html">
+                <span class="l-nav__link-label">
+                  MFP
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Üretim Yazıcısı","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="production-printing" target="_self" href="/tr/products/production-printing.html">
+                <span class="l-nav__link-label">
+                  Üretim Yazıcısı
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Yazılım","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="software" target="_self" href="/tr/products/software.html">
+                <span class="l-nav__link-label">
+                  Yazılım
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Sarflar","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="consumables" target="_self" href="/tr/products/consumables.html">
+                <span class="l-nav__link-label">
+                  Sarflar
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          
+            
+          
+            
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Kampanyalar","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="firsat-urunleri" target="_self" href="/tr/products/firsat-urunleri/yazici-ve-fotokopi-makinesi-fiyatlari.html">
+                <span class="l-nav__link-label">
+                  Kampanyalar
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              <ul class="l-nav__list l-nav__list--nested  l-nav__list--level-3" data-nav-menu="firsat-urunleri">
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Tüm kampanyalar","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/products/firsat-urunleri/yazici-ve-fotokopi-makinesi-fiyatlari.html">
+                    <span class="l-nav__link-label">
+                      Tüm kampanyalar
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Yazıcı ve Fotokopi Kiralama Çözümleri","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/products/firsat-urunleri/yazici-ve-fotokopi-kiralama-cozumleri.html">
+                    <span class="l-nav__link-label">
+                      Yazıcı ve Fotokopi Kiralama Çözümleri
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+        </li>
+      
+        <li class="l-nav__item">
+          
+          
+  <a data-datalayer-event='{"event":{"eventName":"Destek","eventAction":"click","eventComponent":"Level 1 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--primary l-nav__link--top-level" data-nav-trigger="support" target="_self" href="/tr/support.html">
+  <span class="l-nav__back c-icon c-icon--sm">
+        <svg><use xlink:href="#icon-arrow-left"/></svg>
+      </span>
+    <span>Destek</span>
+  </a>
+  
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+  <div class="l-nav__submenu l-nav-submenu" data-nav-menu="support">
+    <div class="l-nav-submenu__container l-container">
+      <div class="l-nav-submenu__inner">
+        <aside class="l-nav-submenu__teaser l-nav-teaser">
+          <div class="l-nav-submenu__teaser-text">
+              <span class="c-title c-title--h2 c-title--spacer-m">
+                Destek
+              </span>
+            <p class="l-nav-teaser__text c-text c-text--minor">
+              Doğru yardım ve tavsiyeleri alın, bir ürün kaydedin ve size olan bağlılığımızın neden önemli olduğunu görün.
+            </p>
+          </div>
+          <a data-datalayer-event='{"event":{"eventName":"Destek alın","eventAction":"click","eventComponent":"Level 2 Navigation Title CTA","eventType":"cta"}}' class="c-button c-button--primary l-nav-teaser__button" target="_self" href="/tr/support.html">
+            Destek alın
+            <span class="l-nav-teaser__button--text-mobile" data-teaser-button-text>
+              Destek alın
+            </span>
+          </a>
+        </aside>
+        <div class="l-nav-submenu__content">
+          <ul class="l-nav__list l-nav__list--nested l-nav__list--level-2">
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"İndirme Merkezi","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="downloads" target="_self" href="/tr/support/downloads.html">
+                <span class="l-nav__link-label">
+                  İndirme Merkezi
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Garanti","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="warranties" target="_self" href="/tr/support/warranties/your-standard-warranty.html">
+                <span class="l-nav__link-label">
+                  Garanti
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              <ul class="l-nav__list l-nav__list--nested  l-nav__list--level-3" data-nav-menu="warranties">
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Standart Garanti","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/support/warranties/your-standard-warranty.html">
+                    <span class="l-nav__link-label">
+                      Standart Garanti
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Garantinizi Kontrol Edin | Destek | Kyocera Turkey","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/support/warranties/check-your-warranty.html">
+                    <span class="l-nav__link-label">
+                      Garantinizi Kontrol Edin
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Ürününüzü Kaydedin | Destek | Kyocera Turkey","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/support/warranties/register-your-product.html">
+                    <span class="l-nav__link-label">
+                      Ürününüzü Kaydedin
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+
+              </ul>
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Destek Taahhüdümüz","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="our-support-commitment" target="_self" href="/tr/support/our-support-commitment/service-that-connects.html">
+                <span class="l-nav__link-label">
+                  Destek Taahhüdümüz
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Orijinal KYOCERA Toner","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="why-use-kyocera-toners" target="_self" href="/tr/support/why-use-kyocera-toners.html">
+                <span class="l-nav__link-label">
+                  Orijinal KYOCERA Toner
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Kyocera Nasıl Yapılır Video Serisi","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="nasil-yapilir-serisi" target="_self" href="/tr/support/nasil-yapilir-serisi.html">
+                <span class="l-nav__link-label">
+                  Kyocera Nasıl Yapılır Video Serisi
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Ürün Güvenlik Bilgilendirmesi","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="security-product-information" target="_self" href="/tr/support/security-product-information.html">
+                <span class="l-nav__link-label">
+                  Ürün Güvenlik Bilgilendirmesi
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+        </li>
+      
+        <li class="l-nav__item">
+          
+          
+  <a data-datalayer-event='{"event":{"eventName":"Hakkımızda","eventAction":"click","eventComponent":"Level 1 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--primary l-nav__link--top-level" data-nav-trigger="about-us" target="_self" href="/tr/about-us.html">
+  <span class="l-nav__back c-icon c-icon--sm">
+        <svg><use xlink:href="#icon-arrow-left"/></svg>
+      </span>
+    <span>Hakkımızda</span>
+  </a>
+  
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+
+  <div class="l-nav__submenu l-nav-submenu" data-nav-menu="about-us">
+    <div class="l-nav-submenu__container l-container">
+      <div class="l-nav-submenu__inner">
+        <aside class="l-nav-submenu__teaser l-nav-teaser">
+          <div class="l-nav-submenu__teaser-text">
+              <span class="c-title c-title--h2 c-title--spacer-m">
+                Hakkımızda
+              </span>
+            <p class="l-nav-teaser__text c-text c-text--minor">
+              Markamızı, küresel faaliyetlerimizi ve taahhütlerimizi keşfedin ve tatmin edici bir kariyer bulun
+            </p>
+          </div>
+          <a data-datalayer-event='{"event":{"eventName":"Keşfet","eventAction":"click","eventComponent":"Level 2 Navigation Title CTA","eventType":"cta"}}' class="c-button c-button--primary l-nav-teaser__button" target="_self" href="/tr/about-us.html">
+            Keşfet
+            <span class="l-nav-teaser__button--text-mobile" data-teaser-button-text>
+              Keşfet
+            </span>
+          </a>
+        </aside>
+        <div class="l-nav-submenu__content">
+          <ul class="l-nav__list l-nav__list--nested l-nav__list--level-2">
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Biz Kimiz?","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="biz-kimiz" target="_self" href="/tr/about-us/biz-kimiz.html">
+                <span class="l-nav__link-label">
+                  Biz Kimiz?
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Markamız","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="our-brand" target="_self" href="/tr/about-us/our-brand/the-kyocera-philosophy.html">
+                <span class="l-nav__link-label">
+                  Markamız
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              <ul class="l-nav__list l-nav__list--nested  l-nav__list--level-3" data-nav-menu="our-brand">
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Kyocera Felsefesi","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/about-us/our-brand/the-kyocera-philosophy.html">
+                    <span class="l-nav__link-label">
+                      Kyocera Felsefesi
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Kyocera Grup","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/about-us/our-brand/kyocera-group.html">
+                    <span class="l-nav__link-label">
+                      Kyocera Grup
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Çevre Politikası","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/about-us/our-brand/environmental-policy.html">
+                    <span class="l-nav__link-label">
+                      Çevre Politikası
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Yeni Marka Kimliğimiz","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/about-us/our-brand/kyocera-new-brand-identity.html">
+                    <span class="l-nav__link-label">
+                      Yeni Marka Kimliğimiz
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"#BizKyocerayız ","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/about-us/our-brand/we-are-kyocera.html">
+                    <span class="l-nav__link-label">
+                      #BizKyocerayız 
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Kyocera, Avrupa\u0027daki 50. yılını kutluyor","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/about-us/our-brand/celebrating-50-years-of-kyocera-in-europe.html">
+                    <span class="l-nav__link-label">
+                      Kyocera, Avrupa&#39;daki 50. yılını kutluyor
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+
+              </ul>
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Sertifikalar","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="certifications" target="_self" href="/tr/about-us/certifications/certification-and-membership.html">
+                <span class="l-nav__link-label">
+                  Sertifikalar
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Partnerler \u0026 Avantajlar","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="partners" target="_self" href="/tr/about-us/partners/partners-and-benefits.html">
+                <span class="l-nav__link-label">
+                  Partnerler &amp; Avantajlar
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Kariyer","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="careers" target="_self" href="/tr/about-us/careers/working-at-kyocera.html">
+                <span class="l-nav__link-label">
+                  Kariyer
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"İletişim","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="contact-us" target="_self" href="/tr/about-us/contact-us.html">
+                <span class="l-nav__link-label">
+                  İletişim
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              <ul class="l-nav__list l-nav__list--nested  l-nav__list--level-3" data-nav-menu="contact-us">
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"İletişim","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/about-us/contact-us.html">
+                    <span class="l-nav__link-label">
+                      İletişim
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+                <li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Basın Bülteni","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/about-us/contact-us/press.html">
+                    <span class="l-nav__link-label">
+                      Basın Bülteni
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Kyocera Worldwide","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/about-us/contact-us/kyocera-around-the-world.html">
+                    <span class="l-nav__link-label">
+                      Kyocera Worldwide
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+<li class="l-nav__item">
+                  <a data-datalayer-event='{"event":{"eventName":"Kyocera EMEA","eventAction":"click","eventComponent":"Level 3 Navigation","eventType":"nav"}}' class="l-nav__link" target="_self" href="/tr/about-us/contact-us/kyocera-emea-offices.html">
+                    <span class="l-nav__link-label">
+                      Kyocera EMEA
+                      <span class="l-nav__item-underline">
+                        <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                      </span>
+                    </span>
+                  </a>
+                </li>
+
+              </ul>
+            </li>
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Yasal","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="yasal" target="_self" href="/tr/about-us/yasal.html">
+                <span class="l-nav__link-label">
+                  Yasal
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          
+            
+          
+            
+          
+            <li class="l-nav__item">
+              
+              <a data-datalayer-event='{"event":{"eventName":"Sürdürülebilirlik","eventAction":"click","eventComponent":"Level 2 Navigation","eventType":"nav"}}' class="l-nav__link l-nav__link--secondary" data-nav-trigger="surdurulebilir-urunler-ve-surecler" target="_self" href="/tr/about-us/surdurulebilir-urunler-ve-surecler.html">
+                <span class="l-nav__link-label">
+                  Sürdürülebilirlik
+                  <span class="l-nav__item-underline">
+                    <svg class="l-nav__item-underline-svg"><use xlink:href="#icon-gesture-underline"/></svg>
+                  </span>
+                </span>
+              </a>
+              
+            </li>
+          
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+        </li>
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+      <li class="l-nav__item l-nav__item--search">
+        <button data-datalayer-event='{"event":{"eventName":"search","eventAction":"open","eventComponent":"Search","eventType":"overlay"}}' class="l-nav__link l-nav__link--primary" data-open-search aria-label="Search">
+          <span class="c-icon c-icon--xs">
+            <svg><use xlink:href="#icon-search"/></svg>
+          </span>
+        </button>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+    </div>
+  </div>
+  
+  <div class="l-header__login">
+<section class="l-login" data-login>
+  <div class="l-container">
+    <div class="l-login__inner">
+      <div class="l-login__forms" data-forms>
+        <div class="l-login__confirm-gesture c-gesture" data-login-confirm-gesture>
+          <div class="c-gesture__content">
+            <svg>
+              <use xlink:href="#gesture-tick"/>
+            </svg>
+          </div>
+        </div>
+        <div class="l-login__form-container" data-login-form-container>
+          <h2 class="l-login__title l-login__title--preceding-input c-title">
+            Oturum aç
+          </h2>
+          <form action="https://mykyocera.kyoceradocumentsolutions.com.tr/j_security_check" method="POST" data-form-validate data-login-form-hidden data-login-servlet-prefix="/bin/public/postlogin.html?sourcePath=" data-datalayer-component="Login" id="hlf">
+            <input type="hidden" name="j_username" data-login-form-hidden-username/>
+            <input type="hidden" name="j_password" data-login-form-hidden-password/>
+            <input type="hidden" name="resource" value="/bin/public/postlogin.html?sourcePath=/content/kyocera/tr/public/tr" data-login-form-hidden-path/>
+            <input type="hidden" name="_charset_" value="UTF-8"/>
+          </form>
+          <form data-form-validate data-login-form data-login-action="https://mykyocera.kyoceradocumentsolutions.com.tr/j_security_check" data-login-invalid="j_reason=invalid_login" data-login-redirect="/bin/public/postlogin.html?sourcePath=/content/kyocera/tr/public/tr" data-login-servlet-prefix="/bin/public/postlogin.html?sourcePath=" data-datalayer-component="Login">
+            <input type="hidden" name="resource" value="/bin/public/postlogin.html?sourcePath=/content/kyocera/tr/public/tr" data-login-form-hidden-path/>
+            <input type="hidden" name="_charset_" value="UTF-8"/>
+            <fieldset class="l-login__input">
+              <div data-login-form-username-container>
+  <div class="c-input" data-input>
+    <div class="c-input__container">
+      <input type="text" name="j_username" class="c-input__field" data-input-field data-input-required="true"/>
+      <span class="c-input__label">Lütfen kullanıcı adınız ya da emailinizi girin</span>
+      <span class="c-input__shadow" data-input-shadow></span>
+    </div>
+    
+   <span class="c-input__message c-input__message--error" data-input-error-empty>
+     Zorunlu alan
+   </span>
+
+    
+   <span class="c-input__message c-input__message--error" data-input-error-wrong-format>
+     Please provide correct data format
+   </span>
+
+  </div>
+</div>
+            </fieldset>
+            <fieldset class="l-login__input">
+              <div data-login-form-password-container>
+  <div class="c-input" data-input>
+    <div class="c-input__container">
+      <input type="password" class="c-input__field" name="j_password" data-input-field data-input-translations='{
+            "SHOW_TEXT": "Göster",
+            "HIDE_TEXT": "Gizle"
+          }' data-input-required="true"/>
+      <span class="c-input__label">Şifrenizi girin</span>
+      <span class="c-input__shadow" data-input-shadow></span>
+      <div class="c-input__switch" data-input-switch tabindex="-1"></div>
+    </div>
+    <ul>
+      <li class="c-input__message c-input__message--error" data-input-error-empty>
+        Lütfen tamamlayın, boş bırakmayın.
+      </li>
+      <li class="c-input__message c-input__message--error" data-input-error-invalid>
+        Üzgünüz, bu kullanıcı adı veya şifre sahip olduğumuz detaylarla eşleşmiyor. Lütfen tekrar deneyin veya yeni bir tane isteyin.
+      </li>
+    </ul>
+  </div>
+</div>
+            </fieldset>
+            <div class="l-login__helper">
+              <a data-datalayer-event='{"event":{"eventName":"forgottenPassword","eventAction":"click","eventComponent":"Login","eventType":"cta"}}' data-login-reminder-button class="c-button c-button--link c-button--link-inverted">
+                <span>
+                  Şifremi unuttum  
+                </span>
+              </a>
+            </div>
+            <button data-login-submit class="l-login__button c-button c-button--primary" type="submit">
+              <span>
+                Oturum aç
+              </span>
+            </button>
+          </form>
+        </div>
+        <div class="l-login__form-container -is-hidden" data-reminder-form-container>
+          <h2 class="l-login__title c-title">
+            Şifremi unuttum
+          </h2>
+          <p class="l-login__text c-text c-text--minor">
+            Lütfen kullanıcı adınızı veya e-postanızı girin. Size şifrenizi nasıl sıfırlayacağınızla ilgili talimatları içeren bir e-posta göndereceğiz. Kullanıcı adınızı unuttuysanız, şifrenizi sıfırlamak için e-posta almadıysanız veya yardıma ihtiyacınız varsa destek ekibimize başvurun.
+          </p>
+          <form novalidate method="POST" data-form-validate data-reset-pass data-form-action="/content/kyocera/tr/public/tr/login/jcr:content.passwordreset" data-datalayer-component="Login - forgotten password form">
+            <input type="hidden" name="_charset_" value="UTF-8"/>
+            <fieldset class="l-login__input">
+              <div>
+  <div class="c-input" data-input>
+    <div class="c-input__container">
+      <input type="email" name="email" data-input-field data-input-email-field class="c-input__field" data-input-required/>
+      <span class="c-input__label">Lütfen kullanıcı adınız ya da emailinizi girin</span>
+      <span class="c-input__shadow" data-input-shadow></span>
+    </div>
+    
+   <span class="c-input__message c-input__message--error" data-input-error-empty>
+     Zorunlu alan
+   </span>
+
+    
+   <span class="c-input__message c-input__message--error" data-input-error-wrong-format>
+     Please provide a correct email
+   </span>
+
+  </div>
+</div>
+            </fieldset>
+            <button type="submit" class="l-login__button c-button c-button--primary">
+              Gönder
+            </button>
+          </form>
+        </div>
+        <div class="l-login__section -is-hidden" data-reset-pass-message>
+          <h2 class="l-login__title c-title" data-reset-pass-header>
+            Yeni şifre istendi
+          </h2>
+          <p class="l-login__text c-text c-text--minor" data-reset-pass-text>
+            Veritabanımızdan doğru bir e-posta girdiyseniz, yanıt vereceğiz…
+          </p>
+        </div>
+        <div class="l-login__form-container l-login__form-container--last -is-hidden" data-reminder-form-container>
+          <h2 class="l-login__title c-title">
+            Yeni kullanıcı talep et
+          </h2>
+          <p class="l-login__text c-text c-text--minor">
+            Bilgilerinizi yerel satış merkezinize göndererek yeni bir hesap isteyebilirsiniz. Onaylandıktan sonra size geçici bir şifre göndereceğiz.
+          </p>
+          <div data-request-new-acc class="l-login__cta">
+            <a href="/tr/login/request-account.html" class="l-login__button c-button c-button--primary" data-datalayer-event='{"event":{"eventName":"requestNewAccount","eventAction":"click","eventComponent":"Login","eventType":"cta"}}'>
+              Uygulamayı başlat
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="l-login__disclaimer">
+        <p class="l-login__text c-text c-text--minor">Şu anda, kayıtlı kullanıcılar Kyocera Document Solutions Ortakları ve Çalışanları ile sınırlıdır.
+
+
+
+Yerel eski Extranet&#39;inizin hala aşağıdaki düğme aracılığıyla aktif ve erişilebilir olduğunu lütfen unutmayın.</p>
+        <div class="l-login__helper">
+          <a data-datalayer-event='{"event":{"eventName":"requestTechnicalSupport","eventAction":"click","eventComponent":"Login","eventType":"cta"}}' href="/tr/login/kyocera-extranets.html" class="c-button c-button--link c-button--link-inverted">
+            <span>
+              Yerel extranete bağlanın
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section></div>
+</header>
+<div class="l-header__overlay l-header__search" data-nav-menu="search" data-global-search>
+  <div class="l-container">
+    <form action="/tr/search-results.html" method="get" class="c-search-global" data-input>
+      <div class="c-search-global__container">
+        <input name="q" type="text" class="c-search-global__field" placeholder="Arama sorgunuzu buraya yazınız" data-input-field/>
+        <span class="c-search-global__shadow" data-input-shadow></span>
+        <button class="c-search-global__icon" type="submit" data-search-trigger data-datalayer-event='{"event":{"eventName":"search","eventAction":"search","eventComponent":"Search","eventType":"cta"}}'>
+            <span class="c-icon c-icon--sm">
+              <svg><use xlink:href="#icon-search"></use></svg>
+            </span>
+        </button>
+        <button class="l-header__search-close-icon c-search-global__icon" data-close-search data-datalayer-event='{"event":{"eventName":"search","eventAction":"close","eventComponent":"Search","eventType":"overlay"}}'>
+          <span class="c-icon c-icon--sm">
+            <svg><use xlink:href="#icon-close"></use></svg>
+          </span>
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<div class="l-header__overlay" data-nav-menu="user-panel" data-header-element-overlay="user-panel">
+  <div class="l-container">
+    <ul class="l-header__user-panel l-header-tools l-header-tools--overlay">
+      
+
+      <li class="l-header-tools__item">
+        
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="l-header__overlay l-language-selector" data-header-element-overlay="languageselector" tabindex="0">
+  <div class="l-container">
+    <div class="l-header__overlay-close">
+      <span role="button" tabindex="0" aria-label="Close language selector overlay" class="c-icon c-icon--sm" data-header-element-overlay-close="languageselector" data-datalayer-event='{"event":{"eventName":"languageselector","eventAction":"close","eventComponent":"Language selector","eventType":"overlay"}}'>
+        <svg aria-hidden="true"><use xlink:href="#icon-close"></use></svg>
+      </span>
+    </div>
+
+    <div class="l-language-selector__content">
+      <section class="l-language-selector__section">
+        <p class="l-language-selector__section-heading">
+          Dili değiştir
+        </p>
+        <div class="l-language-selector__section-content">
+          <ul class="l-language-selector__list">
+            <li class="l-language-selector__list-item -is-inactive">
+              
+              
+              <a class="l-language-selector__list-item-link" aria-label="Currently Selected Language" href="/tr.html">
+                Türkçe
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="l-language-selector__section">
+        <p class="l-language-selector__section-heading">
+          Ülke değiştir
+        </p>
+        <div class="l-language-selector__section-content">
+          <ul class="l-language-selector__list">
+            <li class="l-language-selector__list-item">
+              <a class="l-language-selector__list-item-link" aria-label="Click to change language to: " href="/tr/about-us/contact-us/kyocera-around-the-world.html">
+                Kyocera Worldwide
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+<main class="l-wrapper" data-sticky-wrapper>
+  
+
+
+
+
+
+
+  
+
+  
+
+
+
+<div class="l-slider l-slider--hero" data-slider='{&quot;mode&quot;: &quot;gallery&quot;}' data-slider-type="Hero Carousel" data-slider-nav-inside>
+  <div class="l-slider__outer">
+    <div class="l-slider__content" data-slider-content>
+
+
+
+  
+
+
+
+  <section class="l-hero l-section ">
+    <div class="l-container">
+      <div class="l-hero__row">
+        <div class="l-hero__col l-hero__text" data-slider-first-row>
+          <div class="l-hero__inner">
+            <h1 class="l-hero__title l-section__title c-title c-title--h1">
+              İşletmenizi geleceğe hazırlayın  
+            </h1>
+            <p class="l-hero__copy c-text c-text--spacer-xxs">
+              Dijital dönüşüm süreçlerindeki ihtiyaçlarınızın farkındayız. Sunduğumuz çözümler ile hemen tanışın.
+            </p>
+            <div class="l-hero__cta">
+              
+
+
+
+  
+
+
+
+<div class="a-validation">
+	
+	
+	
+</div>
+
+
+	
+	
+	
+	
+	
+		
+			<a href="/tr/content-services/solutions/bilgi-ve-iletisim-teknolojileri-cozumleri.html" target="_self" class="c-button c-button--desktop c-button c-button--primary" data-datalayer-event='{"event":{"eventName":"Detaylı bilgi alın","eventAction":"click","eventComponent":"Hero Carousel","eventType":"cta"}}'>
+				
+					
+  
+  
+  <span>Detaylı bilgi alın</span>
+
+				
+			</a>
+			<a href="/tr/content-services/solutions/bilgi-ve-iletisim-teknolojileri-cozumleri.html" target="_self" class="c-button c-button--mobile c-button c-button--primary" data-datalayer-event='{"event":{"eventName":"Detaylı bilgi alın","eventAction":"click","eventComponent":"Hero Carousel","eventType":"cta"}}'>
+				
+					
+  
+  
+  <span>Detaylı bilgi alın</span>
+
+				
+			</a>
+		
+	
+
+
+
+
+
+
+              
+            </div>
+          </div>
+        </div>
+        <div class="l-hero__col l-hero__img-container">
+          
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    <img width="2147483647" height="2147483647" src="/content/dam/kyocera/tr/images/hero/Hero-bilgi-ve-iletisim-teknolojileri-webp.webp" fetchpriority="high" alt="bilgi-ve-iletisim-teknolojileri-cozumleri" title="İşletmenizi geleceğe hazırlayın  " class="l-hero__img"/>
+    
+  
+  
+
+        </div>
+      </div>
+    </div>
+    <div class="l-hero__crop">
+      <div class="l-hero__indent l-container">
+      </div>
+    </div>
+  </section>
+
+
+
+  
+
+
+
+  <section class="l-hero l-section ">
+    <div class="l-container">
+      <div class="l-hero__row">
+        <div class="l-hero__col l-hero__text" data-slider-first-row>
+          <div class="l-hero__inner">
+            <h1 class="l-hero__title l-section__title c-title c-title--h1">
+              Inkjet Üretim Baskısı Vaatlerini Karşılıyor Mu?
+            </h1>
+            <p class="l-hero__copy c-text c-text--spacer-xxs">
+              Inkjet, üretim baskısı için nasıl fark yaratıyor ve vaatlerini gerçekten karşılıyor mu?
+            </p>
+            <div class="l-hero__cta">
+              
+
+
+
+  
+
+
+
+<div class="a-validation">
+	
+	
+	
+</div>
+
+
+	
+	
+	
+	
+	
+		
+			<a href="/tr/smarter-workspaces/insights-hub/whitepapers/inkjet-production-print.html" target="_self" class="c-button c-button--desktop c-button c-button--primary" data-datalayer-event='{"event":{"eventName":"Hemen bilgi alın","eventAction":"click","eventComponent":"Hero Carousel","eventType":"cta"}}'>
+				
+					
+  
+  
+  <span>Hemen bilgi alın</span>
+
+				
+			</a>
+			<a href="/tr/smarter-workspaces/insights-hub/whitepapers/inkjet-production-print.html" target="_self" class="c-button c-button--mobile c-button c-button--primary" data-datalayer-event='{"event":{"eventName":"Hemen bilgi alın","eventAction":"click","eventComponent":"Hero Carousel","eventType":"cta"}}'>
+				
+					
+  
+  
+  <span>Hemen bilgi alın</span>
+
+				
+			</a>
+		
+	
+
+
+
+
+
+
+              
+            </div>
+          </div>
+        </div>
+        <div class="l-hero__col l-hero__img-container">
+          
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    <img width="2147483647" height="2147483647" src="/content/dam/kyocera/tr/images/webp/inkjet-hero.webp" fetchpriority="high" alt="Inkjet-uretim-baskisi" title="Inkjet Üretim Baskısı Vaatlerini Karşılıyor Mu?" class="l-hero__img"/>
+    
+  
+  
+
+        </div>
+      </div>
+    </div>
+    <div class="l-hero__crop">
+      <div class="l-hero__indent l-container">
+      </div>
+    </div>
+  </section>
+
+
+
+  
+
+
+
+  <section class="l-hero l-section ">
+    <div class="l-container">
+      <div class="l-hero__row">
+        <div class="l-hero__col l-hero__text" data-slider-first-row>
+          <div class="l-hero__inner">
+            <h1 class="l-hero__title l-section__title c-title c-title--h1">
+              Yazıcı ve fotokopi kiralama hizmetlerimizle baskı maliyetinizi düşürün
+            </h1>
+            <p class="l-hero__copy c-text c-text--spacer-xxs">
+              Baskı  ihtiyaçlarınıza uygun çözümleri sunan yazıcı ve fotokopi kiralama fırsatlarını keşfedin.
+            </p>
+            <div class="l-hero__cta">
+              
+
+
+
+  
+
+
+
+<div class="a-validation">
+	
+	
+	
+</div>
+
+
+	
+	
+	
+	
+	
+		
+			<a href="/tr/products/firsat-urunleri/yazici-ve-fotokopi-kiralama-cozumleri.html" target="_self" class="c-button c-button--desktop c-button c-button--primary" data-datalayer-event='{"event":{"eventName":"Hemen bilgi alın","eventAction":"click","eventComponent":"Hero Carousel","eventType":"cta"}}'>
+				
+					
+  
+  
+  <span>Hemen bilgi alın</span>
+
+				
+			</a>
+			<a href="/tr/products/firsat-urunleri/yazici-ve-fotokopi-kiralama-cozumleri.html" target="_self" class="c-button c-button--mobile c-button c-button--primary" data-datalayer-event='{"event":{"eventName":"Hemen bilgi alın","eventAction":"click","eventComponent":"Hero Carousel","eventType":"cta"}}'>
+				
+					
+  
+  
+  <span>Hemen bilgi alın</span>
+
+				
+			</a>
+		
+	
+
+
+
+
+
+
+              
+            </div>
+          </div>
+        </div>
+        <div class="l-hero__col l-hero__img-container">
+          
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    <img width="1536" height="960" src="/renditions/content/dam/kyocera/tr/images/hero/TASKalfa-3554ci-serisi.jpg/jcr%3Acontent/renditions/cq5dam.resized.img.1536.large.time1611022177715.jpg" fetchpriority="high" alt="yazıcı-fotokopi-kiralama-hizmetleri" title="Yazıcı ve fotokopi kiralama hizmetlerimizle baskı maliyetinizi düşürün" class="l-hero__img"/>
+    
+    
+  
+  
+
+        </div>
+      </div>
+    </div>
+    <div class="l-hero__crop">
+      <div class="l-hero__indent l-container">
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+</div>
+  </div>
+  <div class="l-slider__tabs">
+    <div class="l-container">
+      <ul class="l-slider-tabs__list" data-slider-tabs>
+        
+          
+          <li class="l-slider-tabs__item" data-datalayer-event='{"event":{"eventName":"Bilgi ve İletişim Teknolojileri Çözümlerimiz","eventAction":"click","eventComponent":"Hero Carousel","eventType":"cta"}}'>
+            <div class="l-slider-tabs__link" data-slider-nav="0" tabindex="0">
+              <span class="l-slider-tabs__count c-title c-title--h5">
+                1.
+              </span>
+              <span class="l-slider-tabs__text c-title c-title--h4">
+                Bilgi ve İletişim Teknolojileri Çözümlerimiz
+              </span>
+            </div>
+          </li>
+        
+          
+          <li class="l-slider-tabs__item" data-datalayer-event='{"event":{"eventName":"Inkjet üretim baskısı","eventAction":"click","eventComponent":"Hero Carousel","eventType":"cta"}}'>
+            <div class="l-slider-tabs__link" data-slider-nav="1" tabindex="0">
+              <span class="l-slider-tabs__count c-title c-title--h5">
+                2.
+              </span>
+              <span class="l-slider-tabs__text c-title c-title--h4">
+                Inkjet üretim baskısı
+              </span>
+            </div>
+          </li>
+        
+          
+          <li class="l-slider-tabs__item" data-datalayer-event='{"event":{"eventName":"Yazıcı ve Fotokopi Makinesi Kiralama Hizmetleri","eventAction":"click","eventComponent":"Hero Carousel","eventType":"cta"}}'>
+            <div class="l-slider-tabs__link" data-slider-nav="2" tabindex="0">
+              <span class="l-slider-tabs__count c-title c-title--h5">
+                3.
+              </span>
+              <span class="l-slider-tabs__text c-title c-title--h4">
+                Yazıcı ve Fotokopi Makinesi Kiralama Hizmetleri
+              </span>
+            </div>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+  
+  <nav data-sidebar>
+    <ul class="c-sidebar-menu__primary" role="menu" aria-label="Sidebar Menu" aria-orientation="vertical">
+      
+
+
+
+
+
+
+    </ul>
+  </nav>
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+<section>
+  
+
+  <header class="l-section__header l-component-header l-section__page-heading">
+    <div class="l-slider__header-row  l-container">
+      <div class="l-slider__gesture c-gesture">
+        <div class="l-slider__gesture-content c-gesture__content">
+          <svg><use href="#gesture-left-to-right-curve-angle"></use></svg>
+        </div>
+      </div>
+      <div class="l-slider__header-content">
+        <h2 class="l-section__title l-slider__title c-title c-title--h2">
+          Akıllı İşletmeler
+        </h2>
+        <p class="l-section__copy l-component-header__text c-text">
+          Yeni ve modern bir ofis için en güncel teknolojik yenilikleri ve fırsatları takip ederek rakiplerinizden bir adım önde olun.
+
+        </p>
+      </div>
+    </div>
+  </header>
+
+  <div class="l-slider l-slider--edge" data-slider='{ &quot;breakpoints&quot;: { &quot;lg&quot;: { &quot;items&quot;: 3 } }}' data-slider-type="Card Carousel">
+    <div class="l-container">
+      <div class="l-slider__outer l-slider__outer--carousel">
+        <ul class="l-slider__content" data-slider-content>
+
+
+
+  <li data-datalayer-event='{"event":{"eventName":"İçerik yönetim sistemlerine giriş","eventAction":"click","eventComponent":"Card Carousel","eventType":"cta"}}' class="l-slider__item">
+  
+  
+  <a class="c-tile" style="background-image: url('/content/dam/kyocera/tr/images/webp/Article_4_350x420.webp');" href="/tr/smarter-workspaces/insights-hub/articles/get-the-most-value-out-of-your-content-management-solution.html">
+    
+
+    <div class="c-tile__content">
+      <h3 class="c-tile__title c-title c-title--h5">
+        İçerik yönetim sistemlerine giriş
+      </h3>
+      <p class="c-tile__text c-text">
+        İşletmenizde içerik yönetimini kolaylaştırın.
+      </p>
+    </div>
+  </a>
+
+</li>
+
+
+  <li data-datalayer-event='{"event":{"eventName":"Doğru çok fonksiyonlu yazıcıyı nasıl seçeceksiniz","eventAction":"click","eventComponent":"Card Carousel","eventType":"cta"}}' class="l-slider__item">
+  
+  
+  <a class="c-tile" style="background-image: url('/content/dam/kyocera/tr/images/webp/Article_7_350x420.webp');" href="/tr/smarter-workspaces/insights-hub/articles/how-to-choose-the-right-mfp.html">
+    
+
+    <div class="c-tile__content">
+      <h3 class="c-tile__title c-title c-title--h5">
+        Doğru çok fonksiyonlu yazıcıyı nasıl seçeceksiniz
+      </h3>
+      <p class="c-tile__text c-text">
+        Şirketinizin doğru bir çok fonksiyonlu yazıcıya yatırım yaptığından emin olun.
+      </p>
+    </div>
+  </a>
+
+</li>
+
+
+  <li data-datalayer-event='{"event":{"eventName":"BT altyapınızı büyüme sürecine hazırlayın","eventAction":"click","eventComponent":"Card Carousel","eventType":"cta"}}' class="l-slider__item">
+  
+  
+  <a class="c-tile" style="background-image: url('/content/dam/kyocera/tr/images/webp/Article_5_350x420.webp');" href="/tr/smarter-workspaces/insights-hub/articles/prepare-your-IT-for-growth.html">
+    
+
+    <div class="c-tile__content">
+      <h3 class="c-tile__title c-title c-title--h5">
+        BT altyapınızı büyüme sürecine hazırlayın
+      </h3>
+      <p class="c-tile__text c-text">
+        İşletmenizin neden mevcut teknolojisini denetlemesi gerektiğini öğrenin.
+      </p>
+    </div>
+  </a>
+
+</li>
+
+
+  <li data-datalayer-event='{"event":{"eventName":"İşletmeniz için en iyi kurumsal içerik çözümleri","eventAction":"click","eventComponent":"Card Carousel","eventType":"cta"}}' class="l-slider__item">
+  
+  
+  <a class="c-tile" style="background-image: url('/content/dam/kyocera/tr/images/webp/Article_2_350x420.webp');" href="/tr/smarter-workspaces/insights-hub/articles/find-the-best-content-management-solution-for-your-business.html">
+    
+
+    <div class="c-tile__content">
+      <h3 class="c-tile__title c-title c-title--h5">
+        İşletmeniz için en iyi kurumsal içerik çözümleri
+      </h3>
+      <p class="c-tile__text c-text">
+        Bir ECM çözümünü seçerken nelere dikkat etmelisiniz?
+      </p>
+    </div>
+  </a>
+
+</li>
+
+
+  <li data-datalayer-event='{"event":{"eventName":"Dijital dönüşüme hazır mısınız?","eventAction":"click","eventComponent":"Card Carousel","eventType":"cta"}}' class="l-slider__item">
+  
+  
+  <a class="c-tile" style="background-image: url('/content/dam/kyocera/tr/images/webp/Article_1_350x420.webp');" href="/tr/smarter-workspaces/insights-hub/articles/digital-transformation-tips-for-small-businesses.html">
+    
+
+    <div class="c-tile__content">
+      <h3 class="c-tile__title c-title c-title--h5">
+        Dijital dönüşüme hazır mısınız?
+      </h3>
+      <p class="c-tile__text c-text">
+        Küçük işletmeler için 7 ipucu. 
+      </p>
+    </div>
+  </a>
+
+</li>
+
+
+  <li data-datalayer-event='{"event":{"eventName":"Güvenli bir yazdırma çözümüne mi ihtiyacınız var?","eventAction":"click","eventComponent":"Card Carousel","eventType":"cta"}}' class="l-slider__item">
+  
+  
+  <a class="c-tile" style="background-image: url('/content/dam/kyocera/tr/images/webp/eBook_350x420.webp');" href="/tr/smarter-workspaces/insights-hub/e-books/kyocera-major-player-document-security.html">
+    
+
+    <div class="c-tile__content">
+      <h3 class="c-tile__title c-title c-title--h5">
+        Güvenli bir yazdırma çözümüne mi ihtiyacınız var?
+      </h3>
+      <p class="c-tile__text c-text">
+        Güvenli bir yazdırma çözümü seçme söz konusu olduğunda, Kyocera üç temel faktöre dikkat çekiyor: gizlilik, bütünlük ve kullanılabilirlik.
+      </p>
+    </div>
+  </a>
+
+</li>
+
+
+
+
+</ul>
+      </div>
+      
+        
+  <div class="l-slider__controls">
+    <button data-datalayer-event='{"event":{"eventName":"Arrow","eventAction":"click","eventComponent":"Card Carousel","eventType":"cta"}}' class="l-slider__button c-button c-button--primary c-button--icon" data-slider-nav="prev" aria-label="prev slide">
+          <span class="c-icon c-icon--sm c-button__icon">
+            <svg><use xlink:href="#icon-arrow-left"></use></svg>
+          </span>
+    </button>
+    <button data-datalayer-event='{"event":{"eventName":"Arrow","eventAction":"click","eventComponent":"Card Carousel","eventType":"cta"}}' class="l-slider__button c-button c-button--primary c-button--icon" data-slider-nav="next" aria-label="next slide">
+          <span class="c-icon c-icon--sm c-button__icon">
+            <svg><use xlink:href="#icon-arrow-right"></use></svg>
+          </span>
+    </button>
+  </div>
+
+      
+    </div>
+  </div>
+</section>
+  
+<section class="l-section">
+  <div class="l-container">
+    
+  </div>
+
+  <div class="l-story l-slider">
+    <div class="l-container">
+      <div class="l-story__outer">
+        <header class="l-story__header">
+          <h2 class="l-story__title c-title c-title--h2">
+            Haberdar olun
+          </h2>
+          <p class="l-story__text l-section__text c-text">
+            En son haberlerimizi buradan takip edin ve bizimle irtibatta kalın.
+          </p>
+        </header>
+
+        
+
+        
+          <div class="l-story__inner" data-slider='{ &quot;loop&quot;: false, &quot;breakpoints&quot;: { &quot;lg&quot;: { &quot;disable&quot;: true } }}' data-slider-type="Story Preview">
+            <ul class="l-slider__content l-story__content" data-slider-content>
+  <li class="l-slider__item l-story__item">
+    
+
+
+
+  
+
+
+<div class="c-card">
+  <div class="c-card__header" data-bg-color data-card-img-wrapper>
+    <a href="/tr/about-us/contact-us/press/Kyocera-2021-A3-Fotokopi-Pazar-Lideri.html" target="_self">
+
+      
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    <img width="350" height="420" data-src="/renditions/content/dam/kyocera/de/images/350x420/TASKalfa_MZ4000i_420x350.jpg/jcr%3Acontent/renditions/cq5dam.resized.img.350.low.time1649326127088.jpg" alt="A3 Market Leader" title="Türkiye A3 MFP Pazarının Lideri Kyocera " class="c-card__image lazy"/>
+    
+    
+  
+  
+
+    </a>
+
+    
+      <div data-anchor-parent>
+        <div>
+
+
+
+  
+
+
+
+<div class="a-validation">
+	
+	
+	
+</div>
+
+
+	
+	
+	
+	
+	
+		
+			<a href="/tr/about-us/contact-us/press/Kyocera-2021-A3-Fotokopi-Pazar-Lideri.html" target="_self" class="c-button c-button--desktop c-card__button c-button c-button--primary c-button--icon" data-datalayer-event='{"event":{"eventName":"Kyocera, Türkiye A3 Fotokopi Pazar Liderliğini Korudu.","eventAction":"click","eventComponent":"Story Preview Icon (Link)","eventType":"cta"}}'>
+				
+					
+  <span class="c-icon c-button__icon c-icon--md">
+    <svg><use xlink:href="#icon-add"></use></svg>
+  </span>
+
+				
+			</a>
+			<a href="/tr/about-us/contact-us/press/Kyocera-2021-A3-Fotokopi-Pazar-Lideri.html" target="_self" class="c-button c-button--mobile c-card__button c-button c-button--primary c-button--icon" data-datalayer-event='{"event":{"eventName":"Kyocera, Türkiye A3 Fotokopi Pazar Liderliğini Korudu.","eventAction":"click","eventComponent":"Story Preview Icon (Link)","eventType":"cta"}}'>
+				
+					
+  <span class="c-icon c-button__icon c-icon--md">
+    <svg><use xlink:href="#icon-add"></use></svg>
+  </span>
+
+				
+			</a>
+		
+	
+
+
+
+
+
+</div>
+
+      </div>
+    
+  </div>
+  <a class="c-card__link" href="/tr/about-us/contact-us/press/Kyocera-2021-A3-Fotokopi-Pazar-Lideri.html" target="_self">
+    <div class="c-card__content">
+      <h3 class="c-card__title c-title c-title--h5">
+        Türkiye A3 MFP Pazarının Lideri Kyocera 
+      </h3>
+      <p class="c-card__text c-text c-text--minor">
+        Kyocera, Uluslararası bağımsız araştırma şirketi IDC’nin verilerine göre 2021 yılında A3 MFP Türkiye Pazar Lideri oldu.
+      </p>
+    </div>
+  </a>
+</div>
+
+
+
+
+  </li>
+  <li class="l-slider__item l-story__item">
+    
+
+
+
+  
+
+
+<div class="c-card">
+  <div class="c-card__header" data-bg-color data-card-img-wrapper>
+    <a href="/tr/about-us/contact-us/press/kcim-ile-dokumanlarinizi-buluttan-yonetin.html" target="_self">
+
+      
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    <img width="350" height="420" data-src="/renditions/content/dam/kyocera/common/images/portrait-medium/portrait-medium-350x420-cloud.jpg/jcr%3Acontent/renditions/cq5dam.resized.img.350.low.time1573748009975.jpg" alt="bulut" title="Dokümanlarınızı buluttan yönetmeye hazırlanın!" class="c-card__image lazy"/>
+    
+    
+  
+  
+
+    </a>
+
+    
+      <div data-anchor-parent>
+        <div>
+
+
+
+  
+
+
+
+<div class="a-validation">
+	
+	
+	
+</div>
+
+
+	
+	
+	
+	
+	
+		
+			<a href="/tr/about-us/contact-us/press/kcim-ile-dokumanlarinizi-buluttan-yonetin.html" target="_self" class="c-button c-button--desktop c-card__button c-button c-button--primary c-button--icon" data-datalayer-event='{"event":{"eventName":"Dokümanlarınızı buluttan yönetmeye hazırlanın!","eventAction":"click","eventComponent":"Story Preview Icon (Link)","eventType":"cta"}}'>
+				
+					
+  <span class="c-icon c-button__icon c-icon--md">
+    <svg><use xlink:href="#icon-add"></use></svg>
+  </span>
+
+				
+			</a>
+			<a href="/tr/about-us/contact-us/press/kcim-ile-dokumanlarinizi-buluttan-yonetin.html" target="_self" class="c-button c-button--mobile c-card__button c-button c-button--primary c-button--icon" data-datalayer-event='{"event":{"eventName":"Dokümanlarınızı buluttan yönetmeye hazırlanın!","eventAction":"click","eventComponent":"Story Preview Icon (Link)","eventType":"cta"}}'>
+				
+					
+  <span class="c-icon c-button__icon c-icon--md">
+    <svg><use xlink:href="#icon-add"></use></svg>
+  </span>
+
+				
+			</a>
+		
+	
+
+
+
+
+
+</div>
+
+      </div>
+    
+  </div>
+  <a class="c-card__link" href="/tr/about-us/contact-us/press/kcim-ile-dokumanlarinizi-buluttan-yonetin.html" target="_self">
+    <div class="c-card__content">
+      <h3 class="c-card__title c-title c-title--h5">
+        Dokümanlarınızı buluttan yönetmeye hazırlanın!
+      </h3>
+      <p class="c-card__text c-text c-text--minor">
+        Kyocera, Bulut Doküman Yönetimi çözümü KYOCERA Cloud Information Manager&#39;ı 
+(KCIM), piyasaya sürdü.
+      </p>
+    </div>
+  </a>
+</div>
+
+
+
+
+  </li>
+  <li class="l-slider__item l-story__item">
+    
+
+
+
+  
+
+
+<div class="c-card">
+  <div class="c-card__header" data-bg-color data-card-img-wrapper>
+    <a href="/tr/about-us/contact-us/press/kyocera-bli-guvenlik-onay-testini-gecti.html" target="_self">
+
+      
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    <img width="350" height="420" data-src="/renditions/content/dam/kyocera/tr/images/bli%20thumb.jpg/jcr%3Acontent/renditions/cq5dam.resized.img.350.low.time1665479255438.jpg" alt="bli" title="Kyocera, BLI Penetrasyon testini geçti" class="c-card__image lazy"/>
+    
+    
+  
+  
+
+    </a>
+
+    
+      <div data-anchor-parent>
+        <div>
+
+
+
+  
+
+
+
+<div class="a-validation">
+	
+	
+	
+</div>
+
+
+	
+	
+	
+	
+	
+		
+			<a href="/tr/about-us/contact-us/press/kyocera-bli-guvenlik-onay-testini-gecti.html" target="_self" class="c-button c-button--desktop c-card__button c-button c-button--primary c-button--icon" data-datalayer-event='{"event":{"eventName":"Kyocera, Keypoint Intelligence güvenlik onay testini başarıyla geçti ","eventAction":"click","eventComponent":"Story Preview Icon (Link)","eventType":"cta"}}'>
+				
+					
+  <span class="c-icon c-button__icon c-icon--md">
+    <svg><use xlink:href="#icon-add"></use></svg>
+  </span>
+
+				
+			</a>
+			<a href="/tr/about-us/contact-us/press/kyocera-bli-guvenlik-onay-testini-gecti.html" target="_self" class="c-button c-button--mobile c-card__button c-button c-button--primary c-button--icon" data-datalayer-event='{"event":{"eventName":"Kyocera, Keypoint Intelligence güvenlik onay testini başarıyla geçti ","eventAction":"click","eventComponent":"Story Preview Icon (Link)","eventType":"cta"}}'>
+				
+					
+  <span class="c-icon c-button__icon c-icon--md">
+    <svg><use xlink:href="#icon-add"></use></svg>
+  </span>
+
+				
+			</a>
+		
+	
+
+
+
+
+
+</div>
+
+      </div>
+    
+  </div>
+  <a class="c-card__link" href="/tr/about-us/contact-us/press/kyocera-bli-guvenlik-onay-testini-gecti.html" target="_self">
+    <div class="c-card__content">
+      <h3 class="c-card__title c-title c-title--h5">
+        Kyocera, BLI Penetrasyon testini geçti
+      </h3>
+      <p class="c-card__text c-text c-text--minor">
+        Kyocera TASKalfa 3554ci serisindeki 10 adet A3 çok fonksiyonlu yazıcı, titizlikle gerçekleştirilen BLI Penetrasyon Testi&#39;ni geçti.
+      </p>
+    </div>
+  </a>
+</div>
+
+
+
+
+  </li>
+</ul>
+
+          </div>
+        
+      </div>
+    </div>
+  </div>
+
+</section>
+
+  
+
+
+<section class="l-campaign  ">
+  <div class="l-container">
+    <div class="l-campaign__row">
+      <div class="l-campaign__col">
+        <div class="l-campaign__content">
+          <h2 class="l-campaign__title c-title c-title--h2">
+            Sayfa Başı Kiralama Fırsatı
+          </h2>
+          <div class="l-campaign__text c-text">
+            Uygun fiyatlı kiralık fotokopi makinesi veya yazıcı ihtiyacınızı sayfa başı kiralama hizmetimizle karşılayın.
+          </div>
+          <div class="l-campaign__button">
+
+
+
+  
+
+
+
+<div class="a-validation">
+	
+	
+	
+</div>
+
+
+	
+	
+	
+	
+	
+		
+			<a href="/tr/products/firsat-urunleri/yazici-ve-fotokopi-kiralama-cozumleri.html" target="_self" class="c-button c-button--desktop c-button c-button--primary" data-datalayer-event='{"event":{"eventName":"Detaylı bilgi alın","eventAction":"click","eventComponent":"Campaign","eventType":"cta"}}'>
+				
+					
+  
+  
+  <span>Detaylı bilgi alın</span>
+
+				
+			</a>
+			<a href="/tr/products/firsat-urunleri/yazici-ve-fotokopi-kiralama-cozumleri.html" target="_self" class="c-button c-button--mobile c-button c-button--primary" data-datalayer-event='{"event":{"eventName":"Detaylı bilgi alın","eventAction":"click","eventComponent":"Campaign","eventType":"cta"}}'>
+				
+					
+  
+  
+  <span>Detaylı bilgi alın</span>
+
+				
+			</a>
+		
+	
+
+
+
+
+
+</div>
+        </div>
+      </div>
+      <div class="l-campaign__col">
+        <div class="l-campaign__image c-double-image">
+          <div class="c-double-image__item c-double-image__item--major">
+            
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    <img width="1536" height="960" data-src="/content/dam/kyocera/common/images/hero/Hero-Image-1536x960-KDES-ESG.jpg" alt="Kiralık Yazıcı örnek görseli" title="Sayfa Başı Kiralama Fırsatı" class="c-double-image__image lazy"/>
+    
+  
+  
+
+          </div>
+          <div class="c-double-image__item c-double-image__item--minor">
+            
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+  
+<section class="l-cards l-cards--3-cols l-section">
+  <div class="l-container">
+    
+
+    <header class="l-cards__header l-component-header l-section__header">
+      <h2 class="l-cards__title l-section__title c-title c-title--h2">
+        Ürünlerimiz hakkında daha fazla bilgi edinin
+      </h2>
+      
+    </header>
+
+    
+  </div>
+
+  
+    <div class="l-slider l-cards__container" data-slider='{ &quot;loop&quot;: false, &quot;breakpoints&quot;: { &quot;lg&quot;: { &quot;disable&quot;: true } }}' data-slider-type="Cards">
+      <div class="l-container">
+        <div class=" l-cards__outer l-slider__outer">
+          
+
+<ul class="l-slider__content l-cards__content" data-slider-content>
+  
+    <li class="l-cards__item l-slider__item" data-slider-item="c-card">
+
+
+
+  
+
+
+
+<div class="c-card c-card--animated">
+  <a data-datalayer-event='{"event":{"eventName":"Yazıcılar","eventAction":"click","eventComponent":"Cards (Link}","eventType":"cta"}}' href="/tr/products/printers.html">
+  <div class="c-card__header" data-card-external>
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    <img width="350" height="350" data-src="/renditions/content/dam/kyocera/common/images/large-square/KYO-008-50-50-540x540-office-printer.jpg/jcr%3Acontent/renditions/cq5dam.resized.img.350.low.time1551088891362.jpg" alt="Ofiste masaüstü çok fonksiyonlu yazıcı" title="Ödüllü yazıcılar" class="c-card__image lazy"/>
+    
+    
+  
+  
+
+    
+
+
+
+<div class="a-validation">
+	
+	
+	
+</div>
+
+
+	
+	
+	
+	
+	
+		
+			<a href="/tr/products/printers.html" target="_self" class="c-button c-button--desktop c-card__button c-button c-button--primary c-button--icon" data-datalayer-event='{"event":{"eventName":"Yazıcılar","eventAction":"click","eventComponent":"Cards (Link}","eventType":"cta"}}'>
+				
+					
+  <span class="c-icon c-icon--md c-button__icon">
+    <svg><use xlink:href="#icon-add"></use></svg>
+  </span>
+
+				
+			</a>
+			<a href="/tr/products/printers.html" target="_self" class="c-button c-button--mobile c-card__button c-button c-button--primary c-button--icon" data-datalayer-event='{"event":{"eventName":"Yazıcılar","eventAction":"click","eventComponent":"Cards (Link}","eventType":"cta"}}'>
+				
+					
+  <span class="c-icon c-icon--md c-button__icon">
+    <svg><use xlink:href="#icon-add"></use></svg>
+  </span>
+
+				
+			</a>
+		
+	
+
+
+  </div>
+  <a class="c-card__link" href="/tr/products/printers.html">
+    <div class="c-card__content">
+      <h3 class="c-card__title c-title c-title--h5">
+        Ödüllü yazıcılar
+      </h3>
+      <p class="c-card__text c-text c-text--minor">
+        Ödüllü yazıcı ve fotokopilerimiz üstün maliyet verimliliği, sezgisel kontroller, güvenilirlik ve çevresel faydalar sunar.
+      </p>
+    </div>
+  </a>
+</div>
+
+
+
+</li>
+  
+    <li class="l-cards__item l-slider__item" data-slider-item="c-card">
+
+
+
+  
+
+
+
+<div class="c-card c-card--animated">
+  <a data-datalayer-event='{"event":{"eventName":"Yazılım","eventAction":"click","eventComponent":"Cards (Link}","eventType":"cta"}}' href="/tr/products/software.html">
+  <div class="c-card__header" data-card-external>
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    <img width="350" height="350" data-src="/renditions/content/dam/kyocera/common/images/large-square/KYO-008-50-50-540x540-typing-on-keyboard.jpg/jcr%3Acontent/renditions/cq5dam.resized.img.350.low.time1551088851633.jpg" alt="klavyede yazan eller" title="İşinize uygun esnek yazılımlar" class="c-card__image lazy"/>
+    
+    
+  
+  
+
+    
+
+
+
+<div class="a-validation">
+	
+	
+	
+</div>
+
+
+	
+	
+	
+	
+	
+		
+			<a href="/tr/products/software.html" target="_self" class="c-button c-button--desktop c-card__button c-button c-button--primary c-button--icon" data-datalayer-event='{"event":{"eventName":"Yazılım","eventAction":"click","eventComponent":"Cards (Link}","eventType":"cta"}}'>
+				
+					
+  <span class="c-icon c-icon--md c-button__icon">
+    <svg><use xlink:href="#icon-add"></use></svg>
+  </span>
+
+				
+			</a>
+			<a href="/tr/products/software.html" target="_self" class="c-button c-button--mobile c-card__button c-button c-button--primary c-button--icon" data-datalayer-event='{"event":{"eventName":"Yazılım","eventAction":"click","eventComponent":"Cards (Link}","eventType":"cta"}}'>
+				
+					
+  <span class="c-icon c-icon--md c-button__icon">
+    <svg><use xlink:href="#icon-add"></use></svg>
+  </span>
+
+				
+			</a>
+		
+	
+
+
+  </div>
+  <a class="c-card__link" href="/tr/products/software.html">
+    <div class="c-card__content">
+      <h3 class="c-card__title c-title c-title--h5">
+        İşinize uygun esnek yazılımlar
+      </h3>
+      <p class="c-card__text c-text c-text--minor">
+        İş uygulamalarımız, yazıcılarınızın yeteneklerini artırır, güvenliği artırır, iş akışını basitleştirir ve rekabet avantajı sağlar.
+      </p>
+    </div>
+  </a>
+</div>
+
+
+
+</li>
+  
+    <li class="l-cards__item l-slider__item" data-slider-item="c-card">
+
+
+
+  
+
+
+
+<div class="c-card c-card--animated">
+  <a data-card-link-external data-datalayer-event='{"event":{"eventName":"https://global.kyocera.com/newsroom/news/2022/000620.html","eventAction":"click","eventComponent":"Cards (Link}","eventType":"cta"}}' href="https://global.kyocera.com/newsroom/news/2022/000620.html">
+  <div class="c-card__header" data-card-external>
+    
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    <img width="350" height="350" data-src="/renditions/content/dam/kyocera/common/images/square/kyocera%20logo%20square.png/jcr%3Acontent/renditions/cq5dam.resized.img.350.low.time1662113316577.png" alt="kyocera " title="Official Statement" class="c-card__image lazy"/>
+    
+    
+  
+  
+
+    
+
+
+
+<div class="a-validation">
+	
+	
+	
+</div>
+
+
+	
+	<a href="https://global.kyocera.com/newsroom/news/2022/000620.html" target="_self" class="c-button c-button--desktop c-button--external c-card__button c-button c-button--primary c-button--icon" data-datalayer-event='{"event":{"eventName":"https://global.kyocera.com/newsroom/news/2022/000620.html","eventAction":"click","eventComponent":"Cards (Link}","eventType":"cta"}}'>
+		
+			
+  <span class="c-icon c-icon--md c-button__icon">
+    <svg><use xlink:href="#icon-add"></use></svg>
+  </span>
+
+		
+	</a>
+	<a href="https://global.kyocera.com/newsroom/news/2022/000620.html" target="_self" class="c-button c-button--mobile c-button--external c-card__button c-button c-button--primary c-button--icon" data-datalayer-event='{"event":{"eventName":"https://global.kyocera.com/newsroom/news/2022/000620.html","eventAction":"click","eventComponent":"Cards (Link}","eventType":"cta"}}'>
+		
+			
+  <span class="c-icon c-icon--md c-button__icon">
+    <svg><use xlink:href="#icon-add"></use></svg>
+  </span>
+
+		
+	</a>
+	
+	
+
+
+  </div>
+  <a class="c-card__link" href="https://global.kyocera.com/newsroom/news/2022/000620.html">
+    <div class="c-card__content">
+      <h3 class="c-card__title c-title c-title--h5">
+        Official Statement
+      </h3>
+      <p class="c-card__text c-text c-text--minor">
+        About the Passing of Kazuo Inamori, Founder and Chairman Emeritus of KYOCERA
+      </p>
+    </div>
+  </a>
+</div>
+
+
+
+</li>
+  
+</ul>
+
+        </div>
+      </div>
+    </div>
+  
+</section>
+
+  
+
+
+  <section class="l-promo l-section
+                  
+                  l-promo--no-mobile-img
+                  l-promo--no-desktop-img">
+    <div class="l-promo__bg-desktop">
+      <img class="l-promo__image-desktop" alt=""/>
+      <img class="l-promo__image-mobile" alt=""/>
+    </div>
+    <div class="l-container">
+      <div class="l-promo__outer">
+        <div class="l-promo__row">
+          <div class="l-promo__col">
+            <h2 class="l-promo__title c-title c-title--h2">
+              “İnsan olarak yapılacak doğru şey nedir?”
+            </h2>
+            <div class="l-promo__text c-text">
+              Kurucumuzun öncü felsefesi, nasıl çalıştığımızı yönlendiriyor ve daha akıllı işyerinin geleceği için vizyonumuzu şekillendiriyor.
+            </div>
+          </div>
+          <div class="l-promo__col l-promo__footer-container">
+            <div class="l-promo__footer">
+              <div class="l-promo__button-container">
+                
+
+
+
+  
+
+
+
+<div class="a-validation">
+	
+	
+	
+</div>
+
+
+	
+	
+	
+	
+	
+		
+			<a href="/tr/about-us.html" target="_self" class="c-button c-button--desktop l-promo__button c-button c-button--primary" data-datalayer-event='{"event":{"eventName":"Keşfet","eventAction":"click","eventComponent":"Full-width Promo CTA","eventType":"cta"}}'>
+				
+					
+  
+  
+  <span>Keşfet</span>
+
+				
+			</a>
+			<a href="/tr/about-us.html" target="_self" class="c-button c-button--mobile l-promo__button c-button c-button--primary" data-datalayer-event='{"event":{"eventName":"Keşfet","eventAction":"click","eventComponent":"Full-width Promo CTA","eventType":"cta"}}'>
+				
+					
+  
+  
+  <span>Keşfet</span>
+
+				
+			</a>
+		
+	
+
+
+
+
+
+
+                <div class="l-promo__gesture c-gesture">
+                  <div class="l-promo__gesture-content c-gesture__content">
+                    <svg><use xlink:href="#gesture-double-underline"></use></svg>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+
+
+<footer class="l-footer">
+  <div class="l-container">
+    <div class="l-footer__row">
+      <ul class="l-footer__icons-list">
+        <li class="l-footer__icon">
+          <span class="c-icon">
+            <a data-datalayer-event='{"event":{"eventName":"LinkedIn","eventAction":"share","eventComponent":"Share - LinkedIn","eventType":"cta"}}' class="l-footer__link l-footer__icon-link" target="_blank" href="https://www.linkedin.com/company/kyocera-document-solutions-turkiye/" title="LinkedIn">
+              <img src="/content/dam/kyocera/common/icons/icon-linkedin.svg" alt="LinkedIn"/>
+            </a>
+          </span>
+        </li>
+      
+        <li class="l-footer__icon">
+          <span class="c-icon">
+            <a data-datalayer-event='{"event":{"eventName":"Instagram","eventAction":"share","eventComponent":"Share - Instagram","eventType":"cta"}}' class="l-footer__link l-footer__icon-link" target="_blank" href="https://www.instagram.com/kyoceraturkey/" title="Instagram">
+              <img src="/content/dam/kyocera/common/icons/icon-instagram.svg" alt="Instagram"/>
+            </a>
+          </span>
+        </li>
+      
+        <li class="l-footer__icon">
+          <span class="c-icon">
+            <a data-datalayer-event='{"event":{"eventName":"YouTube","eventAction":"share","eventComponent":"Share - YouTube","eventType":"cta"}}' class="l-footer__link l-footer__icon-link" target="_blank" href="https://www.youtube.com/user/Bilgitas/" title="YouTube">
+              <img src="/content/dam/kyocera/common/icons/icon-youtube.svg" alt="YouTube"/>
+            </a>
+          </span>
+        </li>
+      
+        <li class="l-footer__icon">
+          <span class="c-icon">
+            <a data-datalayer-event='{"event":{"eventName":"Twitter","eventAction":"share","eventComponent":"Share - Twitter","eventType":"cta"}}' class="l-footer__link l-footer__icon-link" target="_blank" href="https://twitter.com/KyoceraTR" title="Twitter">
+              <img src="/content/dam/kyocera/common/icons/icon-twitter-x.svg" alt="Twitter"/>
+            </a>
+          </span>
+        </li>
+      
+        <li class="l-footer__icon">
+          <span class="c-icon">
+            <a data-datalayer-event='{"event":{"eventName":"Facebook","eventAction":"share","eventComponent":"Share - Facebook","eventType":"cta"}}' class="l-footer__link l-footer__icon-link" target="_blank" href="https://www.facebook.com/KyoceraTR" title="Facebook">
+              <img src="/content/dam/kyocera/common/icons/icon-facebook.svg" alt="Facebook"/>
+            </a>
+          </span>
+        </li>
+      </ul>
+      <ul class="l-footer__list-menu">
+        <li class="l-footer__list-item">
+          <a data-datalayer-event='{"event":{"eventName":"Kyocera Document Solutions Global","eventAction":"click","eventComponent":"Footer","eventType":"cta"}}' class="l-footer__link c-text" href="https://www.kyoceradocumentsolutions.com/" title="Kyocera Document Solutions Global">Kyocera Document Solutions Global</a>
+        </li>
+
+      </ul>
+    </div>
+    <div class="l-footer__row l-footer__row-copyright">
+      <ul class="l-footer__list-menu">
+        <li class="l-footer__list-item">
+          
+          <a data-datalayer-event='{"event":{"eventName":"Bize ulaşın","eventAction":"click","eventComponent":"Footer","eventType":"cta"}}' class="l-footer__link c-text" href="/tr/footer/contact-us.html" title="Bize ulaşın">Bize ulaşın
+          </a>
+        </li>
+<li class="l-footer__list-item">
+          
+          <a data-datalayer-event='{"event":{"eventName":"Gizlilik ve Çerez Merkezi","eventAction":"click","eventComponent":"Footer","eventType":"cta"}}' class="l-footer__link c-text" href="/tr/footer/privacy-and-cookie-centre.html" title="Gizlilik ve Çerez Merkezi">Gizlilik ve Çerez Merkezi
+          </a>
+        </li>
+<li class="l-footer__list-item">
+          
+          <a data-datalayer-event='{"event":{"eventName":"Bilgiye Erişim Talebi","eventAction":"click","eventComponent":"Footer","eventType":"cta"}}' class="l-footer__link c-text" href="/tr/footer/data-request.html" title="Bilgiye Erişim Talebi">Bilgiye Erişim Talebi
+          </a>
+        </li>
+<li class="l-footer__list-item">
+          
+          <a data-datalayer-event='{"event":{"eventName":"Kullanım Koşulları","eventAction":"click","eventComponent":"Footer","eventType":"cta"}}' class="l-footer__link c-text" href="/tr/footer/terms-of-use.html" title="Kullanım Koşulları">Kullanım Koşulları
+          </a>
+        </li>
+<li class="l-footer__list-item">
+          
+          <a data-datalayer-event='{"event":{"eventName":"Kurumsal Yönetim","eventAction":"click","eventComponent":"Footer","eventType":"cta"}}' class="l-footer__link c-text" href="/tr/footer/governance.html" title="Kurumsal Yönetim">Kurumsal Yönetim
+          </a>
+        </li>
+<li class="l-footer__list-item">
+          
+          <a data-datalayer-event='{"event":{"eventName":"Yasal Koşullar \u0026 Uyarılar","eventAction":"click","eventComponent":"Footer","eventType":"cta"}}' class="l-footer__link c-text" href="/tr/footer/legal-notices.html" title="Yasal Koşullar &amp; Uyarılar">Yasal Koşullar &amp; Uyarılar
+          </a>
+        </li>
+<li class="l-footer__list-item">
+          
+          <a data-datalayer-event='{"event":{"eventName":"Çerezleri Yönetin","eventAction":"click","eventComponent":"Footer","eventType":"cta"}}' class="l-footer__link c-text" href="/tr/footer/manage-cookies.html" title="Çerezleri Yönetin">Çerezleri Yönetin
+          </a>
+        </li>
+<li class="l-footer__list-item">
+          
+          <a data-datalayer-event='{"event":{"eventName":"Basın","eventAction":"click","eventComponent":"Footer","eventType":"cta"}}' class="l-footer__link c-text" href="/tr/footer/press.html" title="Basın">Basın
+          </a>
+        </li>
+<li class="l-footer__list-item">
+          
+          <a data-datalayer-event='{"event":{"eventName":"Ülke Listesi","eventAction":"click","eventComponent":"Footer","eventType":"cta"}}' class="l-footer__link c-text" href="/tr/footer/country-list.html" title="Ülke Listesi">Ülke Listesi
+          </a>
+        </li>
+<li class="l-footer__list-item">
+          
+          <a data-datalayer-event='{"event":{"eventName":"Sahteciliğe Karşı Koruma Programı (ACP)","eventAction":"click","eventComponent":"Footer","eventType":"cta"}}' class="l-footer__link c-text" href="/tr/footer/anti-counterfeit-program.html" title="Sahteciliğe Karşı Koruma Programı (ACP)">Sahteciliğe Karşı Koruma Programı (ACP)
+          </a>
+        </li>
+
+      </ul>
+      <div class="l-footer__copyright">
+        <p class="l-footer__text c-text">©2025 KYOCERA Bilgitas Document Solutions Turkey A.S.</p>
+      </div>
+    </div>
+  </div>
+  
+
+</footer>
+
+
+    
+    
+<script src="/etc/designs/kyocera-clientlibs/publish.lc-20250904080523-lc.min.js"></script>
+
+
+
+    
+    
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.min.js"></script>
+
+
+
+
+
+
+
+  
+
+
+
+<div data-gdpr>
+  <section class="l-overlay l-overlay--full-page" data-gdpr-manage-cookies-popup data-overlay>
+  <div class="l-container">
+    <div class="l-overlay__inner">
+      <div class="l-overlay__row">
+        <h2 class="c-title c-title--h4 c-title--spacer-l">
+          Çerezler ve gizliliğiniz
+        </h2>
+        <div class="c-text c-text--minor c-text--spacer-l c-text--justified">
+          Web sitemizin düzgün çalışmasını sağlamak için temel çerezleri kullanıyoruz. İstatistiksel çerezler, web sitemizin nasıl kullanıldığını daha iyi anlamamıza yardımcı olur ve pazarlama çerezleri, içeriği web sitemizin ziyaretçilerine daha iyi uyarlamamıza olanak tanır. 
+
+Aşağıdaki 'Tercihlerinizi yönetin' düğmesini kullanarak çerez tercihlerinizi seçebilir veya tüm çerezlerle devam etmek için 'Tüm çerezleri kabul et' seçeneğini belirleyebilirsiniz. 
+
+'Tüm çerezleri kabul et' seçeneğini seçerek bu çerezlerin cihazınızda saklanmasını kabul etmiş olursunuz. 
+
+'Yalnızca gerekli çerezleri kabul et' seçeneğini seçerek bu çerezleri reddedebilirsiniz, bu durumda yalnızca web sitemizin cihazınızda doğru şekilde görüntülenmesi için gerekli olan çerezleri yerleştirmemize izin vermiş olursunuz.
+        </div>
+        <div class="l-overlay__button l-overlay__button--link" data-datalayer-event='{"event":{"eventName":"Privacy Policy","eventAction":"click","eventComponent":"GDPR Cookie Panel – Privacy Policy","eventType":"cta"}}'>
+
+
+
+<div class="a-validation">
+	
+	
+	
+</div>
+
+
+	
+	
+	
+	
+	
+		
+			<a href="/tr/footer/privacy-and-cookie-centre/kyocera-cookie-statement.html" target="_self" class="c-button c-button--desktop c-button c-button--link" data-datalayer-event='{"event":{"eventName":"Çerez Bildirimimize bakın","eventAction":"click","eventComponent":"link","eventType":"cta"}}'>
+				
+					
+  
+  
+  <span>Çerez Bildirimimize bakın</span>
+
+				
+			</a>
+			<a href="/tr/footer/privacy-and-cookie-centre/kyocera-cookie-statement.html" target="_self" class="c-button c-button--mobile c-button c-button--link" data-datalayer-event='{"event":{"eventName":"Çerez Bildirimimize bakın","eventAction":"click","eventComponent":"link","eventType":"cta"}}'>
+				
+					
+  
+  
+  <span>Çerez Bildirimimize bakın</span>
+
+				
+			</a>
+		
+	
+
+</div>
+        <div class="l-overlay__buttons">
+          <button class="l-overlay__button c-button c-button--primary" data-datalayer-event='{"event":{"eventName":"Review Cookies","eventAction":"open","eventComponent":"GDPR Cookie Panel – Review Cookies","eventType":"overlay"}}' data-gdpr-review-cookies>
+            Tercihlerinizi yönetin
+          </button>
+          <button class="l-overlay__button c-button c-button--primary" data-datalayer-event='{"event":{"eventName":"Reject","eventAction":"click","eventComponent":"GDPR Cookie Panel – Reject","eventType":"cta"}}' data-gdpr-reject-cookies>
+            Yalnızca gerekli çerezleri kabul et
+          </button>
+          <button class="l-overlay__button c-button c-button--primary" data-datalayer-event='{"event":{"eventName":"Accept","eventAction":"click","eventComponent":"GDPR Cookie Panel – Accept","eventType":"cta"}}' data-gdpr-accept-cookies>
+            Tüm çerezleri kabul et
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+  <section class="l-overlay l-overlay--full-page" data-overlay data-gdpr-review-cookies-popup>
+  <div class="l-container">
+    <div class="l-overlay__inner">
+      <div class="l-overlay__row">
+        <p class="c-title c-title--h4 c-title--spacer-l">
+          Çerez tercihleri
+        </p>
+        <div data-gdpr-essential-cookies="essentials">
+<div data-gdpr-checkbox data-gdpr-is-checked="true" data-gdpr-checkbox-label="Temel Çerezler" data-pardot-param-placeholder="{value}" data-gdpr-cookies-type="essentials Cookies" class="c-text c-text--spacer-m">
+  <div class="c-checkbox" data-checkbox>
+    <label for="essentials" class="c-checkbox__label-container c-form__row">
+      <div class="c-checkbox__placeholder -is-checked" data-checkbox-placeholder>
+        <input id="essentials" class="c-checkbox__input" type="checkbox" disabled="true" data-checkbox-input/>
+      </div>
+      <span class="c-checkbox__label c-text c-text--minor" data-input-disabled="true">
+        Temel Çerezler
+      </span>
+    </label>
+    
+   <span class="c-input__message c-input__message--error" data-input-error-empty>
+     Zorunlu alan
+   </span>
+
+  </div>
+</div>
+<p class="c-text c-text--minor c-text--spacer-l">
+  Web sitemizin düzgün çalıştığından emin olmak için veya ara sıra, isteğiniz üzerine bir hizmet sunmak (çerez tercihlerinizi yönetmek gibi) için çerezleri kullanıyoruz. Bu çerezler, tarayıcınızı engelleyecek şekilde ayarlamadığınız sürece her zaman etkindir; bu, web sitesinin bazı bölümlerinin beklendiği gibi çalışmasını engelleyebilir.
+</p></div>
+        <div>
+<div data-gdpr-checkbox data-gdpr-checkbox-label="İstatistiksel Çerezler" data-pardot-param-placeholder="{value}" data-gdpr-cookies-type="internal Cookies" class="c-text c-text--spacer-m">
+  <div class="c-checkbox" data-checkbox>
+    <label for="internal" class="c-checkbox__label-container c-form__row">
+      <div class="c-checkbox__placeholder " data-checkbox-placeholder>
+        <input id="internal" class="c-checkbox__input" type="checkbox" data-checkbox-input/>
+      </div>
+      <span class="c-checkbox__label c-text c-text--minor">
+        İstatistiksel Çerezler
+      </span>
+    </label>
+    
+   <span class="c-input__message c-input__message--error" data-input-error-empty>
+     Zorunlu alan
+   </span>
+
+  </div>
+</div>
+<p class="c-text c-text--minor c-text--spacer-l">
+  Bu çerezler, web sitemizin performansını ölçmemize ve geliştirmemize olanak tanır.
+</p></div>
+        <div>
+<div data-gdpr-checkbox data-gdpr-checkbox-label="Pazarlama Çerezleri" data-pardot-param-placeholder="{value}" data-gdpr-cookies-type="marketing Cookies" class="c-text c-text--spacer-m">
+  <div class="c-checkbox" data-checkbox>
+    <label for="marketing" class="c-checkbox__label-container c-form__row">
+      <div class="c-checkbox__placeholder " data-checkbox-placeholder>
+        <input id="marketing" class="c-checkbox__input" type="checkbox" data-checkbox-input/>
+      </div>
+      <span class="c-checkbox__label c-text c-text--minor">
+        Pazarlama Çerezleri
+      </span>
+    </label>
+    
+   <span class="c-input__message c-input__message--error" data-input-error-empty>
+     Zorunlu alan
+   </span>
+
+  </div>
+</div>
+<p class="c-text c-text--minor c-text--spacer-l">
+  Bu çerezler yalnızca onayınızı vermeniz durumunda yerleştirilir. İlgi alanlarınıza göre içerik göstermek ve size kişiselleştirilmiş reklam göstermek için Web sitemizi nasıl tıklayıp ziyaret ettiğinizi takip etmek için Pazarlama çerezleri kullanıyoruz. Şu anda bu çerezleri kabul etmiyorsunuz. İsterseniz lütfen bu kutuyu işaretleyin.
+</p></div>
+        <div class="l-overlay__button l-overlay__button--link">
+
+
+
+<div class="a-validation">
+	
+	
+	
+</div>
+
+
+	
+	
+	
+	
+	
+		
+			<a href="/tr.html" target="_self" class="c-button c-button--desktop c-button c-button--link" data-datalayer-event='{"event":{"eventName":"Çerez Bildirimi\u0027nde çerezlerin tam listesini bulabilirsiniz.","eventAction":"click","eventComponent":"link","eventType":"cta"}}'>
+				
+					
+  
+  
+  <span>Çerez Bildirimi&#39;nde çerezlerin tam listesini bulabilirsiniz.</span>
+
+				
+			</a>
+			<a href="/tr.html" target="_self" class="c-button c-button--mobile c-button c-button--link" data-datalayer-event='{"event":{"eventName":"Çerez Bildirimi\u0027nde çerezlerin tam listesini bulabilirsiniz.","eventAction":"click","eventComponent":"link","eventType":"cta"}}'>
+				
+					
+  
+  
+  <span>Çerez Bildirimi&#39;nde çerezlerin tam listesini bulabilirsiniz.</span>
+
+				
+			</a>
+		
+	
+
+</div>
+        <div class="l-overlay__buttons">
+          <button class="l-overlay__button c-button c-button--primary" data-gdpr-accept-reviewed data-datalayer-event='{"event":{"eventName":"Review Accept","eventAction":"click","eventComponent":"GDPR Cookie Panel – Review Accept","eventType":"cta"}}'>
+            Tercihleri onayla
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+</div>
+
+     
+     
+     
+     
+
+        
+    </body>
+</html>

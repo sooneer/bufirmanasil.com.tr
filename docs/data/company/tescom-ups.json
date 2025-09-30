@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/tescom-ups.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/tescom_ups",
     "youtube": "https://youtube.com/@TescomUPS?sub_confirmation=1",
     "x": "https://x.com/TESCOM_UPS"
-  }
+  },
+  "logo": "img/company/tescom-ups.svg"
 }

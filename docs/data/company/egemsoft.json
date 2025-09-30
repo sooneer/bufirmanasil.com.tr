@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/egemsoft.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/egemsoft",
     "youtube": "https://youtube.com/@egemsoft9194",
     "x": "https://x.com/egemsoft"
-  }
+  },
+  "logo": "img/company/egemsoft.webp"
 }

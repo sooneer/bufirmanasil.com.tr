@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/rivo.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/rivoguvenlik",
     "youtube": "https://youtube.com/channel/UCgFcF6QOEq-NHysLHbZi6sA",
     "x": "https://x.com/rivoteknoloji"
-  }
+  },
+  "logo": "img/company/rivo.png"
 }

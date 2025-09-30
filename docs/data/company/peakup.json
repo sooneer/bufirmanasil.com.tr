@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/peakup.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Peakup","contact":{"web":"https://peakup.org","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Peakup",
+  "contact": {
+    "web": "https://peakup.org",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "logo": "img/company/peakup.svg"
+}

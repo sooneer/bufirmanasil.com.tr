@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/smartmind.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "",
     "instagram": "",
     "youtube": "https://youtube.com/channel/UCZM6mdOg17wUlSpvDUwy5gw"
-  }
+  },
+  "logo": "img/company/smartmind.png"
 }

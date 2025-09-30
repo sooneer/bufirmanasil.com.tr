@@ -1,0 +1,2051 @@
+    <!DOCTYPE html>
+    <html  lang="tr" >
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+            <title>EclitGO VPS: Uygun Fiyatlı ve Güçlü Bulut Çözümleri - EclitGO</title>
+                <meta name="description" content="EclitGO VPS ile uygun fiyatlı, hızlı ve güvenli bulut sunucu çözümleri. 100 Mbps sınırsız trafik, port bazlı güvenlik ve anlık yedekleme ile işinizi büyütün!">        <meta name="robots" content="index, follow">
+        <meta property="og:type" content="article">
+        <meta property="og:title" content="EclitGO VPS: Uygun Fiyatlı ve Güçlü Bulut Çözümleri - EclitGO">
+        <meta property="og:description" content="EclitGO VPS ile uygun fiyatlı, hızlı ve güvenli bulut sunucu çözümleri. 100 Mbps sınırsız trafik, port bazlı güvenlik ve anlık yedekleme ile işinizi büyütün!">                <meta property="og:url" content="https://eclitgo.eclit.com/">
+        <meta name="twitter:title" content="EclitGO VPS: Uygun Fiyatlı ve Güçlü Bulut Çözümleri - EclitGO">
+        <meta name="twitter:description" content="EclitGO VPS ile uygun fiyatlı, hızlı ve güvenli bulut sunucu çözümleri. 100 Mbps sınırsız trafik, port bazlı güvenlik ve anlık yedekleme ile işinizi büyütün!">                <link rel="canonical" href="https://eclitgo.eclit.com/">
+                            <link rel="shortcut icon" href="/templates/lagom2/assets/img/favicons/favicon.ico">
+        <link rel="icon" sizes="16x16 32x32 64x64" href="/templates/lagom2/assets/img/favicons/favicon.ico">
+        <link rel="icon" type="image/png" sizes="196x196" href="/templates/lagom2/assets/img/favicons/favicon-192.png">
+        <link rel="icon" type="image/png" sizes="160x160" href="/templates/lagom2/assets/img/favicons/favicon-160.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/templates/lagom2/assets/img/favicons/favicon-96.png">
+        <link rel="icon" type="image/png" sizes="64x64" href="/templates/lagom2/assets/img/favicons/favicon-64.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/templates/lagom2/assets/img/favicons/favicon-32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/templates/lagom2/assets/img/favicons/favicon-16.png">
+        <link rel="apple-touch-icon" href="/templates/lagom2/assets/img/favicons/favicon-57.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/templates/lagom2/assets/img/favicons/favicon-114.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/templates/lagom2/assets/img/favicons/favicon-72.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/templates/lagom2/assets/img/favicons/favicon-144.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/templates/lagom2/assets/img/favicons/favicon-60.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/templates/lagom2/assets/img/favicons/favicon-120.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/templates/lagom2/assets/img/favicons/favicon-76.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/templates/lagom2/assets/img/favicons/favicon-152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/templates/lagom2/assets/img/favicons/favicon-180.png">
+        <meta name="msapplication-config" content="none">
+    
+                <link rel='stylesheet' href='/templates/lagom2/core/styles/modern/assets/css/vars/minified.css?1749659802'>
+        
+                <link rel="stylesheet" href="/templates/lagom2/assets/css/theme.css?v=2.3.3-29405f5b1bef496e8eb156dfac8fd7e5">
+                        
+        
+        
+        
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+        <script>
+        var csrfToken = '70d12af792624a6eb58d1a5aa992bb06d92e87a6',
+            markdownGuide = 'Markdown Rehberi',
+            locale = 'en',
+            saved = 'kaydedildi',
+            saving = 'otomatik kaydediliyor',
+            whmcsBaseUrl = "";
+                </script>
+            <script>disableInternalTabSelection = true</script>
+            <script defer src="/templates/lagom2/assets/js/scripts.min.js?v=2.3.3-29405f5b1bef496e8eb156dfac8fd7e5"></script>
+    <script defer src="/templates/lagom2/assets/js/core.min.js?v=2.3.3-29405f5b1bef496e8eb156dfac8fd7e5"></script>
+
+        
+                <link href="https://eclitgo.eclit.com/templates/lagom2/core/extensions/CMS/assets/css/lagom-cms.css?v=1.1.2" rel="stylesheet" type="text/css"/>
+<script>
+    const targetElementSelector = "#cart-component > div.panel.panel-summary.order-summary > div.panel-body.summary-container > div > div.summary-list.summary-list-main > div:nth-child(1) > div:nth-child(2) > div > div:nth-child(3) > span.item-name > span";
+    
+    const toggleCards = (isWinText) => {
+        const isWin = isWinText.toLowerCase().includes("windows")
+
+        const panelTitles = document.querySelectorAll(".panel-title");
+        const outerDivsOfCpanel = Array.from(panelTitles)
+            .map(title => {
+                if (title.innerText.includes('cPanel')) { // includes ile kontrol et
+                    let parent = title.closest(".col-md-6, .col-md-4, .col-md-8, .col-md-12"); // En dış col-md-* divi bul
+                    return parent;
+                }
+                return null; // Şart sağlanmıyorsa null döndür
+            }).filter(div => div !== null);
+    
+        if(isWin) {
+            outerDivsOfCpanel.forEach(div => {
+                // Div içindeki belirtilen butonu seç
+                div.style.display = "none";
+                const button = document.querySelector('.btn.btn-sm.btn-primary.btn-icon[type="button"] i.ls.ls-close').closest("button");
+                if (button) {
+                    setTimeout(()=>{
+                        button.click();
+                        console.log("Butona tıklandı:", button.closest("button"));
+                    },3000);
+                } else {
+                    console.log("Buton bulunamadı:", div);
+                }
+            });
+        }else{
+            outerDivsOfCpanel.forEach(div => {
+                div.style.display = "flex";
+            });
+        }
+    }
+    
+    const checkIsWinElement = async () => {
+        const isWin = document.querySelector(targetElementSelector);
+
+        if (isWin) {
+            console.log("Eleman bulundu!");
+
+            // Sayfadaki tüm "radio" sınıfına sahip a etiketlerini seç
+            const radioButtons = document.querySelectorAll('a.radio');
+
+            // Her bir "radio" sınıfına sahip a etiketine tıklama olayı ekle
+            radioButtons.forEach(radio => {
+                radio.addEventListener('click', (event) => {
+                    console.log('Bir radyo butonuna tıklanmış:', event.target.innerText);
+                    toggleCards(event.target.innerText);
+                });
+            });
+
+        } else {
+            console.log("Eleman bulunamadı. 3 saniye sonra tekrar aranacak.");
+            setTimeout(checkIsWinElement, 3000); // 3 saniye sonra tekrar dene
+        }
+    };
+
+    // İlk başta eleman kontrolünü başlat
+    checkIsWinElement();
+
+</script>
+
+<meta name="referrer" content="origin">
+
+
+
+                    <link rel="preload" href="/assets/css/fontawesome-all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+            </head>
+    <body class="lagom lagom-not-portal lagom-layout-top lagom-layout-condensed lagom-modern page-lagompage page-lagom-cms home-page"  data-phone-cc-input="1">
+
+    
+        <head><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5LWZRGZ');</script>
+<!-- End Google Tag Manager --></head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LWZRGZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+</body><head>
+    <link rel="stylesheet" type="text/css" href="https://assets.cookieseal.com/cookie-seal.css" />
+   <script id="cookieseal-script" src="https://assets.cookieseal.com/cookie-seal.js"></script>
+</head>
+<body>
+    <!-- <script>
+        window.cookieSeal = new CookieSeal({
+            tenantId: '62de81d2a0c6790014506b6b',
+            siteId: 'bbe8a6f7-2219-4ba3-8815-07cc5228ee3e',
+            lang: 'tr', // or 'en' for English
+            showLogo: false,
+            onChangePreference: function(category, allowed) {
+                if (category === 'MarketingCookies' && allowed) {
+                    // Initialize marketing scripts / trackers under this comment line
+                }
+                if (category === 'PerformanceCookies' && allowed) {
+                    /// Initialize performance analytics scripts under this comment line
+                }
+                if (category === 'FunctionalCookies' && allowed) {
+                    // Initialize functional analytics scripts under this comment line
+                }
+            },
+        })
+    </script> -->
+</body>
+<style>
+/* Yalnızca Anasayfada Geçerli Olacak Stil */
+body.home-page .banner-graphic {
+    padding: 0 !important; /* Tüm paddingleri kaldırır */
+    margin: 10px !important; /* Marginleri de sıfırlar */
+}
+
+body.home-page .banner-graphic img {
+    display: block; /* Gereksiz boşlukları kaldırır */
+    margin: 10px; /* Resmin çevresindeki boşlukları kaldırır */
+    padding: 0; /* Resmin iç boşluklarını sıfırlar */
+}
+
+body.home-page .banner-background {
+    padding: 0 !important; /* Tüm paddingleri kaldırır */
+    margin: 10px !important; /* Marginleri de sıfırlar */
+}
+
+body.home-page .banner-content {
+    padding: 0 !important; /* Tüm paddingleri kaldırır */
+    margin: 10px !important; /* Marginleri de sıfırlar */
+</style><script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ppkxosh4iz");
+</script><style>/* Wrapper için Düzenleme */
+.os-logos-wrapper {
+    margin-top: 0px; /* Üst boşluk */
+    text-align: center;
+    display: block; /* Flex olmayan standart blok eleman olarak görünür */
+    overflow: visible !important; /* Taşmaları önler */
+}
+
+/* Logoların Yatay Hizalanması */
+.os-logos {
+    display: flex; /* Yatay hizalama sağlar */
+    justify-content: center; /* Yatayda ortalar */
+    align-items: center; /* Dikey hizalama */
+    gap: 10px; /* Elemanlar arasında boşluk */
+}
+
+/* Logo ve İsmin Yan Yana Duruşu */
+.os-item {
+    display: flex; /* Logo ve isim yatay hizalanır */
+    align-items: center; /* Dikey hizalama */
+    gap: 5px; /* Logo ve isim arasında boşluk */
+}
+
+/* Logo Boyutlandırması */
+.os-logo {
+    height: 20px; /* Logo yüksekliği */
+    width: auto; /* Genişlik otomatik ayarlanır */
+}
+
+/* Logo Adı */
+.os-name {
+    font-size: 14px; /* Yazı boyutu */
+    font-weight: normal; /* Yazı kalınlığı */
+    color: #333; /* Yazı rengi */
+}
+
+/* Bölücü Stili */
+.os-separator {
+    font-size: 16px; /* Bölücü karakter boyutu */
+    font-weight: bold; /* Bölücü kalınlığı */
+    color: #333; /* Bölücü rengi */
+}
+</style>
+
+
+                
+
+    
+
+
+
+
+
+
+
+
+
+                    
+
+     
+        <div class="app-nav app-nav-condensed sticky-navigation  app-nav-default" data-site-navbar>
+                        <div class="app-nav-header " id="header">
+                <div class="container">
+                    <button class="app-nav-toggle navbar-toggle" type="button">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                          
+                                                                       <a class="logo hidden-sm hidden-xs hidden-md" href="/"><img src="/templates/lagom2/assets/img/logo/logo_big.401890250.png" title="EclitGO" alt="EclitGO"/></a>
+                          <a class="logo visible-xs visible-sm visible-md" href="/"><img src="/templates/lagom2/assets/img/logo/logo_big.401890250.png" title="EclitGO" alt="EclitGO"/></a>
+                                             <ul class="top-nav">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li
+                menuItemName="View Cart"
+                class="  nav-item-cart nav-item-icon-only"
+                id="Secondary_Navbar-View_Cart"
+                            >
+                                    <a
+                                                                                    href="/cart.php?a=view"
+                                                                            aria-label="View Cart"                                                                    >
+                                                    
+                                                                    <i class="fas fa-test lm lm-basket"></i>
+                                                                                                                                                                        <span class="item-text">
+                                    Sepeti Görüntüle
+                                                                    </span>
+                                                                                                        <span class="nav-badge badge badge-primary-faded opacity-0" data-cart-items-counter data-template="lagom2"><span >0</span></span>                                                                                            </a>
+                                            </li>
+                    <li
+                menuItemName="Live Chat"
+                class=""
+                id="Secondary_Navbar-Live_Chat"
+                            >
+                                    <a
+                                                                                    href="https://www.postamerkezi.com/"
+                                                                                                                                                >
+                                                    
+                                                                    <i class="far fa-envelope"></i>
+                                                                                                                                                                        <span class="item-text">
+                                    Postamerkezi
+                                                                    </span>
+                                                                                                                                                                                                    </a>
+                                            </li>
+                    <li
+                menuItemName="İletişim"
+                class="dropdown  dropdown-extended"
+                id="Secondary_Navbar-İletişim"
+                            >
+                                    <a
+                                                    class="dropdown-toggle"
+                            href="#"
+                            data-toggle="dropdown"
+                                                                                                                    >
+                                                    
+                                                                    <i class="fas fa-city"></i>
+                                                                                                                                                                        <span class="item-text">
+                                    İletişim
+                                                                    </span>
+                                                                                                                                                        <b class="ls ls-caret"></b>                                            </a>
+                                                                                                                                                <ul class="dropdown-menu dropdown-lazy has-scroll  ">
+                                                                                                                                                                    <li menuItemName="Bize Ulaşın" class=" " id="Secondary_Navbar-İletişim-Bize_Ulaşın">
+                                                                                            <a
+                                                                                                            href="/iletisim"
+                                                                                                                                                                
+                                                >
+                                                                                                            <i class="fas fa-city"></i>
+                                                                                                        <span class="menu-item-content"><span class="menu-item-title">Bize Ulaşın</span></span>
+                                                                                                    </a>
+                                                                                                                                </li>
+                                                                                
+                                                                                                                                                                        <li menuItemName="Support" class=" " id="Secondary_Navbar-İletişim-Support">
+                                                                                            <a
+                                                                                                            href="/supporttickets.php"
+                                                                                                                                                                
+                                                >
+                                                                                                            <i class="far fa-life-ring"></i>
+                                                                                                        <span class="menu-item-content"><span class="menu-item-title">Destek</span></span>
+                                                                                                    </a>
+                                                                                                                                </li>
+                                                                                
+                                                                                    </ul>
+                                                </li>
+            
+    </ul>
+                </div>
+            </div>
+                <div class="app-nav-menu app-nav-menu-default" id="main-menu">
+        <div class="container">
+                                  
+                                                                       <a class="logo" href="/"><img src="/templates/lagom2/assets/img/logo/logo_big.401890250.png" title="EclitGO" alt="EclitGO"/></a>
+                                             <ul class="menu menu-primary " data-nav>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li
+                menuItemName="Servers"
+                class="dropdown"
+                id="Primary_Navbar-Servers"
+                            >
+                                    <a
+                                                    class="dropdown-toggle"
+                            href="#"
+                            data-toggle="dropdown"
+                                                                                                                    >
+                                                                                                            <span class="item-text">
+                                    Sunucu
+                                                                    </span>
+                                                                                                                                                        <b class="ls ls-caret"></b>                                            </a>
+                                                                                                                                                <ul class="dropdown-menu dropdown-lazy has-scroll  ">
+                                                                                                                                                                    <li menuItemName="VPS Hosting" class=" " id="Primary_Navbar-Servers-VPS_Hosting">
+                                                                                            <a
+                                                                                                            href="/vps"
+                                                                                                                                                                
+                                                >
+                                                                                                        <span class="menu-item-content">Linux VPS</span>
+                                                                                                    </a>
+                                                                                                                                </li>
+                                                                                
+                                                                                                                                                                        <li menuItemName="Windows VPS" class=" " id="Primary_Navbar-Servers-Windows_VPS">
+                                                                                            <a
+                                                                                                            href="/vps"
+                                                                                                                                                                
+                                                >
+                                                                                                        <span class="menu-item-content">Windows VPS</span>
+                                                                                                    </a>
+                                                                                                                                </li>
+                                                                                
+                                                                                                                                                                        <li menuItemName="Lisans" class=" " id="Primary_Navbar-Servers-Lisans">
+                                                                                            <a
+                                                                                                            href="/lisans"
+                                                                                                                                                                
+                                                >
+                                                                                                        <span class="menu-item-content">Lisans</span>
+                                                                                                    </a>
+                                                                                                                                </li>
+                                                                                
+                                                                                    </ul>
+                                                </li>
+                    <li
+                menuItemName="Domains"
+                class="dropdown"
+                id="Primary_Navbar-Domains"
+                            >
+                                    <a
+                                                    class="dropdown-toggle"
+                            href="#"
+                            data-toggle="dropdown"
+                                                                                                                    >
+                                                                                                            <span class="item-text">
+                                    Alan Adı
+                                                                    </span>
+                                                                                                                                                        <b class="ls ls-caret"></b>                                            </a>
+                                                                                                                                                <ul class="dropdown-menu dropdown-lazy has-scroll  ">
+                                                                                                                                                                    <li menuItemName="Alan Adı Kayıt" class=" " id="Primary_Navbar-Domains-Alan_Adı_Kayıt">
+                                                                                            <a
+                                                                                                            href="/domain-names"
+                                                                                                                                                                
+                                                >
+                                                                                                        <span class="menu-item-content">Alan Adı Kayıt</span>
+                                                                                                    </a>
+                                                                                                                                </li>
+                                                                                
+                                                                                                                                                                        <li menuItemName="Alan Adı Transfer" class=" " id="Primary_Navbar-Domains-Alan_Adı_Transfer">
+                                                                                            <a
+                                                                                                            href="/domain-transfer"
+                                                                                                                                                                
+                                                >
+                                                                                                        <span class="menu-item-content">Alan Adı Transfer</span>
+                                                                                                    </a>
+                                                                                                                                </li>
+                                                                                
+                                                                                    </ul>
+                                                </li>
+                    <li
+                menuItemName="Hosting"
+                class="dropdown"
+                id="Primary_Navbar-Hosting"
+                            >
+                                    <a
+                                                    class="dropdown-toggle"
+                            href="#"
+                            data-toggle="dropdown"
+                                                                                                                    >
+                                                                                                            <span class="item-text">
+                                    Hosting
+                                                                    </span>
+                                                                                                                                                        <b class="ls ls-caret"></b>                                            </a>
+                                                                                                                                                <ul class="dropdown-menu dropdown-lazy has-scroll  ">
+                                                                                                                                                                    <li menuItemName="Shared Hosting" class=" " id="Primary_Navbar-Hosting-Shared_Hosting">
+                                                                                            <a
+                                                                                                            href="/shared-hosting"
+                                                                                                                                                                
+                                                >
+                                                                                                        <span class="menu-item-content">Web Hosting</span>
+                                                                                                    </a>
+                                                                                                                                </li>
+                                                                                
+                                                                                                                                                                        <li menuItemName="Reseller Hosting" class=" " id="Primary_Navbar-Hosting-Reseller_Hosting">
+                                                                                            <a
+                                                                                                            href="/reseller-hosting"
+                                                                                                                                                                
+                                                >
+                                                                                                        <span class="menu-item-content">Bayi Hosting</span>
+                                                                                                    </a>
+                                                                                                                                </li>
+                                                                                
+                                                                                    </ul>
+                                                </li>
+                    <li
+                menuItemName="SSL"
+                class=""
+                id="Primary_Navbar-SSL"
+                            >
+                                    <a
+                                                                                    href="/ssl"
+                                                                                                                                                >
+                                                                                                            <span class="item-text">
+                                    SSL
+                                                                    </span>
+                                                                                                                                                                                                    </a>
+                                            </li>
+                    <li
+                menuItemName="Hakkımızda"
+                class=""
+                id="Primary_Navbar-Hakkımızda"
+                            >
+                                    <a
+                                                                                    href="https://eclit.com/hakkimizda"
+                                                                                                                                                >
+                                                                                                            <span class="item-text">
+                                    Hakkımızda
+                                                                    </span>
+                                                                                                                                                                                                    </a>
+                                            </li>
+                    <li
+                menuItemName="Support"
+                class="dropdown hidden-xl hidden-lg"
+                id="Primary_Navbar-Support"
+                            >
+                                    <a
+                                                    class="dropdown-toggle"
+                            href="#"
+                            data-toggle="dropdown"
+                                                                                                                    >
+                                                                                                            <span class="item-text">
+                                    Support
+                                                                    </span>
+                                                                                                                                                        <b class="ls ls-caret"></b>                                            </a>
+                                                                                                                                                <ul class="dropdown-menu dropdown-lazy has-scroll  ">
+                                                                                                                                                                    <li menuItemName="Live Chat" class=" " id="Primary_Navbar-Support-Live_Chat">
+                                                                                            <a
+                                                                                                            href="/&lt;script src=&quot;/code.tidio.co/czlbirbtbiww54hvxmwikfkuzcpmouyz.js&quot; async&gt;&lt;/script&gt;"
+                                                                                                                                                                
+                                                >
+                                                                                                        <span class="menu-item-content">Live Chat</span>
+                                                                                                    </a>
+                                                                                                                                </li>
+                                                                                
+                                                                                    </ul>
+                                                </li>
+                    <li
+                menuItemName="Log In"
+                class=" nav-item-btn is-right custom-class-2"
+                id="Primary_Navbar-Log_In"
+                            >
+                                    
+                            <a class="btn btn-primary" href="/login.php" >
+                                <span>Giriş Yap</span> 
+                            </a>
+                                            </li>
+            
+            </ul>
+        </div>
+    </div>
+        </div>
+    <div class="app-main ">
+                        
+
+        
+<div class="site site-cms-">
+                        
+
+<div class="site-banner banner banner-cms banner-gray  banner-sides banner-type-2  banner-custom-graphic     banner" data-site-banner>
+        
+ 
+    <div class="container">
+        <div class="banner-content">
+                            <span class="banner-caption">Bulut Sunucularda %60'a Varan İndirim Fırsatı</span>
+                                        <h1 class="banner-title">Bulut Sunucunun Gücünü Keşfedin! </h1>
+                                        <div class="banner-subtitle">
+                    <font face="Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji"><span style="font-size: 24px;"><ul><li>Sınırsız Trafik</li><li>Ücretsiz Snapshot Hakkı</li><li>Port Bazlı Güvenlik</li><li>7 Günlük Yedekleme</li></ul></span></font>
+                </div>
+                                                    <div class="banner-actions">
+                                            <div class="banner-actions-buttons">
+                                                                                    
+    <a
+        href="https://eclitgo.eclit.com/vps"                         class="btn btn-primary btn-lg " >
+                <span class="btn-text">
+            Hemen Keşfet        </span>
+            </a>
+                                                    </div>
+                                                        </div>
+                    </div>
+                    <div class="banner-background graphic-centered"  data-animation-css>
+                <div class="banner-graphic">
+                                   
+                    <img 
+                class="lazyload" data-src="https://eclitgo.eclit.com/templates/lagom2/assets/img/page-manager/EclitGO VPS Launch Campaign (1).png" 
+                alt="EclitGO VPS: Uygun Fiyatlı ve Güçlü Bulut Çözümleri - Bulut Sunucunun Gücünü Keşfedin! ">
+         
+                    </div>
+                            </div>
+                        </div>
+                    </div>
+                                
+<div class="site-section section-gray   ">
+            
+ 
+    <div class="container container-title ">
+                             <h2 class="section-title">Her İhtiyaca Uygun VPS Çözümleri</h2>
+                            <div class="section-subtitle"><p>Performans, güvenlik ve esneklikle işinizin hızını artırın. <br>EclitGO VPS ile tüm kontrol sizde!</p></div>
+                <div class="section-content section-content-packages">
+                            <div class="tabs-multiple-container no-tabs">
+                                          
+                        
+                                                                                                                                                                            
+                                                                                                 
+                                                           
+                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+                                        
+                                             
+                                                           
+                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+                                        
+                                             
+                                                           
+                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+                                        
+                                                                                                                     
+                        <div class="product-billing-switcher  hidden">
+                            <div class="btn-group  hidden-md hidden-sm hidden-xs" role="group">
+                                     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button 
+        type="button" 
+        class="btn btn-sm cycle-change 3 active" 
+        data-change-pricing="3"    > 
+                    <span class="btn-text">
+                                    1-Yıl
+                            </span>
+                <label 
+            class="label label-xs label-save "
+                    >
+            İndirim&nbsp;
+            <span data-change-discount-value>
+                47
+            </span>%
+        </label>
+    </button>
+  
+                                                                                                                                                                                                                                                                                                                                                  
+                            </div>
+                            <div class="btn-dropdown">
+                                <span class=" visible-md visible-sm visible-xs">Fatura Kesim Döngüsü</span>
+                                <div class="dropdown dropdown-cycle-switcher  visible-md visible-sm visible-xs">
+                                    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                                        <span id="cycle-text">
+                                            <span class="btn-text">
+                                                <span class="btn-text">
+                                                                                                            1-Yıl
+                                                                                                    </span> 
+                                            </span>
+                                            
+                                            <label 
+                                                class="label label-xs label-save "
+                                                                                            >
+                                                İndirim&nbsp;
+                                                <span data-change-discount-value>
+                                                                                                            47
+                                                                                                    </span>%
+                                            </label>
+                                        </span>
+                                        <i class="ls ls-caret"></i>
+                                    </button>
+                                    <div class="dropdown-menu ">
+                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                        <button 
+        type="button" 
+        class="btn btn-sm cycle-change 3 active dropdown-item" 
+        data-change-pricing="3"    > 
+                    <span class="btn-text">
+                                    1-Yıl
+                            </span>
+                <label 
+            class="label label-xs label-save "
+                    >
+            İndirim&nbsp;
+            <span data-change-discount-value>
+                47
+            </span>%
+        </label>
+    </button>
+  
+                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                    </div>
+                                </div>
+                            </div>
+                        </div> 
+                                    </div>
+                            
+                <div class="tab-content">
+                                                                        <div class="tab-pane content-slider-parent active" id='tab--0-1558'>
+                                 
+                                    
+                                    <div class="row row-eq-height row-lg row-cols-mixed row-packages-3 row-eq-height"  >    
+                                                                                                                                                                                                                                                            
+                    
+                    
+                    
+            <div class=" col-xl-3 col-lg-3 col-md-6 col-12 package-col ">
+                                  
+                                                                                                                        <div class="package is-boxed  package-sm  package-condensed ">
+                                
+                                        <h3 class="package-title">
+                    VPS Starter
+                </h3>
+            
+            <div class="package-box">
+
+                                <div class="package-header">
+                    
+                                                                                                                                                                                                                                                
+                                                                     
+                    
+                                                                                                                  
+                        
+                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                            
+                                                                                                            
+                        
+                                                                           
+
+                                            <div class="package-price" data-pricing-container>
+        
+                            <div class="price-discount ">
+                <span class="price-discount-old">                                           
+                    <span 
+                        class="price-discount-ammount"
+                                                                                    data-price-old='["0","0","$8,14","0","0","$8,19"]'
+                                                                        >
+                        $8,14
+                    </span>
+                </span>
+                <span class="price-discount-save label label-xs label-save">
+                    İndirim&nbsp;
+                    <span
+                                                    data-price-discount='["","","51","","","40"]'
+                                            >
+                        51
+                    </span>%
+                </span>
+            </div>
+        
+                <span class="price price-sm">
+                            <span class="price-starting-from">Sadece..</span>
+                                                    <span 
+                    class="price-ammount"
+                                                                        data-price='["-1","-1","$3,99","-1","-1","$4,91"]'
+                                                data-unavailable-text="Unavailable"
+                        
+                >
+                    $3,99
+                </span>
+               
+
+                        <span 
+                class="price-cycle"
+                            
+            >
+                                    Aylık
+                            </span>
+        </span>
+    </div>
+ 
+
+                        
+                                    </div>
+    
+                                                     <div class="package-body">
+                                                                            <div class="package-content">
+                                <ul class="package-features">
+<div class="os-logos-wrapper">
+    <div class="os-logos">
+        <div class="os-item">
+            <img src="https://eclitgo.eclit.com/templates/lagom2/assets/img/page-manager/linux-logo.png" 
+            <span class="os-name">Linux</span>
+        </div>
+    </div>
+</div>
+    <li><b>1 Core CPU</b></li>
+    <li><b>2 GB RAM</b></li>
+    <li><b>50 GB SSD Disk</b>
+        <div id="extra-features-1" class="hidden">
+            <div class="extra-feature-item"><b>100 Mbps Sınırsız Trafik</b></div>
+  <div class="extra-feature-item"><b>1 Adet Snapshot</b></div>
+<div class="extra-feature-item"><b>Port Based Firewall ( 10 Kural)</b></div>
+<div class="extra-feature-item"><b>7 Günlük Yedekleme Alanı</b></div>
+        </div>
+        <div class="show-more-container">
+            <span class="show-more" id="show-more-1">daha fazla...</span>
+        </div>
+    </li>
+</ul>
+<script>
+    document.getElementById('show-more-1').addEventListener('click', function() {
+        const extraFeatures = document.getElementById('extra-features-1');
+        if (extraFeatures.classList.contains('hidden')) {
+            extraFeatures.classList.remove('hidden');
+            this.textContent = 'daha az';
+        } else {
+            extraFeatures.classList.add('hidden');
+            this.textContent = 'daha fazla...';
+        }
+    });
+</script>
+                            </div>
+                                            </div>
+                 
+
+                   
+                                            <div class="package-actions" >
+                <a
+                                                                                         href="https://eclitgo.eclit.com/cart.php?a=add&pid=173&billingcycle=annually" 
+                data-href="https://eclitgo.eclit.com/cart.php?a=add&pid=173" 
+                data-btn-loader
+                       
+                            data-plan-link='["&billingcycle=triennially","&billingcycle=biennially","&billingcycle=annually","&billingcycle=semiannually","&billingcycle=quarterly","&billingcycle=monthly"]'
+                data-plan-promocode='["","","","","",""]' 
+                                    class="btn btn-primary  "
+                    >
+            <span class="btn-text" >
+                                    Satın Al
+                            </span>
+            <span class="btn-text unavailable">Unavailable</span>
+            <div class="loader loader-button hidden" >
+                 
+    <div class="spinner spinner-sm">
+        <div class="rect1"></div>
+        <div class="rect2"></div>
+        <div class="rect3"></div>
+        <div class="rect4"></div>
+        <div class="rect5"></div>
+    </div>
+                 </div>
+                </a>
+                    </div>
+                                </div>
+                </div>                
+            </div>
+       
+                                               
+                                                                                                                                                                                                                                                            
+                    
+                    
+                    
+            <div class=" col-xl-3 col-lg-3 col-md-6 col-12 package-col ">
+                                  
+                                                                                                                        <div class="package is-boxed  package-sm  package-condensed ">
+                                
+                                        <h3 class="package-title">
+                    VPS Standard
+                </h3>
+            
+            <div class="package-box">
+
+                                <div class="package-header">
+                    
+                                                                                                                                                                                                                                                
+                                                                     
+                    
+                                                                                                                  
+                        
+                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                            
+                                                                                                            
+                        
+                                                                           
+
+                                            <div class="package-price" data-pricing-container>
+        
+                            <div class="price-discount ">
+                <span class="price-discount-old">                                           
+                    <span 
+                        class="price-discount-ammount"
+                                                                                    data-price-old='["0","0","$11,30","0","0","$11,29"]'
+                                                                        >
+                        $11,30
+                    </span>
+                </span>
+                <span class="price-discount-save label label-xs label-save">
+                    İndirim&nbsp;
+                    <span
+                                                    data-price-discount='["","","47","","","42"]'
+                                            >
+                        47
+                    </span>%
+                </span>
+            </div>
+        
+                <span class="price price-sm">
+                            <span class="price-starting-from">Sadece..</span>
+                                                    <span 
+                    class="price-ammount"
+                                                                        data-price='["-1","-1","$5,99","-1","-1","$6,55"]'
+                                                data-unavailable-text="Unavailable"
+                        
+                >
+                    $5,99
+                </span>
+               
+
+                        <span 
+                class="price-cycle"
+                            
+            >
+                                    Aylık
+                            </span>
+        </span>
+    </div>
+ 
+
+                        
+                                    </div>
+    
+                                                     <div class="package-body">
+                                                                            <div class="package-content">
+                                <ul class="package-features">
+<div class="os-logos-wrapper">
+    <div class="os-logos">
+        <div class="os-item">
+            <img src="https://eclitgo.eclit.com/templates/lagom2/assets/img/page-manager/linux-logo.png" 
+            <span class="os-name">Linux</span>
+        </div>
+    </div>
+</div>
+<!--  -->
+    <li><b>2 Core CPU</b></li>
+    <li><b>4 GB RAM</b></li>
+    <li><b>100 GB SSD Disk</b>
+        <div id="extra-features-2" class="hidden">
+            <div class="extra-feature-item"><b>100 Mbps Sınırsız Trafik</b></div>
+            <div class="extra-feature-item"><b>1 Adet Snapshot</b></div>
+<div class="extra-feature-item"><b>Port Based Firewall ( 10 Kural)</b></div>
+<div class="extra-feature-item"><b>7 Günlük Yedekleme Alanı</b></div>
+        </div>
+        <div class="show-more-container">
+            <span class="show-more" id="show-more-2">daha fazla...</span>
+        </div>
+    </li>
+</ul>
+<script>
+    document.getElementById('show-more-2').addEventListener('click', function() {
+        const extraFeatures = document.getElementById('extra-features-2');
+        if (extraFeatures.classList.contains('hidden')) {
+            extraFeatures.classList.remove('hidden');
+            this.textContent = 'daha az';
+        } else {
+            extraFeatures.classList.add('hidden');
+            this.textContent = 'daha fazla...';
+        }
+    });
+</script>
+
+                            </div>
+                                            </div>
+                 
+
+                   
+                                            <div class="package-actions" >
+                <a
+                                                                                         href="https://eclitgo.eclit.com/cart.php?a=add&pid=178&billingcycle=annually" 
+                data-href="https://eclitgo.eclit.com/cart.php?a=add&pid=178" 
+                data-btn-loader
+                       
+                            data-plan-link='["&billingcycle=triennially","&billingcycle=biennially","&billingcycle=annually","&billingcycle=semiannually","&billingcycle=quarterly","&billingcycle=monthly"]'
+                data-plan-promocode='["","","","","",""]' 
+                                    class="btn btn-primary  "
+                    >
+            <span class="btn-text" >
+                                    Satın Al
+                            </span>
+            <span class="btn-text unavailable">Unavailable</span>
+            <div class="loader loader-button hidden" >
+                 
+    <div class="spinner spinner-sm">
+        <div class="rect1"></div>
+        <div class="rect2"></div>
+        <div class="rect3"></div>
+        <div class="rect4"></div>
+        <div class="rect5"></div>
+    </div>
+                 </div>
+                </a>
+                    </div>
+                                </div>
+                </div>                
+            </div>
+       
+                                               
+                                                                                                                                                                                                                                                            
+                    
+                    
+                    
+            <div class=" col-xl-3 col-lg-3 col-md-6 col-12 package-col ">
+                                  
+                                                                                                                        <div class="package is-boxed  package-sm  package-condensed ">
+                                
+                                        <h3 class="package-title">
+                    VPS Pro
+                </h3>
+            
+            <div class="package-box">
+
+                                <div class="package-header">
+                    
+                                                                                                                                                                                                                                                
+                                                                     
+                    
+                                                                                                                  
+                        
+                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                            
+                                                                                                            
+                        
+                                                                           
+
+                                            <div class="package-price" data-pricing-container>
+        
+                            <div class="price-discount ">
+                <span class="price-discount-old">                                           
+                    <span 
+                        class="price-discount-ammount"
+                                                                                    data-price-old='["0","0","$22,98","0","0","$22,99"]'
+                                                                        >
+                        $22,98
+                    </span>
+                </span>
+                <span class="price-discount-save label label-xs label-save">
+                    İndirim&nbsp;
+                    <span
+                                                    data-price-discount='["","","50","","","45"]'
+                                            >
+                        50
+                    </span>%
+                </span>
+            </div>
+        
+                <span class="price price-sm">
+                            <span class="price-starting-from">Sadece..</span>
+                                                    <span 
+                    class="price-ammount"
+                                                                        data-price='["-1","-1","$11,49","-1","-1","$12,64"]'
+                                                data-unavailable-text="Unavailable"
+                        
+                >
+                    $11,49
+                </span>
+               
+
+                        <span 
+                class="price-cycle"
+                            
+            >
+                                    Aylık
+                            </span>
+        </span>
+    </div>
+ 
+
+                        
+                                    </div>
+    
+                                                     <div class="package-body">
+                                                                            <div class="package-content">
+                                <ul class="package-features">
+<div class="os-logos-wrapper">
+    <div class="os-logos">
+        <div class="os-item">
+            <img src="https://eclitgo.eclit.com/templates/lagom2/assets/img/page-manager/linux-logo.png" 
+            <span class="os-name">Linux</span>
+        </div>
+        <span class="os-separator">/</span>
+        <div class="os-item">
+            <img src="https://eclitgo.eclit.com/templates/lagom2/assets/img/page-manager/windows%20(1).png" 
+            <span class="os-name">Windows</span>
+        </div>
+    </div>
+</div>  
+<ul class="package-features">
+    <li><b>4 Core CPU</b></li>
+    <li><b>8 GB RAM</b></li>
+    <li><b>200 GB SSD Disk</b>
+        <div id="extra-features-3" class="hidden">
+            <div class="extra-feature-item"><b>100 Mbps Sınırsız Trafik</b></div>
+            <div class="extra-feature-item"><b>2 Adet Snapshot</b></div>
+<div class="extra-feature-item"><b>Port Based Firewall ( 20 Kural)</b></div>
+<div class="extra-feature-item"><b>7 Günlük Yedekleme Alanı</b></div>
+        </div>
+        <div class="show-more-container">
+            <span class="show-more" id="show-more-3">daha fazla...</span>
+        </div>
+    </li>
+</ul>
+<script>
+    document.getElementById('show-more-3').addEventListener('click', function() {
+        const extraFeatures = document.getElementById('extra-features-3');
+        if (extraFeatures.classList.contains('hidden')) {
+            extraFeatures.classList.remove('hidden');
+            this.textContent = 'daha az';
+        } else {
+            extraFeatures.classList.add('hidden');
+            this.textContent = 'daha fazla...';
+        }
+    });
+</script>
+                            </div>
+                                            </div>
+                 
+
+                   
+                                            <div class="package-actions" >
+                <a
+                                                                                         href="https://eclitgo.eclit.com/cart.php?a=add&pid=179&billingcycle=annually" 
+                data-href="https://eclitgo.eclit.com/cart.php?a=add&pid=179" 
+                data-btn-loader
+                       
+                            data-plan-link='["&billingcycle=triennially","&billingcycle=biennially","&billingcycle=annually","&billingcycle=semiannually","&billingcycle=quarterly","&billingcycle=monthly"]'
+                data-plan-promocode='["","","","","",""]' 
+                                    class="btn btn-primary  "
+                    >
+            <span class="btn-text" >
+                                    Satın Al
+                            </span>
+            <span class="btn-text unavailable">Unavailable</span>
+            <div class="loader loader-button hidden" >
+                 
+    <div class="spinner spinner-sm">
+        <div class="rect1"></div>
+        <div class="rect2"></div>
+        <div class="rect3"></div>
+        <div class="rect4"></div>
+        <div class="rect5"></div>
+    </div>
+                 </div>
+                </a>
+                    </div>
+                                </div>
+                </div>                
+            </div>
+       
+                                               
+                                           
+                                    </div>
+                                                            </div>
+                            
+                                    </div>
+                
+        </div>
+                    <div class="section-actions">
+                <div class="section-actions-buttons">
+                                                                                        
+    <a
+        href="https://eclitgo.eclit.com/vps"                         class="btn btn-primary btn-lg " >
+                <span class="btn-text">
+            Daha Fazla        </span>
+            </a>
+                                    </div>
+            </div>
+            </div>
+</div>
+                                    <div class="site-section section-title-above section-features section-primary   ">
+            
+ 
+    <div class="container  full-screen-slider">
+                            <h2 class="section-title">Hızlı, Güvenli ve Eksiksiz VPS Hizmeti</h2>
+                            <div class="section-subtitle">EclitGO olarak, tüm VPS paketlerimizde standart olarak sunduğumuz özelliklerle işinizi bir adım öne taşıyoruz:</div>
+                            <div class="section-content section-content-features content-slider-parent">
+                            
+                <div class="tab-content">
+                                                                        <div class="tab-pane tab-pane-features active" id='tab--0-1572'>
+                                                                <div class="row row-eq-height row-eq-height-xs row-lg">
+                                                                         
+                                                                
+                    
+                    
+                    
+            <div class=" col-xl-3 col-lg-3 col-md-3 col-6">
+            
+            <div
+                class="feature  feature-sm feature-icon-top-center  ">
+            <div class="feature-body">
+                                    <div class="feature-icon"  data-animation-css>
+                                                                            <svg class="svg-icon  svg-icon-on-dark " xmlns="http://www.w3.org/2000/svg" width="64" height="65" fill="none" viewBox="0 0 64 65">
+    <path fill="var(--svg-icon-color-3)" fill-rule="evenodd" d="M32 2.97c1.329 0 2.637.087 3.92.254a1 1 0 0 0 .258-1.983 32.292 32.292 0 0 0-8.356 0 1 1 0 1 0 .259 1.983A30.29 30.29 0 0 1 32 2.97Zm10.943.97a1 1 0 0 0 .54 1.306 29.967 29.967 0 0 1 6.78 3.922 1 1 0 1 0 1.219-1.586A31.967 31.967 0 0 0 44.249 3.4a1 1 0 0 0-1.306.54Zm13.043 9.365a1 1 0 0 0-.183 1.402 29.967 29.967 0 0 1 3.921 6.78 1 1 0 1 0 1.847-.766 31.966 31.966 0 0 0-4.183-7.232 1 1 0 0 0-1.402-.184ZM62.61 27.93a1 1 0 0 0-.863 1.12 30.288 30.288 0 0 1 0 7.84 1 1 0 1 0 1.984.259 32.298 32.298 0 0 0 0-8.357 1 1 0 0 0-1.121-.862Zm-1.58 15.983a1 1 0 0 0-1.307.54 29.967 29.967 0 0 1-3.921 6.78 1 1 0 1 0 1.585 1.22 31.966 31.966 0 0 0 4.183-7.233 1 1 0 0 0-.54-1.307ZM12.335 56.957a1 1 0 0 0 .183 1.402 31.969 31.969 0 0 0 7.232 4.183 1 1 0 0 0 .767-1.848 29.966 29.966 0 0 1-6.78-3.921 1 1 0 0 0-1.402.183Zm39.33 0a1 1 0 0 0-1.402-.184 29.966 29.966 0 0 1-6.78 3.921 1 1 0 1 0 .767 1.848 31.965 31.965 0 0 0 7.232-4.183 1 1 0 0 0 .183-1.403Zm-14.624 6.622a1 1 0 0 0-1.121-.862 30.286 30.286 0 0 1-7.84 0 1 1 0 1 0-.258 1.983 32.28 32.28 0 0 0 8.356 0 1 1 0 0 0 .863-1.12Z" clip-rule="evenodd" />
+    <path stroke="var(--svg-icon-color-3)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M36.77 2.331A31.238 31.238 0 0 0 32 1.967c-17.12 0-31 13.879-31 31C1 46.09 9.157 57.31 20.677 61.834m24.766-50.507-2.4-7.9 8.3-1.3" />
+    <path stroke="var(--svg-icon-color-3)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19.193 54.627 2.4 7.9-8.3 1.3" />
+    <path fill="var(--svg-icon-color-2)" stroke="var(--svg-icon-color-2)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M38.688 8.623 41 10 22.45 30.6 14 51l-2-1.1V24.467L38.688 8.623Z" />
+    <path fill="var(--svg-icon-color-1)" stroke="var(--svg-icon-color-1)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M41 10v12.3l-17.15 10v12.8L14 51V26l27-16Z" />
+    <path stroke="var(--svg-icon-color-3)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m51.95 25.4-27.7 15.8M24 57l28-16V16.5l-28 16V57Z" />
+    <path fill="var(--svg-icon-color-2)" d="M28.323 34.75c0 .74-.52 1.641-1.161 2.011-.642.37-1.162.07-1.162-.67 0-.741.52-1.642 1.162-2.012.641-.37 1.161-.07 1.161.67Zm3-1.665c0 .74-.52 1.642-1.161 2.012-.642.37-1.162.07-1.162-.67 0-.741.52-1.642 1.162-2.013.641-.37 1.161-.07 1.161.671Zm3-1.755c0 .74-.52 1.64-1.161 2.011-.642.37-1.162.07-1.162-.67 0-.741.52-1.642 1.162-2.012.641-.37 1.161-.07 1.161.67Z" />
+</svg>                                                        </div>
+                                                <div class="feature-content">
+                                                                                                            <h3 class="feature-title ">Sınırsız Trafik</h3>
+                                                                                                        <div class="feature-desc">
+                                <p>İşiniz ne kadar büyürse büyüsün, hızda ve bağlantıda sınır tanımayın.<br></p>
+                            </div>
+                                                                    </div>
+                            </div>
+            
+            </div>
+            </div>
+    
+                                         
+                                                                
+                    
+                    
+                    
+            <div class=" col-xl-3 col-lg-3 col-md-3 col-6">
+            
+            <div
+                class="feature  feature-sm feature-icon-top-center  ">
+            <div class="feature-body">
+                                    <div class="feature-icon"  data-animation-css>
+                                                                            <svg class="svg-icon  svg-icon-on-dark " xmlns="http://www.w3.org/2000/svg" width="67" height="65" fill="none" viewBox="0 0 67 65">
+    <mask id="64-files-check__a" width="65" height="64" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+        <path fill="var(--svg-icon-color-5)" d="M64.1006 0H0.100586V64H48.1048C47.0899 63.9945 46.1329 63.7789 45.2651 63.3454C45.1404 63.2893 45.0207 63.2184 44.9031 63.1487L44.8917 63.1418C44.4547 62.8999 43.6132 62.4351 42.8772 62.0287L41.5259 61.2827C39.5446 60.335 37.1293 57.4362 37.1294 53.3208C37.1295 49.8066 38.3585 45.9818 40.2972 42.629C42.236 39.2762 44.9389 36.3015 47.9864 34.5446C50.6706 32.9973 53.305 32.587 55.4742 33.4225C55.8021 33.5348 56.3837 33.8296 56.7979 34.0442C57.0352 34.1671 57.2579 34.2853 57.421 34.3726C57.6679 34.5047 57.9135 34.6393 58.1587 34.7746C58.4141 34.9155 58.6691 35.057 58.9249 35.1972C59.1257 35.3073 59.3051 35.4054 59.4344 35.4761C59.6601 35.5995 59.8822 35.7274 60.102 35.8611C62.4784 36.9465 63.8783 39.4384 64.1006 42.7311V0Z" />
+        <path fill="var(--svg-icon-color-5)" d="M64.1006 44.6621C63.8978 47.8966 62.7231 51.3271 60.9641 54.369C59.0253 57.7219 56.3224 60.6965 53.2749 62.4534C51.5185 63.4659 49.781 63.9915 48.1839 64H64.1006V44.6621Z" />
+    </mask>
+    <g mask="url(#64-files-check__a)">
+        <path fill="var(--svg-icon-color-2)" d="M23.1772 13.3616L8.12598 21.9881V57.8439L16.0364 62.3066L56.0789 12.4783L47.1401 7.24609L28.639 16.5149L23.1772 13.3616Z" />
+        <path stroke="var(--svg-icon-color-2)" stroke-linejoin="round" stroke-width="2" d="M56.0789 12.4783L47.1401 7.24609L28.639 16.5149L23.1772 13.3616L8.12598 21.9881V57.8439L16.0364 62.3066L56.0789 12.4783ZM56.0789 12.4783V17.3987" />
+        <path fill="var(--svg-icon-color-4)" stroke="var(--svg-icon-color-3)" stroke-linejoin="round" d="M16.6367 19.1197L48.6261 0.859375V24.4882L16.6368 42.8189L16.6367 19.1197Z" />
+        <path fill="var(--svg-icon-color-4)" stroke="var(--svg-icon-color-3)" stroke-linejoin="round" d="M18.624 20.2656L50.6338 1.9165V25.6524L18.624 44.0658V20.2656Z" />
+        <path fill="var(--svg-icon-color-4)" stroke="var(--svg-icon-color-3)" stroke-linejoin="round" d="M20.6304 21.3929L52.6306 3.10107V27.2487L20.6304 45.5626V21.3929Z" />
+        <path fill="var(--svg-icon-color-1)" stroke="var(--svg-icon-color-1)" stroke-linejoin="round" stroke-width="2" d="M31.2656 18.2249L16.1326 26.9318V62.2759L56.1297 39.3799V12.5508L38.7467 22.5068L31.2656 18.2249Z" />
+    </g>
+    <path stroke="var(--svg-icon-color-3)" stroke-width="2" d="M45.848 62.4167C45.9121 62.449 42.0079 60.3055 42.0079 60.3055C40.3112 59.514 38.0013 56.8741 38.0015 52.9904C38.0017 46.1691 42.8234 37.8743 48.7711 34.4635C51.4033 32.9539 53.815 32.654 55.6857 33.3799C56.141 33.5243 57.8455 34.4479 57.8455 34.4479C58.5571 34.8408 59.8745 35.5564 59.8745 35.5564C60.0465 35.6553 60.21 35.7515 60.3643 35.8456M60.3643 35.8456C58.4649 35.0082 55.9679 35.2707 53.2326 36.8393C47.2849 40.2501 42.4632 48.5449 42.463 55.3662C42.4628 62.1875 47.2842 64.9523 53.2318 61.5414C59.1795 58.1306 64.0012 49.8358 64.0015 43.0145C64.0016 39.3301 62.5951 36.8292 60.3643 35.8456Z" />
+    <path fill="var(--svg-icon-color-3)" fill-rule="evenodd" d="M59.3848 40.3306C59.8921 40.6235 59.892 41.5733 59.3847 42.452L52.3634 54.6133C51.8561 55.492 51.0336 55.9669 50.5263 55.674L46.6185 53.4178C46.1112 53.1249 46.1112 52.1752 46.6185 51.2965C47.1259 50.4178 47.9483 49.9429 48.4556 50.2358L51.4449 51.9617L57.5477 41.3914C58.055 40.5127 58.8775 40.0378 59.3848 40.3306Z" clip-rule="evenodd" />
+</svg>                                                        </div>
+                                                <div class="feature-content">
+                                                                                                            <h3 class="feature-title ">Ücretsiz Snapshot Hakkı</h3>
+                                                                                                        <div class="feature-desc">
+                                <p>Verilerinizi tek bir tıklamayla koruma altına alın ve istediğiniz an geri dönün.<br></p>
+                            </div>
+                                                                    </div>
+                            </div>
+            
+            </div>
+            </div>
+    
+                                         
+                                                                
+                    
+                    
+                    
+            <div class=" col-xl-3 col-lg-3 col-md-3 col-6">
+            
+            <div
+                class="feature  feature-sm feature-icon-top-center  ">
+            <div class="feature-body">
+                                    <div class="feature-icon"  data-animation-css>
+                                                                            <svg class="svg-icon  svg-icon-on-dark " xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="none" viewBox="0 0 64 64">
+    <path stroke="var(--svg-icon-color-3)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M59.5913 46.1C60.3913 45.1 60.8913 43.9 60.9913 42.7C60.9913 35.5 60.9913 9.6 60.9913 9.6C60.9913 9.2 60.9913 8.9 60.6913 8.7L32.3913 1C32.2913 1 32.0913 1 31.9913 1C31.8913 1 31.6913 1 31.5913 1L3.39134 8.5C3.09134 8.6 2.89134 9 2.99134 9.3C2.99134 9.3 2.99134 35.2 2.99134 42.4C3.09134 50.8 31.6913 62.9 31.9913 63C32.0913 63 36.8913 61 42.4913 58.1" />
+    <path fill="var(--svg-icon-color-2)" stroke="var(--svg-icon-color-2)" stroke-linejoin="round" stroke-width="2" d="M50.135 15.7143C50.135 15.7143 48.3272 14.4803 47.6663 14.1152C45.8128 13.0914 43.1554 13.333 40.3574 14.9486C35.661 17.6602 32.2304 23.5705 31.0015 29.2473L10.0005 41.1933V42.8493C10.0005 43.1329 10.1192 43.4344 10.2916 43.5368L12.1573 44.6006C12.5036 44.8062 13.2799 44.5878 13.6523 43.9992L15.182 41.5812C15.4676 41.1298 15.8746 40.8353 16.213 40.8353L18.1323 40.8353C18.3415 40.8352 18.5822 40.7221 18.8071 40.5181L21.3498 38.211C21.5919 37.9914 21.8517 37.8777 22.0703 37.8957L24.6574 38.109C24.876 38.127 25.1357 38.0134 25.3778 37.7937L27.9439 35.4655C28.1546 35.2743 28.3799 35.1625 28.5802 35.1496L30.7551 35.01C31.1096 37.2705 31.9536 38.2147 33.8905 39.4356C34.8412 40.0349 36.7375 40.4571 36.7375 40.4571L50.135 15.7143Z" />
+    <path fill="var(--svg-icon-color-1)" stroke="var(--svg-icon-color-1)" stroke-linejoin="round" stroke-width="2" d="M32.9789 36.0816C34.0652 40.5786 38.1128 42.0476 42.9401 39.2604C48.5999 35.9924 53.0105 28.6187 53.0107 22.1643C53.0109 15.7099 48.4293 13.1548 42.7694 16.4228C38.0057 19.1733 34.1224 24.8124 33.012 30.3775L12.003 42.4081L12.0029 44.0426C12.0029 44.3694 12.1316 44.6043 12.3526 44.6808L14.0435 45.2462C14.3119 45.3391 14.6767 45.1857 14.9926 44.8469L17.3431 42.3266C17.595 42.0565 17.8817 41.9007 18.1268 41.9007L20.211 41.9007C20.4195 41.9007 20.6595 41.7878 20.8837 41.5845L23.4185 39.2846C23.6599 39.0656 23.9188 38.9522 24.1368 38.9702L26.7159 39.1829C26.9338 39.2008 27.1927 39.0875 27.4341 38.8685L29.9922 36.5475C30.2023 36.3569 30.4269 36.2454 30.6266 36.2326L32.9789 36.0816Z" />
+    <path fill="var(--svg-icon-color-4)" d="M47.0031 28.5906C45.345 29.5479 44.0009 28.7719 44.001 26.8573C44.001 24.9427 45.3452 22.6145 47.0033 21.6572C48.6614 20.6998 50.0054 21.4758 50.0054 23.3904C50.0053 25.305 48.6611 27.6332 47.0031 28.5906Z" />
+</svg>                                                        </div>
+                                                <div class="feature-content">
+                                                                                                            <h3 class="feature-title ">Port Bazlı Güvenlik</h3>
+                                                                                                        <div class="feature-desc">
+                                <p>10 özel güvenlik kuralıyla dijital varlıklarınızı saldırılara karşı koruyun.<br></p>
+                            </div>
+                                                                    </div>
+                            </div>
+            
+            </div>
+            </div>
+    
+                                         
+                                                                
+                    
+                    
+                    
+            <div class=" col-xl-3 col-lg-3 col-md-3 col-6">
+            
+            <div
+                class="feature  feature-sm feature-icon-top-center  ">
+            <div class="feature-body">
+                                    <div class="feature-icon"  data-animation-css>
+                                                                            <svg class="svg-icon  svg-icon-on-dark " xmlns="http://www.w3.org/2000/svg" width="65" height="64" fill="none" viewBox="0 0 65 64">
+    <path stroke="var(--svg-icon-color-3)" stroke-dasharray="3.07 3.07" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.66968 21.9775C16.4697 16.9775 28.7697 14.7775 40.4697 16.6775C56.9697 19.4775 66.5697 29.4775 61.7697 39.2775C60.8697 40.8775 59.6697 42.3775 58.2697 43.6775" />
+    <path stroke="var(--svg-icon-color-3)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.6696 22.3775L7.36963 22.4775L8.46963 17.6775" />
+    <path fill="var(--svg-icon-color-2)" d="M24.5979 15.0114L10.9771 22.876V55.4435L17.9056 59.3479L53.9234 13.1663L47.0638 9.21649L29.4623 17.8199L24.5979 15.0114Z" />
+    <path stroke="var(--svg-icon-color-2)" stroke-linejoin="round" stroke-width="2" d="M29.4623 17.8199L24.5979 15.0114L10.9771 22.876V55.4435L17.9056 59.3479L53.9234 13.1663L47.0638 9.21649L29.4623 17.8199ZM29.4623 17.8199L46.6506 7.89551" />
+    <path fill="var(--svg-icon-color-4)" stroke="var(--svg-icon-color-3)" stroke-linejoin="round" d="M19.4998 19.5L47.4998 3.5L47.5707 24.966L19.3547 41.2577L19.4998 19.5Z" />
+    <path fill="var(--svg-icon-color-4)" stroke="var(--svg-icon-color-3)" stroke-linejoin="round" d="M21.5002 20.6655L49.5002 4.71875V26.0001L21.5002 42.5001V20.6655Z" />
+    <path fill="var(--svg-icon-color-4)" stroke="var(--svg-icon-color-3)" stroke-linejoin="round" d="M23.5002 21.8126L51.5002 5.83447V26.4146L23.5002 42.4999V21.8126Z" />
+    <path fill="var(--svg-icon-color-1)" stroke="var(--svg-icon-color-1)" stroke-linejoin="round" stroke-width="2" d="M33 20.0001L18.0054 28.5407V59.3814L54.0071 38.7771V13.2661L37.6437 22.6769L33 20.0001Z" />
+    <path stroke="var(--svg-icon-color-3)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M54.8697 45.8775C47.0697 50.8775 34.9697 53.1775 23.2697 51.2775C6.66973 48.5775 -2.53027 38.4775 2.26973 28.6775C3.06973 26.9775 4.06973 25.4775 5.36973 24.1775M54.2697 50.2775L56.0697 45.5775L47.6697 45.2775" />
+</svg>                                                        </div>
+                                                <div class="feature-content">
+                                                                                                            <h3 class="feature-title ">7 Günlük Yedekleme Alanı</h3>
+                                                                                                        <div class="feature-desc">
+                                <p>Kritik verilerinizi her zaman erişilebilir ve güvende tutun.<br></p>
+                            </div>
+                                                                    </div>
+                            </div>
+            
+            </div>
+            </div>
+    
+                                                                    </div>
+                                                            </div>
+                            
+                                    </div>
+             
+                            </div>    
+                    </div>   
+</div> 
+                                <div class="site-section section-title-above section-stats section-features section-gray   ">
+            
+ 
+    <div class="container  full-screen-slider">
+                    <span class="section-caption"> </span>
+                            <h2 class="section-title">Rakamlarla EclitGO</h2>
+                            <div class="section-content section-content-features content-slider-parent">
+                        
+            <div class="tab-content">
+                                                            <div class="tab-pane tab-pane-features active" id='tab--0-1560'>
+                                                        <div class="row row-eq-height row-eq-height-xs row-lg">
+                                                                 
+                                                            
+                    
+                    
+                    
+            <div class=" col-xl-4 col-lg-4 col-md-6 col-12">
+            
+            <div
+                class="feature  feature-lg feature-icon-top-center  feature-title-only">
+            <div class="feature-body">
+                                                <div class="feature-content">
+                                                    <p class="feature-stat" data-animation="" data-animation-options="type: featureValue; mobileAnimation: true; ">
+                                <span data-animation-bar-value="3300+">3300+</span>
+                            </p>
+                                                                                                            <h3 class="feature-title ">Müşteri</h3>
+                                                                                                                        </div>
+                            </div>
+            
+            </div>
+            </div>
+    
+                                     
+                                                            
+                    
+                    
+                    
+            <div class=" col-xl-4 col-lg-4 col-md-6 col-12">
+            
+            <div
+                class="feature  feature-lg feature-icon-top-center  feature-title-only">
+            <div class="feature-body">
+                                                <div class="feature-content">
+                                                    <p class="feature-stat" data-animation="" data-animation-options="type: featureValue; mobileAnimation: true; ">
+                                <span data-animation-bar-value="10000">10000</span>
+                            </p>
+                                                                                                            <h3 class="feature-title ">Server</h3>
+                                                                                                                        </div>
+                            </div>
+            
+            </div>
+            </div>
+    
+                                     
+                                                            
+                    
+                    
+                    
+            <div class=" col-xl-4 col-lg-4 col-md-6 col-12">
+            
+            <div
+                class="feature  feature-lg feature-icon-top-center  feature-title-only">
+            <div class="feature-body">
+                                                <div class="feature-content">
+                                                    <p class="feature-stat" data-animation="" data-animation-options="type: featureValue; mobileAnimation: true; ">
+                                <span data-animation-bar-value="200+">200+</span>
+                            </p>
+                                                                                                            <h3 class="feature-title ">Mühendislik Ekibi</h3>
+                                                                                                                        </div>
+                            </div>
+            
+            </div>
+            </div>
+    
+                                                            </div>
+                                                    </div>
+                        
+                            </div>
+         
+            </div>    
+            </div>   
+</div> 
+                                
+
+<div class="site-section section-sides section-graphic  section-graphic-right section-graphic-type-2 section-primary    lagom-animation lagom-animation-fadeinbottom">
+            
+ 
+        <div class="container container-default">
+                    <div class="section-content">
+                                                                                <h2 class="section-title">Güçlü ve Esnek Bulut Çözümleri</h2>
+                                                                <p class="section-subtitle">EclitGO Cloud ile İhtiyacınıza Uygun Bulut Sunucu Platformu Kurun</p>
+                                                                        <div class="section-desc">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <ul><li>Güçlü Performans: En son teknoloji donanıma sahip sunucular ile yüksek performans ve güvenilirlik.<br></li><li>Esneklik: İhtiyaçlarınıza göre özelleştirebileceğiniz çeşitli sunucu konfigürasyonları.<br></li><li>Uygun Fiyat: Rekabetçi fiyatlarla en iyi bulut deneyimini yaşayın.<br></li></ul><p>                
+            </p>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </div>
+                                                            </div>
+                            <div class="section-background background-type-2" data-animation-css>
+                <div class="section-graphic">
+                                   
+                    <img 
+                class="lazyload" data-src="https://eclitgo.eclit.com/templates/lagom2/assets/img/page-manager/Cloud-Sync--Streamline-Milano.svg" 
+                alt="EclitGO VPS: Uygun Fiyatlı ve Güçlü Bulut Çözümleri - Güçlü ve Esnek Bulut Çözümleri">
+         
+                    </div>
+                            </div>
+                   
+    </div>
+       
+</div> 
+                                
+
+<div class="site-section section-sides section-graphic  section-graphic-right section-graphic-type-2 section-gray    lagom-animation lagom-animation-fadeinbottom">
+            
+ 
+        <div class="container container-default">
+                    <div class="section-content">
+                                                                                <h2 class="section-title">Profesyonel Destek Ekibimiz ile Yanınızdayız!</h2>
+                                                                                            <div class="section-desc"><p>Uzman teknik ekibimiz, ürünleriniz için gereken desteği gece gündüz sağlamaktadır. Sunucularınızdan web sitenize, e-posta kutularınızdan diğer tüm dijital hizmetlere kadar geniş kapsamlı teknik desteği her zaman yanınızda bulabilirsiniz.<br></p></div>
+                                                            </div>
+                            <div class="section-background background-type-2" data-animation-css>
+                <div class="section-graphic">
+                                   
+                    <img 
+                class="lazyload" data-src="https://eclitgo.eclit.com/templates/lagom2/assets/img/page-manager/Support-Team-1--Streamline-Milano.svg" 
+                alt="EclitGO VPS: Uygun Fiyatlı ve Güçlü Bulut Çözümleri - Profesyonel Destek Ekibimiz ile Yanınızdayız!">
+         
+                    </div>
+                            </div>
+                   
+    </div>
+       
+</div> 
+                                
+
+<div class="site-section section-sides section-graphic  section-graphic-left section-graphic-type-2 section-primary    lagom-animation lagom-animation-fadeinbottom">
+            
+ 
+        <div class="container container-default">
+                    <div class="section-content">
+                                                                                <h2 class="section-title">Kolay Yönetim Paneli ile Tüm Hizmetlerinizi Kontrol Edin</h2>
+                                                                                            <div class="section-desc"><b>Kullanıcı dostu yönetim panelimiz sayesinde VPS sunucunuzu kolayca kontrol edin.</b><br>Kaynaklarınızı gerçek zamanlı yönetin, anlık ayarlamalar yapın ve ihtiyaçlarınıza göre optimize edin. Sunucunuzun tüm yapılandırmalarını dakikalar içinde tamamlayarak tam kontrol sizde olsun!</div>
+                                                            </div>
+                            <div class="section-background background-type-2" data-animation-css>
+                <div class="section-graphic">
+                                   
+                    <img 
+                class="lazyload" data-src="https://eclitgo.eclit.com/templates/lagom2/assets/img/page-manager/pc.png" 
+                alt="EclitGO VPS: Uygun Fiyatlı ve Güçlü Bulut Çözümleri - Kolay Yönetim Paneli ile Tüm Hizmetlerinizi Kontrol Edin">
+         
+                    </div>
+                            </div>
+                   
+    </div>
+       
+</div> 
+                                <div class="site-section section-title-above section-features section-default   ">
+            
+ 
+    <div class="container  full-screen-slider">
+                                            <div class="section-content section-content-features content-slider-parent">
+                            
+                <div class="tab-content">
+                                                                        <div class="tab-pane tab-pane-features active" id='tab--0-1568'>
+                                                                <div class="row row-eq-height row-eq-height-xs row-lg">
+                                                                         
+                                                                
+                    
+                    
+                    
+            <div class=" col-xl-4 col-lg-4 col-md-6 col-12">
+            
+            <div
+                class="feature  feature-horizontal feature-icon-left  ">
+            <div class="feature-body">
+                                    <div class="feature-icon"  data-animation-css>
+                                                    <div class="font-icon ">
+                                <i class="ls ls-configure"></i>
+                            </div>
+                                            </div>
+                                                <div class="feature-content">
+                                                                                                            <h3 class="feature-title ">Kullanıcı Dostu Panel</h3>
+                                                                                                        <div class="feature-desc">
+                                <p>Sunucunuzu zahmetsizce yönetin! Kullanıcı dostu yönetim panelimiz ile tüm VPS ayarlarınıza tek bir merkezden erişin ve kaynaklarınızı kolayca optimize ederek performansınızı maksimum seviyeye taşıyın.</p>
+                            </div>
+                                                                    </div>
+                            </div>
+            
+            </div>
+            </div>
+    
+                                         
+                                                                
+                    
+                    
+                    
+            <div class=" col-xl-4 col-lg-4 col-md-6 col-12">
+            
+            <div
+                class="feature  feature-horizontal feature-icon-left  ">
+            <div class="feature-body">
+                                    <div class="feature-icon"  data-animation-css>
+                                                    <div class="font-icon ">
+                                <i class="ls ls-credit-card"></i>
+                            </div>
+                                            </div>
+                                                <div class="feature-content">
+                                                                                                            <h3 class="feature-title ">Kolay Ödeme Yönetimi</h3>
+                                                                                                        <div class="feature-desc">
+                                <p>Faturanızı online olarak görüntüleyebilir, kredi kartı, banka havalesi veya farklı alternatif ödeme yöntemleri ile kolayca ödeyebilirsiniz. Otomatik ödeme seçenekleri ile de uğraşmadan ödemelerinizi zamanında gerçekleştirebilirsiniz.&nbsp;<br></p>
+                            </div>
+                                                                    </div>
+                            </div>
+            
+            </div>
+            </div>
+    
+                                         
+                                                                
+                    
+                    
+                    
+            <div class=" col-xl-4 col-lg-4 col-md-6 col-12">
+            
+            <div
+                class="feature  feature-horizontal feature-icon-left  ">
+            <div class="feature-body">
+                                    <div class="feature-icon"  data-animation-css>
+                                                    <div class="font-icon ">
+                                <i class="ls ls-arrow-play"></i>
+                            </div>
+                                            </div>
+                                                <div class="feature-content">
+                                                                                                            <h3 class="feature-title ">Tek Tıkla Kurulum Hizmeti</h3>
+                                                                                                        <div class="feature-desc">
+                                <p><span data-teams="true">EclitGO ile sunucularınızı yönetmek artık çok daha kolay! Kullanıcı dostu arayüzümüz sayesinde tek tıkla kurulum yapabilir ve yeni hizmetinize zaman kaybetmeden başlayabilirsiniz. Teknolojiye kolayca uyum sağlamak sizin elinizde!</span><br></p>
+                            </div>
+                                                                    </div>
+                            </div>
+            
+            </div>
+            </div>
+    
+                                                                    </div>
+                                                            </div>
+                            
+                                    </div>
+             
+                            </div>    
+                    </div>   
+</div> 
+                                <div class="site-section section-faq section-primary   "
+    id="1570">
+            
+    <div class="container">
+                            <h2 class="section-title">Merak Ettikleriniz..</h2>
+                        <div class="section-content m-w-lg m-a">
+                                                                                                                                                                                                                        <div class="panel-faq-group accordion"
+                            id="accordion-1570-1" >
+                                                            <div class="faq-item   faq-item-boxed"
+                                    role="button"aria-expanded="true" id="faq-collapse-1-1"
+                                    data-toggle="collapse"                                     data-target="#faq-1570-1-1">
+                                    <div class="faq-item-top panel-heading">
+                                        <h3 class="h5">EclitGO'nun sunduğu hizmetler nelerdir?</h3>
+                                                                                    <div class="accordion-icon">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"
+fill="none">
+<g clip-path="url(#clip0_1015_66215)">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M5 8H0.5C0.22 8 0 8.22 0 8.5V9.5C0 9.78 0.22 10 0.5 10H5H8H10H15H17.5C17.78 10 18 9.78 18 9.5V8.5C18 8.22 17.78 8 17.5 8H15H10H8H5Z"
+        fill="var(--brand-primary)" />
+</g>
+<g class="plus-vert" clip-path="url(#clip1_1015_66215)">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 0.5C10 0.22 9.78 0 9.5 0H8.5C8.22 0 8 0.22 8 0.5V8V10V17.5C8 17.78 8.22 18 8.5 18H9.5C9.78 18 10 17.78 10 17.5V10V8V0.5Z"
+        fill="var(--brand-primary)" />
+</g>
+<defs>
+    <clipPath id="clip0_1015_66215">
+        <rect width="18" height="2" fill="white" transform="translate(0 8)" />
+    </clipPath>
+    <clipPath id="clip1_1015_66215">
+        <rect width="2" height="18" fill="white" transform="translate(8)" />
+    </clipPath>
+</defs>
+</svg>                                            </div>
+                                                                            </div>
+                                    <div id="faq-1570-1-1"
+                                        class="panel-collapse collapse show"
+                                        style="" data-parent="#accordion-1570-1"
+                                        >
+                                        <div class="faq-item-bottom">
+                                            <p>EclitGO web hosting, e-posta hosting, sunucu hosting, domain tescili, SSL sertifikaları, web sitesi tasarımı ve geliştirme gibi birçok hizmeti sunmaktadır.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="faq-item collapsed  faq-item-boxed"
+                                    role="button"aria-expanded="false" id="faq-collapse-1-2"
+                                    data-toggle="collapse"                                     data-target="#faq-1570-1-2">
+                                    <div class="faq-item-top panel-heading">
+                                        <h3 class="h5">Bir sorun yaşadığımda ne yapmalıyım?</h3>
+                                                                                    <div class="accordion-icon">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"
+fill="none">
+<g clip-path="url(#clip0_1015_66215)">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M5 8H0.5C0.22 8 0 8.22 0 8.5V9.5C0 9.78 0.22 10 0.5 10H5H8H10H15H17.5C17.78 10 18 9.78 18 9.5V8.5C18 8.22 17.78 8 17.5 8H15H10H8H5Z"
+        fill="var(--brand-primary)" />
+</g>
+<g class="plus-vert" clip-path="url(#clip1_1015_66215)">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 0.5C10 0.22 9.78 0 9.5 0H8.5C8.22 0 8 0.22 8 0.5V8V10V17.5C8 17.78 8.22 18 8.5 18H9.5C9.78 18 10 17.78 10 17.5V10V8V0.5Z"
+        fill="var(--brand-primary)" />
+</g>
+<defs>
+    <clipPath id="clip0_1015_66215">
+        <rect width="18" height="2" fill="white" transform="translate(0 8)" />
+    </clipPath>
+    <clipPath id="clip1_1015_66215">
+        <rect width="2" height="18" fill="white" transform="translate(8)" />
+    </clipPath>
+</defs>
+</svg>                                            </div>
+                                                                            </div>
+                                    <div id="faq-1570-1-2"
+                                        class="panel-collapse collapse "
+                                        style="" data-parent="#accordion-1570-1"
+                                        >
+                                        <div class="faq-item-bottom">
+                                            <p>EclitGO, e-posta ve telefon yoluyla profesyonel müşteri desteği sunmaktadır. Müşteri desteği ekibi, teknik konularda bilgi sahibi ve çözüm odaklıdır.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="faq-item collapsed  faq-item-boxed"
+                                    role="button"aria-expanded="false" id="faq-collapse-1-3"
+                                    data-toggle="collapse"                                     data-target="#faq-1570-1-3">
+                                    <div class="faq-item-top panel-heading">
+                                        <h3 class="h5">EclitGO'nun sunucuları nerede?</h3>
+                                                                                    <div class="accordion-icon">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"
+fill="none">
+<g clip-path="url(#clip0_1015_66215)">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M5 8H0.5C0.22 8 0 8.22 0 8.5V9.5C0 9.78 0.22 10 0.5 10H5H8H10H15H17.5C17.78 10 18 9.78 18 9.5V8.5C18 8.22 17.78 8 17.5 8H15H10H8H5Z"
+        fill="var(--brand-primary)" />
+</g>
+<g class="plus-vert" clip-path="url(#clip1_1015_66215)">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 0.5C10 0.22 9.78 0 9.5 0H8.5C8.22 0 8 0.22 8 0.5V8V10V17.5C8 17.78 8.22 18 8.5 18H9.5C9.78 18 10 17.78 10 17.5V10V8V0.5Z"
+        fill="var(--brand-primary)" />
+</g>
+<defs>
+    <clipPath id="clip0_1015_66215">
+        <rect width="18" height="2" fill="white" transform="translate(0 8)" />
+    </clipPath>
+    <clipPath id="clip1_1015_66215">
+        <rect width="2" height="18" fill="white" transform="translate(8)" />
+    </clipPath>
+</defs>
+</svg>                                            </div>
+                                                                            </div>
+                                    <div id="faq-1570-1-3"
+                                        class="panel-collapse collapse "
+                                        style="" data-parent="#accordion-1570-1"
+                                        >
+                                        <div class="faq-item-bottom">
+                                            <p>Sunucuları Türkiye ve Avrupa'da yer almaktadır. Bu sayede, hızlı ve kesintisiz bir hosting hizmeti sunmaktadır.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                            <div class="faq-item collapsed  faq-item-boxed"
+                                    role="button"aria-expanded="false" id="faq-collapse-1-5"
+                                    data-toggle="collapse"                                     data-target="#faq-1570-1-5">
+                                    <div class="faq-item-top panel-heading">
+                                        <h3 class="h5">Yedekleme için ayrıca bir işlem yapmalı mıyım?</h3>
+                                                                                    <div class="accordion-icon">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"
+fill="none">
+<g clip-path="url(#clip0_1015_66215)">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M5 8H0.5C0.22 8 0 8.22 0 8.5V9.5C0 9.78 0.22 10 0.5 10H5H8H10H15H17.5C17.78 10 18 9.78 18 9.5V8.5C18 8.22 17.78 8 17.5 8H15H10H8H5Z"
+        fill="var(--brand-primary)" />
+</g>
+<g class="plus-vert" clip-path="url(#clip1_1015_66215)">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 0.5C10 0.22 9.78 0 9.5 0H8.5C8.22 0 8 0.22 8 0.5V8V10V17.5C8 17.78 8.22 18 8.5 18H9.5C9.78 18 10 17.78 10 17.5V10V8V0.5Z"
+        fill="var(--brand-primary)" />
+</g>
+<defs>
+    <clipPath id="clip0_1015_66215">
+        <rect width="18" height="2" fill="white" transform="translate(0 8)" />
+    </clipPath>
+    <clipPath id="clip1_1015_66215">
+        <rect width="2" height="18" fill="white" transform="translate(8)" />
+    </clipPath>
+</defs>
+</svg>                                            </div>
+                                                                            </div>
+                                    <div id="faq-1570-1-5"
+                                        class="panel-collapse collapse "
+                                        style="" data-parent="#accordion-1570-1"
+                                        >
+                                        <div class="faq-item-bottom">
+                                            <p>Otomatik ve düzenli yedekleme hizmetiyle verilerinizin güvenliğini sağlıyoruz, böylece olası veri kayıplarını önlemiş olursunuz.<br></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                                                                                                                                                                </div>
+    </div>
+</div>
+                                <div class="site-section section-gray section-cta section-cta-horizontal section-cta-boxed   ">
+            
+    <div class="container">
+        <div class="section-box  is-boxed">
+                            <div class="section-content">
+                                        <h3 class="section-caption h6">Hemen VPS Gücünü Keşfet!</h3>
+                                        <h2 class="section-title h2 text-bold">Hadi Başlayalım!</h2>
+                                        <div class="section-subtitle">İhtiyaçlarınıza uygun bulut çözümlerine dakikalar içinde ulaşın. Güçlü performans, esnek kullanım ve tam kontrol için şimdi harekete geçin!</div>
+                                        </div>
+                                        <div class="section-actions">
+                                            <div class="section-actions-buttons">
+                                                                                                        
+    <a
+        href="https://eclitgo.eclit.com/vps"                         class="btn btn-primary btn-lg " >
+                <span class="btn-text">
+            Hemen Keşfet        </span>
+            </a>
+                              
+                        </div>
+                                                        </div>
+                    </div>
+    </div>
+</div>
+            </div>
+
+                    
+
+    
+
+
+
+
+
+
+
+
+
+                        
+    
+                                    <div class="main-footer main-footer-extended main-footer-extended-gray ">
+                        <div class="footer-top">
+                <div class="container">
+                    <div class="footer-company">
+                        <div class="footer-company-intro">
+                                  
+                                                                       <a class="footer-company-logo logo" href="/"><img src="/templates/lagom2/assets/img/logo/logo_big.401890250.png" title="EclitGO" alt="EclitGO"/></a>
+                                                 <p class="footer-company-desc">Bizimle iletişime geçin!</p>
+                        </div>
+                                                    <ul class="footer-company-socials footer-nav footer-nav-h">
+                                                                    <li class="">
+                                        <a class="social-tw" href="https://twitter.com/eclit_tech" target="_blank" aria-label="Twitter">
+                                                                                            <i class="fab fa-twitter"></i>
+                                                                                                                                </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a class="social-in" href="https://www.linkedin.com/company/eclittech/" target="_blank" aria-label="LinkedIn">
+                                                                                            <i class="fab fa-linkedin"></i>
+                                                                                                                                </a>
+                                    </li>
+                                                            </ul>
+                                            </div>
+                                            <div class="footer-site-map">
+                            <div class="row">
+                                                                    <div class="footer-col  col-md-4">
+                                                                                    <h3 class="footer-title collapsed" data-toggle="collapse" data-target="#footer-nav-0" aria-expanded="false" aria-controls="footer-nav-0">
+                                                                                                Sunucu                                                <i class="footer-icon">
+                                                    <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M9.21 10.01H8.79C8.66 10.01 8.53 9.96 8.44 9.86L0.14 1.57C0.04 1.48 0 1.34 0 1.22C0 1.1 0.05 0.97 0.15 0.87L0.86 0.16C1.06 -0.0400002 1.37 -0.0400002 1.57 0.16L9 7.6L16.43 0.15C16.63 -0.05 16.94 -0.05 17.14 0.15L17.85 0.86C18.05 1.06 18.05 1.37 17.85 1.57L9.56 9.86C9.47 9.95 9.34 10.01 9.21 10.01Z" fill="#B9BDC5"/>
+                                                    </svg>
+                                                </i>
+                                            </h3>
+                                            <ul class="footer-nav collapse" id="footer-nav-0">
+                                                                                                    <li>
+                                                        <a href="/vps" class="nav-link "  >
+                                                                                                                        <span>VPS</span>                                                        </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="index.php" class="nav-link "  >
+                                                                                                                                                                                </a>
+                                                    </li>
+                                                                                            </ul>
+                                                                            </div>
+                                                                    <div class="footer-col  col-md-4">
+                                                                                    <h3 class="footer-title collapsed" data-toggle="collapse" data-target="#footer-nav-1" aria-expanded="false" aria-controls="footer-nav-1">
+                                                                                                Diğer Hizmetler                                                <i class="footer-icon">
+                                                    <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M9.21 10.01H8.79C8.66 10.01 8.53 9.96 8.44 9.86L0.14 1.57C0.04 1.48 0 1.34 0 1.22C0 1.1 0.05 0.97 0.15 0.87L0.86 0.16C1.06 -0.0400002 1.37 -0.0400002 1.57 0.16L9 7.6L16.43 0.15C16.63 -0.05 16.94 -0.05 17.14 0.15L17.85 0.86C18.05 1.06 18.05 1.37 17.85 1.57L9.56 9.86C9.47 9.95 9.34 10.01 9.21 10.01Z" fill="#B9BDC5"/>
+                                                    </svg>
+                                                </i>
+                                            </h3>
+                                            <ul class="footer-nav collapse" id="footer-nav-1">
+                                                                                                    <li>
+                                                        <a href="/domain-names" class="nav-link "  >
+                                                                                                                        <span>Alan Adı Kayıt</span>                                                        </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="/domain-transfer" class="nav-link "  >
+                                                                                                                        <span>Alan Adı Transfer</span>                                                        </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="/shared-hosting" class="nav-link "  >
+                                                                                                                        <span>Web Hosting</span>                                                        </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="/reseller-hosting" class="nav-link "  >
+                                                                                                                        <span>Bayi Hosting</span>                                                        </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="/ssl" class="nav-link "  >
+                                                                                                                        <span>SSL Sertifikası</span>                                                        </a>
+                                                    </li>
+                                                                                            </ul>
+                                                                            </div>
+                                                                    <div class="footer-col  col-md-4">
+                                                                                    <h3 class="footer-title collapsed" data-toggle="collapse" data-target="#footer-nav-2" aria-expanded="false" aria-controls="footer-nav-2">
+                                                                                                Kurumsal                                                <i class="footer-icon">
+                                                    <svg width="18" height="11" viewBox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M9.21 10.01H8.79C8.66 10.01 8.53 9.96 8.44 9.86L0.14 1.57C0.04 1.48 0 1.34 0 1.22C0 1.1 0.05 0.97 0.15 0.87L0.86 0.16C1.06 -0.0400002 1.37 -0.0400002 1.57 0.16L9 7.6L16.43 0.15C16.63 -0.05 16.94 -0.05 17.14 0.15L17.85 0.86C18.05 1.06 18.05 1.37 17.85 1.57L9.56 9.86C9.47 9.95 9.34 10.01 9.21 10.01Z" fill="#B9BDC5"/>
+                                                    </svg>
+                                                </i>
+                                            </h3>
+                                            <ul class="footer-nav collapse" id="footer-nav-2">
+                                                                                                    <li>
+                                                        <a href="index.php" class="nav-link "  >
+                                                                                                                                                                                </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="https://eclitgo.eclit.com/iletisim#sirketbilgileri" class="nav-link "  >
+                                                                                                                        <span>Banka Hesapları</span>                                                        </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="https://eclitgo.eclit.com/supporttickets.php" class="nav-link "  >
+                                                                                                                        <span>Destek Merkezi</span>                                                        </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="/iletisim" class="nav-link "  >
+                                                                                                                        <span>İletişim</span>                                                        </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="https://eclitgo.eclit.com/blog/" class="nav-link "  >
+                                                                                                                        <span>EclitGO Blog</span>                                                        </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="https://eclit.com/calisan-adayi-aydinlatma-metni/" class="nav-link "  >
+                                                                                                                        <span>Çalışan Adayı Aydınlatma Metni</span>                                                        </a>
+                                                    </li>
+                                                                                                    <li>
+                                                        <a href="https://eclit.com/eclit-bilisim-hizmetleri-anonim-sirketi-kisisel-verilerin-korunmasi-kanunu-aydinlatma-metni/" class="nav-link "  >
+                                                                                                                        <span>Eclit Aydınlatma Metni</span>                                                        </a>
+                                                    </li>
+                                                                                            </ul>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+                        <div class="footer-bottom">
+                <div class="container">
+                    <div class="footer-copyright">Copyright &copy; 2025 EclitGO. Tüm Hakları Saklıdır.</div>
+                                            <ul class="footer-nav footer-nav-h">
+                                                            <li  >
+                                    <a   href="#"  aria-label="Back to top">
+                                                                                    <i class="lm lm-go-top"></i>
+                                                                                                                                                            </a>
+                                                                                                        </li>
+                                                    </ul>
+                                    </div>
+            </div>
+        </div>
+    </div>         <div id="fullpage-overlay" class="hidden">
+        <div class="outer-wrapper">
+            <div class="inner-wrapper">
+                <img class="lazyload" data-src="/assets/img/overlay-spinner.svg">
+                <br>
+                <span class="msg"></span>
+            </div>
+        </div>
+    </div>
+    <div class="modal system-modal fade" id="modalAjax" tabindex="-1" role="dialog" aria-hidden="true" style="display: none">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="lm lm-close"></i></button>
+                    <h5 class="modal-title"></h5>
+                </div>
+                <div class="modal-body">
+                    <div class="loader">
+                         
+    <div class="spinner ">
+        <div class="rect1"></div>
+        <div class="rect2"></div>
+        <div class="rect3"></div>
+        <div class="rect4"></div>
+        <div class="rect5"></div>
+    </div>
+                         </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary modal-submit">
+                        Gönder
+                    </button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">
+                    Kapat
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <form action="#" id="frmGeneratePassword" class="form-horizontal">
+    <div class="modal fade" id="modalGeneratePassword" style="display: none">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="lm lm-close"></i></button>
+                    <h5 class="modal-title">
+                        Şifre Oluştur
+                    </h5>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-lagom alert-danger hidden" id="generatePwLengthError">
+                        Lütfen şifre uzunluğu için 8 ile 64 arasında bir sayı girin
+                    </div>
+                    <div class="form-group row align-items-center">
+                        <label for="inputGeneratePasswordLength" class="col-md-4 control-label">Şifre Uzunluğu</label>
+                        <div class="col-md-8">
+                            <input type="number" min="8" max="64" value="12" step="1" class="form-control input-inline input-inline-100" id="inputGeneratePasswordLength">
+                        </div>
+                    </div>
+                    <div class="form-group row align-items-center">
+                        <label for="inputGeneratePasswordOutput" class="col-md-4 control-label">Oluşturulan Şifre</label>
+                        <div class="col-md-8">
+                            <input type="text" class="form-control" id="inputGeneratePasswordOutput">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-8 offset-md-4">
+                            <button type="submit" class="btn btn-default btn-sm">
+                                <i class="ls ls-plus"></i>
+                                Yeni Şifre Oluştur
+                            </button>
+                            <button type="button" class="btn btn-default btn-sm copy-to-clipboard" data-clipboard-target="#inputGeneratePasswordOutput">
+                                <i class="ls ls-copy"></i>
+                                Copy
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">
+                        Kapat
+                    </button>
+                    <button type="button" class="btn btn-primary" id="btnGeneratePasswordInsert" data-clipboard-target="#inputGeneratePasswordOutput">
+                        Panoya Kopyala ve Ekle
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+    <script defer src="https://eclitgo.eclit.com/templates/lagom2/core/extensions/CMS/assets/js/lagom-cms.js?v=1.1.2"></script>
+
+    <div class="overlay"></div>
+    <script defer src="/templates/lagom2/assets/js/vendor.js?v=2.3.3-29405f5b1bef496e8eb156dfac8fd7e5"></script>
+    <script defer src="/templates/lagom2/assets/js/lagom-app.js?v=2.3.3-29405f5b1bef496e8eb156dfac8fd7e5"></script>
+        </body>
+</html>    

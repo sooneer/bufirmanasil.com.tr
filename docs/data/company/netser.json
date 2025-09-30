@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/netser.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/netsergrup",
     "youtube": "https://youtube.com/channel/UCrFRn0Qn39Y7IjpR2vueI_g?view_as=subscriber",
     "x": "https://x.com/netsergrup"
-  }
+  },
+  "logo": "img/company/netser.png"
 }

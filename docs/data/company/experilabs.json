@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/experilabs.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -24,5 +23,6 @@
     "youtube": "https://youtube.com/channel/UCk16-9cFfVqsNuAplIdbNNg",
     "x": "https://x.com/experilabs",
     "github": "https://github.com/Experilabs"
-  }
+  },
+  "logo": "img/company/experilabs.svg"
 }

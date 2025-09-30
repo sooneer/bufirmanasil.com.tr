@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/penta.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/pentateknoloji",
     "youtube": "https://youtube.com/channel/UCw6_tNyqZ5_Awv-SGrlLK6A",
     "x": "https://x.com/pentateknoloji"
-  }
+  },
+  "logo": "img/company/penta.svg"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/premierdc.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/premier.dc",
     "youtube": "https://youtube.com/@premierdc.verimerkezi",
     "x": "https://x.com/Premierdc_tr"
-  }
+  },
+  "logo": "img/company/premierdc.png"
 }

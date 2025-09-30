@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/numeko.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Numeko","contact":{"web":"https://numeko.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Numeko",
+  "contact": {
+    "web": "https://numeko.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "logo": "img/company/numeko.png"
+}

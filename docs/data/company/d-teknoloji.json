@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/d-teknoloji.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/dogusteknoloji",
     "youtube": "https://youtube.com/channel/UCqWUO6vpl-wa-vCR0tGZAXw",
     "x": "https://x.com/DogusTeknoloji"
-  }
+  },
+  "logo": "img/company/d-teknoloji.png"
 }

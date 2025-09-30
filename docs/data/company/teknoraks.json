@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/teknoraks.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "",
     "instagram": "https://instagram.com/teknoraks.tr",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/teknoraks.svg"
 }

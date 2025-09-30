@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/konzek.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/konzekteknoloji",
     "youtube": "https://youtube.com/@konzekteknoloji6308",
     "x": "https://x.com/konzekteknoloji?s=11&t=Mr7v2b1IvTI50RupSfLz8w"
-  }
+  },
+  "logo": "img/company/konzek.png"
 }

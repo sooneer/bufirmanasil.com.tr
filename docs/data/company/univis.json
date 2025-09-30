@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/univis.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/univissocial",
     "instagram": "https://instagram.com/univissocial",
     "youtube": "https://youtube.com/channel/UCHx5jPb5d3G8djniqeBkDoA"
-  }
+  },
+  "logo": "img/company/univis.svg"
 }

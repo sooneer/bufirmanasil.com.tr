@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/kivacrm.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/channel/UCibdO9z_H0SuvTfpdNLyjYg",
     "x": "https://x.com/KivaCRM"
-  }
+  },
+  "logo": "img/company/kivacrm.png"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/sitetelekom.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/sitetelekom",
     "youtube": "https://youtube.com/@sitetelekom",
     "x": "https://x.com/site_telekom"
-  }
+  },
+  "logo": "img/company/sitetelekom.png"
 }

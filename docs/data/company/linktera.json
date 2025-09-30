@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/linktera.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/linkteratr",
     "youtube": "",
     "x": "https://x.com/linktera"
-  }
+  },
+  "logo": "img/company/linktera.png"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/maccom.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/elmazamani",
     "instagram": "",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/maccom.png"
 }

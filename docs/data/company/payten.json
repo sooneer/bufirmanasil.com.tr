@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/payten.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/user/AssecoSEE",
     "x": "https://x.com/Asseco_SEE"
-  }
+  },
+  "logo": "img/company/payten.png"
 }

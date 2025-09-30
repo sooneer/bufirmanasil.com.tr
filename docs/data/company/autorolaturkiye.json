@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/autorolaturkiye.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/people",
     "instagram": "https://instagram.com/autorolaturkiye",
     "youtube": "https://youtube.com/channel/UCdZxnu7gANW4bmysKi-godg"
-  }
+  },
+  "logo": "img/company/autorolaturkiye.png"
 }

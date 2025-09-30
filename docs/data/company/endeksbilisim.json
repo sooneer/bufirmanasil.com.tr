@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/endeksbilisim.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/EndeksBilisim",
     "instagram": "https://instagram.com/endeksbilisim",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/endeksbilisim.svg"
 }

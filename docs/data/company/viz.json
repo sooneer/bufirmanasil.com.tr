@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/viz.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/Viznet-Bilişim-Hizmetleri-110389997804428",
     "instagram": "https://instagram.com/viznetbilisim",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/viz.png"
 }

@@ -1,6 +1,5 @@
 {
   "name": "Logo Yazılım",
-  "logo": "/img/company/logo.svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "https://facebook.com/logoyazilim",
     "youtube": "https://youtube.com/user/LOGOYazilim",
     "github": ""
-  }
+  },
+  "logo": "img/company/logo.svg"
 }

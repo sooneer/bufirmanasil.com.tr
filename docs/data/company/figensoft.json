@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/figensoft.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/figensoft",
     "youtube": "",
     "x": "https://x.com/figensoft"
-  }
+  },
+  "logo": "img/company/figensoft.svg"
 }

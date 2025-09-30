@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/net-bt.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/netbtdanismanlik",
     "youtube": "https://youtube.com/channel/UC-bHcffMCpAYVq2kt2_NfpQ",
     "x": "https://x.com/NetBTconsultng"
-  }
+  },
+  "logo": "img/company/net-bt.webp"
 }

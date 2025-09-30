@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/rasyotek.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/rasyotek",
     "youtube": "https://youtube.com/c/Rasyotek%C4%B0nsanKaynaklar%C4%B1Bili%C5%9FimA%C5%9E",
     "x": "https://x.com/rasyotek"
-  }
+  },
+  "logo": "img/company/rasyotek.png"
 }

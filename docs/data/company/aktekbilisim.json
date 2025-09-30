@@ -1,6 +1,5 @@
 {
   "name": "Aktek Bilişim",
-  "logo": "/img/company/aktekbilisim.svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "",
     "youtube": "https://youtube.com/@aktekteknoloji",
     "github": ""
-  }
+  },
+  "logo": "img/company/aktekbilisim.png"
 }

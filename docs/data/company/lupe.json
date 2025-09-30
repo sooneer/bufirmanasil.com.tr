@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/lupe.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/lupeconsulting",
     "instagram": "https://instagram.com/lupeconsulting",
     "youtube": "https://youtube.com/@lupe-bilgi-teknolojileri-sap"
-  }
+  },
+  "logo": "img/company/lupe.png"
 }

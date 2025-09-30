@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/virgosol.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/profile.php?id=100084388224222",
     "instagram": "https://instagram.com/virgosol.universe",
     "youtube": "https://youtube.com/@virgosolofficial"
-  }
+  },
+  "logo": "img/company/virgosol.png"
 }

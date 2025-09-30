@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/hitit.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/hititcs",
     "youtube": "https://youtube.com/channel/UCKlRiQja9Vwj4rte-Jxisvg",
     "x": "https://x.com/HititCS"
-  }
+  },
+  "logo": "img/company/hitit.png"
 }

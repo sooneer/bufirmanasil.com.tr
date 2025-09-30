@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/infodrom.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/%C4%B0nfodrom-Yaz%C4%B1l%C4%B1m-Dan%C4%B1%C5%9Fmanl%C4%B1k-173342752727293",
     "instagram": "https://instagram.com/infodromyazilim",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/infodrom.png"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/arya-it.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/aryaitbilisim",
     "instagram": "https://instagram.com/aryaitbilisim",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/arya-it.png"
 }

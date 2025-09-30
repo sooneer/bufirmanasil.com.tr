@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/buluttahsilat.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/@buluttahsilat142",
     "x": "https://x.com/BulutTahsilat"
-  }
+  },
+  "logo": "img/company/buluttahsilat.png"
 }

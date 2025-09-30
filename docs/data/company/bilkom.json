@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/bilkom.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/p",
     "youtube": "https://youtube.com/channel/UC6ncaEYZ54TYx6DYlZ6xe9g",
     "x": "https://x.com/Bilkom"
-  }
+  },
+  "logo": "img/company/bilkom.svg"
 }

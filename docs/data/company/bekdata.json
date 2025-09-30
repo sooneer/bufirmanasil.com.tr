@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/bekdata.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/bekdata",
     "youtube": "https://youtube.com/channel/UCIwkbKMQmBelKf_6BVo8xXA?view_as=subscriber",
     "x": "https://x.com/Bekdata"
-  }
+  },
+  "logo": "img/company/bekdata.png"
 }

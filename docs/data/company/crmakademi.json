@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/crmakademi.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/channel/UCo8A5tQvIqjY5SPjqT9WtQA",
     "x": "https://x.com/crmakademi"
-  }
+  },
+  "logo": "img/company/crmakademi.jpg"
 }

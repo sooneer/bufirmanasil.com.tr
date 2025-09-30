@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/ventura.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/channel/UCmYgHY-LTiBxxYNKLHQn9-A",
     "x": "https://x.com/VenturaYazilim"
-  }
+  },
+  "logo": "img/company/ventura.png"
 }

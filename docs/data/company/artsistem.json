@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/artsistem.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/ArtSistem",
     "instagram": "https://instagram.com/artsistem",
     "youtube": "https://youtube.com/channel/UC5V1MNZYedlHLnzpPdHlWsw"
-  }
+  },
+  "logo": "img/company/artsistem.png"
 }

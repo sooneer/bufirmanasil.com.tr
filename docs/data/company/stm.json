@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/stm.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/stmdefence",
     "youtube": "https://youtube.com/c/STMDefence",
     "x": "https://x.com/STMDefence"
-  }
+  },
+  "logo": "img/company/stm.png"
 }

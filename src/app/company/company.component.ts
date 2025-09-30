@@ -57,9 +57,21 @@ export class CompanyComponent implements OnInit {
           .subscribe((data) => {
             this.Company = data;
 
-            // SEO meta taglerini güncelle
+            // SEO meta taglerini güncelle - Zengin structured data ile
             if (this.Company) {
-              this.seoService.setCompanyPage(this.Company.name, this.Company.about);
+              this.seoService.setCompanyPageWithStructuredData({
+                name: this.Company.name,
+                about: this.Company.about,
+                logo: this.Company.logo,
+                foundationYear: this.Company.foundationYear,
+                sector: this.Company.sector,
+                web: this.Company.contact?.web,
+                email: this.Company.contact?.email,
+                phone: this.Company.contact?.phone,
+                address: this.Company.contact?.address,
+                linkedin: this.Company.social?.linkedin,
+                slug: this.CompanyUrl
+              });
             }
           });
       } else {
@@ -89,8 +101,20 @@ export class CompanyComponent implements OnInit {
           }
         };
 
-        // SEO meta taglerini güncelle
-        this.seoService.setCompanyPage(this.Company.name, this.Company.about);
+        // SEO meta taglerini güncelle - Zengin structured data ile
+        this.seoService.setCompanyPageWithStructuredData({
+          name: this.Company.name,
+          about: this.Company.about,
+          logo: this.Company.logo,
+          foundationYear: this.Company.foundationYear,
+          sector: this.Company.sector,
+          web: this.Company.contact?.web,
+          email: this.Company.contact?.email,
+          phone: this.Company.contact?.phone,
+          address: this.Company.contact?.address,
+          linkedin: this.Company.social?.linkedin,
+          slug: this.CompanyUrl
+        });
       }
     }
   }

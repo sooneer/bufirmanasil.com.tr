@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/prmyazilim.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/prmyazilim",
     "youtube": "https://youtube.com/channel/UCQXyvac4PxM_HpVAbgACd3g",
     "x": "https://x.com/prmyazilim"
-  }
+  },
+  "logo": "img/company/prmyazilim.png"
 }

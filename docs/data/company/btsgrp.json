@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/btsgrp.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "",
     "instagram": "",
     "youtube": "https://youtube.com/@btsgrp"
-  }
+  },
+  "logo": "img/company/btsgrp.png"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/netsmart.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "",
     "instagram": "https://instagram.com/netsmartlife",
     "youtube": "https://youtube.com/@netsmartsecurity"
-  }
+  },
+  "logo": "img/company/netsmart.svg"
 }

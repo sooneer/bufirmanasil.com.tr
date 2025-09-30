@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/odya.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/@ODYATeknolojii",
     "x": "https://x.com/ODYATeknoloji"
-  }
+  },
+  "logo": "img/company/odya.png"
 }

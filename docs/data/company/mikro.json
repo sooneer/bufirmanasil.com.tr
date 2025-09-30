@@ -1,6 +1,5 @@
 {
   "name": "Mikro",
-  "logo": "/img/company/mikro.svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "",
     "youtube": "",
     "github": ""
-  }
+  },
+  "logo": "img/company/mikro.png"
 }

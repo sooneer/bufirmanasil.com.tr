@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/itss.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/profile.php?id=100063616176225",
     "instagram": "",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/itss.png"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/arvento.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/arventoaractakip",
     "youtube": "https://youtube.com/c/arvento",
     "x": "https://x.com/arventomobile?s=21"
-  }
+  },
+  "logo": "img/company/arvento.webp"
 }

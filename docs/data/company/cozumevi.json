@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/cozumevi.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/czmdanismanlik",
     "youtube": "https://youtube.com/channel/UCrWGo0B6jvqUl6EA252dtfQ",
     "x": "https://x.com/Cozumevi_"
-  }
+  },
+  "logo": "img/company/cozumevi.svg"
 }

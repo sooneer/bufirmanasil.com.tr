@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/geovisiongroup.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/geovision.group",
     "youtube": "https://youtube.com/@geovisiongroup2916",
     "x": "https://x.com/geovisiongroup_"
-  }
+  },
+  "logo": "img/company/geovisiongroup.webp"
 }

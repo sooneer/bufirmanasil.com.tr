@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/turktelekom.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/TurkTelekom",
     "youtube": "https://youtube.com/channel/UC39dZy9pIYVhn8iIDZ0K-cA",
     "x": "https://x.com/turktelekom"
-  }
+  },
+  "logo": "img/company/turktelekom.png"
 }

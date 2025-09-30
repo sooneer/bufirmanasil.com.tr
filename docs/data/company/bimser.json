@@ -1,6 +1,5 @@
 {
   "name": "Bimser",
-  "logo": "/img/company/bimser.svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "https://facebook.com/bmsercozum",
     "youtube": "https://youtube.com/channel/UCX_4PkXrhcp9Cweo5KTDCMQ",
     "github": ""
-  }
+  },
+  "logo": "img/company/bimser.svg"
 }

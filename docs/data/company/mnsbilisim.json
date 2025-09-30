@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/mnsbilisim.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/mnsbilisim",
     "instagram": "https://instagram.com/mnspazar",
     "youtube": "https://youtube.com/channel/UC5obxRLu-uWnxL9tdUvB3Uw"
-  }
+  },
+  "logo": "img/company/mnsbilisim.png"
 }

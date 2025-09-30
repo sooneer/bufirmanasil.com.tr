@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/nethouse.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/nethousebilisim?mibextid=LQQJ4d",
     "instagram": "https://instagram.com/nethousetr?igshid=MzRlODBiNWFlZA==",
     "youtube": "https://youtube.com/@nethouse2242"
-  }
+  },
+  "logo": "img/company/nethouse.png"
 }

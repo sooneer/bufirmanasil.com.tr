@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/ulakhaberlesme.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/ulakhaberlesme",
     "youtube": "https://youtube.com/@ulakhaberlesmea.s.8135",
     "x": "https://x.com/UlakHaberlesme"
-  }
+  },
+  "logo": "img/company/ulakhaberlesme.svg"
 }

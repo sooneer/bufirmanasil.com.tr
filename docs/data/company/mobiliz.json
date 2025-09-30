@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/mobiliz.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/mobiliz_takip",
     "youtube": "https://youtube.com/channel/UCp6dPtcwzUisfrxk0GnZ1Jg?view_as=public",
     "x": "https://x.com/mobiliztakip"
-  }
+  },
+  "logo": "img/company/mobiliz.png"
 }

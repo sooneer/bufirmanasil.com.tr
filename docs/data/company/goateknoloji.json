@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/goateknoloji.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/GOA-Teknoloji-399453767234685",
     "instagram": "https://instagram.com/goateknoloji",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/goateknoloji.png"
 }

@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/paytr.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/paytrcom",
     "youtube": "https://youtube.com/@paytrcom",
     "x": "https://x.com/paytrcom"
-  }
+  },
+  "logo": "img/company/paytr.png"
 }

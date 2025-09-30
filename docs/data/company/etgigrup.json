@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/etgigrup.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/etgigrup",
     "youtube": "https://youtube.com/channel/UCCrrF1m1HGY7-CGmdoJzejQ",
     "x": "https://x.com/etgi_grup"
-  }
+  },
+  "logo": "img/company/etgigrup.png"
 }

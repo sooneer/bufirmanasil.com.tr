@@ -1,6 +1,5 @@
 {
   "name": "Netmon",
-  "logo": "/img/company/netmon.svg",
   "tagline": "",
   "foundationYear": null,
   "about": "",
@@ -31,5 +30,6 @@
     "facebook": "https://facebook.com/ankaranetmon",
     "youtube": "",
     "github": ""
-  }
+  },
+  "logo": "img/company/netmon.png"
 }

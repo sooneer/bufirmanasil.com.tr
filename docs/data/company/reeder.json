@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/reeder.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -23,5 +22,6 @@
     "instagram": "https://instagram.com/reeder.tr",
     "youtube": "https://youtube.com/channel/UCVD5ZRF-201v-v7xBoALZ5Q",
     "x": "https://x.com/reederebr?lang=tr"
-  }
+  },
+  "logo": "img/company/reeder.png"
 }

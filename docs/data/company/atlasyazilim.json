@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/atlasyazilim.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/AtlasYazilim",
     "instagram": "https://instagram.com/atlasyazilim",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/atlasyazilim.png"
 }

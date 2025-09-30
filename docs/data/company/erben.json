@@ -1,7 +1,6 @@
 {
   "founded": "",
   "employees": "",
-  "logo": "/img/company/erben.svg",
   "careers": "",
   "headquarters": "",
   "description": "",
@@ -22,5 +21,6 @@
     "facebook": "https://facebook.com/ErbenKontrolSistemleri",
     "instagram": "https://instagram.com/erbenkontrolsistemleri",
     "youtube": ""
-  }
+  },
+  "logo": "img/company/erben.png"
 }

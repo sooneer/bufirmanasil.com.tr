@@ -1,1 +1,26 @@
-{"founded":"","employees":"","logo":"/img/company/bysgrup.svg","careers":"","headquarters":"","description":"","internship":"","tags":[],"remote":"","name":"Bysgrup","contact":{"web":"https://bysgrup.com.tr","phone":"","email":"","address":""},"sector":"","social":{"linkedin":"","twitter":"","facebook":"","instagram":"","youtube":""}}
+{
+  "founded": "",
+  "employees": "",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Bysgrup",
+  "contact": {
+    "web": "https://bysgrup.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "logo": "img/company/bysgrup.png"
+}
