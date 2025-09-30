@@ -140,4 +140,9 @@ export class CompanyComponent implements OnInit {
   getSafeUrl(url: string) {
     return this.sanitizer.bypassSecurityTrustResourceUrl(url);
   }
+
+  removeProtocol(url: string): string {
+    if (!url) return '';
+    return url.replace(/^https?:\/\//, '');
+  }
 }
