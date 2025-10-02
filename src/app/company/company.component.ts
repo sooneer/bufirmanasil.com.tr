@@ -23,7 +23,7 @@ import { PLATFORM_ID } from '@angular/core';
   ],
   encapsulation: ViewEncapsulation.None,
 })
-export class CompanyComponent implements OnInit {
+export class CompanyComponent implements OnInit, AfterViewInit {
   CompanyUrl?: string;
   Company: Company | null = null;
   showAllClients: boolean = false;
@@ -36,7 +36,7 @@ export class CompanyComponent implements OnInit {
     private sanitizer: DomSanitizer,
     private seoService: SeoService,
     @Inject(PLATFORM_ID) private platformId: Object
-  ) {}
+  ) { }
 
   ngOnInit() {
     this.route.url.subscribe((event) => {
@@ -56,6 +56,9 @@ export class CompanyComponent implements OnInit {
           .get<Company>('/data/company/' + this.CompanyUrl + '.json')
           .subscribe((data) => {
             this.Company = data;
+
+            // Initialize Google AdSense after content updates
+            setTimeout(() => this.initializeAds(), 0);
 
             // SEO meta taglerini güncelle - Zengin structured data ile
             if (this.Company) {
@@ -115,7 +118,35 @@ export class CompanyComponent implements OnInit {
           linkedin: this.Company.social?.linkedin,
           slug: this.CompanyUrl
         });
+
+        // Initialize ads on client only (noop on server)
+        setTimeout(() => this.initializeAds(), 0);
       }
+    }
+  }
+
+  ngAfterViewInit(): void {
+    // Ensure ads are initialized after first render on the browser
+    this.initializeAds();
+  }
+
+  private initializeAds(): void {
+    if (!isPlatformBrowser(this.platformId)) {
+      return;
+    }
+    try {
+      const w = window as any;
+      w.adsbygoogle = w.adsbygoogle || [];
+      const adElements = document.querySelectorAll('ins.adsbygoogle');
+      adElements.forEach(() => {
+        try {
+          w.adsbygoogle.push({});
+        } catch (e) {
+          // ignore individual push errors to avoid breaking the page
+        }
+      });
+    } catch (e) {
+      // ignore
     }
   }
 
