@@ -2,25 +2,29 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
   "remote": "",
   "name": "Eczacibasibilisim",
   "contact": {
-    "web": "https://eczacibasibilisim.com",
+    "web": "https://eczacibasibilisim.com.tr",
     "phone": "",
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/company/eczacibasibilisim/",
     "twitter": "",
     "facebook": "",
-    "instagram": "",
+    "instagram": "https://www.instagram.com/eczacibasibilisim/",
     "youtube": ""
   },
-  "logo": "img/company/eczacibasibilisim.svg"
+  "logo": "img/company/eczacibasibilisim.png",
+  "about": "Eczacıbaşı Bilişim",
+  "tagline": "Eczacıbaşı Information and Communication Technologies (Eczacıbaşı ICT) is a provider of information technology solutions"
 }

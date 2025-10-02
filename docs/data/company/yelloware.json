@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul, Ataşehir",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/yelloware",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "https://instagram.com/yelloware",
     "youtube": ""
   },
-  "logo": "img/company/yelloware.png"
+  "logo": "img/company/yelloware.png",
+  "tagline": "Let the coding begin.."
 }

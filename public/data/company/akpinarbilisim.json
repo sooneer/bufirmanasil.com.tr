@@ -1,13 +1,15 @@
 {
   "name": "Akpinar Bilişim",
-  "tagline": "",
+  "tagline": "Uçtan Uca Kurumsal Çözümler",
   "foundationYear": null,
-  "about": "",
+  "about": "Akpınar Bilişim Hizmetleri",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "clients": [],
   "contact": {
     "web": "https://akpinarbilisim.com.tr",
@@ -31,5 +33,6 @@
     "youtube": "",
     "github": ""
   },
-  "logo": "img/company/akpinarbilisim.svg"
+  "logo": "img/company/akpinarbilisim.png",
+  "headquarters": "Nilüfer, Bursa"
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul, Ümraniye",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/detaysoft",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/user/detaysoft",
     "x": "https://x.com/detaysoft?ref_src=twsrc%5Etfw"
   },
-  "logo": "img/company/detaysoft.png"
+  "logo": "img/company/detaysoft.png",
+  "about": "Detaysoft",
+  "tagline": "Detaysoft, a Global | Platinum Partner of SAP in Turkey, and a member of United VARs."
 }

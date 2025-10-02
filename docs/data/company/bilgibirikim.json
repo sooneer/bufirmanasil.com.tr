@@ -2,25 +2,30 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
   "remote": "",
   "name": "Bilgi Birikim",
   "contact": {
-    "web": "https://bilgibirikim.com",
+    "web": "https://www.bilgibirikim.com",
     "phone": "",
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
-    "linkedin": "",
-    "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "linkedin": "https://www.linkedin.com/company/bilgi-birikim-sistemleri/",
+    "twitter": "https://x.com/BilgiBirikim",
+    "facebook": "https://www.facebook.com/bilgibirikimsistemleri",
+    "instagram": "https://www.instagram.com/bilgibirikimsistemleri/",
+    "youtube": "https://www.youtube.com/BilgiBirikimSistemleriBBS",
+    "x": "https://x.com/BilgiBirikim"
   },
-  "logo": "img/company/bilgibirikim.svg"
+  "logo": "img/company/bilgibirikim.png",
+  "about": "Bilgi Birikim Sistemleri",
+  "tagline": "1992'den beri Doğru Teknoloji Ortağınız!"
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul , Ataşehir",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/bitechnology-turkiye",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCjQDgMnnFgke1MjXrfSHFqQ",
     "x": "https://x.com/QlikViewTurkiye?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
   },
-  "logo": "img/company/bitechnology.png"
+  "logo": "img/company/bitechnology.png",
+  "about": "BI Technology Qlik Master Reseller",
+  "tagline": "Dijital Dönüşüm Yolculuğunuzdaki Analitik Çözüm Ortağınız."
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Kocaeli",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/sammteknoloji",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "",
     "x": "https://x.com/SammTeknoloji"
   },
-  "logo": "img/company/samm.svg"
+  "logo": "img/company/samm.png",
+  "tagline": "Crafting Tomorrow's Technologies"
 }

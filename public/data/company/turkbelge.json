@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İzmir",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/türkbelge",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/channel/UCoN_hCT5vi_D-FyWujdH2IA",
     "x": "https://x.com/turkbelgecomtr"
   },
-  "logo": "img/company/turkbelge.png"
+  "logo": "img/company/turkbelge.png",
+  "tagline": "TÜRKBELGE"
 }

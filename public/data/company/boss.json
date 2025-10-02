@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "İnsan Kaynakları Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/cottgroup",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@CottGroupSocial",
     "x": "https://x.com/cottgroup"
   },
-  "logo": "img/company/boss.png"
+  "logo": "img/company/boss.png",
+  "about": "CottGroup®",
+  "tagline": "Global expertise, local solutions."
 }

@@ -1,13 +1,15 @@
 {
   "name": "Turkcell",
-  "tagline": "",
+  "tagline": "Turkcell | LinkedIn‘de 566.420 takipçi Turkcell, Türkiye’de kurulmuş; yerleşik, entegre iletişim ve teknoloji hizmetleri şirketidir. Müşterilerine mobil ve sabit şebekeleri üzerinden ses, data, TV hizmetleri ve katma değerli bireysel ve kurumsal servisler sunmaktadır.\n \nHisseleri 11 Temmuz 2000&#39;de Borsa İstanbul (BİST) ve New York Stock Exchange&#39;de (NYSE) eşzamanlı olarak işlem görmeye başlayan Turkcell, NYSE&#39;ye kote olan tek Türk şirketi unvanına sahiptir.",
   "foundationYear": null,
   "about": "",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "clients": [],
   "contact": {
     "web": "https://turkcell.com.tr",
@@ -31,5 +33,6 @@
     "youtube": "",
     "github": ""
   },
-  "logo": "img/company/turkcell.png"
+  "logo": "img/company/turkcell.png",
+  "headquarters": "Istanbul, Turkey"
 }

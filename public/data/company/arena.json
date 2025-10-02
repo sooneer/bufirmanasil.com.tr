@@ -3,7 +3,7 @@
   "employees": "",
   "logo": "img/company/arena.png",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -15,7 +15,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/arena",
     "twitter": "",
@@ -23,5 +25,7 @@
     "instagram": "https://instagram.com/arena.bilgisayar",
     "youtube": "https://youtube.com/channel/UCbpwJuklJPTdIyOpOuzL4eg",
     "x": "https://x.com/bilgisayararena"
-  }
+  },
+  "about": "Arena",
+  "tagline": "Türkiye'nin Lider Teknoloji Sağlayıcısı!"
 }

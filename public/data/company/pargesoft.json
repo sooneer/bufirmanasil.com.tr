@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "ISTANBUL, Ümraniye",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/pargesoft",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "",
     "x": "https://x.com/pargesoft"
   },
-  "logo": "img/company/pargesoft.svg"
+  "logo": "img/company/pargesoft.png",
+  "tagline": "Dijital Dönüşümde Çözüm Ortağınız"
 }

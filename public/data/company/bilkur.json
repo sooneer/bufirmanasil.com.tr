@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Şişli, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/bilkur",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@bilkur",
     "x": "https://x.com/BilkurBarkod"
   },
-  "logo": "img/company/bilkur.svg"
+  "logo": "img/company/bilkur.png",
+  "about": "Bilkur Bilgisayar San. ve Tic. Ltd. Şti.",
+  "tagline": "Barkod Çözümlerinde Aklın Yolu \"BİLKUR\""
 }

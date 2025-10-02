@@ -1,13 +1,15 @@
 {
   "name": "Netmon",
-  "tagline": "",
+  "tagline": "Ankara Netmon A.Ş. | LinkedIn‘de 1.954 takipçi Ankara Netmon Telecommunication Systems Commerce &amp; Industry Corporation  was founded by the Installation Group of Nortel NETAŞ, after the group was outsourced from the company in 1998.\n\nThe main activity area of Netmon is providing installation, configuration, engineering and operation services in the sector. \n\nAnkara Netmon A.Ş is in the 14th degree of the Turkey publication of Top 500 ICT Companies.",
   "foundationYear": null,
-  "about": "",
+  "about": "Ankara Netmon A.Ş.",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "clients": [],
   "contact": {
     "web": "https://netmon.com.tr",
@@ -31,5 +33,6 @@
     "youtube": "",
     "github": ""
   },
-  "logo": "img/company/netmon.png"
+  "logo": "img/company/netmon.png",
+  "headquarters": "Ankara, Yenimahalle"
 }

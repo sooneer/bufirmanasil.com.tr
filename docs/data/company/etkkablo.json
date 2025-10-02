@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/etkkablo",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/user/etkkablo",
     "x": "https://x.com/etkkablo"
   },
-  "logo": "img/company/etkkablo.png"
+  "logo": "img/company/etkkablo.png",
+  "about": "ETK Kablo Sanayi ve Ticaret A. Ş.",
+  "tagline": "In every bit of communication."
 }

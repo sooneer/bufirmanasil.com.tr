@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara (Ankara, Turkey), Çankaya",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/etgigrup",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCCrrF1m1HGY7-CGmdoJzejQ",
     "x": "https://x.com/etgi_grup"
   },
-  "logo": "img/company/etgigrup.png"
+  "logo": "img/company/etgigrup.png",
+  "about": "ETGI GRUP",
+  "tagline": "Vedubox, Zoom, Vimeo, Articulate, Vyond, Camtasia, Snagit, Uzaktan Eğitim Yazılımı, Online Eğitim, Proctoring, AR/VR"
 }

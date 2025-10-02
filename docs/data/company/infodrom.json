@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İSTANBUL",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/infodromyazilim",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/infodromyazilim",
     "youtube": ""
   },
-  "logo": "img/company/infodrom.png"
+  "logo": "img/company/infodrom.png",
+  "about": "Infodrom Yazılım",
+  "tagline": "#birliktedijitalgeleceğe,\n\nBir GOSB Teknopark firması. \n\nBilişim500 (2023)\nBilişim500 (2022)\nBilişim500 (2021)"
 }

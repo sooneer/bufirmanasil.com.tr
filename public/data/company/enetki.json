@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara, Yenimahalle",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Savunma ve Uzay Araçları İmalatı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/enetkisavunma",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCc83OdDn-R-v9-hgX0GGlvA",
     "x": "https://x.com/enetkisavunma"
   },
-  "logo": "img/company/enetki.png"
+  "logo": "img/company/enetki.png",
+  "about": "Enetki Savunma",
+  "tagline": "Enetki Savunma A.Ş."
 }

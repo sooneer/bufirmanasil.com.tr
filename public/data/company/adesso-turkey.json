@@ -1,12 +1,13 @@
 {
   "name": "Adesso Turkey Bilgi Teknolojileri Ltd. Şti.",
-  "logo": "img/company/adesso-turkey.svg",
-  "tagline": "Türkiye’nin önde gelen IT servis sağlayıcısı",
+  "logo": "img/company/adesso-turkey.png",
+  "tagline": "Delivering Excellence in Custom Software Development & IT Consultancy",
   "foundationYear": 2013,
   "about": "adesso Türkiye olarak, dijital dönüşüm yolculuğunda müşterilerimize sadece bir IT servis sağlayıcısı değil, stratejik bir iş ortağı olarak eşlik ediyoruz. İleri teknolojilerdeki uzmanlığımızı, farklı sektörlerde edindiğimiz derin iş bilgisiyle birleştirerek; modernizasyondan bulut dönüşümüne, veri analitiğinden yapay zeka entegrasyonuna kadar geniş bir yelpazede özelleştirilmiş hizmetler sunuyoruz.",
   "BIST": null,
   "sector": [
-    "Yazılım"
+    "Yazılım",
+    "BT Hizmetleri ve BT Danışmanlığı"
   ],
   "clients": [
     "Agesa",
@@ -59,5 +60,6 @@
     "instagram": "https://www.instagram.com/adessoturkey/",
     "youtube": "https://www.youtube.com/channel/UCAqJjT5M8nWlMx-ARnHvuhg",
     "github": null
-  }
+  },
+  "headquarters": "Istanbul, Sariyer"
 }

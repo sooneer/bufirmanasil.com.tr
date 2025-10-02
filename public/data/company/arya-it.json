@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Üsküdar, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/arya-it",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/aryaitbilisim",
     "youtube": ""
   },
-  "logo": "img/company/arya-it.png"
+  "logo": "img/company/arya-it.png",
+  "about": "Arya-IT",
+  "tagline": "Rekabetci avantaj, köklü bir vizyon ve misyon ile başlar."
 }

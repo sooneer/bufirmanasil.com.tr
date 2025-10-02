@@ -44,17 +44,23 @@
 							</svg>
 							{{ c.sector.join(', ') }}
 						</div>
+						<div class="meta-item" *ngIf="c.headquarters">
+							<svg class="meta-icon" viewBox="0 0 24 24" fill="currentColor">
+								<path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+							</svg>
+							{{ c.headquarters }}
+						</div>
+						<div class="meta-item" *ngIf="c.companySize">
+							<svg class="meta-icon" viewBox="0 0 24 24" fill="currentColor">
+								<path d="M16 4c0-1.11.89-2 2-2s2 .89 2 2-.89 2-2 2-2-.89-2-2zm4 18v-6h2.5l-2.54-7.63A3.01 3.01 0 0 0 16.96 6h-2.05c-1.6 0-2.91 1.31-2.91 2.91V9h2v2H8V9h2v-.09C10 6.81 8.19 5 6.09 5H4.05c-1.3 0-2.42.84-2.83 2.07L.5 14H3v6h2v-6h2v6h2v-6h2v6h2v-6h2v6h2z"/>
+							</svg>
+							{{ c.companySize }}
+						</div>
 						<div class="meta-item" *ngIf="c.BIST?.code">
 							<svg class="meta-icon" viewBox="0 0 24 24" fill="currentColor">
 								<path d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"/>
 							</svg>
 							BIST: {{ c.BIST.code }}
-						</div>
-						<div class="meta-item" *ngIf="c.contact?.address">
-							<svg class="meta-icon" viewBox="0 0 24 24" fill="currentColor">
-								<path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
-							</svg>
-							{{ c.contact.address }}
 						</div>
 					</div>
 				</div>

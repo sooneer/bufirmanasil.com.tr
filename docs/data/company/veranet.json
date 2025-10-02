@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, ŞİŞLİ",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/veranet-teknoloji-hizmetleri",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "https://instagram.com/veranetteknoloji",
     "youtube": ""
   },
-  "logo": "img/company/veranet.png"
+  "logo": "img/company/veranet.png",
+  "tagline": "VERANET TEKNOLOJİ A.Ş. 0212 267 21 01 OT/VT, BARKOD, RFID, OTOMASYON, DONANIM, YAZILIM, PROJE YÖNETİMİ"
 }

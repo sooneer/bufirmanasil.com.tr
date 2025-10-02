@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İSTANBUL, MARMARA",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/isttelkom-a-%C5%9F-",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCf9tNrVZCRu5uVJXqJ784Sg",
     "x": "https://x.com/isttelkom"
   },
-  "logo": "img/company/isttelkom.png"
+  "logo": "img/company/isttelkom.png",
+  "about": "İSTTELKOM AŞ",
+  "tagline": "BİLGİ TEKNOLOJİLERİ & TELEKOMÜNİKASYON ÇÖZÜMLERİ"
 }

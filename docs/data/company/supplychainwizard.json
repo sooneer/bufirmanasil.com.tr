@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Princeton, New Jersey",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "İşletme Danışmanlığı ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/supply-chain-wizard-llc",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "",
     "x": "https://x.com/SC_wizard"
   },
-  "logo": "img/company/supplychainwizard.png"
+  "logo": "img/company/supplychainwizard.png",
+  "tagline": "A management consulting, digital innovation and solutions firm"
 }

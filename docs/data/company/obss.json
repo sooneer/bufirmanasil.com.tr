@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Teknopark, İstanbul, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/obss",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "",
     "x": "https://x.com/obsstech"
   },
-  "logo": "img/company/obss.png"
+  "logo": "img/company/obss.png",
+  "tagline": "Pioneering Product Development and Technology Consulting for a Cloud-Powered Future"
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Çankaya, Ankara",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Savunma ve Uzay Araçları İmalatı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/titrateknoloji",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/channel/UC0V_GhwPiBsq0zzxhoFQ8Fg",
     "x": "https://x.com/titrateknoloji?ref_src=twsrc%5Etfw"
   },
-  "logo": "img/company/titra.png"
+  "logo": "img/company/titra.png",
+  "tagline": "TİTRA"
 }

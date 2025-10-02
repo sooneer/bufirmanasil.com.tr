@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul, Istanbul/Bostancı",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/assisttkurumsal",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/c/AssisTTkurumsal",
     "x": "https://x.com/assisttkurumsal"
   },
-  "logo": "img/company/assistt.png"
+  "logo": "img/company/assistt.png",
+  "about": "AssisTT",
+  "tagline": "AssisTT, 2007 yılında yüzde yüz Türk Telekom iştiraki olarak kurulan bir müşteri deneyimi şirketidir."
 }

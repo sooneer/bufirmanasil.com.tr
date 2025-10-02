@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Maltepe",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgisayar ve Ağ Güvenliği"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/turkuaz-bilgisayar95",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "",
     "x": "https://x.com/turkuaz_net"
   },
-  "logo": "img/company/turkuaz.png"
+  "logo": "img/company/turkuaz.png",
+  "tagline": "Turkuaz Bilgisayar"
 }

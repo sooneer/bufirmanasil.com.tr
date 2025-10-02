@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Ataşehir",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/linktera",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/linktera"
   },
-  "logo": "img/company/linktera.png"
+  "logo": "img/company/linktera.png",
+  "about": "Linktera",
+  "tagline": "Transform Your Future!"
 }

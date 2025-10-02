@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul , Ümraniye",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/jforce",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/share?url=https:"
   },
-  "logo": "img/company/jforce.svg"
+  "logo": "img/company/jforce.png",
+  "about": "JFORCE",
+  "tagline": "Dijital Yolculuk İçin Bilişsel IT Mimarisi"
 }

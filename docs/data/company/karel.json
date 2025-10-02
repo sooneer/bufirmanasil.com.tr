@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Teknoloji, Bilgi ve İnternet"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/karel-tr",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/karelcomtr"
   },
-  "logo": "img/company/karel.png"
+  "logo": "img/company/karel.png",
+  "about": "Karel",
+  "tagline": "Daha İyi Bir Yaşam İçin Teknoloji"
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/regna-consulting",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/@regnaconsulting",
     "x": "https://x.com/regnaconsulting"
   },
-  "logo": "img/company/regna.svg"
+  "logo": "img/company/regna.png",
+  "tagline": "Regna Smart Solutions. SAP Customer Experience (CX) Partner"
 }

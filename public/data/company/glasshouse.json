@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul, Sariyer",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/glasshouse-turkiye",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/glasshouse_turkiye?igsh=Y25ub2VnaDhqMGgy",
     "youtube": "https://youtube.com/@GlassHouseTurkiye"
   },
-  "logo": "img/company/glasshouse.png"
+  "logo": "img/company/glasshouse.png",
+  "about": "GlassHouse",
+  "tagline": "IT partner of choice for premier Enterprises since 2004."
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "istanbul, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/vbm-technology",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "",
     "youtube": ""
   },
-  "logo": "img/company/vbm.png"
+  "logo": "img/company/vbm.png",
+  "tagline": "AI Implementation Partner"
 }

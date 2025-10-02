@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara, Balgat/Çankaya",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Teknoloji, Bilgi ve İnternet"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/neafor",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/neafor.teknoloji",
     "youtube": "https://youtube.com/channel/UCIQXWI6AvY21nYUFT5Q8KSQ"
   },
-  "logo": "img/company/neafor.png"
+  "logo": "img/company/neafor.png",
+  "about": "NEAFOR Bilişim Teknolojileri A.Ş.",
+  "tagline": "\"Bizim için her proje bir başarı hikayesidir.\""
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ataşehir, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/netbt-consulting",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UC-bHcffMCpAYVq2kt2_NfpQ",
     "x": "https://x.com/NetBTconsultng"
   },
-  "logo": "img/company/net-bt.webp"
+  "logo": "img/company/net-bt.png",
+  "about": "NetBT Danışmanlık Hizmetleri",
+  "tagline": "Kurumsal Hedefler Net Çözümler"
 }

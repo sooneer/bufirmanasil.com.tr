@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Besiktas, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/galaksity",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/galaksity"
   },
-  "logo": "img/company/galaksity.png"
+  "logo": "img/company/galaksity.png",
+  "about": "Galaksity",
+  "tagline": "Galaksity"
 }

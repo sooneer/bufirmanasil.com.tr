@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Kağıthane/İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/bekdata",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCIwkbKMQmBelKf_6BVo8xXA?view_as=subscriber",
     "x": "https://x.com/Bekdata"
   },
-  "logo": "img/company/bekdata.png"
+  "logo": "img/company/bekdata.png",
+  "about": "Bekdata Teknoloji A.Ş.",
+  "tagline": "Eğitim Teknolojileri Entegratörü"
 }

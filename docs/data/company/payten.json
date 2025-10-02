@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Warszawa, Poland",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Finansal Hizmetler"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/payten",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/user/AssecoSEE",
     "x": "https://x.com/Asseco_SEE"
   },
-  "logo": "img/company/payten.png"
+  "logo": "img/company/payten.png",
+  "tagline": "Payten provides complete payment industry solutions for non-financial and financial institutions."
 }

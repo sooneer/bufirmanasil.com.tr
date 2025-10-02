@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Küçükçekmece, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/erpa-teknoloji",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@Erpateknoloji95",
     "x": "https://x.com/Erpa_Teknoloji"
   },
-  "logo": "img/company/erpateknoloji.svg"
+  "logo": "img/company/erpateknoloji.png",
+  "about": "Erpa Teknoloji",
+  "tagline": "Dijital Dönüşümde Yanınızdayız"
 }

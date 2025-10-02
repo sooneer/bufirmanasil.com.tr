@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Besiktas, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/elcobil-bili-im",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/Elcobil"
   },
-  "logo": "img/company/elcobil.png"
+  "logo": "img/company/elcobil.png",
+  "about": "Elcobil Bilişim",
+  "tagline": "Elcobil Bilişim | LinkedIn‘de 118 takipçi ELCOBİL, müşterilerimizin bilişim ve telekomünikasyon alanlarında yaşadığı sıkıntıları en aza indirgemek, yenilikçi uygulamalar ve yardımcı çözümler sunmak amacıyla 2006 yılında kurulmuştur.\n\nMüşterilerimizin, tüm süreçlerinde yaşadığı verimlilik kaybını ve maliyetlerinin en aza indirgenmesi için, iş ve çalışma tecrübemizden oluşan potansiyelimizi ve hizmet kapasitemizi, sahip olduğumuz Bilişim Teknolojileriyle birleştirerek müşterilerimize sunmak birincil hedefimizdir.\n\nHedeflerimize ulaşmak için, öncelikle süreçlere dahil olarak, hizmet verdiğimiz müşterilerimizin yönetim aşamaları, hedef ve problemlerini anlamaktayız."
 }

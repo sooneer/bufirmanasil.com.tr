@@ -2,25 +2,30 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Kağıthane",
   "description": "",
   "internship": "",
   "tags": [],
   "remote": "",
   "name": "Dahibilisim",
   "contact": {
-    "web": "https://dahibilisim.com.tr",
+    "web": "https://www.dahiteknolojigrubu.com",
     "phone": "",
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
-    "linkedin": "",
-    "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "linkedin": "https://www.linkedin.com/company/dahibilisimteknolojileri/",
+    "twitter": "https://x.com/dahibilisim",
+    "facebook": "https://www.facebook.com/Dahibilisimteknoloji",
+    "instagram": "https://www.instagram.com/dahiteknolojigrubu/",
+    "youtube": "https://www.youtube.com/@bi1isvar",
+    "x": "https://x.com/dahibilisim"
   },
-  "logo": "img/company/dahibilisim.svg"
+  "logo": "img/company/dahibilisim.png",
+  "about": "Dahi Teknoloji Grubu",
+  "tagline": "Dahi fikirler, daha iyi çözümler."
 }

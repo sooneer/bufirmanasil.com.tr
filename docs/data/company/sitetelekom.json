@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/sitetelekom",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/@sitetelekom",
     "x": "https://x.com/site_telekom"
   },
-  "logo": "img/company/sitetelekom.png"
+  "logo": "img/company/sitetelekom.png",
+  "tagline": "Müşteri Odaklı Kaliteli Çağrı Hizmetinin Adresi"
 }

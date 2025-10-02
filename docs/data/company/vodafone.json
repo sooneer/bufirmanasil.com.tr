@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "London",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/vodafone",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "",
     "x": "https://x.com/VodafoneGroup"
   },
-  "logo": "img/company/vodafone.png"
+  "logo": "img/company/vodafone.png",
+  "tagline": "everyone.connected"
 }

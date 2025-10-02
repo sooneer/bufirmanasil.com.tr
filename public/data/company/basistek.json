@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Turkey",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/basistek-bilgi-teknolojileri-a-%C5%9F",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/basistekbt",
     "youtube": "https://youtube.com/channel/UCKYaVAHFx3iIiKzVxDaiK0w"
   },
-  "logo": "img/company/basistek.jpg"
+  "logo": "img/company/basistek.png",
+  "about": "Basistek Bilgi Teknolojileri A.Ş.",
+  "tagline": "Değer Yaratan BT Çözümleri  |  Value Added IT Solutions"
 }

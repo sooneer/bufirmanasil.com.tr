@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Beşiktaş",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/geovision-group",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@geovisiongroup2916",
     "x": "https://x.com/geovisiongroup_"
   },
-  "logo": "img/company/geovisiongroup.webp"
+  "logo": "img/company/geovisiongroup.png",
+  "about": "Geovision Group",
+  "tagline": "Geovision Group"
 }

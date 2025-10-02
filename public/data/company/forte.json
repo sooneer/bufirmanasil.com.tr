@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Çankaya, Ankara",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/forte-teknoloji",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/ForteTeknoloji"
   },
-  "logo": "img/company/forte.svg"
+  "logo": "img/company/forte.png",
+  "about": "Forte Bilgi İletişim Teknolojileri ve Savunma Sanayi A.Ş.",
+  "tagline": "\"Uçtan uca teknoloji çözüm ortağınız\""
 }

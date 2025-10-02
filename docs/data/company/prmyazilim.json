@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/prm-yazilim",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/channel/UCQXyvac4PxM_HpVAbgACd3g",
     "x": "https://x.com/prmyazilim"
   },
-  "logo": "img/company/prmyazilim.png"
+  "logo": "img/company/prmyazilim.png",
+  "tagline": "Zor projelerin yönetimi için yazılım çözümleri"
 }

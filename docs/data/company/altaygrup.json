@@ -1,14 +1,16 @@
 {
   "name": "Altay Grup",
   "logo": "img/company/altaygrup.png",
-  "tagline": "",
+  "tagline": "Hassas İklimlendirme ve Yükseltilmiş Döşeme Sistemlerinde Profesyonel Hizmet Anlayışı",
   "foundationYear": null,
-  "about": "",
+  "about": "Altay Grup A.S.",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "clients": [],
   "contact": {
     "web": "https://altaygrup.com",
@@ -31,5 +33,6 @@
     "facebook": "https://facebook.com/pages",
     "youtube": "",
     "github": ""
-  }
+  },
+  "headquarters": "Çubuklu, İstanbul"
 }

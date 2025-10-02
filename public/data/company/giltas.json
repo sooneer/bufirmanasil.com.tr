@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İzmir, İzmir/Konak",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/gilta%C5%9F-a-%C5%9F-",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/giltas_sm",
     "youtube": ""
   },
-  "logo": "img/company/giltas.png"
+  "logo": "img/company/giltas.png",
+  "about": "Giltaş A.Ş.",
+  "tagline": "Giltaş A.Ş. | LinkedIn‘de 229 takipçi GİLTAŞ\n\n1986 yılında İzmir Pamuk Mensucatı T.A.Ş. bünyesinde kurulmuş olup İzmir’in en köklü BT şirketlerinden birisidir. Kişisel Bilgisayarların Türkiye pazarına girdiği yıllarda pazara giren Giltaş öncelikle donanım ağırlıklı olarak çalışmaya başlamıştır. Daha sonra da BT pazarının değişen yapısı gereği yazılım kanalında sonyıllarda ise ERP (Kurumsal Kaynak Planlaması) tarafında sistem bütünleştirici olarak yer almaktadır."
 }

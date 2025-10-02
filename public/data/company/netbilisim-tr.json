@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Kağıthane",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Toptan Satış İthalat ve İhracat"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/netaksesuarbilisim",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCRRAtZhwsWDR8lO0ysCSYiQ",
     "x": "https://x.com/netbilisim_tr"
   },
-  "logo": "img/company/netbilisim-tr.png"
+  "logo": "img/company/netbilisim-tr.png",
+  "about": "Net Aksesuar Bilişim",
+  "tagline": "Net Aksesuar Bilişim Ürünleri San. ve Tic. A.Ş. \nwww.netbilisim-tr.com"
 }

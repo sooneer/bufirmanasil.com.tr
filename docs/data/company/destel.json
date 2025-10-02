@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Sarıyer",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/destel-bilisim-cozumleri",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/destelbilisim?igsh=MTc5Z3hnemppendyMA%3D%3D&utm_source=qr",
     "youtube": "https://youtube.com/channel/UCKaVqK7Klc3qCAc2SJP-cgw"
   },
-  "logo": "img/company/destel.png"
+  "logo": "img/company/destel.png",
+  "about": "Destel Bilişim Çözümleri A.Ş.",
+  "tagline": "Redefine Possible"
 }

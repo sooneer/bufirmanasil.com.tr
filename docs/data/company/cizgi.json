@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Marmara",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/cizgi-teknoloji",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/cizgi_teknoloji",
     "youtube": "https://youtube.com/channel/UCwDQ6IzlUqCkU0JdvkddvyQ"
   },
-  "logo": "img/company/cizgi.png"
+  "logo": "img/company/cizgi.png",
+  "about": "Çizgi Teknoloji Elektronik Tasarım ve Üretim A.Ş.",
+  "tagline": "Endüstriyel Bilgisayar, Kiosk, Digital Signage, Medikal Bilgisayar Sistemleri Tasarım ve Üretimi."
 }

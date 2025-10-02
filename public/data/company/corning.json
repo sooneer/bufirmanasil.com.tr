@@ -2,25 +2,30 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Corning, New York",
   "description": "",
   "internship": "",
   "tags": [],
   "remote": "",
-  "name": "Corning",
+  "name": "Corning Optik İletişim Sanayi Ltd. Şti.",
   "contact": {
-    "web": "https://corning.com",
+    "web": "https://www.corning.com",
     "phone": "",
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Cam, Seramik ve Beton İmalatı"
+  ],
   "social": {
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/corning-incorporated",
     "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "facebook": "https://facebook.com/corningincorporated",
+    "instagram": "https://instagram.com/corning_incorporated",
+    "youtube": "https://youtube.com/user/CorningIncorporated",
+    "x": "https://x.com/corning"
   },
-  "logo": "img/company/corning.svg"
+  "logo": "img/company/corning.png",
+  "about": "Corning Incorporated",
+  "tagline": "Corning Incorporated"
 }

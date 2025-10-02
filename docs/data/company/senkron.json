@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Esenler",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/senkronyazilim",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/@senkrontech"
   },
-  "logo": "img/company/senkron.png"
+  "logo": "img/company/senkron.png",
+  "tagline": "Yazılım sektöründe çeyrek asırlık tecrübe."
 }

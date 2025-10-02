@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Çankaya, Ankara",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Havacılık ve Havacılık Komponenti İmalatı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/esensistem",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/EsenSistem"
   },
-  "logo": "img/company/esensi.png"
+  "logo": "img/company/esensi.png",
+  "about": "ESEN",
+  "tagline": "Inspiring Connection"
 }

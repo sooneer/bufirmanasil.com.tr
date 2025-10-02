@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Kozyatağı, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/noventiq-turkiye",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "https://instagram.com/noventiq_turkiye",
     "youtube": "https://youtube.com/channel/UCAaKsBorH9ECNCFCYyMSu3Q"
   },
-  "logo": "img/company/noventiq.svg"
+  "logo": "img/company/noventiq.png",
+  "tagline": "Noventiq Türkiye | LinkedIn‘de 4.189 takipçi Noventiq (Noventiq Holdings plc), merkezi Londra&#39;da bulunan ve listelenen (LSE: NVIQ) dijital dönüşüm ve siber güvenlik alanında lider bir küresel çözüm ve hizmet sağlayıcısıdır. Şirket, kendi hizmet ve çözümlerinin yanı sıra, tüm sektörlerde 80.000&#39;den fazla kuruluşu, sınıfının en iyisi geniş bir BT satıcı yelpazesiyle birbirine bağlayarak, müşterilerinin işletmeleri için dijital dönüşümü etkinleştirir, kolaylaştırır ve hızlandırır.\nNoventiq, MY23&#39;te (31 Mart 2023&#39;te sona eren 12 ay) 1,6 milyar ABD doları ciro ile şu anda sektördeki en hızlı büyüyen şirketlerden biridir."
 }

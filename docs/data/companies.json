@@ -138,12 +138,6 @@
     "logo": "img/company/arksigner.svg"
   },
   {
-    "slug": "armada",
-    "name": "Armada",
-    "web": "https://armada.com.tr",
-    "logo": "img/company/armada.svg"
-  },
-  {
     "slug": "armadayazilim",
     "name": "Armada Yazılım",
     "web": "https://armadayazilim.com",
@@ -592,12 +586,6 @@
     "name": "Ceyber",
     "web": "https://ceyber.com",
     "logo": "img/company/ceyber.svg"
-  },
-  {
-    "slug": "cits",
-    "name": "Cits",
-    "web": "https://cits.com.tr",
-    "logo": "img/company/cits.svg"
   },
   {
     "slug": "cizgi",

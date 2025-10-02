@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Beyoglu, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/turkcellglobalbilgi",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/turkcellglobalbilgi",
     "youtube": ""
   },
-  "logo": "img/company/globalbilgi.png"
+  "logo": "img/company/globalbilgi.png",
+  "about": "Turkcell Global Bilgi",
+  "tagline": "Turkcell Global Bilgi resmi LinkedIn hesabıdır."
 }

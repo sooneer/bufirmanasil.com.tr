@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Seyhan, Adana",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/evant-teknoloji%CC%87",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/evantteknolojiyazilim",
     "youtube": ""
   },
-  "logo": "img/company/evant.png"
+  "logo": "img/company/evant.png",
+  "about": "Evant Teknoloji",
+  "tagline": "Teknoloji Devleri ile birlikte çalışan Evant Teknoloji; Güvenilir Çözüm Ortağınız!"
 }

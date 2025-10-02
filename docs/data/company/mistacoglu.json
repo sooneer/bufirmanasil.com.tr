@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Bahçelievler",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yatırım Yönetimi"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/mistacogluholding",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/mistacogluholding",
     "youtube": ""
   },
-  "logo": "img/company/mistacoglu.png"
+  "logo": "img/company/mistacoglu.png",
+  "about": "Mıstaçoğlu Holding",
+  "tagline": "Mıstaçoğlu Holding"
 }

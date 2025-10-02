@@ -1,14 +1,16 @@
 {
   "name": "Airadio",
-  "logo": "img/company/airadio.svg",
-  "tagline": "",
+  "logo": "img/company/airadio.png",
+  "tagline": "Communication Solutions When It Matters",
   "foundationYear": null,
-  "about": "",
+  "about": "American International Radio, Inc (AIR)",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "clients": [],
   "contact": {
     "web": "https://airadio.com",
@@ -31,5 +33,6 @@
     "facebook": "https://facebook.com/AmericanInternationalRadioInc",
     "youtube": "",
     "github": ""
-  }
+  },
+  "headquarters": "Rolling Meadows, IL"
 }

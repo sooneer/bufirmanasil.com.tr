@@ -2,25 +2,29 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İSTANBUL, ATAŞEHİR",
   "description": "",
   "internship": "",
   "tags": [],
   "remote": "",
   "name": "Damalink",
   "contact": {
-    "web": "https://damalink.com",
+    "web": "https://www.damalink.com/tr",
     "phone": "",
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/company/damalink/",
     "twitter": "",
     "facebook": "",
     "instagram": "",
     "youtube": ""
   },
-  "logo": "img/company/damalink.png"
+  "logo": "img/company/damalink.png",
+  "about": "damalink - The Data Management Company",
+  "tagline": "damalink - The Data Management Company"
 }

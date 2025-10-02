@@ -1,0 +1,36 @@
+URL: https://www.linkedin.com/company/astron---ya-ar-bilgi-i-lem
+Tarih: 2025-10-01T20:17:36.026Z
+Status: 301
+
+=== HEADERS ===
+{
+  "date": "Wed, 01 Oct 2025 20:17:35 GMT",
+  "content-length": "0",
+  "connection": "keep-alive",
+  "location": "https://tr.linkedin.com/company/yasarbilgiislem",
+  "strict-transport-security": "max-age=31536000",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "sameorigin",
+  "content-security-policy": "default-src 'none'; connect-src 'self' *.licdn.com *.linkedin.com cdn.linkedin.oribi.io dpm.demdex.net/id lnkd.demdex.net blob: accounts.google.com/gsi/ linkedin.sc.omtrdc.net/b/ss/ v.clarity.ms/collect *.microsoft.com *.adnxs.com *.tealiumiq.com login.microsoftonline.com www.google.com google.com adservice.google.com pagead2.googlesyndication.com td.doubleclick.net www.googletagmanager.com www.googleadservices.com ad.doubleclick.net; script-src 'report-sample' 'sha256-th47JTnh6tX15SUn/I+GGmsOSXpa7dh5Skner77gxlY=' 'sha256-SSoodjUD3LGm2FfFCVHGqEb8D4UM3OOigidT2UKDcYg=' 'sha256-cKTgdnmO6+hXd85a9wKg1effVfVzenUAtUCyOKY9bQE=' 'sha256-DwtT8+ZZKpxH9pqZNAmJ3GdbLAh5SsYaXR3omTXPCns=' 'sha256-sV9jZa797T0QWBzcU/CNd4tpBhTnh+TFdLnfjlitl28=' 'sha256-aa/Q8CRBDSqTQbCIyioPhZaz+G+dbPyu7BzsjInEmiU=' 'sha256-THuVhwbXPeTR0HszASqMOnIyxqEgvGyBwSPBKBF/iMc=' 'sha256-zTIusdVJJeXz9+iox2a+pdDglzbpRpFVRzEwvW4AONk=' 'sha256-iC8MPqNLw0FDnsBf4DlSkFLNTwhkI85aouiAEB819ic=' 'sha256-2EqrEvcPzl8c6/TSGVvaVMEe7lg700MAz/te4/3kTYY=' 'sha256-y5uW69VItKj51mcc7UD9qfptDVUqicZL+bItEpvVNDw=' 'sha256-DatsFGoJ8gFkzzxo47Ou76WZ+3QBPOQHtBu9p9b3DhA=' 'sha256-k95cyM8gFgPziZe5VQ2IvJvBUVyd5zFt2CokIUwqdHE=' 'sha256-PyCXNcEkzRWqbiNr087fizmiBBrq9O6GGD8eV3P09Ik=' 'sha256-RFqsjmAF1N5LnfpaHFvPqFlVkeIS/DtTAFor+JjJJVc=' 'sha256-2SQ55Erm3CPCb+k03EpNxU9bdV3XL9TnVTriDs7INZ4=' 'sha256-S/KSPe186K/1B0JEjbIXcCdpB97krdzX05S+dHnQjUs=' 'sha256-9pXOIwF4N0gPltLd3AI69lkCjSC2H/Eb3sc5zdmUyYU=' 'sha256-jou6v/Nleyzoc+LXktAv1Fp8M807dVVxy7E/yzVljHc=' 'sha256-6E4e/3dSvj/8JZT2S2yR91mspqM6MyOpKl5lrhHsZa8=' 'sha256-3woF8BZ54TeXM+czaH3aXoaJsVpiamuAKFsXDykAR/Q=' 'sha256-vIfNcKb8ixJg1cfJIoNNYjWcm0lezj1/XpUNFiZyVsU=' 'sha256-cLsHUHFgT/VGX04cZrJ9xgm4HbzTR7ptutkxK+7BlMk=' 'sha256-BwU8jMnQYUhjOpsDVABpfddV/DlP1ZYrFcTumYw7x54=' 'sha256-wz6ika9i3WU3bpUPdhYDZeO/NrDQniDyiscN0LWnyaY=' 'sha256-3RIGhhApBii1KY+aW1xk7kFyoQY8vSVE5DfT7E9SJUc=' static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com platform.linkedin.com platform-akam.linkedin.com platform-ecst.linkedin.com platform-azur.linkedin.com snap.licdn.com www.google.com/recaptcha/enterprise.js www.gstatic.com/recaptcha/releases/ www.googletagmanager.com/gtag/js www.googleadservices.com/pagead/ www.google.com/pagead/ googleads.g.doubleclick.net/pagead/ adservice.google.com/pagead/ pagead2.googlesyndication.com/pagead/ www.googletagmanager.com/gtag/destination merchantpool1.linkedin.com/mdt.js; img-src data: blob: * android-webview-video-poster:; font-src data: *; style-src 'self' 'unsafe-inline' static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; media-src 'self' *.licdn.com *.lynda.com; worker-src 'self' blob: static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; frame-src 'self' www.youtube.com/embed/ www.youtube-nocookie.com/embed/ lnkd.demdex.net smartlock.google.com accounts.google.com player.vimeo.com *.linkedin.com www.slideshare.net *.megaphone.fm *.omny.fm *.sounder.fm msit.powerbi.com app.powerbi.com linkedin.github.io *.licdn.com *.adnxs.com acdn.adnxs-simple.com radar.cedexis.com edge-auth.microsoft.com flo.uri.sh play.vidyard.com www.google.com/recaptcha/ *.fls.doubleclick.net www.googletagmanager.com td.doubleclick.net li.protechts.net *.xlgmedia.com *.px-cloud.net merchantpool1.linkedin.com; frame-ancestors 'self' *.www.linkedin.com:*; manifest-src 'self'; report-uri https://www.linkedin.com/security/csp?f=gg",
+  "x-li-fabric": "prod-lva1",
+  "pragma": "no-cache",
+  "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+  "cache-control": "no-cache, no-store",
+  "x-li-pop": "cf-prod-lva1-x",
+  "x-li-proto": "http/1.1",
+  "x-li-uuid": "AAZAHo8wyWfQiT4eJKC3Og==",
+  "set-cookie": [
+    "JSESSIONID=ajax:5977735933200695969; SameSite=None; Path=/; Domain=.www.linkedin.com; Secure",
+    "lang=v=2&lang=tr-tr; SameSite=None; Path=/; Domain=linkedin.com; Secure",
+    "bcookie=\"v=2&879d7f4c-fc96-44a9-8129-2cbca6ca58d5\"; domain=.linkedin.com; Path=/; Secure; Expires=Thu, 01-Oct-2026 20:17:35 GMT; SameSite=None",
+    "bscookie=\"v=1&202510012017353847c7eb-e165-4273-875f-06551d4490c5AQEBEJ5LtrjvwWVYDcMih8vb5yA-Wzp9\"; domain=.www.linkedin.com; Path=/; Secure; Expires=Thu, 01-Oct-2026 20:17:35 GMT; HttpOnly; SameSite=None",
+    "lidc=\"b=VGST00:s=V:r=V:a=V:p=V:g=3763:u=1:x=1:i=1759349855:t=1759436255:v=2:sig=AQHCCjHA5vgf3jKfx_8k7l3y6ZJy6Cta\"; Expires=Thu, 02 Oct 2025 20:17:35 GMT; domain=.linkedin.com; Path=/; SameSite=None; Secure",
+    "__cf_bm=FgAn97YdGo2iFH8GDz8zhcM7TkqUmwR8Fd36XMI.6LQ-1759349855-1.0.1.1-hnernyZizQbs0kPRSE76Cb9wmJMaCzzA11PXTiUO30QB60Pv55XA929sh8FuLVBBW80CGWu6YZz7_06FguN3GNdCOrRvnN9OxEXhjEsUKmY; path=/; expires=Wed, 01-Oct-25 20:47:35 GMT; domain=.linkedin.com; HttpOnly; Secure; SameSite=None"
+  ],
+  "cf-cache-status": "DYNAMIC",
+  "server": "cloudflare",
+  "cf-ray": "987ea4f64f53d5fb-IST",
+  "alt-svc": "h3=\":443\"; ma=86400"
+}
+
+=== BODY ===

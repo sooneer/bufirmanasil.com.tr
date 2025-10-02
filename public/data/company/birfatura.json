@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/birfatura",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@BirFatura",
     "x": "https://x.com/BirFatura"
   },
-  "logo": "img/company/birfatura.png"
+  "logo": "img/company/birfatura.png",
+  "about": "BirFatura",
+  "tagline": "Dijital Dönüşümün En Kolay Yolu"
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Kurtköy / Pendik",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/netastr",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@NetasTR",
     "x": "https://x.com/netastr"
   },
-  "logo": "img/company/netas.png"
+  "logo": "img/company/netas.png",
+  "about": "NETAŞ",
+  "tagline": "Gelecek Özümüzde"
 }

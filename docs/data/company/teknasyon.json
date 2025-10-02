@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Maslak",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/teknasyon",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/c/TeknasyonTech",
     "x": "https://x.com/teknasyontech"
   },
-  "logo": "img/company/teknasyon.png"
+  "logo": "img/company/teknasyon.png",
+  "tagline": "Teknasyon | LinkedIn‘de 33.428 takipçi Started in 2013, Teknasyon is a next-gen tech company where bold ideas become global products. Since then, we’ve launched more than 150 digital products and reached over 3.5 billion users.\nWe build products people love, like Getcontact, eSIM io, Shorten, and Lisa AI."
 }

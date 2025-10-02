@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Maslak, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/dogus-teknoloji",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCqWUO6vpl-wa-vCR0tGZAXw",
     "x": "https://x.com/DogusTeknoloji"
   },
-  "logo": "img/company/d-teknoloji.png"
+  "logo": "img/company/d-teknoloji.png",
+  "about": "Doğuş Teknoloji",
+  "tagline": "Gözümüz Hedeflerin Ötesinde"
 }

@@ -1,14 +1,16 @@
 {
   "name": "Appcent",
   "logo": "img/company/appcent.png",
-  "tagline": "",
+  "tagline": "Awarded technology company\nspecialized in fintech and\ne-commerce. Go ahead and become a part of #appcentpeople!",
   "foundationYear": null,
-  "about": "",
+  "about": "Appcent",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "clients": [],
   "contact": {
     "web": "https://appcent.mobi",
@@ -31,5 +33,6 @@
     "facebook": "",
     "youtube": "https://youtube.com/channel/UCIiiJ2rz0r_jpe5GGKXQe_w",
     "github": ""
-  }
+  },
+  "headquarters": "Kagithane, Istanbul"
 }

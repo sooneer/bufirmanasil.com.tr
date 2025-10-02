@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ümraniye, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/inventivtech",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/inventivtech"
   },
-  "logo": "img/company/inventiv.png"
+  "logo": "img/company/inventiv.png",
+  "about": "inventiv",
+  "tagline": "Nakit kullanılmayan bir dünyaya hazır mısınız?"
 }

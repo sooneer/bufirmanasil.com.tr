@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Lexington, Kentucky",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/lexmark",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/user/LexmarkNews",
     "x": "https://x.com/en-us"
   },
-  "logo": "img/company/lexmark.png"
+  "logo": "img/company/lexmark.png",
+  "about": "Lexmark",
+  "tagline": "Creating cloud-enabled imaging and IoT technologies that help customers worldwide quickly realize business outcomes."
 }

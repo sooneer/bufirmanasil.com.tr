@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Şişli",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgisayar ve Ağ Güvenliği"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/ftnet-bilgi-ve-i%CC%87leti%C5%9Fim-hizmetleri-ti%CC%87caret-limited-%C5%9Firketi",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "",
     "youtube": ""
   },
-  "logo": "img/company/ftnet.png"
+  "logo": "img/company/ftnet.png",
+  "about": "FTNET Bilişim A.Ş.",
+  "tagline": "En doğru çözüm için marka bağımsız iş ortağınız."
 }

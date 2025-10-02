@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Altunizade, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgisayarlar ve Elektronik Ürünler İmalatı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/bilkom",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UC6ncaEYZ54TYx6DYlZ6xe9g",
     "x": "https://x.com/Bilkom"
   },
-  "logo": "img/company/bilkom.svg"
+  "logo": "img/company/bilkom.png",
+  "about": "Bilkom",
+  "tagline": "Bilkom | LinkedIn‘de 29.077 takipçi Bilkom, yaklaşık 40 yıllık tecrübesi ve alanında uzman kadrosuyla, öncü global markaların ürünlerinin Türkiye geneline yayılmış 4.000’in üzerindeki farklı noktaya direkt ve endirekt olarak dağıtımını yapan, ülkemizin önde gelen Bilgi ve İletişim Teknolojileri (ICT) dağıtıcılarından biridir. \n\nBilkom; Apple, Huawei, TCL, PlayStation, Razer, Segway, Meross, Pico gibi öncü teknoloji markalarını Bilkom güvencesiyle tüketiciye ulaştırıyor. \n\n--\n\nWith its 40 years of experience and expert staff, Bilkom is one of our country’s leading distributors of Information and Communication Technologies (ICT), distributing products of leading global brands directly and indirectly to over 4,000 different points spread throughout Turkey. \n\nValue added and focused distributor Bilkom provides customer-oriented services to distinguished and leading global brands such as Apple, Huawei, TCL, PlayStation, Razer, Segway Ninebot, Meross, Pico which are shaping the digital and mobile transformation in the world."
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Çekmeköy",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgisayar ve Ağ Güvenliği"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/gegicomtr",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCXp2lFTO9bmfP7Mr7QYN6jg",
     "x": "https://x.com/gegicomtr"
   },
-  "logo": "img/company/gegi.png"
+  "logo": "img/company/gegi.png",
+  "about": "Gegi Bilgi Teknolojileri Anonim Şirketi",
+  "tagline": "Gegi, Kurumsal Teknoloji Tedarikçiniz."
 }

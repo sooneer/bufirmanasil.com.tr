@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İzmir, Bayraklı",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/provis-bilgi-sistemleri",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "https://instagram.com/provisbilsis",
     "youtube": ""
   },
-  "logo": "img/company/provis.png"
+  "logo": "img/company/provis.png",
+  "tagline": "Provis Bilgi Sistemleri Ltd. Şti. | LinkedIn‘de 608 takipçi PROVIS Bilgi Sistemleri olarak önceliğimiz, müşterimizin işini sahiplenmek, en doğru projelendirme ile başlayıp kusursuz uygulama ile müşteri beklentilerini aşan projeler sonuçlandırmak, teknolojinin en son çözümlerini müşterilerine sunan güvenilir danışman olmak ve müşterilerimizin işini ve karşılıklı ilişkilerimizi geliştirmektir.\n\nProvis’i müşterilerine sağladığı sektörel çözümlerden iş çözümlerine, sistem entegrasyon çalışmalarından, servis ve bakım hizmetlerine; network çözümlerinden, yazılım ve uygulama geliştirme ve teknoloji danışmanlığına kadar geniş bir yelpazedeki hizmetleri ile kalıcı, uzun vadeli katma değer üreten TEKNOLOJIK ÇÖZÜM ve İŞ ORTAĞI olarak konumlandırmayı hedefliyoruz.\n\nKurulduğu günden bu yana büyümesini sürdüren PROVİS, 2013 yılı itibari ile BİLİŞİM500’de yerini almıştır."
 }

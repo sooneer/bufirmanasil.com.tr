@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Maltepe, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/konzekteknoloji",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@konzekteknoloji6308",
     "x": "https://x.com/konzekteknoloji?s=11&t=Mr7v2b1IvTI50RupSfLz8w"
   },
-  "logo": "img/company/konzek.png"
+  "logo": "img/company/konzek.png",
+  "about": "Konzek Teknoloji",
+  "tagline": "Keep it short & simple"
 }

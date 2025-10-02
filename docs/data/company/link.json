@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Üsküdar",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/linkbilgisayar",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@LinkBilgisayar",
     "x": "https://x.com/linkbilgisayar"
   },
-  "logo": "img/company/link.png"
+  "logo": "img/company/link.png",
+  "about": "Link Bilgisayar",
+  "tagline": "Link Bilgisayar"
 }

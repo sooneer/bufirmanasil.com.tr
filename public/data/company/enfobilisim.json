@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Maltepe",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/enfobilisim",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/enfobilisim"
   },
-  "logo": "img/company/enfobilisim.png"
+  "logo": "img/company/enfobilisim.png",
+  "about": "Enfo Bilişim A.Ş.",
+  "tagline": "Geçmişi Geleceğe Taşır"
 }

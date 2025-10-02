@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Kadikoy, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/fiz-consulting",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCQEIxPupPLleZFZLOw4T9_Q",
     "x": "https://x.com/fizp2p"
   },
-  "logo": "img/company/fiz.png"
+  "logo": "img/company/fiz.png",
+  "about": "Fiz Bilişim",
+  "tagline": "Dijital Dönüşümde 360° Yaklaşımlar!"
 }

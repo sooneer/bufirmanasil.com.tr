@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Milan, Italy",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Üretim"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/prysmian",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/c/PrysmianKablo1964",
     "x": "https://x.com/prysmiankablo"
   },
-  "logo": "img/company/prysmiangroup.svg"
+  "logo": "img/company/prysmiangroup.png",
+  "tagline": "The world leader in energy and telecoms cable systems"
 }

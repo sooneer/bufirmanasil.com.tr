@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Maltepe",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/luna-bili-im-teknolojileri",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/user/lunabilisim",
     "x": "https://x.com/Lunabilisimtekn"
   },
-  "logo": "img/company/lunabilisim.svg"
+  "logo": "img/company/lunabilisim.png",
+  "about": "Luna Group",
+  "tagline": "Hep Daha İleriye!"
 }

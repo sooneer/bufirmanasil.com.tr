@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/turktelekom",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/channel/UC39dZy9pIYVhn8iIDZ0K-cA",
     "x": "https://x.com/turktelekom"
   },
-  "logo": "img/company/turktelekom.png"
+  "logo": "img/company/turktelekom.png",
+  "tagline": "#DeğerliHissettirir"
 }

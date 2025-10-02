@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/lupe-consulting",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/lupeconsulting",
     "youtube": "https://youtube.com/@lupe-bilgi-teknolojileri-sap"
   },
-  "logo": "img/company/lupe.png"
+  "logo": "img/company/lupe.png",
+  "about": "Lupe Danışmanlık",
+  "tagline": "SAP Danışmanlık | Teknik Destek | Eğitim"
 }

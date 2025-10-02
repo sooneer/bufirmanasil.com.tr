@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Ataşehir",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/smartminddataanalytics",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/channel/UCZM6mdOg17wUlSpvDUwy5gw"
   },
-  "logo": "img/company/smartmind.png"
+  "logo": "img/company/smartmind.png",
+  "tagline": "Smartmind | LinkedIn‘de 2.781 takipçi Smartmind Veri Yönetimi Teknoloji Hizmetleri A.Ş., veri bilimleri odağında kurumsal bilgiye yönelik mühendislik ve modelleme hizmeti veren bir teknoloji firması olarak 2018 Mayıs ayında alanında 10 yılın üzerinde sektör deneyimi olan yöneticilerle birlikte kurulmuştur ve 25&#39;in üzerinde danışman ile faaliyetlerine devam etmektedir.\n\nVeri dünyasının ihtiyaç duyduğu, veri ambarı, analitik-modelleme, karar destek sistemleri, büyük veri, veri madenciliği ve kuruma özel ileri istatistik modelleri özelinde çözümler üretmektedir."
 }

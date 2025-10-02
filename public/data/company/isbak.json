@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Teknoloji, Bilgi ve İnternet"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/isbak",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@akilliulasim",
     "x": "https://x.com/isbakas"
   },
-  "logo": "img/company/isbak.png"
+  "logo": "img/company/isbak.png",
+  "about": "İSBAK",
+  "tagline": "Akıllı Şehrin Mimarı"
 }

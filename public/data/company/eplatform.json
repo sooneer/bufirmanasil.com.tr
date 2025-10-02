@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul, Kozyatağı",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/eplatform",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/ePlatformTr"
   },
-  "logo": "img/company/eplatform.png"
+  "logo": "img/company/eplatform.png",
+  "about": "ePlatform",
+  "tagline": "ePlatform | LinkedIn‘de 1.137 takipçi ePlatform Bulut Bilişim A.Ş. kurumların dijital dönüşümünde güvenilir iş ortağı olma bilinci ve sorumluluğuyla Türkiye’de çok başarılı projelere imza atan %100 Türk sermayeli bir şirkettir.\n\nWeb ve mobil uygulamalarda uzman bir ekiple müşterilerine uzun soluklu olarak hizmet veren ePlatform, yazılım ve fikirleriyle fark yaratacak projeler geliştirirken, analiz, danışmanlık, planlama, değerlendirme, raporlama, strateji ve profesyonel proje yönetimi kapsamında katma değerli hizmetler sunmaktadır.\n\nAr-Ge merkezi olan firmamız alanında uzman yazılımcılar ile fark yaratan Ar-Ge projeleri geliştirmektedir."
 }

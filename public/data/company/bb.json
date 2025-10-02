@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Melikgazi, Kayseri",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/bb-bilisim",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/bilisimkayseri?s=11&t=Gm1tvM3HFfumnv6rsU8Suw"
   },
-  "logo": "img/company/bb.svg"
+  "logo": "img/company/bb.png",
+  "about": "B&B Bilişim",
+  "tagline": "Teknolojiye farklı bir pencereden bakın!"
 }

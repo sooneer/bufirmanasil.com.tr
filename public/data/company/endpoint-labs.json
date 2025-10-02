@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Atasehir, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgisayar ve Ağ Güvenliği"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/endpoint-labs-cyber-security-r&d-corp-",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "github": "https://github.com/endpointlabs"
   },
-  "logo": "img/company/endpoint-labs.png"
+  "logo": "img/company/endpoint-labs.png",
+  "about": "Endpoint-labs Cyber Security R&D Corp.",
+  "tagline": "AppSec - DevSecOps - SAST - SCA - DAST - API SEC. - ASPM"
 }

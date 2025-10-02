@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara, Çankaya",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/beamteknoloji",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "",
     "youtube": ""
   },
-  "logo": "img/company/beamteknoloji.png"
+  "logo": "img/company/beamteknoloji.png",
+  "about": "BEAM Teknoloji",
+  "tagline": "Accredited Cyber Security Testing and Evaluation Facility\nhttps://www.beamteknoloji.com"
 }

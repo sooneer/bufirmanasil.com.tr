@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İSTANBUL, ATAŞEHİR",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Dış kaynak kullanımı/Offshore"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/practicall-solutions-pratik-ileti-im",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "https://instagram.com/pratikiletisim.resmi",
     "youtube": ""
   },
-  "logo": "img/company/practicallsolutions.png"
+  "logo": "img/company/practicallsolutions.png",
+  "tagline": "Practicall Solutions | LinkedIn‘de 349 takipçi PRACTICALL SOLUTIONS\n\nYENİLİKÇİ VE YARATICI ÇAĞRI MERKEZİ (CALL CENTER ) HİZMETLERİ VE İLETİŞİM ÇÖZÜMLERİ\n\nPractiCall Solutions, faaliyet alanında fark yaratmak isteyen kuruluşlara, katma değerli çağrı merkezi hizmetini oluşturan insan kaynağı, teknoloji, lokasyon, yönetim,  danışmanlık, eğitim  bileşenlerini, tek veya grup olarak veya  %100 dış kaynak kullanımı olacak şekilde birlikte sağlamak üzere kurulmuş bir çağrı merkezi hizmet şirketidir. Çağrı merkezi hizmetinin yanısıra profesyonellere, sekreter, toplantı odası ve ofis hizmeti de verilmektedir.\n\nPractiCall Solutions, 10 seneden bu yana İsnet adı altında yerli ve yabancı firmalara 100% dış kaynak kullanımlı çağrı merkezi hizmeti vermenin yanısıra farklı sektörlerde faaliyet gösteren 50&#39;​ den fazla firmanın ip tabanlı çağrı merkezi projesini gerçekleştirmiş ve danışmanlığını yapmıştır."
 }

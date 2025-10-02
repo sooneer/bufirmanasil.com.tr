@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Sarıyer",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/kod-a-bili-im",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UC6X4c37S6cbCj8jOQhGtq1w",
     "x": "https://x.com/KodABilisim"
   },
-  "logo": "img/company/koda.png"
+  "logo": "img/company/koda.png",
+  "about": "Kod-A Bilişim",
+  "tagline": "Doküman Uzmanı"
 }

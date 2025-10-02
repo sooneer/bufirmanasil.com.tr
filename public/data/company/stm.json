@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara, Çankaya",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Savunma ve Uzay Araçları İmalatı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/stmdefence",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/c/STMDefence",
     "x": "https://x.com/STMDefence"
   },
-  "logo": "img/company/stm.png"
+  "logo": "img/company/stm.png",
+  "tagline": "Engineering The Next | Sınırsız Teknolojiler, Güvenli Yarınlar #MilliMühendislik"
 }

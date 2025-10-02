@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Bursa, Nilüfer",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgisayar ve Ağ Güvenliği"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/bgtekcybersecurity",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/en"
   },
-  "logo": "img/company/bg-tek.png"
+  "logo": "img/company/bg-tek.png",
+  "about": "BgTek Cyber Security",
+  "tagline": "Against Cyber Threats, We Are Stronger Together!"
 }

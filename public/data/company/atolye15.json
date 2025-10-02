@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İzmir",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Teknoloji, Bilgi ve İnternet"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/atolye15",
     "twitter": "",
@@ -24,5 +26,7 @@
     "x": "https://x.com/atolye15",
     "github": "https://github.com/atolye15"
   },
-  "logo": "img/company/atolye15.svg"
+  "logo": "img/company/atolye15.png",
+  "about": "Atolye15",
+  "tagline": "A long-term development team creating global products used by millions of people."
 }

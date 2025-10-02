@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Kocaeli, Kocaeli/Derince",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/seyirmobil",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/channel/UC3o7kMyQfCxz5xSXEkxB09g",
     "x": "https://x.com/seyirmobil"
   },
-  "logo": "img/company/seyirmobil.svg"
+  "logo": "img/company/seyirmobil.png",
+  "tagline": "Türkiye'nin En Yenilikçi Araç Takip ve Filo Yönetim Sistemleri Markası"
 }

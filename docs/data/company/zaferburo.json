@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İzmir, Bornova",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Perakende Satış Ofis Ekipmanı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/zafer-b%C3%BCro-makinalar%C4%B1",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "https://instagram.com/zaferburomakinalari?igshid=YmMyMTA2M2Y=",
     "youtube": "https://youtube.com/@canon-zaferburomakineleri6156"
   },
-  "logo": "img/company/zaferburo.jpg"
+  "logo": "img/company/zaferburo.png",
+  "tagline": "“Türkiyenin her yerinden tek numara”\n444 69 73"
 }

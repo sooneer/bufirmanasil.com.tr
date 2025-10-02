@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Kağıthane",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/vektora",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/user/VektoraTR",
     "x": "https://x.com/vektora"
   },
-  "logo": "img/company/vektora.png"
+  "logo": "img/company/vektora.png",
+  "tagline": "SAP Gold Partner"
 }

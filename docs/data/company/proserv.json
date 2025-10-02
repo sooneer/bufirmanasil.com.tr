@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Şişli, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/proservteknoloji",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/channel/UCNfEnY4MWFR5sFLdT9GSsQQ",
     "x": "https://x.com/proservteknloji"
   },
-  "logo": "img/company/proserv.png"
+  "logo": "img/company/proserv.png",
+  "tagline": "Zamanında ve Kaliteli Çözümler ile OT/VT (Otomatik Tanıma/Veri Toplama) Sektörü'nde Profesyonel Teknik Servis Hizmetleri"
 }

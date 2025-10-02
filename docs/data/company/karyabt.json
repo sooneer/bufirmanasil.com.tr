@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Şişli",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/karya-bili%C5%9Fim-teknolojileri",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/karya_bt"
   },
-  "logo": "img/company/karyabt.png"
+  "logo": "img/company/karyabt.png",
+  "about": "Karya Teknoloji ve Danışmanlık Hizmetleri",
+  "tagline": "Kurumsal Sistem, Network, Güvenlik,  SOC&NOC ve IT Bakım Hizmetleri."
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "istanbul, Yenibosna",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/blinkbilisim",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/user/BlinkTR",
     "x": "https://x.com/blinkbilisim"
   },
-  "logo": "img/company/blink.png"
+  "logo": "img/company/blink.png",
+  "about": "Blink Bilişim",
+  "tagline": "Geleceğin Teknolojileri"
 }

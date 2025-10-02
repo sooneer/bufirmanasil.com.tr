@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Kartal",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/armadayazilim",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@armadayazilimas",
     "x": "https://x.com/ArmadaYazilim"
   },
-  "logo": "img/company/armadayazilim.svg"
+  "logo": "img/company/armadayazilim.png",
+  "about": "ARMADA YAZILIM",
+  "tagline": "Tasarımdan Üretime Entegre Çözümler!"
 }

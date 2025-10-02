@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Kadıköy",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/virgosol",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "https://instagram.com/virgosol.universe",
     "youtube": "https://youtube.com/@virgosolofficial"
   },
-  "logo": "img/company/virgosol.png"
+  "logo": "img/company/virgosol.png",
+  "tagline": "Excellence in Software Testing and Quality"
 }

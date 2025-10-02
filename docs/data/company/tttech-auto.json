@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Vienna, Austria",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/tttech-auto",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/@TTTechAuto"
   },
-  "logo": "img/company/tttech-auto.png"
+  "logo": "img/company/tttech-auto.png",
+  "tagline": "TTTech Auto | LinkedIn‘de 51.351 takipçi TTTech Auto, part of NXP, is a leading platform product and service provider with a focus on System, Safety, and Security for the Software-Defined Vehicle (4SDV). With series production experience from millions of vehicles and a strong technology portfolio, TTTech Auto enables OEMs to accelerate SDV development while optimizing system performance, safety, and integration. \n\nTTTech Auto remains committed to a neutral, open ecosystem approach, supporting a wide range of SoC platforms, OEMs, and third-party software partners."
 }

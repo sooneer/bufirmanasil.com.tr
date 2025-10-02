@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "ISTANBUL",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/obase",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/channel/UCAzosuoJ_nPW6Mm_AlHMdmw",
     "x": "https://x.com/obasesocial"
   },
-  "logo": "img/company/obase.svg"
+  "logo": "img/company/obase.png",
+  "tagline": "Obase | LinkedIn‘de 15.580 takipçi 1995 yılında kurulan OBASE , “Analitik Çözümler” ve “ Sektörel Çözümler”  ile uzmanlaşmış Türkiye’nin öncü yazılım ve danışmanlık şirketlerindendir. OBASE, AR-GE Merkezi statüsünde yer almaktadır. \n\nOBASE, deneyimli ve uzman kadrosuyla; Veri Ambarı, İş Zekası, Veri Entegrasyonu, Veri Kalitesi, Veri Madenciliği, Büyük Veri, Ana Veri Yönetimi Teknolojilerini kullanarak,  müşterilerinin verilerini iş değerine dönüştürerek verimliliklerini artırmalarında yardımcı olmaktadır."
 }

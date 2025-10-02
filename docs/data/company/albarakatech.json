@@ -1,13 +1,15 @@
 {
   "name": "Albaraka Tech",
-  "tagline": "",
+  "tagline": "Be a Game Changer!",
   "foundationYear": null,
-  "about": "",
+  "about": "AlbarakaTech Global",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "clients": [],
   "contact": {
     "web": "https://albarakatech.com",
@@ -31,5 +33,6 @@
     "youtube": "https://youtube.com/channel/UC9LhHIJ2PbzEhRdIQqttkEw",
     "github": ""
   },
-  "logo": "img/company/albarakatech.png"
+  "logo": "img/company/albarakatech.png",
+  "headquarters": "İstanbul, Teknopark İstanbul"
 }

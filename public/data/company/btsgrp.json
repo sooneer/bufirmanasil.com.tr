@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/btsgroup",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "",
     "youtube": "https://youtube.com/@btsgrp"
   },
-  "logo": "img/company/btsgrp.png"
+  "logo": "img/company/btsgrp.png",
+  "about": "BTS Group",
+  "tagline": "The leading provider of SDX, Automation & Autonomy."
 }

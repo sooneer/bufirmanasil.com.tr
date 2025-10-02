@@ -3,7 +3,7 @@
   "employees": "",
   "logo": "img/company/arksigner.png",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara, Çankaya",
   "description": "",
   "internship": "",
   "tags": [],
@@ -15,7 +15,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/arksigner",
     "twitter": "",
@@ -23,5 +25,7 @@
     "instagram": "https://instagram.com/arksigner",
     "youtube": "https://youtube.com/channel/UCK3erCM_xoqujBAE-hhPUmw",
     "x": "https://x.com/ArkSigner"
-  }
+  },
+  "about": "ArkSigner",
+  "tagline": "\"Where Digital Security Meets with Artful Simplicity\""
 }

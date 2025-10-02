@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Çankaya, Ankara",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/netcad-yazilim",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/user/netcadGIS",
     "x": "https://x.com/netcadim"
   },
-  "logo": "img/company/netcad.svg"
+  "logo": "img/company/netcad.png",
+  "about": "Netcad",
+  "tagline": "Akıllı Şehirler için Akıllı Çözümler"
 }

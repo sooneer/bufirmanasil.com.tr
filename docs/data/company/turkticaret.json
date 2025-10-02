@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "İnternet Yayıncılığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/turkticaretnet",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/channel/UC98D45HtmnSPbHFXy3wQnKw",
     "x": "https://x.com/turkticaretnet"
   },
-  "logo": "img/company/turkticaret.png"
+  "logo": "img/company/turkticaret.png",
+  "tagline": "Dijitaldeki Gücünüz"
 }

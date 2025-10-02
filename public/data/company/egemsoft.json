@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Kadiköy",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/egemsoft",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@egemsoft9194",
     "x": "https://x.com/egemsoft"
   },
-  "logo": "img/company/egemsoft.webp"
+  "logo": "img/company/egemsoft.png",
+  "about": "EGEMSOFT - Egem Bilgi İletişim Ticaret A.Ş.",
+  "tagline": "Kusursuzluğa Doğru..."
 }

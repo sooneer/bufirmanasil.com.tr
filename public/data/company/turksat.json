@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/turksat",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/user/turksatpr",
     "x": "https://x.com/turksat"
   },
-  "logo": "img/company/turksat.svg"
+  "logo": "img/company/turksat.png",
+  "tagline": "Türksat Her Yerde"
 }

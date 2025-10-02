@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Kavacık",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/artivearti",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCXC9l4Yw2Q3lmYSFdcE2o4w",
     "x": "https://x.com/artivearti"
   },
-  "logo": "img/company/artivearti.png"
+  "logo": "img/company/artivearti.png",
+  "about": "Artı ve Artı Teknoloji Hizmetleri",
+  "tagline": "Artı ve Artı Teknoloji Hizmetleri"
 }

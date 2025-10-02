@@ -1,13 +1,15 @@
 {
   "name": "Ankara BT",
-  "tagline": "",
+  "tagline": "\"Teknolojik Çözümler Üreten Ar-Ge Kuruluşu.\"",
   "foundationYear": null,
-  "about": "",
+  "about": "Ankara Bilgi Teknolojileri",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "clients": [],
   "contact": {
     "web": "https://ankarabt.com",
@@ -31,5 +33,6 @@
     "youtube": "https://youtube.com/@AnkaraBilgiTeknolojileri",
     "github": ""
   },
-  "logo": "img/company/ankarabt.svg"
+  "logo": "img/company/ankarabt.png",
+  "headquarters": "Ankara"
 }

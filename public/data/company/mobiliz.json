@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara, Çankaya",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/mobiliz-bilgi-iletisim-teknolojileri",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCp6dPtcwzUisfrxk0GnZ1Jg?view_as=public",
     "x": "https://x.com/mobiliztakip"
   },
-  "logo": "img/company/mobiliz.png"
+  "logo": "img/company/mobiliz.png",
+  "about": "Mobiliz Bilgi ve İletişim Teknolojileri A.Ş.",
+  "tagline": "Mobiliz ile #yolunötesinde"
 }

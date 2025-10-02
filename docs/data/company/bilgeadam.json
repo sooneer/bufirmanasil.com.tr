@@ -1,13 +1,15 @@
 {
   "name": "Bilge Adam",
-  "tagline": "",
+  "tagline": "Global yazılım ve teknoloji hizmetleri ortağınız",
   "foundationYear": null,
-  "about": "",
+  "about": "BilgeAdam Teknoloji",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "clients": [],
   "contact": {
     "web": "https://bilgeadam.com",
@@ -31,5 +33,6 @@
     "youtube": "",
     "github": ""
   },
-  "logo": "img/company/bilgeadam.svg"
+  "logo": "img/company/bilgeadam.png",
+  "headquarters": "İstanbul"
 }

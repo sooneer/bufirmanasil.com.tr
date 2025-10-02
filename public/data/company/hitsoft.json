@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "EYÜP, İSTANBUL",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/hitsoft",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@hitsofttv1267",
     "x": "https://x.com/Hitsoft"
   },
-  "logo": "img/company/hitsoft.png"
+  "logo": "img/company/hitsoft.png",
+  "about": "Hitsoft",
+  "tagline": "Empowering Businesses, Elevating Success! \nSAP Premier Partner of SAP Business One, SAP ByDesign, S4/HANA Public Cloud"
 }

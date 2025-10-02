@@ -17,6 +17,7 @@ export class Company {
   about?: string;
   employees?: string;
   headquarters?: string;
+  companySize?: string;
   BIST?: {
     code: string;
     KAP: string;
@@ -62,6 +63,7 @@ export class Company {
     this.about = data.about;
     this.employees = data.employees;
     this.headquarters = data.headquarters;
+    this.companySize = data.companySize;
     this.BIST = data.BIST;
     this.sector = data.sector;
     this.tags = data.tags;

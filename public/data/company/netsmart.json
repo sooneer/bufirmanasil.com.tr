@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Şişli",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/netsmartsecurity",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "https://instagram.com/netsmartlife",
     "youtube": "https://youtube.com/@netsmartsecurity"
   },
-  "logo": "img/company/netsmart.svg"
+  "logo": "img/company/netsmart.png",
+  "tagline": "360° Siber Güvenlik Çözümleri"
 }

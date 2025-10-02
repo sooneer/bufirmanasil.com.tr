@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Üsküdar",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/innthebox",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/#home"
   },
-  "logo": "img/company/innthebox.png"
+  "logo": "img/company/innthebox.png",
+  "about": "INNTHEBOX",
+  "tagline": "Yenilikçi ve müşteri odaklı dijital dönüşüm"
 }

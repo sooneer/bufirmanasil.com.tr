@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İSTANBUL, TURKEY",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/estebilisim",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/estebilisim"
   },
-  "logo": "img/company/estebilisim.svg"
+  "logo": "img/company/estebilisim.png",
+  "about": "Este",
+  "tagline": "Next Generation Licensing Solutions Provider"
 }

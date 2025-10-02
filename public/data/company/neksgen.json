@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Üsküdar, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/nexgen-bilisim-teknolojileri",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/NexGenBilisim"
   },
-  "logo": "img/company/neksgen.png"
+  "logo": "img/company/neksgen.png",
+  "about": "NexGen Bilişim Teknolojileri",
+  "tagline": "IT Yolculuğunda, Geleceğe Adımımızı Birlikte Atalım"
 }

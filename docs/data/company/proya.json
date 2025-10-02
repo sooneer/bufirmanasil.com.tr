@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Toronto, Ontario",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/proya-canada-corporation",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "",
     "youtube": "https://youtube.com/@PROYACANADACorporation-rn9vc"
   },
-  "logo": "img/company/proya.png"
+  "logo": "img/company/proya.png",
+  "tagline": "One stop shopping for Enterprise Architecture and Requirements Management."
 }

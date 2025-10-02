@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Bursa",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Etkinlik Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/biletinial",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCa0l9znRJ9opfl09iYBJVug?sub_confirmation=1",
     "x": "https://x.com/biletinial"
   },
-  "logo": "img/company/biletinial.svg"
+  "logo": "img/company/biletinial.png",
+  "about": "Biletinial",
+  "tagline": "Sinema, tiyatro ve diğer tüm etkinlikler için biletini hemen al 👉\nbiletinial.com"
 }

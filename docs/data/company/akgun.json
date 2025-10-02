@@ -1,13 +1,15 @@
 {
   "name": "Akgun",
-  "tagline": "",
+  "tagline": "AKGÜN | LinkedIn‘de 8.255 takipçi Bilgi ve teknolojiyi insan yaşamının vazgeçilmez parçası olarak gören AKGÜN, 1986 yılında kurulmuştur. AKGÜN; sağlık, telekomünikasyon, eğitim, savunma alanlarında kamu ve özel sektöre yönelik ürün ve çözümler sunmaktadır. \nAR-GE, Yazılım Üretim, Sistem Entegrasyon, Eğitim ve Destek Hizmetleri, Ağ, İletişim ve Bilgi Güvenliği Teknolojileri Danışmanlığı, Medikal IT Danışmanlık hizmetleri ve anahtar teslim projeler ile farklı alanlardaki tecrübelerini müşterilerine sunduğu hizmete ve ürün kalitesine yansıtmaktadır.",
   "foundationYear": null,
-  "about": "",
+  "about": "AKGÜN",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "clients": [],
   "contact": {
     "web": "https://www.akgun.com.tr",
@@ -24,12 +26,13 @@
     "taxNumber": ""
   },
   "social": {
-    "linkedin": "",
-    "x": "",
-    "instagram": "",
-    "facebook": "",
-    "youtube": "",
+    "linkedin": "https://www.linkedin.com/company/akgun",
+    "x": "https://x.com/AKGUN_CO_INC",
+    "instagram": "https://www.instagram.com/akgun_co_inc/",
+    "facebook": "https://www.facebook.com/AKGUNAnonimSirketi",
+    "youtube": "https://www.youtube.com/@akgun_anonim%C5%9Firketi",
     "github": ""
   },
-  "logo": "img/company/akgun.png"
+  "logo": "img/company/akgun.png",
+  "headquarters": "ANKARA, ETİMESGUT"
 }

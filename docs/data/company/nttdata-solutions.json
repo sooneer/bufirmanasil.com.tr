@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Bielefeld",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/ntt-data-business-solutions",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "https://instagram.com/ndbs_turkiye",
     "youtube": "https://youtube.com/channel/UCVRXIThBUFziWIWI_7E7l3w"
   },
-  "logo": "img/company/nttdata-solutions.svg"
+  "logo": "img/company/nttdata-solutions.png",
+  "tagline": "We Transform. SAP® solutions into Value"
 }

@@ -1,14 +1,16 @@
 {
   "name": "Agito",
   "logo": "img/company/agito.png",
-  "tagline": "",
+  "tagline": "Agility for the Insurers of Tomorrow",
   "foundationYear": null,
-  "about": "",
+  "about": "Agito Software &amp; Consulting | LinkedIn‘de 39.656 takipçi Agility for the Insurers of Tomorrow | Holistic technology partner of insurance.\n\nAgito was established in 1997 to offer insurance industry-specific software solutions and services. The Company&#39;s fields of operation cover product development and implementation of core business applications in health insurance, life insurance, private pension, and property&amp;casualty insurance solutions.",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "clients": [],
   "contact": {
     "web": "https://agito.com.tr",
@@ -31,5 +33,6 @@
     "facebook": "",
     "youtube": "https://youtube.com/@AgitoYazilim",
     "github": ""
-  }
+  },
+  "headquarters": "Sariyer, Istanbul"
 }

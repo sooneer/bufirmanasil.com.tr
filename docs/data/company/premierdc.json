@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İSTANBUL, Eyüp",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Teknoloji, Bilgi ve İnternet"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/premierdc",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/@premierdc.verimerkezi",
     "x": "https://x.com/Premierdc_tr"
   },
-  "logo": "img/company/premierdc.png"
+  "logo": "img/company/premierdc.png",
+  "tagline": "Premier DC  Veri Merkezi | LinkedIn‘de 1.528 takipçi 2009 – 2013 yılları içerisinde yapılandırdığımız Modern Data Center alt yapıları ile geniş kapsamlı servis sağlayabilir duruma gelen firmamız, hizmetlerimizin altyapı ve geliştirme çalışmaları çözüm odaklı hedefler ile kendi uzman ekibimiz tarafından geliştirilmektedir. \n\n50000+ Web Hosting, 4000+ Cloud Server, 6000+ Fiziksel Sunucu ve 100 Gbit üzeri aktif erişim ile servis verilmektedir. Bu rakipsiz kapasite üzerinde Sunucu kiralama, barındırma, Vmware Cloud Hizmeti, CDN Hizmetleri gibi birçok katma değerli hizmet sağlanmaktadır. \n\n2017 yılı içerisinde yapılan yatırımlar ve çalışmalar ile birlikte ülkemizdeki rakipsiz pozisyonunu pekiştiren Premier DC, yüksek kalite anlayışını kanıtlamış, şirket yapısı ve bünyesine adapte etmiştir. Veri merkezi uzmanlığını, Domain, Hosting, Cloud, SSL vb. online hizmetler ile SH Markası altında birleştiren Premier DC, hem Türkiye’deki müşteriler, hem de bu bölgede büyümek isteyen müşterilerimiz için son derece çekici bir fırsat sunmaktadır."
 }

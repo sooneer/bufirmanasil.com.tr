@@ -1,0 +1,3963 @@
+URL: https://www.linkedin.com/company/agcyazilim
+Tarih: 2025-10-01T19:55:57.563Z
+Status: 200
+
+=== HEADERS ===
+{
+  "date": "Wed, 01 Oct 2025 19:55:57 GMT",
+  "content-type": "text/html; charset=utf-8",
+  "transfer-encoding": "chunked",
+  "connection": "keep-alive",
+  "vary": "Accept-Encoding",
+  "strict-transport-security": "max-age=31536000",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "sameorigin",
+  "content-security-policy": "default-src 'none'; connect-src 'self' *.licdn.com *.linkedin.com cdn.linkedin.oribi.io dpm.demdex.net/id lnkd.demdex.net blob: accounts.google.com/gsi/ linkedin.sc.omtrdc.net/b/ss/ v.clarity.ms/collect *.microsoft.com *.adnxs.com *.tealiumiq.com login.microsoftonline.com www.google.com google.com adservice.google.com pagead2.googlesyndication.com td.doubleclick.net www.googletagmanager.com www.googleadservices.com ad.doubleclick.net; script-src 'report-sample' 'sha256-th47JTnh6tX15SUn/I+GGmsOSXpa7dh5Skner77gxlY=' 'sha256-SSoodjUD3LGm2FfFCVHGqEb8D4UM3OOigidT2UKDcYg=' 'sha256-cKTgdnmO6+hXd85a9wKg1effVfVzenUAtUCyOKY9bQE=' 'sha256-DwtT8+ZZKpxH9pqZNAmJ3GdbLAh5SsYaXR3omTXPCns=' 'sha256-sV9jZa797T0QWBzcU/CNd4tpBhTnh+TFdLnfjlitl28=' 'sha256-aa/Q8CRBDSqTQbCIyioPhZaz+G+dbPyu7BzsjInEmiU=' 'sha256-THuVhwbXPeTR0HszASqMOnIyxqEgvGyBwSPBKBF/iMc=' 'sha256-zTIusdVJJeXz9+iox2a+pdDglzbpRpFVRzEwvW4AONk=' 'sha256-iC8MPqNLw0FDnsBf4DlSkFLNTwhkI85aouiAEB819ic=' 'sha256-2EqrEvcPzl8c6/TSGVvaVMEe7lg700MAz/te4/3kTYY=' 'sha256-y5uW69VItKj51mcc7UD9qfptDVUqicZL+bItEpvVNDw=' 'sha256-DatsFGoJ8gFkzzxo47Ou76WZ+3QBPOQHtBu9p9b3DhA=' 'sha256-k95cyM8gFgPziZe5VQ2IvJvBUVyd5zFt2CokIUwqdHE=' 'sha256-PyCXNcEkzRWqbiNr087fizmiBBrq9O6GGD8eV3P09Ik=' 'sha256-RFqsjmAF1N5LnfpaHFvPqFlVkeIS/DtTAFor+JjJJVc=' 'sha256-2SQ55Erm3CPCb+k03EpNxU9bdV3XL9TnVTriDs7INZ4=' 'sha256-S/KSPe186K/1B0JEjbIXcCdpB97krdzX05S+dHnQjUs=' 'sha256-9pXOIwF4N0gPltLd3AI69lkCjSC2H/Eb3sc5zdmUyYU=' 'sha256-jou6v/Nleyzoc+LXktAv1Fp8M807dVVxy7E/yzVljHc=' 'sha256-6E4e/3dSvj/8JZT2S2yR91mspqM6MyOpKl5lrhHsZa8=' 'sha256-3woF8BZ54TeXM+czaH3aXoaJsVpiamuAKFsXDykAR/Q=' 'sha256-vIfNcKb8ixJg1cfJIoNNYjWcm0lezj1/XpUNFiZyVsU=' 'sha256-cLsHUHFgT/VGX04cZrJ9xgm4HbzTR7ptutkxK+7BlMk=' 'sha256-BwU8jMnQYUhjOpsDVABpfddV/DlP1ZYrFcTumYw7x54=' 'sha256-wz6ika9i3WU3bpUPdhYDZeO/NrDQniDyiscN0LWnyaY=' 'sha256-3RIGhhApBii1KY+aW1xk7kFyoQY8vSVE5DfT7E9SJUc=' static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com platform.linkedin.com platform-akam.linkedin.com platform-ecst.linkedin.com platform-azur.linkedin.com snap.licdn.com www.google.com/recaptcha/enterprise.js www.gstatic.com/recaptcha/releases/ www.googletagmanager.com/gtag/js www.googleadservices.com/pagead/ www.google.com/pagead/ googleads.g.doubleclick.net/pagead/ adservice.google.com/pagead/ pagead2.googlesyndication.com/pagead/ www.googletagmanager.com/gtag/destination merchantpool1.linkedin.com/mdt.js; img-src data: blob: * android-webview-video-poster:; font-src data: *; style-src 'self' 'unsafe-inline' static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; media-src 'self' *.licdn.com *.lynda.com; worker-src 'self' blob: static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; frame-src 'self' www.youtube.com/embed/ www.youtube-nocookie.com/embed/ lnkd.demdex.net smartlock.google.com accounts.google.com player.vimeo.com *.linkedin.com www.slideshare.net *.megaphone.fm *.omny.fm *.sounder.fm msit.powerbi.com app.powerbi.com linkedin.github.io *.licdn.com *.adnxs.com acdn.adnxs-simple.com radar.cedexis.com edge-auth.microsoft.com flo.uri.sh play.vidyard.com www.google.com/recaptcha/ *.fls.doubleclick.net www.googletagmanager.com td.doubleclick.net li.protechts.net *.xlgmedia.com *.px-cloud.net merchantpool1.linkedin.com; frame-ancestors 'self' *.www.linkedin.com:*; manifest-src 'self'; report-uri https://www.linkedin.com/security/csp?f=gg",
+  "x-li-fabric": "prod-lor1",
+  "pragma": "no-cache",
+  "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+  "cache-control": "no-cache, no-store",
+  "x-li-pop": "cf-prod-lor1-x",
+  "x-li-proto": "http/1.1",
+  "x-li-uuid": "AAZAHkHIEYbryjc/Yzwoog==",
+  "set-cookie": [
+    "JSESSIONID=ajax:2999919633877625868; SameSite=None; Path=/; Domain=.www.linkedin.com; Secure",
+    "lang=v=2&lang=tr-tr; SameSite=None; Path=/; Domain=linkedin.com; Secure",
+    "bcookie=\"v=2&5de0157f-7075-4367-8bd2-904e67956a7c\"; domain=.linkedin.com; Path=/; Secure; Expires=Thu, 01-Oct-2026 19:55:57 GMT; SameSite=None",
+    "bscookie=\"v=1&20251001195557fe464c73-2e92-4831-83db-c1308ba9a27fAQE_ySBGRaDQpL6Lm0ukrzTHdPoBXlbz\"; domain=.www.linkedin.com; Path=/; Secure; Expires=Thu, 01-Oct-2026 19:55:57 GMT; HttpOnly; SameSite=None",
+    "lidc=\"b=OGST00:s=O:r=O:a=O:p=O:g=3771:u=1:x=1:i=1759348557:t=1759434957:v=2:sig=AQHxtinpBFzjJP4bSALhsW4IfDrTAa_1\"; Expires=Thu, 02 Oct 2025 19:55:57 GMT; domain=.linkedin.com; Path=/; SameSite=None; Secure",
+    "__cf_bm=ymKsfu.mNS4bOGrpo9tbPE5E_exIPWi03GzLEpSawxU-1759348557-1.0.1.1-Kg3jFnNTYqx2.IvND02nFE4HxriEYDyH8.ygfTBdwvHf7dLQUK_8bqdm1.Ux4we25XOsfz00rpi4RU2yhUFbFk_BmVq7g7aYx1B.4eHSUH0; path=/; expires=Wed, 01-Oct-25 20:25:57 GMT; domain=.linkedin.com; HttpOnly; Secure; SameSite=None"
+  ],
+  "cf-cache-status": "DYNAMIC",
+  "server": "cloudflare",
+  "cf-ray": "987e85411b7ad5fb-IST",
+  "alt-svc": "h3=\":443\"; ma=86400"
+}
+
+=== BODY ===
+<!DOCTYPE html>
+
+    
+    
+    
+    
+    
+    
+
+    
+    <html lang="tr">
+      <head>
+        <meta name="pageKey" content="d_org_guest_company_overview">
+          
+    <meta name="robots" content="max-image-preview:large, noarchive">
+      <meta name="bingbot" content="max-image-preview:large, noarchive">
+  
+<!---->          <meta name="linkedin:pageTag" content="noncanonical_subdomain=enabled">
+        <meta name="locale" content="tr_TR">
+<!---->        <meta id="config" data-app-version="2.0.2537" data-call-tree-id="AAZAHkHIEYbryjc/Yzwoog==" data-multiproduct-name="organization-guest-frontend" data-service-name="organization-guest-frontend" data-browser-id="5de0157f-7075-4367-8bd2-904e67956a7c" data-enable-page-view-heartbeat-tracking data-page-instance="urn:li:page:d_org_guest_company_overview;qnyKD96DSPaiKmVclq9GSQ==" data-disable-jsbeacon-pagekey-suffix="false" data-member-id="0" data-msafdf-lib="https://static.licdn.com/aero-v1/sc/h/80ndnja80f2uvg4l8sj2su82m" data-should-use-full-url-in-pve-path="true" data-dna-member-lix-treatment="enabled" data-human-member-lix-treatment="enabled" data-dfp-member-lix-treatment="control" data-sync-apfc-headers-lix-treatment="control" data-sync-apfc-cb-lix-treatment="control" data-recaptcha-v3-integration-lix-value="control" data-network-interceptor-lix-value="control" data-is-epd-audit-event-enabled="false">
+
+        <link rel="canonical" href="https://tr.linkedin.com/company/agcyazilim">
+<!----><!---->
+<!---->
+<!---->
+          <meta property="al:android:url" content="https://tr.linkedin.com/company/agcyazilim">
+          <meta property="al:android:package" content="com.linkedin.android">
+          <meta property="al:android:app_name" content="LinkedIn">
+          <meta property="al:ios:url" content="https://tr.linkedin.com/company/agcyazilim">
+          <meta property="al:ios:app_store_id" content="288429040">
+          <meta property="al:ios:app_name" content="LinkedIn">
+
+          <link rel="manifest" href="/homepage-guest/manifest.json" crossorigin="use-credentials">
+
+          <link rel="icon" href="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca">
+
+
+        <script>
+          function getDfd() {let yFn,nFn;const p=new Promise(function(y, n){yFn=y;nFn=n;});p.resolve=yFn;p.reject=nFn;return p;}
+          window.lazyloader = getDfd();
+          window.tracking = getDfd();
+          window.impressionTracking = getDfd();
+          window.ingraphTracking = getDfd();
+          window.appDetection = getDfd();
+          window.pemTracking = getDfd();
+        </script>
+
+<!---->
+        
+        
+    <title>AGC YAZILIM | LinkedIn</title>
+    <meta name="description" content="AGC YAZILIM | LinkedIn‘de 857 takipçi Your Technology Partner | 2006 yılında kurulan AGC Yazılım, faaliyete geçtiği yıldan bugüne Bilgi Teknolojileri sektöründeki gelişmeleri yakından takip ederek pazarın değişimleri ile bütünleşerek, hızla büyüyen şirketlerden birisi olmuştur. İstanbul, İzmir, Houston ve Dubai’deki ofislerinde yazılım geliştirme ve danışmanlık hizmetleri sunmaktadır.
+
+Microsoft iş ortağı olarak müşterilerine, bilgi teknolojilerini en verimli şekilde kullanarak, iş hedeflerine ulaşmalarını sağlayacak çözümleri oluşturmaktadır.">
+
+    <meta property="og:title" content="AGC YAZILIM | LinkedIn">
+    <meta property="og:description" content="AGC YAZILIM | LinkedIn‘de 857 takipçi Your Technology Partner | 2006 yılında kurulan AGC Yazılım, faaliyete geçtiği yıldan bugüne Bilgi Teknolojileri sektöründeki gelişmeleri yakından takip ederek pazarın değişimleri ile bütünleşerek, hızla büyüyen şirketlerden birisi olmuştur. İstanbul, İzmir, Houston ve Dubai’deki ofislerinde yazılım geliştirme ve danışmanlık hizmetleri sunmaktadır.
+
+Microsoft iş ortağı olarak müşterilerine, bilgi teknolojilerini en verimli şekilde kullanarak, iş hedeflerine ulaşmalarını sağlayacak çözümleri oluşturmaktadır.">
+    <meta property="og:image" content="https://media.licdn.com/dms/image/v2/C4E0BAQHwVDECfwz5cw/company-logo_200_200/company-logo_200_200/0/1631349286445?e=2147483647&amp;v=beta&amp;t=tiadQTzMbtN1jBX_0MLl0Ey1TqGR4hNoaOo5qvrSEvw">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://tr.linkedin.com/company/agcyazilim">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@linkedin">
+    <meta name="twitter:title" content="AGC YAZILIM | LinkedIn">
+    <meta name="twitter:description" content="AGC YAZILIM | LinkedIn‘de 857 takipçi Your Technology Partner | 2006 yılında kurulan AGC Yazılım, faaliyete geçtiği yıldan bugüne Bilgi Teknolojileri sektöründeki gelişmeleri yakından takip ederek pazarın değişimleri ile bütünleşerek, hızla büyüyen şirketlerden birisi olmuştur. İstanbul, İzmir, Houston ve Dubai’deki ofislerinde yazılım geliştirme ve danışmanlık hizmetleri sunmaktadır.
+
+Microsoft iş ortağı olarak müşterilerine, bilgi teknolojilerini en verimli şekilde kullanarak, iş hedeflerine ulaşmalarını sağlayacak çözümleri oluşturmaktadır.">
+    <meta name="twitter:image" content="https://media.licdn.com/dms/image/v2/C4E0BAQHwVDECfwz5cw/company-logo_200_200/company-logo_200_200/0/1631349286445?e=2147483647&amp;v=beta&amp;t=tiadQTzMbtN1jBX_0MLl0Ey1TqGR4hNoaOo5qvrSEvw">
+
+    <meta name="clientSideIngraphs" content="1" data-gauge-metric-endpoint="/organization-guest/api/ingraphs/gauge" data-counter-metric-endpoint="/organization-guest/api/ingraphs/counter">
+  
+
+        <link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/9z3uo7nl9ngii9gkb6758h8ql">
+
+          
+    
+    <script type="application/ld+json">
+      {"@context":"http://schema.org","@graph":[{"@context":"http://schema.org","@type":"DiscussionForumPosting","author":{"@type":"Organization","name":"AGC YAZILIM","url":"https://tr.linkedin.com/company/agcyazilim"},"datePublished":"2024-02-26T09:32:43.441Z","mainEntityOfPage":"https://tr.linkedin.com/posts/agcyazilim_copilot-copilotformicrosoft365-azureopenai-activity-7167813724492218368-gyYO","text":"\"CoPilot - Sanal Yapay Zeka Asistaniniz ve Azure OpenAI nedir ?\" webinarimizda sizleri aramizda gormek isteriz. Deniz Volkan Güldoğan Onur Tandoğan Sema ALAN Eda Bostan #copilot  #copilotformicrosoft365 #azureopenai ","url":"https://tr.linkedin.com/posts/agcyazilim_copilot-copilotformicrosoft365-azureopenai-activity-7167813724492218368-gyYO"},{"@context":"http://schema.org","@type":"Organization","name":"AGC YAZILIM","url":"https://tr.linkedin.com/company/agcyazilim","address":{"type":"PostalAddress","streetAddress":"Yüzbaşı Kaya Aldoğan Caddesi No: 4 D: 4","addressLocality":"İstanbul","addressRegion":"Şişli","postalCode":"34394","addressCountry":"TR"},"description":"2006 yılında kurulan AGC Yazılım, faaliyete geçtiği yıldan bugüne Bilgi Teknolojileri sektöründeki gelişmeleri yakından takip ederek pazarın değişimleri ile bütünleşerek, hızla büyüyen şirketlerden birisi olmuştur. İstanbul, İzmir, Houston ve Dubai’deki ofislerinde yazılım geliştirme ve danışmanlık hizmetleri sunmaktadır.\n\nMicrosoft iş ortağı olarak müşterilerine, bilgi teknolojilerini en verimli şekilde kullanarak, iş hedeflerine ulaşmalarını sağlayacak çözümleri oluşturmaktadır.\n\nÜlkemizin, Bilgi Teknolojisi sektörünün öne çıkan kuruluşlarından olan AGC Yazılım’ın bu başarısı, en önemli varlığımız olan çalışanlarımızın eseridir. Bu nedenle en büyük yatırımı insan kaynaklarına yapmakta, gerek teknik, gerekse kişisel becerilerin geliştirebilmesi için eğitim olanakları sağlamaktayız. Gerekli tüm sertifikasyonlara sahip, yetkin teknik ekibimiz , birikimlerini müşterilerimize sunmaktadır.","numberOfEmployees":{"value":14,"@type":"QuantitativeValue"},"logo":{"contentUrl":"https://media.licdn.com/dms/image/v2/C4E0BAQHwVDECfwz5cw/company-logo_200_200/company-logo_200_200/0/1631349286445?e=2147483647&v=beta&t=tiadQTzMbtN1jBX_0MLl0Ey1TqGR4hNoaOo5qvrSEvw","description":"AGC YAZILIM","@type":"ImageObject"},"slogan":"Your Technology Partner","sameAs":"https://www.agcyazilim.com"}]}
+    </script>
+  
+  
+      
+<!---->      </head>
+      <body dir="ltr">
+<!----><!----><!---->
+        
+        
+<!---->
+    
+      
+    
+
+    <a href="#main-content" class="skip-link btn-md btn-primary absolute z-11 -top-[100vh] focus:top-0">
+      Ana içeriğe geç
+    </a>
+  
+    <header class="header base-detail-page__header px-mobile-container-padding bg-color-background-container global-alert-offset">
+      
+        
+
+    
+    
+    
+    
+
+    <nav class="nav pt-1.5 pb-2 flex items-center justify-between relative flex-nowrap babymamabear:py-1.5
+        
+        
+         babybear:flex-wrap " aria-label="Birincil">
+
+      <a href="/?trk=organization_guest_nav-header-logo" class="nav__logo-link link-no-visited-state z-1 mr-auto min-h-[52px] flex items-center babybear:z-0 hover:no-underline focus:no-underline active:no-underline
+          " data-tracking-control-name="organization_guest_nav-header-logo" data-tracking-will-navigate>
+          
+              
+    
+    <span class="sr-only">LinkedIn</span>
+<!---->      <icon class="block text-color-brand w-[102px] h-[26px] " data-test-id="nav-logo" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb"></icon>
+  
+          
+      </a>
+
+<!---->
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    <ul class="top-nav-menu flex items-center babybear:w-full babybear:justify-between babybear:pt-1 justify-start w-max pt-0 overflow-x-auto
+        
+         nav__menu babybear:order-last order-3 ml-auto">
+        <li class>
+          
+    <a href="https://www.linkedin.com/top-content?trk=organization_guest_guest_nav_menu_topContent" data-tracking-control-name="organization_guest_guest_nav_menu_topContent" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-8 
+        flex-col mx-1 babybear:mx-0
+        text-color-text-secondary visited:text-color-text-secondary">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5ofmdgombsj3cqmfn03qb7h60">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center w-max
+          font-regular">
+        En İyi İçerikler
+      </span>
+    </a>
+  
+        </li>
+        <li class>
+          
+    <a href="https://www.linkedin.com/pub/dir/+/+?trk=organization_guest_guest_nav_menu_people" data-tracking-control-name="organization_guest_guest_nav_menu_people" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-8 
+        flex-col mx-1 babybear:mx-0
+        text-color-text-secondary visited:text-color-text-secondary">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center w-max
+          font-regular">
+        Kişiler
+      </span>
+    </a>
+  
+        </li>
+        <li class>
+          
+    <a href="https://www.linkedin.com/learning/search?trk=organization_guest_guest_nav_menu_learning" data-tracking-control-name="organization_guest_guest_nav_menu_learning" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-8 
+        flex-col mx-1 babybear:mx-0
+        text-color-text-secondary visited:text-color-text-secondary">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center w-max
+          font-regular">
+        Learning
+      </span>
+    </a>
+  
+        </li>
+        <li class>
+          
+    <a href="https://www.linkedin.com/jobs/search?trk=organization_guest_guest_nav_menu_jobs" data-tracking-control-name="organization_guest_guest_nav_menu_jobs" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-8 
+        flex-col mx-1 babybear:mx-0
+        top-nav-link--selected text-color-text visited:text-color-text border-solid border-b-2 border-color-text" aria-current="page">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center w-max
+          font-regular">
+        İş İlanları
+      </span>
+    </a>
+  
+        </li>
+        <li class>
+          
+    <a href="https://www.linkedin.com/games?trk=organization_guest_guest_nav_menu_games" data-tracking-control-name="organization_guest_guest_nav_menu_games" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-8 
+        flex-col mx-1 babybear:mx-0
+        text-color-text-secondary visited:text-color-text-secondary">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/29h8hsjuomfp50lam5ipnc3uh">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center w-max
+          font-regular">
+        Oyunlar
+      </span>
+    </a>
+  
+        </li>
+        <li class>
+          
+    <a href="ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&amp;mode=mini&amp;cid=guest_nav_upsell&amp;trk=organization_guest_guest_nav_menu_windows" data-tracking-control-name="organization_guest_guest_nav_menu_windows" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-[96px] px-1 border-solid border-l-1 border-r-1 babybear:border-r-0 border-color-border-faint
+        flex-col mx-1 babybear:mx-0
+        text-color-text-secondary visited:text-color-text-secondary">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/admayac2rnonsqhz9v3rzwcyu">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center w-max
+          font-regular">
+        Uygulamayı indir
+      </span>
+    </a>
+  
+        </li>
+    </ul>
+  
+
+      <div class="nav__cta-container order-3 flex gap-x-1 justify-end min-w-[100px] flex-nowrap flex-shrink-0 babybear:flex-wrap flex-2
+          ">
+          
+  
+  
+
+      
+      <a class="nav__button-secondary btn-md btn-secondary-emphasis ml-3" href="https://www.linkedin.com/login/tr?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fagcyazilim&amp;fromSignIn=true&amp;trk=organization_guest_nav-header-signin" data-tracking-control-name="organization_guest_nav-header-signin" data-tracking-will-navigate data-tracking-client-ingraph>
+          Oturum aç
+      </a>
+
+
+        
+    
+    <a class="nav__button-tertiary btn-md btn-primary" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fagcyazilim&amp;_l=tr&amp;trk=organization_guest_nav-header-join" data-tracking-control-name="organization_guest_nav-header-join" data-test-live-nav-primary-cta data-tracking-will-navigate data-tracking-client-ingraph>
+      Hemen katıl
+<!---->    </a>
+
+
+<!---->
+<!---->      </div>
+
+<!---->
+<!---->    </nav>
+  
+      
+    </header>
+
+    
+<!---->      
+
+<!---->
+    <main class="main papabear:flex papabear:mx-auto papabear:pt-desktop-content-top-margin mamabear:pt-desktop-content-top-margin
+        " id="main-content" role="main">
+      <section class="core-rail mx-auto papabear:w-core-rail-width mamabear:max-w-[790px] babybear:max-w-[790px]">
+        
+        
+            
+    
+    
+    
+    
+    
+    
+
+    
+    <section class="top-card-layout container-lined overflow-hidden babybear:rounded-[0px]">
+        
+    <figure class="cover-img min-h-[87px] papbear:min-h-[100px] rounded-t-[2px] babybear:rounded-[0px] -z-1">
+<!---->      <div class="cover-img__image-frame relative w-full overflow-hidden pb-[calc((134/782)*100%)]">
+        <div class="cover-img__image-position absolute top-0 right-0 bottom-0 left-0
+            ">
+            <img class="cover-img__image relative w-full h-full object-cover" src="https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82" fetchpriority="auto" data-embed-id="cover-image" alt="AGC YAZILIM kapak resmi" tabindex="0">
+        </div>
+      </div>
+<!---->    </figure>
+  
+
+      <div class="top-card-layout__card relative p-2 papabear:p-details-container-padding">
+            <div class="top-card-layout__entity-image-container flex">
+              
+      <img class="inline-block relative
+          
+          w-16 h-16
+           top-card-layout__entity-image shadow-color-shadow shadow-[0_4px_12px] border-2 border-solid border-color-surface mt-[-70px] mb-[14px] papabear:border-4 papabear:mt-[-100px] papabear:mb-[18px]" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQHwVDECfwz5cw/company-logo_200_200/company-logo_200_200/0/1631349286445?e=2147483647&amp;v=beta&amp;t=tiadQTzMbtN1jBX_0MLl0Ey1TqGR4hNoaOo5qvrSEvw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="AGC YAZILIM">
+      
+            </div>
+
+          <div class="top-card-layout__entity-info-container flex flex-wrap papabear:flex-nowrap">
+            <div class="top-card-layout__entity-info flex-grow flex-shrink-0 basis-0 babybear:flex-none babybear:w-full babybear:flex-none babybear:w-full">
+                    <h1 class="top-card-layout__title font-sans text-lg papabear:text-xl font-bold leading-open text-color-text mb-0">
+                      AGC YAZILIM
+                      
+                    </h1>
+                <h2 class="top-card-layout__headline break-words font-sans text-md leading-open text-color-text">
+                    BT Hizmetleri ve BT Danışmanlığı
+                </h2>
+
+                <h3 class="top-card-layout__first-subline font-sans text-md leading-open text-color-text-low-emphasis">
+                  
+        İstanbul, Şişli <span class="before:middot"></span> 857 takipçi
+      
+                </h3>
+
+                <h4 class="top-card-layout__second-subline font-sans text-sm leading-open text-color-text-low-emphasis mt-0.5">
+                  
+        <span class="line-clamp-2">Your Technology Partner</span>
+      
+                </h4>
+
+              <div class="top-card-layout__cta-container flex flex-wrap mt-0.5 papabear:mt-0 ml-[-12px]">
+                    
+<!---->      
+
+                    
+          <a class="top-card-layout__cta mt-2 ml-1.5 h-auto babybear:flex-auto top-card-layout__cta--secondary btn-md btn-secondary" href="https://www.linkedin.com/login/tr?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fagcyazilim&amp;fromSignIn=true&amp;trk=top-card_top-card-secondary-button-top-card-secondary-cta" data-tracking-control-name="top-card_top-card-secondary-button-top-card-secondary-cta" data-tracking-will-navigate>
+            Takip Edin
+          </a>
+      
+              </div>
+            </div>
+
+                <div class="top-card-layout__entity-info flex-grow flex-shrink-0 basis-0 babybear:flex-none babybear:w-full
+                    top-card-layout__entity-info--right-column ml-details-container-padding max-w-[288px] babybear:my-2 babybear:ml-0">
+                  
+        
+  
+  
+  
+
+  <ul>
+<!---->
+      <li class="papabear:mb-1.5">
+        
+    
+      <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D%255B2121546%255D&amp;_l=tr&amp;trk=org-employees_cta_face-pile-cta" target="_self" data-tracking-control-name="full-link" data-tracking-will-navigate class="face-pile flex !no-underline" data-tracking-client-ingraph>
+        
+      <div class="face-pile__images-container self-start flex-shrink-0 mr-1 leading-[1]">
+          
+      <img class="inline-block relative
+          rounded-[50%]
+          w-4 h-4
+           face-pile__image border-1 border-solid border-color-transparent -ml-2 first:ml-0" data-delayed-url="https://media.licdn.com/dms/image/v2/C5603AQG7Jk5wkaUaJQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517686741321?e=2147483647&amp;v=beta&amp;t=cNjmlglG57WbnNH1f8OxWsY4FrJ9oagS7ade16AeAxs" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt>
+      
+          
+      <img class="inline-block relative
+          rounded-[50%]
+          w-4 h-4
+           face-pile__image border-1 border-solid border-color-transparent -ml-2 first:ml-0" data-delayed-url="https://media.licdn.com/dms/image/v2/C5603AQHB9zw90-xLCQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516464427394?e=2147483647&amp;v=beta&amp;t=eSY8oJfJ7nt_zJEu4OQr_wbjanuYCpEX-EzsATQI8iA" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt>
+      
+          
+      <img class="inline-block relative
+          rounded-[50%]
+          w-4 h-4
+           face-pile__image border-1 border-solid border-color-transparent -ml-2 first:ml-0" data-delayed-url="https://media.licdn.com/dms/image/v2/C5103AQF9YuoRQEej0A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516736288041?e=2147483647&amp;v=beta&amp;t=QggkVlpL0Lwrd3C6lJZX_SuYw2oLmrw2XMvu7y-oAHs" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt>
+      
+      </div>
+        <p class="face-pile__text self-center font-sans text-sm
+            link-styled hover:underline">
+          14 çalışanın tamamını görüntüle
+        </p>
+          
+      </a>
+  
+  
+      </li>
+
+<!---->  </ul>
+
+      
+                </div>
+          </div>
+
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      <div class="ellipsis-menu absolute right-0 top-0 top-card-layout__ellipsis-menu mr-1 papabear:mt-0.5 papabear:mr-2">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            <button class="ellipsis-menu__trigger
+                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
+                !py-[6px] !px-1 flex items-center rounded-[50%]
+                
+                " aria-expanded="false" aria-label="Menüyü aç" data-tracking-control-name="top-card_ellipsis-menu-trigger" tabindex="0">
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/671xosfpvk4c0kqtyl87hashi"></icon>
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-[9999] bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+              
+
+                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex" role="presentation">
+                  
+
+    
+    
+
+    
+
+    
+
+    <a href="/uas/login?fromSignIn=true&amp;session_redirect=https%3A%2F%2Ftr.linkedin.com%2Fcompany%2Fagcyazilim&amp;trk=top-card_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=COMPANY&amp;_f=guest-reporting" data-tracking-control-name="top-card_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate data-item-type="semaphore" data-semaphore-content-type="COMPANY" data-semaphore-content-urn="urn:li:organization:2121546" data-semaphore-tracking-prefix="top-card_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+<!---->        
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
+                      Bu şirketi rapor et
+                    
+    </a>
+
+<!---->  
+                </li>
+<!---->          
+        </ul>
+
+<!---->    </div>
+  
+
+      </div>
+  
+
+<!---->      </div>
+    </section>
+  
+  
+          
+      
+
+        <div class="details mx-details-container-padding">
+          
+        
+            
+    
+
+<!---->  
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      
+    <section class="core-section-container
+        core-section-container--with-border border-b-1 border-solid border-color-border-faint py-4 text-color-text" data-test-id="about-us">
+<!---->
+          <h2 class="core-section-container__title section-title">
+            Hakkımızda
+          </h2>
+
+<!---->
+      <div class="core-section-container__content break-words">
+        
+
+          <p class="break-words text-color-text" data-test-id="about-us__description">
+              2006 yılında kurulan AGC Yazılım, faaliyete geçtiği yıldan bugüne Bilgi Teknolojileri sektöründeki gelişmeleri yakından takip ederek pazarın değişimleri ile bütünleşerek, hızla büyüyen şirketlerden birisi olmuştur. İstanbul, İzmir, Houston ve Dubai’deki ofislerinde yazılım geliştirme ve danışmanlık hizmetleri sunmaktadır.
+
+Microsoft iş ortağı olarak müşterilerine, bilgi teknolojilerini en verimli şekilde kullanarak, iş hedeflerine ulaşmalarını sağlayacak çözümleri oluşturmaktadır.
+
+Ülkemizin, Bilgi Teknolojisi sektörünün öne çıkan kuruluşlarından olan AGC Yazılım’ın bu başarısı, en önemli varlığımız olan çalışanlarımızın eseridir. Bu nedenle en büyük yatırımı insan kaynaklarına yapmakta, gerek teknik, gerekse kişisel becerilerin geliştirebilmesi için eğitim olanakları sağlamaktayız. Gerekli tüm sertifikasyonlara sahip, yetkin teknik ekibimiz , birikimlerini müşterilerimize sunmaktadır.
+          </p>
+
+          <dl class="mt-6">
+              
+    <div class="mb-2 flex papabear:mr-3 mamabear:mr-3 babybear:flex-wrap" data-test-id="about-us__website">
+      <dt class="font-sans text-md font-bold text-color-text break-words w-40 papabear:flex-shrink-0 papabear:mr-3 mamabear:flex-shrink-0 mamabear:mr-3 babybear:mb-1">
+          Web Sitesi
+      </dt>
+      <dd class="font-sans px-0.25 text-md text-color-text break-words overflow-hidden">
+        
+                  
+    <a class="link-no-visited-state hover:no-underline" data-tracking-control-name="about_website" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eagcyazilim%2Ecom&amp;urlhash=FAwD&amp;trk=about_website" target="_blank" rel="noopener" data-tracking-will-navigate aria-describedby="websiteLinkDescription">
+      https://www.agcyazilim.com
+      <icon class="align-middle" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/49229g4q0jsla5l1xojq1wob9" aria-hidden="true"></icon>
+    </a>
+  
+                  <p class="hidden" id="websiteLinkDescription">AGC YAZILIM için harici link</p>
+                
+      </dd>
+    </div>
+  
+              
+    <div class="mb-2 flex papabear:mr-3 mamabear:mr-3 babybear:flex-wrap" data-test-id="about-us__industry">
+      <dt class="font-sans text-md font-bold text-color-text break-words w-40 papabear:flex-shrink-0 papabear:mr-3 mamabear:flex-shrink-0 mamabear:mr-3 babybear:mb-1">
+          Sektör
+      </dt>
+      <dd class="font-sans px-0.25 text-md text-color-text break-words overflow-hidden">
+        
+                  BT Hizmetleri ve BT Danışmanlığı
+                
+      </dd>
+    </div>
+  
+              
+    <div class="mb-2 flex papabear:mr-3 mamabear:mr-3 babybear:flex-wrap" data-test-id="about-us__size">
+      <dt class="font-sans text-md font-bold text-color-text break-words w-40 papabear:flex-shrink-0 papabear:mr-3 mamabear:flex-shrink-0 mamabear:mr-3 babybear:mb-1">
+          Şirket büyüklüğü
+      </dt>
+      <dd class="font-sans px-0.25 text-md text-color-text break-words overflow-hidden">
+        
+                  
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        11 - 50 çalışan
+  
+
+                
+      </dd>
+    </div>
+  
+              
+    <div class="mb-2 flex papabear:mr-3 mamabear:mr-3 babybear:flex-wrap" data-test-id="about-us__headquarters">
+      <dt class="font-sans text-md font-bold text-color-text break-words w-40 papabear:flex-shrink-0 papabear:mr-3 mamabear:flex-shrink-0 mamabear:mr-3 babybear:mb-1">
+          Genel Merkez
+      </dt>
+      <dd class="font-sans px-0.25 text-md text-color-text break-words overflow-hidden">
+        
+                    İstanbul, Şişli
+                
+      </dd>
+    </div>
+  
+              
+    <div class="mb-2 flex papabear:mr-3 mamabear:mr-3 babybear:flex-wrap" data-test-id="about-us__organizationType">
+      <dt class="font-sans text-md font-bold text-color-text break-words w-40 papabear:flex-shrink-0 papabear:mr-3 mamabear:flex-shrink-0 mamabear:mr-3 babybear:mb-1">
+          Türü
+      </dt>
+      <dd class="font-sans px-0.25 text-md text-color-text break-words overflow-hidden">
+        
+                  Özel Şirket
+                
+      </dd>
+    </div>
+  
+              
+    <div class="mb-2 flex papabear:mr-3 mamabear:mr-3 babybear:flex-wrap" data-test-id="about-us__foundedOn">
+      <dt class="font-sans text-md font-bold text-color-text break-words w-40 papabear:flex-shrink-0 papabear:mr-3 mamabear:flex-shrink-0 mamabear:mr-3 babybear:mb-1">
+          Kuruluş
+      </dt>
+      <dd class="font-sans px-0.25 text-md text-color-text break-words overflow-hidden">
+        
+                  2006
+                
+      </dd>
+    </div>
+  
+
+              
+    <div class="mb-2 flex papabear:mr-3 mamabear:mr-3 babybear:flex-wrap" data-test-id="about-us__specialties">
+      <dt class="font-sans text-md font-bold text-color-text break-words w-40 papabear:flex-shrink-0 papabear:mr-3 mamabear:flex-shrink-0 mamabear:mr-3 babybear:mb-1">
+          Uzmanlık Alanları
+      </dt>
+      <dd class="font-sans px-0.25 text-md text-color-text break-words overflow-hidden">
+        
+                  Microsoft Dynamics AXAPTA, Microsoft Sharepoint, Microsoft Project Server, Microsoft Dynamics CRM, Microsoft AZURE, Nintex form - workflow, Resco Mobility, Microsoft Dynamics 365, Microsoft Office 365, CodeTwo email Signatures for Office 365, CodeTwo Exchange Rules/PRO ve Microsoft 365
+                
+      </dd>
+    </div>
+  
+          </dl>
+      
+      </div>
+    </section>
+  
+  
+            
+    
+    
+    
+
+      
+    <section class="core-section-container
+        core-section-container--with-border border-b-1 border-solid border-color-border-faint py-4" data-test-id="products">
+<!---->
+          <h2 class="core-section-container__title section-title">
+            Ürünler
+          </h2>
+
+<!---->
+      <div class="core-section-container__content break-words">
+        
+          
+    
+    
+
+      
+    
+    
+      <a href="https://www.linkedin.com/products/agcyazilim-codetwo/?trk=organization_guest_main_product_card" target="_self" data-tracking-control-name="organization_guest_main_product_card" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-main-card flex flex-wrap py-1.5 pr-2 babybear:pr-0
+        
+        base-main-card--link
+        ">
+        
+
+<!---->
+      
+          <div class="base-main-card__media relative w-[228px] block overflow-hidden flex-shrink-0 rounded-md
+              
+              h-[134px] babybear:w-full babybear:h-auto babybear:min-h-[134px] babybear:max-h-[250px]">
+            
+          <img class="mamabear:h-[100%] papabear:h-[100%]" data-delayed-url="https://media.licdn.com/dms/image/sync/v2/C4E27AQFpPbey7elb5g/articleshare-shrink_480/articleshare-shrink_480/0/1711731391709?e=2147483647&amp;v=beta&amp;t=moadBakitbWRvHJBjji8WLUwo2gp6EEty2oL82hUW-M" alt="CodeTwo ürününü görüntülemek için burayı tıklayın">
+        
+<!---->          </div>
+
+        <div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full
+            ">
+<!---->          <h3 class="base-main-card__title line-clamp-1 font-sans text-md font-bold text-color-text overflow-hidden
+              
+              
+              base-main-card__title--link">
+            
+          
+      <img class="inline-block relative
+          
+          w-6 h-6
+           !block" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQHwVDECfwz5cw/company-logo_100_100/company-logo_100_100/0/1631349286445?e=2147483647&amp;v=beta&amp;t=Mf7hJ1LnG73ojOol6KDtSwhxJ0SLSF8HIw3xX67rh70" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="CodeTwo ürününü görüntülemek için burayı tıklayın">
+      
+          CodeTwo
+        
+          </h3>
+          
+
+<!---->
+                <p class="base-main-card__description body-text text-color-text ">
+                  
+          CodeTwo Email Signatures 365 is the only Microsoft 365 Certified email signature solution for Microsoft 365 &amp; Office 365. It's an Azure-based cloud service that supports all devices and email apps. Our product was co-engineered and awarded by Microsoft, and has the highest user satisfaction ratings. With CodeTwo's ISO/IEC 27001 &amp; 27018 certification and our proprietary 4-layer security system, it's the most secure signature solution on the market. Watch a short product video
+
+CodeTwo offers solutions for organization-wide email signature management, data backup and migration for Microsoft 365 &amp; Exchange Server, developed for 16 years and used by over 110k organizations worldwide, including Facebook, Samsung and UNICEF.
+        
+                </p>
+
+<!----><!---->        </div>
+
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+      
+      </div>
+    </section>
+  
+  
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      
+    <section class="core-section-container
+        core-section-container--with-border border-b-1 border-solid border-color-border-faint py-4 locations">
+<!---->
+          <h2 class="core-section-container__title section-title">
+            Konum
+          </h2>
+
+<!---->
+      <div class="core-section-container__content break-words">
+        
+        
+    
+    
+
+      <ul class="show-more-less__list show-more-less__list--no-hidden-elems" data-impression-id="org-locations_show-more-less">
+        
+              <li class="mb-3 papabear:w-50% papabear:odd:mr-2 papabear:odd:w-[calc(50%-16px)]">
+                  <span class="tag-sm tag-enabled">
+                    Birincil
+                  </span>
+                <div id="address-0">
+                    <p>
+                      Yüzbaşı Kaya Aldoğan Caddesi No: 4 D: 4
+                    </p>
+<!---->                    <p>
+                          İstanbul, Şişli 34394, TR
+                    </p>
+                </div>
+                
+    <a class="link-no-visited-state hover:no-underline" data-tracking-control-name="org-locations_url" href="https://www.bing.com/maps?where=Y%C3%BCzba%C5%9F%C4%B1+Kaya+Aldo%C4%9Fan+Caddesi+No%3A+4+D%3A+4+%C4%B0stanbul+34394+%C5%9Ei%C5%9Fli+TR&amp;trk=org-locations_url" target="_blank" rel="noopener" data-tracking-will-navigate aria-describedby="address-0">
+      Yol tarifi al
+      <icon class="align-middle" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/49229g4q0jsla5l1xojq1wob9" aria-hidden="true"></icon>
+    </a>
+  
+              </li>
+              <li class="mb-3 papabear:w-50% papabear:odd:mr-2 papabear:odd:w-[calc(50%-16px)]">
+<!---->                <div id="address-1">
+                    <p>
+                      Adalet Mahallesi Manas Bulvarı Folkart Towers A Kule No:47/B
+                    </p>
+                    <p>
+                      K:26 D:2601
+                    </p>
+                    <p>
+                          Izmir, Bayrakli 35535, TR
+                    </p>
+                </div>
+                
+    <a class="link-no-visited-state hover:no-underline" data-tracking-control-name="org-locations_url" href="https://www.bing.com/maps?where=Adalet+Mahallesi+Manas+Bulvar%C4%B1+Folkart+Towers+A+Kule+No%3A47%2FB+K%3A26+D%3A2601+Izmir+35535+Bayrakli+TR&amp;trk=org-locations_url" target="_blank" rel="noopener" data-tracking-will-navigate aria-describedby="address-1">
+      Yol tarifi al
+      <icon class="align-middle" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/49229g4q0jsla5l1xojq1wob9" aria-hidden="true"></icon>
+    </a>
+  
+              </li>
+          
+      </ul>
+  
+      
+      </div>
+    </section>
+  
+  
+            
+    
+    
+
+    
+      
+    <section class="core-section-container
+        core-section-container--with-border border-b-1 border-solid border-color-border-faint py-4" data-test-id="employees-at">
+<!---->
+          <h2 class="core-section-container__title section-title">
+            AGC YAZILIM şirketindeki çalışanlar
+          </h2>
+
+<!---->
+      <div class="core-section-container__content break-words">
+        
+        <ul>
+            <li>
+              
+    
+    
+
+    
+    
+    
+      <a href="https://www.linkedin.com/in/gokhan-can-b882baa?trk=org-employees" target="_self" data-tracking-control-name="org-employees" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-main-card flex flex-wrap py-1.5 pr-2 babybear:pr-0
+        
+        base-main-card--link
+        ">
+        
+
+<!---->
+      
+          
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C5603AQG7Jk5wkaUaJQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517686741321?e=2147483647&amp;v=beta&amp;t=cNjmlglG57WbnNH1f8OxWsY4FrJ9oagS7ade16AeAxs" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Gokhan Can adlı kullanıcının profilini görüntülemek için burayı tıklayın">
+      
+
+        <div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full
+            ">
+<!---->          <h3 class="base-main-card__title line-clamp-1 font-sans text-md font-bold text-color-text overflow-hidden
+              
+              
+              base-main-card__title--link">
+            
+        Gokhan Can
+
+<!---->      
+          </h3>
+          
+
+            <h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden
+                ">
+              
+        Enterprise Solution Architect
+      
+            </h4>
+
+<!---->
+<!----><!---->        </div>
+
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+
+    
+    
+    
+      <a href="https://tr.linkedin.com/in/nadir-konuklu-757b9a30?trk=org-employees" target="_self" data-tracking-control-name="org-employees" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-main-card flex flex-wrap py-1.5 pr-2 babybear:pr-0
+        
+        base-main-card--link
+        ">
+        
+
+<!---->
+      
+          
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C5603AQHB9zw90-xLCQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516464427394?e=2147483647&amp;v=beta&amp;t=eSY8oJfJ7nt_zJEu4OQr_wbjanuYCpEX-EzsATQI8iA" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Nadir Konuklu adlı kullanıcının profilini görüntülemek için burayı tıklayın">
+      
+
+        <div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full
+            ">
+<!---->          <h3 class="base-main-card__title line-clamp-1 font-sans text-md font-bold text-color-text overflow-hidden
+              
+              
+              base-main-card__title--link">
+            
+        Nadir Konuklu
+
+<!---->      
+          </h3>
+          
+
+            <h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden
+                ">
+              
+        CoFounder at Axpart Bilişim A.Ş.
+      
+            </h4>
+
+<!---->
+<!----><!---->        </div>
+
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+
+    
+    
+    
+      <a href="https://tr.linkedin.com/in/parin-ta%C8%99k%C4%B1ran-%C3%B6zg%C3%BCl-79233754?trk=org-employees" target="_self" data-tracking-control-name="org-employees" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-main-card flex flex-wrap py-1.5 pr-2 babybear:pr-0
+        
+        base-main-card--link
+        ">
+        
+
+<!---->
+      
+          
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C5103AQF9YuoRQEej0A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516736288041?e=2147483647&amp;v=beta&amp;t=QggkVlpL0Lwrd3C6lJZX_SuYw2oLmrw2XMvu7y-oAHs" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Parin Tașkıran Özgül adlı kullanıcının profilini görüntülemek için burayı tıklayın">
+      
+
+        <div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full
+            ">
+<!---->          <h3 class="base-main-card__title line-clamp-1 font-sans text-md font-bold text-color-text overflow-hidden
+              
+              
+              base-main-card__title--link">
+            
+        Parin Tașkıran Özgül
+
+<!---->      
+          </h3>
+          
+
+            <h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden
+                ">
+              
+        SMMM
+      
+            </h4>
+
+<!---->
+<!----><!---->        </div>
+
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+
+    
+    
+    
+      <a href="https://tr.linkedin.com/in/sevgi-g%C3%B6k-a143b568?trk=org-employees" target="_self" data-tracking-control-name="org-employees" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-main-card flex flex-wrap py-1.5 pr-2 babybear:pr-0
+        
+        base-main-card--link
+        ">
+        
+
+<!---->
+      
+          
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C5603AQGtiSr2RJZj6g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517393815517?e=2147483647&amp;v=beta&amp;t=sPu7Vpnctb7pan8YsmXKHLxP1Pf8dPE7nfo0mpInLXw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Sevgi Gök adlı kullanıcının profilini görüntülemek için burayı tıklayın">
+      
+
+        <div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full
+            ">
+<!---->          <h3 class="base-main-card__title line-clamp-1 font-sans text-md font-bold text-color-text overflow-hidden
+              
+              
+              base-main-card__title--link">
+            
+        Sevgi Gök
+
+<!---->      
+          </h3>
+          
+
+            <h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden
+                ">
+              
+        ERP Consultant
+      
+            </h4>
+
+<!---->
+<!----><!---->        </div>
+
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+        </ul>
+        
+        <a class="mt-4 inline-block btn-md btn-secondary-emphasis hover:no-underline" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D%255B2121546%255D&amp;_l=tr&amp;trk=public_biz_employees-join" data-tracking-control-name="public_biz_employees-join" data-tracking-will-navigate>
+          Tüm çalışanları gör
+        </a>
+      
+      
+      </div>
+    </section>
+  
+  
+  
+            
+    
+    
+      
+    <section class="core-section-container
+        core-section-container--with-border border-b-1 border-solid border-color-border-faint py-4 updates" data-test-id="updates">
+<!---->
+          <h2 class="core-section-container__title section-title">
+            Güncellemeler
+          </h2>
+
+<!---->
+      <div class="core-section-container__content break-words">
+        
+        <ul class="updates__list">
+            <li class="mb-1">
+              
+        
+    <div data-id="entire-feed-card-link" class="relative">
+      <a class="main-feed-card__overlay-link absolute left-0 top-0 h-full w-full z-1 !border-0" href="https://tr.linkedin.com/posts/agcyazilim_copilot-copilotformicrosoft365-azureopenai-activity-7167813724492218368-gyYO" data-id="main-feed-card__full-link" data-tracking-control-name="organization_guest_main-feed-card__full-link" data-tracking-will-navigate aria-label="Güncelle 1">
+      </a>
+      
+          
+  
+      
+
+    <article class="relative px-2 pb-0 bg-color-background-container
+        container-lined
+        pt-1.5 main-feed-activity-card
+          
+           papabear:max-w-[550px]" data-activity-urn="urn:li:activity:7167813724492218368" data-featured-activity-urn="urn:li:activity:7167813724492218368" data-attributed-urn="urn:li:ugcPost:7167813723536015361" data-id="main-feed-card">
+<!---->
+      
+<!---->        
+
+      <div class="flex">
+<!---->        <div class="base-main-feed-card__entity-lockup">
+          
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="flex items-center font-sans mb-1" data-test-id="main-feed-activity-card__entity-lockup">
+          <a href="https://tr.linkedin.com/company/agcyazilim?trk=organization_guest_main-feed-card_feed-actor-image" class="relative" data-tracking-control-name="organization_guest_main-feed-card_feed-actor-image" data-tracking-will-navigate>
+            
+      <img class="inline-block relative
+          
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQHwVDECfwz5cw/company-logo_100_100/company-logo_100_100/0/1631349286445?e=2147483647&amp;v=beta&amp;t=Mf7hJ1LnG73ojOol6KDtSwhxJ0SLSF8HIw3xX67rh70" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt="AGC YAZILIM adlı kullanıcının kuruluş sayfasını görüntüleyin">
+      
+<!---->          </a>
+      <div class="flex flex-col self-start min-w-0
+          ml-1
+          ">
+        <div class="text-color-text ">
+            <a class="text-sm link-styled no-underline leading-open px-0.25 outline-offset-[-1px]" href="https://tr.linkedin.com/company/agcyazilim?trk=organization_guest_main-feed-card_feed-actor-name" data-tracking-control-name="organization_guest_main-feed-card_feed-actor-name" aria-label="AGC YAZILIM adlı kullanıcının kuruluş sayfasını görüntüleyin" data-tracking-will-navigate>
+              AGC YAZILIM
+            </a>
+<!----><!---->        </div>
+
+            <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] px-0.25 m-0 truncate">
+<!---->                857 takipçi
+            </p>
+
+              <span class="!text-xs text-color-text-low-emphasis leading-[1.33333] px-0.25 flex">
+                  <time class="flex-none">
+                    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1y
+  
+<!---->                  </time>
+<!---->              </span>
+                </div>
+
+<!---->    </div>
+  
+        
+        </div>
+          
+              
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      <div class="ellipsis-menu absolute right-0 top-0 main-feed-activity-card__ellipsis-menu !top-auto !relative !mr-1" data-test-id="main-feed-activity-card__ellipsis-menu">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            <button class="ellipsis-menu__trigger
+                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
+                !py-[6px] !px-1 flex items-center rounded-[50%]
+                
+                " aria-expanded="false" aria-label="Menüyü aç" data-tracking-control-name="organization_guest_main-feed-card_ellipsis-menu-trigger" tabindex="0">
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/671xosfpvk4c0kqtyl87hashi"></icon>
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-[9999] bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+              
+
+                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex" role="presentation">
+                  
+
+    
+    
+
+    
+
+    
+
+    <a href="/uas/login?fromSignIn=true&amp;session_redirect=https%3A%2F%2Ftr.linkedin.com%2Fcompany%2Fagcyazilim&amp;trk=organization_guest_main-feed-card_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=POST&amp;_f=guest-reporting" data-tracking-control-name="organization_guest_main-feed-card_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate data-item-type="semaphore" data-semaphore-content-type="POST" data-semaphore-content-urn="urn:li:activity:7167813724492218368" data-semaphore-tracking-prefix="organization_guest_main-feed-card_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]" role="menuitem">
+<!---->        
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
+                      Bu yayını rapor et
+                    
+    </a>
+
+<!---->  
+                </li>
+<!---->          
+        </ul>
+
+<!---->    </div>
+  
+
+      </div>
+  
+        
+      </div>
+
+      
+            
+            
+  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
+    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
+        " dir="ltr" data-test-id="main-feed-activity-card__commentary">"CoPilot - Sanal Yapay Zeka Asistaniniz ve Azure OpenAI nedir ?" webinarimizda sizleri aramizda gormek isteriz. <a class="link" href="https://tr.linkedin.com/in/deniz-volkan-guldogan?trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate>Deniz Volkan Güldoğan</a> <a class="link" href="https://tr.linkedin.com/in/onur-tando%C4%9Fan-1b6b6863?trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate>Onur Tandoğan</a> <a class="link" href="https://tr.linkedin.com/in/sema-alan-76302a4a?trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate>Sema ALAN</a> <a class="link" href="https://tr.linkedin.com/in/edabostan?trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate>Eda Bostan</a> <a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcopilot&amp;_l=tr&amp;trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate>#copilot</a>  <a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcopilotformicrosoft365&amp;_l=tr&amp;trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate>#copilotformicrosoft365</a> <a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fazureopenai&amp;_l=tr&amp;trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate>#azureopenai</a> </p>
+<!---->  </div>
+
+
+
+        
+
+        
+            
+      
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+      <div class="no-underline hover:no-underline flex flex-col px-1.5 py-2 !bg-color-background-container container-lined feed-unsupported-content" data-tracking-client-ingraph>
+        
+      <p class="text-color-text font-bold">Bu içeriğe buradan erişemezsiniz</p>
+      <p class="text-color-text-low-emphasis text-sm">Bu içeriğe ve daha fazlasına LinkedIn uygulamasından erişin</p>
+      <button class="btn-sm btn-secondary-emphasis flex flex-1 justify-center items-center my-1">
+        <icon class="h-2 w-2 mr-0.5" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/uuggh6ymw6z1gfzpzhs6qsnq"></icon>
+        Uygulamayı yükle
+      </button>
+    
+      </div>
+  
+  
+      
+                  
+
+      
+          
+<!---->    
+        
+
+      
+          
+      
+
+    
+
+    
+
+    
+
+<!---->  
+    
+        
+
+      
+            
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <code id="i18n_reaction_singular" style="display: none"><!--"%numReactions% Reaksiyon"--></code>
+    <code id="i18n_reactions_plural" style="display: none"><!--"%numReactions% Reaksiyon"--></code>
+
+      <div class="flex items-center font-sans text-sm babybear:text-xs main-feed-activity-card__social-actions">
+            
+      <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fagcyazilim&amp;_l=tr&amp;trk=organization_guest_main-feed-card_social-actions-reactions" target="_self" data-tracking-control-name="organization_guest_main-feed-card_social-actions-reactions" data-tracking-will-navigate class="flex items-center font-normal text-color-text-low-emphasis !no-underline visited:text-color-text-low-emphasis  my-1" aria-label="21 Reaksiyon" data-separate-ctas="false" data-test-id="social-actions__reactions" data-id="social-actions__reactions" data-num-reactions="21" data-singular="%numReactions%" data-plural="%numReactions%" tabindex="0">
+        
+                    <img alt data-reaction-type="LIKE" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671" height="16px" width="16px">
+                    <img alt data-reaction-type="PRAISE" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2tzoeodxy0zug4455msr0oq0v" height="16px" width="16px">
+
+              <span aria-hidden="true" class="font-normal ml-0.5" data-test-id="social-actions__reaction-count">
+                    21
+              </span>
+            
+      </a>
+  
+                  <code id="social-actions__reaction-image-APPRECIATION" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/cyfai5zw4nrqhyyhl0p7so58v"--></code>
+<!----><!---->                  <code id="social-actions__reaction-image-EMPATHY" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/asiqslyf4ooq7ggllg4fyo4o2"--></code>
+                  <code id="social-actions__reaction-image-ENTERTAINMENT" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/22ifp2etz8kb9tgjqn65s9ics"--></code>
+<!---->                  <code id="social-actions__reaction-image-INTEREST" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/a0e8rff6djeoq8iympcysuqfu"--></code>
+                  <code id="social-actions__reaction-image-LIKE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/bn39hirwzjqj18ej1fkz55671"--></code>
+                  <code id="social-actions__reaction-image-MAYBE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/cryzkreqrh52ja5bc6njlrupa"--></code>
+                  <code id="social-actions__reaction-image-PRAISE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/2tzoeodxy0zug4455msr0oq0v"--></code>
+<!----><!----><!----><!---->      </div>
+  
+  
+        
+
+      
+                
+    
+    
+    
+
+    <div class="social-action-bar border-t-1 border-solid border-color-border-faint min-h-[44px] items-center
+        flex flex-wrap babybear:justify-around
+         !m-0">
+      
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fagcyazilim&amp;_l=tr&amp;trk=organization_guest_main-feed-card_like-cta" data-tracking-control-name="organization_guest_main-feed-card_like-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Beğen
+    </span>
+  </a>
+
+        
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fagcyazilim&amp;_l=tr&amp;trk=organization_guest_main-feed-card_comment-cta" data-tracking-control-name="organization_guest_main-feed-card_comment-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Yorum Yap
+    </span>
+  </a>
+
+        
+  <a class="social-action-bar__button  share-button" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fagcyazilim&amp;_l=tr&amp;trk=organization_guest_main-feed-card_share-cta" data-tracking-control-name="organization_guest_main-feed-card_share-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/l7s88viq07vqke49pnrbl5e4">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Paylaş
+    </span>
+  </a>
+
+        
+<!---->                  
+    </div>
+  
+                      
+
+      
+<!---->        
+
+      
+              
+      
+    
+        
+    </article>
+  
+      <code id="is-mobile" style="display: none"><!--false--></code>
+  
+
+        
+    </div>
+
+  
+            </li>
+        </ul>
+<!---->        <section id="json-refs">
+            <code id="isMobile" style="display: none"><!--false--></code>
+            <code id="feedUpdatesBaseUrl" style="display: none"><!--"/organization-guest/api/feedUpdates/2121546?paginationToken=0-1759348557175-17081a988e4e5467b42564b35850c5be"--></code>
+          <code id="paginationToken" style="display: none"><!--"0-1759348557175-17081a988e4e5467b42564b35850c5be"--></code>
+        </section>
+        
+    <div class="loader updates-loader max-w-[550px]">
+      <div class="loader__container mb-2 overflow-hidden">
+        <icon class="loader__icon inline-block loader__icon--default text-color-progress-loading" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1" data-svg-class-name="loader__icon-svg--small fill-currentColor h-[30px] min-h-[30px] w-[30px] min-w-[30px]"></icon>
+      </div>
+    </div>
+  
+          
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+    <section class="hidden-summary container-lined p-3 overflow-hidden babybear:p-2 papabear:mt-3 hidden max-w-[550px]" data-impression-id="conversion_prompt_guest_hidden_summary" data-id="conversion-prompt">
+            <h2 class="hidden-summary__title text-xl text-color-text overflow-hidden break-words mb-2 leading-regular font-normal">
+              Ne kaçırdığınızı görmek için hemen katılın
+            </h2>
+
+      <ul class="hidden-summary__summary-items">
+              <li class="hidden-summary__summary-item flex text-md text-color-text font-normal leading-open items-center mb-1.5 last:mb-0">
+                <div class="hidden-summary__summary-item-icon-container flex items-center justify-center shrink-0 mr-1">
+                  <icon class="hidden-summary__summary-item-icon h-2 w-2
+                      " alt="Onay işareti" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/82pl4lu8lcdmvm9t7n4hoq0zi"></icon>
+                </div>
+                <span class="hidden-summary__summary-item-text overflow-hidden break-words">
+                  AGC YAZILIM şirketindeki tanıdığınız kişileri bulun
+                </span>
+              </li>
+              <li class="hidden-summary__summary-item flex text-md text-color-text font-normal leading-open items-center mb-1.5 last:mb-0">
+                <div class="hidden-summary__summary-item-icon-container flex items-center justify-center shrink-0 mr-1">
+                  <icon class="hidden-summary__summary-item-icon h-2 w-2
+                      " alt="Onay işareti" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/82pl4lu8lcdmvm9t7n4hoq0zi"></icon>
+                </div>
+                <span class="hidden-summary__summary-item-text overflow-hidden break-words">
+                  Sizin için tavsiye edilen işleri görün
+                </span>
+              </li>
+              <li class="hidden-summary__summary-item flex text-md text-color-text font-normal leading-open items-center mb-1.5 last:mb-0">
+                <div class="hidden-summary__summary-item-icon-container flex items-center justify-center shrink-0 mr-1">
+                  <icon class="hidden-summary__summary-item-icon h-2 w-2
+                      " alt="Onay işareti" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/82pl4lu8lcdmvm9t7n4hoq0zi"></icon>
+                </div>
+                <span class="hidden-summary__summary-item-text overflow-hidden break-words">
+                  Tüm güncellemeleri, haberleri ve yazılıları görüntüleyin
+                </span>
+              </li>
+      </ul>
+
+<!---->            <a class="hidden-summary__cta hidden-summary__cta--secondary btn-md btn-secondary-emphasis inline-block mt-3 mr-1.5" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fagcyazilim&amp;_l=tr&amp;trk=public_biz_promo-join" data-tracking-control-name="public_biz_promo-join" data-tracking-will-navigate>
+              Hemen katılın
+            </a>
+    </section>
+  
+  
+      
+      </div>
+    </section>
+  
+  
+          
+      
+        </div>
+      </section>
+      <section class="right-rail papabear:w-right-rail-width papabear:ml-column-gutter mamabear:max-w-[790px] mamabear:px-mobile-container-padding babybear:max-w-[790px] babybear:px-mobile-container-padding">
+        
+        
+            
+    
+    
+    
+
+<!---->  
+            
+    
+    
+    
+
+      
+      <section class="aside-section-container mb-4" data-test-id="similar-pages">
+
+            <h2 class="aside-section-container__title section-title">
+              Benzer sayfalar
+            </h2>
+
+<!---->
+        <div class="aside-section-container__content break-words">
+          
+        
+    
+    
+
+      <div class="show-more-less">
+<!---->
+        <ul data-max-num-to-show="4" class="show-more-less__list show-more-less__list--hide-after-4" data-impression-id="similar-pages_show-more-less">
+          
+              <li>
+                
+
+    
+    
+<!---->    
+    
+      <a href="https://tr.linkedin.com/company/pargesoft?trk=similar-pages" target="_self" data-tracking-control-name="similar-pages" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+              
+      <img class="inline-block relative
+          
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4D0BAQGCE6EQs2FIQA/company-logo_100_100/company-logo_100_100/0/1631353463818?e=2147483647&amp;v=beta&amp;t=1AJ2usQqpbzdUi4H1S6M4mldPxz1e6ERTOhHuyTUEo4" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt>
+      
+
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Pargesoft
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle font-sans text-sm text-color-text leading-open mt-0.5 break-words
+                ">
+              
+        Bilgi Teknolojisi ve Hizmetleri
+      
+            </p>
+
+            <p class="base-aside-card__second-subtitle font-sans text-sm leading-open text-color-text-low-emphasis">
+              
+        ISTANBUL, Ümraniye
+      
+            </p>
+
+<!---->
+<!---->
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+    
+<!---->    
+    
+      <a href="https://tr.linkedin.com/company/b2f-danismanlik?trk=similar-pages" target="_self" data-tracking-control-name="similar-pages" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+              
+      <img class="inline-block relative
+          
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4D0BAQG7gtbBqYh0HQ/company-logo_100_100/company-logo_100_100/0/1630519201148/b2f_danismanlik_logo?e=2147483647&amp;v=beta&amp;t=WsTcRcWMQZRMXpLtaS09fkz6rxf7JSPnmHP6sFWG3EQ" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt>
+      
+
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        B2F Danışmanlık
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle font-sans text-sm text-color-text leading-open mt-0.5 break-words
+                ">
+              
+        Yazılım Geliştirme
+      
+            </p>
+
+            <p class="base-aside-card__second-subtitle font-sans text-sm leading-open text-color-text-low-emphasis">
+              
+        İSTANBUL, ATAŞEHİR
+      
+            </p>
+
+<!---->
+<!---->
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/company/etgglobal?trk=similar-pages" target="_self" data-tracking-control-name="similar-pages" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+              
+      <img class="inline-block relative
+          
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4D0BAQFEH_b0o6C43g/company-logo_100_100/company-logo_100_100/0/1685578258477/etg_consulting_logo?e=2147483647&amp;v=beta&amp;t=8PrSJmQf4wDYyYFk136bU7hndsB--dA6GRTvlWrZ6-4" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt>
+      
+
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        ETG Global
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle font-sans text-sm text-color-text leading-open mt-0.5 break-words
+                ">
+              
+        BT Hizmetleri ve BT Danışmanlığı
+      
+            </p>
+
+            <p class="base-aside-card__second-subtitle font-sans text-sm leading-open text-color-text-low-emphasis">
+              
+        Roswell, GA
+      
+            </p>
+
+<!---->
+<!---->
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+    
+<!---->    
+    
+      <a href="https://tr.linkedin.com/company/dmr-dan-manl-k?trk=similar-pages" target="_self" data-tracking-control-name="similar-pages" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+              
+      <img class="inline-block relative
+          
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQGnREmdFgoeNg/company-logo_100_100/company-logo_100_100/0/1630604954834/dmr_dan_manl_k_logo?e=2147483647&amp;v=beta&amp;t=VZ024O_zn3O1I4do5QcMnAbl6llC7uzT91txukVqsw8" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt>
+      
+
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        DMR
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle font-sans text-sm text-color-text leading-open mt-0.5 break-words
+                ">
+              
+        BT Hizmetleri ve BT Danışmanlığı
+      
+            </p>
+
+            <p class="base-aside-card__second-subtitle font-sans text-sm leading-open text-color-text-low-emphasis">
+              
+        Kadikoy, Istanbul
+      
+            </p>
+
+<!---->
+<!---->
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+    
+<!---->    
+    
+      <a href="https://tr.linkedin.com/company/myronsoft?trk=similar-pages" target="_self" data-tracking-control-name="similar-pages" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+              
+      <img class="inline-block relative
+          
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQEURNOzgH_nsg/company-logo_100_100/company-logo_100_100/0/1682868518416?e=2147483647&amp;v=beta&amp;t=5TwiFkKy4G67peiwgfgW94SFQ0825Q3zpwapW5p7V8g" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt>
+      
+
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        MyronSoft
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle font-sans text-sm text-color-text leading-open mt-0.5 break-words
+                ">
+              
+        BT Sistemi Özel Yazılım Geliştirme
+      
+            </p>
+
+            <p class="base-aside-card__second-subtitle font-sans text-sm leading-open text-color-text-low-emphasis">
+              
+        Kadıköy, Istanbul
+      
+            </p>
+
+<!---->
+<!---->
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+    
+<!---->    
+    
+      <a href="https://tr.linkedin.com/company/st-dan%C4%B1%C5%9Fmanl%C4%B1k?trk=similar-pages" target="_self" data-tracking-control-name="similar-pages" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+              
+      <img class="inline-block relative
+          
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C560BAQFYeOsHbk2hQQ/company-logo_100_100/company-logo_100_100/0/1631334854917?e=2147483647&amp;v=beta&amp;t=XJXmyVOT21Zz9BOw2i7b7banAqSWagGhapUCEuD34Zs" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt>
+      
+
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        ST Danışmanlık
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle font-sans text-sm text-color-text leading-open mt-0.5 break-words
+                ">
+              
+        Yazılım Geliştirme
+      
+            </p>
+
+            <p class="base-aside-card__second-subtitle font-sans text-sm leading-open text-color-text-low-emphasis">
+              
+        İstanbul, Kadıköy
+      
+            </p>
+
+<!---->
+<!---->
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+    
+<!---->    
+    
+      <a href="https://tr.linkedin.com/company/pwcturkiye?trk=similar-pages" target="_self" data-tracking-control-name="similar-pages" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+              
+      <img class="inline-block relative
+          
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4D0BAQH4j1bp1C5ibg/company-logo_100_100/B4DZaB3lpMGsAY-/0/1745935555575/pwcturkiye_logo?e=2147483647&amp;v=beta&amp;t=Y0dFGcmxStu6wkdchQxFYOhgC6WfOcmA4HVnd9Svzv0" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt>
+      
+
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        PwC Türkiye
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle font-sans text-sm text-color-text leading-open mt-0.5 break-words
+                ">
+              
+        Profesyonel Hizmetler
+      
+            </p>
+
+            <p class="base-aside-card__second-subtitle font-sans text-sm leading-open text-color-text-low-emphasis">
+              
+        Beyoglu, Istanbul
+      
+            </p>
+
+<!---->
+<!---->
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+    
+<!---->    
+    
+      <a href="https://de.linkedin.com/company/b4dynamics-gmbh?trk=similar-pages" target="_self" data-tracking-control-name="similar-pages" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+              
+      <img class="inline-block relative
+          
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQHfdCe3q32e5Q/company-logo_100_100/company-logo_100_100/0/1653047680719/b4dynamics_gmbh_logo?e=2147483647&amp;v=beta&amp;t=VGT_qKp9xP8jlIiJBWIqBuNUXotM27zCFvvMHyrb0p8" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt>
+      
+
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        b4dynamics
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle font-sans text-sm text-color-text leading-open mt-0.5 break-words
+                ">
+              
+        BT Hizmetleri ve BT Danışmanlığı
+      
+            </p>
+
+<!---->
+<!---->
+<!---->
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+    
+<!---->    
+    
+      <a href="https://tr.linkedin.com/company/rbs-retail?trk=similar-pages" target="_self" data-tracking-control-name="similar-pages" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+              
+      <img class="inline-block relative
+          
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQGzbHqRR33Scg/company-logo_100_100/company-logo_100_100/0/1631338426467?e=2147483647&amp;v=beta&amp;t=JVgDmpNd8ErHO_AeTu_PZknKlMKcRvUHWdqj8o5bJcM" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt>
+      
+
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        RBS Retail
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle font-sans text-sm text-color-text leading-open mt-0.5 break-words
+                ">
+              
+        Perakende Satış
+      
+            </p>
+
+<!---->
+<!---->
+<!---->
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+    
+<!---->    
+    
+      <a href="https://tr.linkedin.com/company/softtechas?trk=similar-pages" target="_self" data-tracking-control-name="similar-pages" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+              
+      <img class="inline-block relative
+          
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQFcpxX22XgISQ/company-logo_100_100/company-logo_100_100/0/1700245645659?e=2147483647&amp;v=beta&amp;t=MRzGTBCAbuiAzG9hYohc63e7K5cQJ6rGATGUi01pL20" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt>
+      
+
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Softtech
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle font-sans text-sm text-color-text leading-open mt-0.5 break-words
+                ">
+              
+        BT Hizmetleri ve BT Danışmanlığı
+      
+            </p>
+
+            <p class="base-aside-card__second-subtitle font-sans text-sm leading-open text-color-text-low-emphasis">
+              
+        Istanbul, Turkey
+      
+            </p>
+
+<!---->
+<!---->
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+          
+        </ul>
+
+            <button class="show-more-less__button show-more-less__more-button show-more-less-button
+                " aria-expanded="false" data-tracking-control-name="similar-pages_show_more">
+                
+            Daha fazla benzer sayfa göster
+          
+              <icon class="show-more-less__button--chevron show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+            </button>
+
+            <button class="show-more-less__button show-more-less__less-button show-more-less-button
+                show-more-less__button--hide" aria-expanded="false" data-tracking-control-name="similar-pages_show_more">
+                
+            Daha az benzer sayfa göster
+          
+              <icon class="show-more-less__button--chevron show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+            </button>
+      </div>
+  
+      
+        </div>
+      </section>
+  
+  
+            
+
+    
+    
+    
+
+      
+      <section class="aside-section-container mb-4" data-test-id="browse-jobs">
+
+            <h2 class="aside-section-container__title section-title">
+              İş ilanlarını tara
+            </h2>
+
+<!---->
+        <div class="aside-section-container__content break-words">
+          
+        
+    
+    
+
+      <div class="show-more-less">
+<!---->
+        <ul data-max-num-to-show="10" class="show-more-less__list show-more-less__list--hide-after-10" data-impression-id="organization_guest-browse_jobs_show-more-less">
+          
+              <li data-impression-id="organization_guest-browse_jobs-0">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/piping-stress-engineer-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Boru Tesisatı Stres Mühendisi iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        382 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-1">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/senior-architect-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        kıdemli mimar iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        35.063 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-2">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/database-administrator-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Veritabanı Yöneticisi iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        225.956 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-3">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/economist-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Ekonomist iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        185.268 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-4">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/technology-specialist-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Teknoloji Uzmanı iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        254.396 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-5">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/control-specialist-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Kontrol Uzmanı iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        14.771 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-6">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/junior-software-engineer-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        kıdemsiz yazılım mühendisi iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        233.545 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-7">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/solutions-architect-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Çözüm Mimarı iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        100.488 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-8">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/technical-lead-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Teknik Lider iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        214.024 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-9">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/accountant-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Muhasebeci iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        91.739 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-10">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/intern-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Stajyer iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        71.196 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-11">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/analyst-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Analist iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        694.057 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-12">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/fashion-specialist-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Moda iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        2.080 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-13">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/chief-technology-officer-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        CTO iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        16.249 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-14">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/inspector-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Müfettiş iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        28.963 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-15">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/finance-specialist-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Finans iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        109.139 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-16">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/specialist-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Uzman iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        768.666 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-17">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/engineer-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Mühendis3826 iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        555.845 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-18">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/developer-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Geliştirici iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        258.935 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+              <li data-impression-id="organization_guest-browse_jobs-19">
+                
+
+    
+
+    
+<!---->    
+    
+      <a href="https://www.linkedin.com/jobs/dotnet-developer-jobs?trk=organization_guest-browse_jobs" target="_self" data-tracking-control-name="organization_guest-browse_jobs" data-tracking-will-navigate class="base-card relative w-full hover:no-underline focus:no-underline
+        base-card--link
+        outline-offset-[4px] base-aside-card flex my-1.5
+        
+        base-aside-card--link aside-job-search-result-card">
+        
+
+<!---->
+      
+<!---->
+        <div class="base-aside-card__info self-center pl-0.5 flex flex-col flex-1">
+          <h3 class="base-aside-card__title font-sans text-md font-bold text-color-text relative">
+            
+        Dotnet Geliştirici iş ilanları
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+            <div class="base-aside-card__metadata font-sans text-sm leading-open font-regular text-color-text-low-emphasis mt-0.5">
+              
+        28.038 açık iş ilanı
+      
+            </div>
+
+<!---->        </div>
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+              </li>
+          
+        </ul>
+
+            <button class="show-more-less__button show-more-less__more-button show-more-less-button
+                " aria-expanded="false" data-tracking-control-name="organization_guest-browse_jobs_show_more">
+                
+            Bunun gibi daha fazla iş ilanı göster
+          
+              <icon class="show-more-less__button--chevron show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+            </button>
+
+            <button class="show-more-less__button show-more-less__less-button show-more-less-button
+                show-more-less__button--hide" aria-expanded="false" data-tracking-control-name="organization_guest-browse_jobs_show_more">
+                
+            Bunun gibi daha az iş ilanı göster
+          
+              <icon class="show-more-less__button--chevron show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+            </button>
+      </div>
+  
+      
+        </div>
+      </section>
+  
+  
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+<!---->  
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+<!---->  
+          
+      
+      </section>
+    </main>
+
+      <div class="pre-footer ">
+        
+        
+            
+      <section class="mt-2 papabear:pl-1 papabear:mx-auto papabear:max-w-screen-content-max-w mamabear:px-2 babybear:pt-2 babybear:px-2" data-js-module-id="more-searches" data-test-id="more-searches">
+        
+    
+
+    <section class="tw-expandable-linkster" data-js-module-id="expandable-linkster">
+      
+    
+    
+
+      <div class="show-more-less">
+            <button class="show-more-less__button show-more-less__more-button show-more-less-button
+                " aria-expanded="false" data-tracking-control-name="organization_guest_show_more">
+                
+          
+            Daha fazla arama
+        
+              <icon class="show-more-less__button--chevron show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+            </button>
+
+            <button class="show-more-less__button show-more-less__less-button show-more-less-button
+                show-more-less__button--hide" aria-expanded="false" data-tracking-control-name="organization_guest_show_more">
+                
+          
+            Daha fazla arama
+        
+              <icon class="show-more-less__button--chevron show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+            </button>
+
+        <ul data-max-num-to-show="0" class="show-more-less__list show-more-less__list--hide-after-0" data-impression-id="organization_guest_show-more-less">
+          
+          
+            <li>
+              
+    <section class="tw-linkster " data-impression-id="organization_guest_linkster" data-entity-id="urn:li:organization:2121546" data-module-name="company_to_jserps_coview" data-js-module-id="linkster">
+      <div class="max-w-screen-content-max-w w-full flex justify-between my-0 mx-auto mamabear:px-3 babybear:px-2 babybear:flex-col">
+            
+
+    
+
+      <div class="flex-1 w-1/2 pt-2 pr-4 pb-4 pl-0 babybear:pb-2 babybear:w-full babybear:border-b-1 babybear:border-solid babybear:border-color-border-low-emphasis babybear:last:border-b-0">
+<!---->        <ul class="my-1">
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/jobs/dynamics-developer-jobs?trk=organization_guest_linkster_link" data-js-module-id="link-column-link" data-tracking-control-name="organization_guest_linkster_link" data-tracking-will-navigate>
+                Dinamik Geliştirici iş ilanları
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/jobs/developer-jobs?trk=organization_guest_linkster_link" data-js-module-id="link-column-link" data-tracking-control-name="organization_guest_linkster_link" data-tracking-will-navigate>
+                Geliştirici iş ilanları
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/jobs/dotnet-developer-jobs?trk=organization_guest_linkster_link" data-js-module-id="link-column-link" data-tracking-control-name="organization_guest_linkster_link" data-tracking-will-navigate>
+                Dotnet Geliştirici iş ilanları
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/jobs/textile-specialist-jobs?trk=organization_guest_linkster_link" data-js-module-id="link-column-link" data-tracking-control-name="organization_guest_linkster_link" data-tracking-will-navigate>
+                Tekstil iş ilanları
+              </a>
+            </li>
+        </ul>
+
+<!---->      </div>
+  
+            
+
+    
+
+      <div class="flex-1 w-1/2 pt-2 pr-4 pb-4 pl-0 babybear:pb-2 babybear:w-full babybear:border-b-1 babybear:border-solid babybear:border-color-border-low-emphasis babybear:last:border-b-0">
+<!---->        <ul class="my-1">
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/jobs/broadcast-director-jobs?trk=organization_guest_linkster_link" data-js-module-id="link-column-link" data-tracking-control-name="organization_guest_linkster_link" data-tracking-will-navigate>
+                Yayın Direktörü iş ilanları
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/jobs/marketing-administrator-jobs?trk=organization_guest_linkster_link" data-js-module-id="link-column-link" data-tracking-control-name="organization_guest_linkster_link" data-tracking-will-navigate>
+                Pazarlama Yöneticisi iş ilanları
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/jobs/android-developer-jobs?trk=organization_guest_linkster_link" data-js-module-id="link-column-link" data-tracking-control-name="organization_guest_linkster_link" data-tracking-will-navigate>
+                Android Geliştirici iş ilanları
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/jobs/junior-business-analyst-jobs?trk=organization_guest_linkster_link" data-js-module-id="link-column-link" data-tracking-control-name="organization_guest_linkster_link" data-tracking-will-navigate>
+                kıdemsiz iş analisti iş ilanları
+              </a>
+            </li>
+        </ul>
+
+<!---->      </div>
+  
+            
+
+    
+
+      <div class="flex-1 w-1/2 pt-2 pr-4 pb-4 pl-0 babybear:pb-2 babybear:w-full babybear:border-b-1 babybear:border-solid babybear:border-color-border-low-emphasis babybear:last:border-b-0">
+<!---->        <ul class="my-1">
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/jobs/search-engine-optimization-specialist-jobs?trk=organization_guest_linkster_link" data-js-module-id="link-column-link" data-tracking-control-name="organization_guest_linkster_link" data-tracking-will-navigate>
+                SEO Uzmanı iş ilanları
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/jobs/data-analyst-jobs?trk=organization_guest_linkster_link" data-js-module-id="link-column-link" data-tracking-control-name="organization_guest_linkster_link" data-tracking-will-navigate>
+                Veri Çözümleyicisi iş ilanları
+              </a>
+            </li>
+            <li class="tw-link-column-item">
+              
+              
+              <a class="link tw-linkster-link" href="https://www.linkedin.com/jobs/analyst-jobs?trk=organization_guest_linkster_link" data-js-module-id="link-column-link" data-tracking-control-name="organization_guest_linkster_link" data-tracking-will-navigate>
+                Analist iş ilanları
+              </a>
+            </li>
+        </ul>
+
+<!---->      </div>
+  
+            
+
+    
+
+<!---->  
+      </div>
+    </section>
+  
+            </li>
+        
+        </ul>
+
+<!---->      </div>
+  
+    </section>
+  
+      </section>
+  
+          
+      
+      </div>
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+    <footer class="li-footer bg-transparent w-full ">
+      <ul class="li-footer__list flex flex-wrap flex-row items-start justify-start w-full h-auto min-h-[50px] my-[0px] mx-auto py-3 px-2 papabear:p-0">
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+          <span class="sr-only">LinkedIn</span>
+          <icon class="li-footer__copy-logo text-color-logo-brand-alt inline-block self-center h-[14px] w-[56px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5mebydpuuijm3uhv1q375inqh"></icon>
+          <span class="li-footer__copy-text flex items-center">© 2025</span>
+        
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://about.linkedin.com?trk=d_org_guest_company_overview_footer-about" data-tracking-control-name="d_org_guest_company_overview_footer-about" data-tracking-will-navigate>
+          
+          Hakkında
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/accessibility?trk=d_org_guest_company_overview_footer-accessibility" data-tracking-control-name="d_org_guest_company_overview_footer-accessibility" data-tracking-will-navigate>
+          
+          Erişilebilirlik
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/user-agreement?trk=d_org_guest_company_overview_footer-user-agreement" data-tracking-control-name="d_org_guest_company_overview_footer-user-agreement" data-tracking-will-navigate>
+          
+          Kullanıcı Anlaşması
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/privacy-policy?trk=d_org_guest_company_overview_footer-privacy-policy" data-tracking-control-name="d_org_guest_company_overview_footer-privacy-policy" data-tracking-will-navigate>
+          
+          Gizlilik Politikası
+        
+        </a>
+  </li>
+
+<!---->        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/cookie-policy?trk=d_org_guest_company_overview_footer-cookie-policy" data-tracking-control-name="d_org_guest_company_overview_footer-cookie-policy" data-tracking-will-navigate>
+          
+          Çerez Politikası
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/copyright-policy?trk=d_org_guest_company_overview_footer-copyright-policy" data-tracking-control-name="d_org_guest_company_overview_footer-copyright-policy" data-tracking-will-navigate>
+          
+          Telif Hakkı Politikası
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://brand.linkedin.com/policies?trk=d_org_guest_company_overview_footer-brand-policy" data-tracking-control-name="d_org_guest_company_overview_footer-brand-policy" data-tracking-will-navigate>
+          
+          Marka Politikası
+        
+        </a>
+  </li>
+
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/psettings/guest-controls?trk=d_org_guest_company_overview_footer-guest-controls" data-tracking-control-name="d_org_guest_company_overview_footer-guest-controls" data-tracking-will-navigate>
+          
+            Ziyaretçi Kontrolleri
+          
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-solid-secondary hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/professional-community-policies?trk=d_org_guest_company_overview_footer-community-guide" data-tracking-control-name="d_org_guest_company_overview_footer-community-guide" data-tracking-will-navigate>
+          
+          Topluluk Yönergeleri
+        
+        </a>
+  </li>
+
+        
+<!---->
+          
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-solid-secondary flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+              
+
+    
+    
+
+    
+
+    
+
+    <div class="collapsible-dropdown collapsible-dropdown--footer collapsible-dropdown--up flex items-center relative hyphens-auto language-selector z-2">
+<!---->
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-[9999] bottom-[100%] top-auto" role="menu" tabindex="-1">
+          
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="العربية (Arapça)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ar_AE" data-locale="ar_AE" role="menuitem" lang="ar_AE">
+                العربية (Arapça)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="বাংলা (Bengalce)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-bn_IN" data-locale="bn_IN" role="menuitem" lang="bn_IN">
+                বাংলা (Bengalce)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Čeština (Çekçe)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-cs_CZ" data-locale="cs_CZ" role="menuitem" lang="cs_CZ">
+                Čeština (Çekçe)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Dansk (Danca)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-da_DK" data-locale="da_DK" role="menuitem" lang="da_DK">
+                Dansk (Danca)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Deutsch (Almanca)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-de_DE" data-locale="de_DE" role="menuitem" lang="de_DE">
+                Deutsch (Almanca)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Ελληνικά (Yunanca)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-el_GR" data-locale="el_GR" role="menuitem" lang="el_GR">
+                Ελληνικά (Yunanca)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="English (İngilizce)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-en_US" data-locale="en_US" role="menuitem" lang="en_US">
+                English (İngilizce)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Español (İspanyolca)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-es_ES" data-locale="es_ES" role="menuitem" lang="es_ES">
+                Español (İspanyolca)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="فارسی (Farsça)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fa_IR" data-locale="fa_IR" role="menuitem" lang="fa_IR">
+                فارسی (Farsça)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Suomi (Fince)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fi_FI" data-locale="fi_FI" role="menuitem" lang="fi_FI">
+                Suomi (Fince)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Français (Fransızca)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fr_FR" data-locale="fr_FR" role="menuitem" lang="fr_FR">
+                Français (Fransızca)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="हिंदी (Hintçe)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-hi_IN" data-locale="hi_IN" role="menuitem" lang="hi_IN">
+                हिंदी (Hintçe)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Magyar (Macarca)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-hu_HU" data-locale="hu_HU" role="menuitem" lang="hu_HU">
+                Magyar (Macarca)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Bahasa Indonesia (Endonezce)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-in_ID" data-locale="in_ID" role="menuitem" lang="in_ID">
+                Bahasa Indonesia (Endonezce)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Italiano (İtalyanca)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-it_IT" data-locale="it_IT" role="menuitem" lang="it_IT">
+                Italiano (İtalyanca)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="עברית (İbranice)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-iw_IL" data-locale="iw_IL" role="menuitem" lang="iw_IL">
+                עברית (İbranice)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="日本語 (Japonca)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ja_JP" data-locale="ja_JP" role="menuitem" lang="ja_JP">
+                日本語 (Japonca)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="한국어 (Korece)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ko_KR" data-locale="ko_KR" role="menuitem" lang="ko_KR">
+                한국어 (Korece)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="मराठी (Marathi dili)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-mr_IN" data-locale="mr_IN" role="menuitem" lang="mr_IN">
+                मराठी (Marathi dili)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Bahasa Malaysia (Malayca)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ms_MY" data-locale="ms_MY" role="menuitem" lang="ms_MY">
+                Bahasa Malaysia (Malayca)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Nederlands (Felemenkçe)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-nl_NL" data-locale="nl_NL" role="menuitem" lang="nl_NL">
+                Nederlands (Felemenkçe)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Norsk (Norveççe)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-no_NO" data-locale="no_NO" role="menuitem" lang="no_NO">
+                Norsk (Norveççe)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="ਪੰਜਾਬੀ (Pencap dili)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pa_IN" data-locale="pa_IN" role="menuitem" lang="pa_IN">
+                ਪੰਜਾਬੀ (Pencap dili)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Polski (Lehçe)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pl_PL" data-locale="pl_PL" role="menuitem" lang="pl_PL">
+                Polski (Lehçe)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Português (Portekizce)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pt_BR" data-locale="pt_BR" role="menuitem" lang="pt_BR">
+                Português (Portekizce)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Română (Rumence)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ro_RO" data-locale="ro_RO" role="menuitem" lang="ro_RO">
+                Română (Rumence)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Русский (Rusça)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ru_RU" data-locale="ru_RU" role="menuitem" lang="ru_RU">
+                Русский (Rusça)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Svenska (İsveççe)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-sv_SE" data-locale="sv_SE" role="menuitem" lang="sv_SE">
+                Svenska (İsveççe)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="తెలుగు (Telugu dili)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-te_IN" data-locale="te_IN" role="menuitem" lang="te_IN">
+                తెలుగు (Telugu dili)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="ภาษาไทย (Tayca)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-th_TH" data-locale="th_TH" role="menuitem" lang="th_TH">
+                ภาษาไทย (Tayca)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Tagalog (Tagalog)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-tl_PH" data-locale="tl_PH" role="menuitem" lang="tl_PH">
+                Tagalog (Tagalog)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Türkçe  seçildi" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link--selected" data-tracking-control-name="language-selector-tr_TR" data-locale="tr_TR" role="menuitem" lang="tr_TR">
+                <strong>Türkçe </strong>
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Українська (Ukraynaca)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-uk_UA" data-locale="uk_UA" role="menuitem" lang="uk_UA">
+                Українська (Ukraynaca)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Tiếng Việt (Vietnam dili)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-vi_VN" data-locale="vi_VN" role="menuitem" lang="vi_VN">
+                Tiếng Việt (Vietnam dili)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="简体中文 (Çince (Basitleştirilmiş))" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-zh_CN" data-locale="zh_CN" role="menuitem" lang="zh_CN">
+                简体中文 (Çince (Basitleştirilmiş))
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="正體中文 (Çince (Geleneksel))" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-zh_TW" data-locale="zh_TW" role="menuitem" lang="zh_TW">
+                正體中文 (Çince (Geleneksel))
+            </button>
+          </li>
+<!---->      
+        </ul>
+
+          
+        <button class="language-selector__button select-none relative pr-2 font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover hover:cursor-pointer focus:text-color-link-focus focus:outline-dotted focus:outline-1" aria-expanded="false" data-tracking-control-name="footer-lang-dropdown_trigger">
+          <span class="language-selector__label-text mr-0.5 break-words">
+            Dil
+          </span>
+          <icon class="language-selector__label-chevron w-2 h-2 absolute top-0 right-0" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+        </button>
+      
+    </div>
+  
+  
+          
+  </li>
+
+      </ul>
+
+<!---->    </footer>
+  
+  
+  
+
+        
+    
+    
+    
+    
+    
+    
+
+    
+    <div class="guest-upsells">
+        
+    
+    
+    
+    <form class="google-auth base-google-auth" action="https://www.linkedin.com/uas/login-submit" method="post">
+      <input name="loginCsrfParam" value="5de0157f-7075-4367-8bd2-904e67956a7c" type="hidden">
+        <input name="session_redirect" value="https://tr.linkedin.com/company/agcyazilim" type="hidden">
+      <input name="trk" value="organization_guest_google-one-tap-submit" type="hidden">
+        <div class="google-one-tap__module hidden fixed flex flex-col items-center top-[20px] right-[20px] z-[9999]">
+          <div class="google-auth__tnc-container hidden relative top-2 bg-color-background-container-tint pl-2 pr-1 pt-2 pb-3 w-[375px] rounded-md shadow-2xl">
+            <p class="text-md font-bold text-color-text">
+              Kabul Et ve LinkedIn’e Katıl
+            </p>
+            
+    
+    
+    <p class="linkedin-tc__text text-color-text-low-emphasis text-xs pb-2 !text-sm !text-color-text" data-impression-id="organization_guest_one-tap-skip-tc-text">
+      Devam Et seçeneğini tıklayarak veya oturum açarak LinkedIn <a href="/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement" target="_blank" data-tracking-control-name="linkedin-tc_auth-button_user-agreement" data-tracking-will-navigate="true">Kullanıcı Anlaşması’nı</a>, <a href="/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy" target="_blank" data-tracking-control-name="linkedin-tc_auth-button_privacy-policy" data-tracking-will-navigate="true">Gizlilik Politikası’nı</a> ve <a href="/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy" target="_blank" data-tracking-control-name="linkedin-tc_auth-button_cookie-policy" data-tracking-will-navigate="true">Çerez Politikası’nı</a> kabul etmiş olursunuz.
+    </p>
+  
+          </div>
+          <div data-tracking-control-name="organization_guest_google-one-tap" id="google-one-tap__container"></div>
+        </div>
+      
+    <div class="loader loader--full-screen">
+      <div class="loader__container mb-2 overflow-hidden">
+        <icon class="loader__icon inline-block loader__icon--default text-color-progress-loading" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1" data-svg-class-name="loader__icon-svg--large fill-currentColor h-[60px] min-h-[60px] w-[60px] min-w-[60px]"></icon>
+      </div>
+    </div>
+  
+    </form>
+    <script data-delayed-url="https://static.licdn.com/aero-v1/sc/h/29rdkxlvag0d3cpj96fiilbju" data-module-id="google-gsi-lib"></script>
+    <code id="isLinkedInAppWebView" style="display: none"><!--false--></code>
+    <code id="shouldRemoveUndefinedValues" style="display: none"><!--false--></code>
+    <code id="isItpSupportEnabled" style="display: none"><!--false--></code>
+    <code id="tncFlow" style="display: none"><!--"control"--></code>
+      <code id="isGoogleAuthButtonLocaleSupportEnabled" style="display: none"><!--true--></code>
+      <code id="gsiLocale" style="display: none"><!--"tr_TR"--></code>
+  
+
+        
+    
+    
+    
+    
+    
+    
+
+    <div class="contextual-sign-in-modal base-contextual-sign-in-modal" data-impression-id="organization_guest_contextual-sign-in-modal" data-cool-off-enabled data-show-on-page-load>
+<!---->
+        
+
+    
+    <div class>
+<!---->
+      <div id="base-contextual-sign-in-modal" class="modal modal--contextual-sign-in" data-outlet="base-contextual-sign-in-modal">
+<!---->        <div class="modal__overlay flex items-center bg-color-background-scrim justify-center fixed bottom-0 left-0 right-0 top-0 opacity-0 invisible pointer-events-none z-[1000] transition-[opacity] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] duration-[0.17s]
+            py-4
+            " aria-hidden="true">
+          <section aria-modal="true" role="dialog" aria-labelledby="base-contextual-sign-in-modal-modal-header" tabindex="-1" class="max-h-full modal__wrapper overflow-auto p-0 bg-color-surface max-w-[1128px] min-h-[160px] relative scale-[0.25] shadow-sm shadow-color-border-faint transition-[transform] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] duration-[0.33s] focus:outline-0
+              
+              w-[1128px] mamabear:w-[744px] babybear:w-[360px]
+              
+              rounded-md">
+              
+              <button class="modal__dismiss btn-tertiary h-[40px] w-[40px] p-0 rounded-full indent-0
+                  contextual-sign-in-modal__modal-dismiss absolute right-0 m-[20px] cursor-pointer" aria-label="Kapat" data-tracking-control-name="organization_guest_contextual-sign-in-modal_modal_dismiss">
+                <icon class="contextual-sign-in-modal__modal-dismiss-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/gs508lg3t2o81tq7pmcgn6m2"></icon>
+              </button>
+          
+            <div class="modal__main w-full">
+              
+              <div class="contextual-sign-in-modal__screen contextual-sign-in-modal__context-screen flex flex-col my-4 mx-3">
+                  
+                  
+      <img class="inline-block relative
+          
+          w-16 h-16
+           contextual-sign-in-modal__img m-auto" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQHwVDECfwz5cw/company-logo_200_200/company-logo_200_200/0/1631349286445?e=2147483647&amp;v=beta&amp;t=tiadQTzMbtN1jBX_0MLl0Ey1TqGR4hNoaOo5qvrSEvw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/cs8pjfgyw96g44ln9r7tct85f" alt>
+      
+                <h2 class="contextual-sign-in-modal__context-screen-title font-bold font-sans text-xl text-color-text my-2 mx-4 text-center" id="base-contextual-sign-in-modal-modal-header">
+                  AGC YAZILIM şirketinde tanıdığınız kişileri görmek için oturum açın
+                </h2>
+<!----><!---->                <div class="contextual-sign-in-modal__btn-container m-auto w-[320px] babybear:w-full">
+<!---->                  
+    
+                        <div class="w-full max-w-[400px] mx-auto">
+                          
+    
+
+    <div class="google-auth-button">
+<!---->      <div class="google-auth-button__placeholder mx-auto
+          " data-theme="filled_blue" data-logo-alignment="center" data-locale="tr_TR" role="button" aria-label="Google ile devam et"></div>
+<!---->    </div>
+  
+                        </div>
+                    
+    
+                      
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="sign-in-modal" data-impression-id="organization_guest_contextual-sign-in-modal_sign-in-modal">
+        
+    
+    
+      
+          <button class="sign-in-modal__outlet-btn cursor-pointer btn-md btn-primary btn-secondary" data-tracking-client-ingraph data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_outlet-button" data-modal="base-sign-in-modal">
+<!---->              Oturum aç
+          </button>
+        
+  
+
+      
+
+    
+    <div class>
+<!---->
+      <div id="base-sign-in-modal" class="modal modal--sign-in" data-outlet="base-sign-in-modal">
+<!---->        <div class="modal__overlay flex items-center bg-color-background-scrim justify-center fixed bottom-0 left-0 right-0 top-0 opacity-0 invisible pointer-events-none z-[1000] transition-[opacity] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] duration-[0.17s]
+            py-4
+            " aria-hidden="true">
+          <section aria-modal="true" role="dialog" aria-labelledby="base-sign-in-modal-modal-header" tabindex="-1" class="max-h-full modal__wrapper overflow-auto p-0 bg-color-surface max-w-[1128px] min-h-[160px] relative scale-[0.25] shadow-sm shadow-color-border-faint transition-[transform] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] duration-[0.33s] focus:outline-0
+              
+              w-[1128px] mamabear:w-[744px] babybear:w-[360px]
+              
+              rounded-md">
+              
+            <button class="modal__dismiss btn-tertiary h-[40px] w-[40px] p-0 rounded-full indent-0 sign-in-modal__dismiss absolute right-0 cursor-pointer m-[20px]" aria-label="Kapat" data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_dismiss">
+              <icon class="sign-in-modal__dismiss-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/gs508lg3t2o81tq7pmcgn6m2"></icon>
+            </button>
+        
+            <div class="modal__main w-full">
+              
+          <div class="sign-in-modal__screen flex flex-col py-4 w-[513px] babybear:w-full
+              px-3">
+            <h2 class="sign-in-modal__header font-sans text-display-md text-color-text
+                ">
+                Tekrar hoş geldiniz
+                          </h2>
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <code id="i18n_sign_in_form_show_text" style="display: none"><!--"Göster"--></code>
+    <code id="i18n_sign_in_form_show_label" style="display: none"><!--"LinkedIn şifrenizi gösterin"--></code>
+    <code id="i18n_sign_in_form_hide_text" style="display: none"><!--"Gizle"--></code>
+    <code id="i18n_sign_in_form_hide_label" style="display: none"><!--"LinkedIn şifrenizi gizleyin"--></code>
+
+    
+    <code id="i18n_username_error_empty" style="display: none"><!--"Lütfen e-posta adresinizi veya telefon numaranızı girin"--></code>
+    
+    <code id="i18n_username_error_too_long" style="display: none"><!--"E-posta veya telefon numarası 3 ila 128 karakter arası olmalıdır"--></code>
+    <code id="i18n_username_error_too_short" style="display: none"><!--"E-posta veya telefon numarası 3 ila 128 karakter arası olmalıdır"--></code>
+
+    
+    <code id="i18n_password_error_empty" style="display: none"><!--"Lütfen bir şifre girin"--></code>
+    
+    <code id="i18n_password_error_too_short" style="display: none"><!--"Şifreniz en az 6 karakter içermelidir"--></code>
+    
+    <code id="i18n_password_error_too_long" style="display: none"><!--"Şifreniz en fazla 400 karakter içermelidir"--></code>
+
+<!---->    <form data-id="sign-in-form" action="https://www.linkedin.com/uas/login-submit" method="post" novalidate class="mt-1.5 mb-2">
+      <input name="loginCsrfParam" value="5de0157f-7075-4367-8bd2-904e67956a7c" type="hidden">
+
+      <div class="flex flex-col">
+        
+    <div class="mt-1.5" data-js-module-id="guest-input">
+      <div class="flex flex-col">
+        <label class="input-label mb-1" for="base-sign-in-modal_session_key">
+          E-posta veya telefon
+        </label>
+        <div class="text-input flex">
+          <input class="text-color-text font-sans text-md outline-0 bg-color-transparent w-full" autocomplete="username" id="base-sign-in-modal_session_key" name="session_key" required data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_sign-in-session-key" data-tracking-client-ingraph type="text">
+          
+        </div>
+      </div>
+
+      <p class="input-helper mt-1.5" for="base-sign-in-modal_session_key" role="alert" data-js-module-id="guest-input__message"></p>
+    </div>
+  
+
+        
+    <div class="mt-1.5" data-js-module-id="guest-input">
+      <div class="flex flex-col">
+        <label class="input-label mb-1" for="base-sign-in-modal_session_password">
+          Şifre
+        </label>
+        <div class="text-input flex">
+          <input class="text-color-text font-sans text-md outline-0 bg-color-transparent w-full" autocomplete="current-password" id="base-sign-in-modal_session_password" name="session_password" required data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_sign-in-password" data-tracking-client-ingraph type="password">
+          
+            <button aria-live="assertive" aria-relevant="text" data-id="sign-in-form__password-visibility-toggle" class="font-sans text-md font-bold text-color-action z-10 ml-[12px] hover:cursor-pointer" aria-label="LinkedIn şifrenizi gösterin" data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_sign-in-password-visibility-toggle-btn" type="button">Göster</button>
+          
+        </div>
+      </div>
+
+      <p class="input-helper mt-1.5" for="base-sign-in-modal_session_password" role="alert" data-js-module-id="guest-input__message"></p>
+    </div>
+  
+
+        <input name="session_redirect" value="https://tr.linkedin.com/company/agcyazilim" type="hidden">
+
+<!---->      </div>
+
+      <div data-id="sign-in-form__footer" class="flex justify-between
+          sign-in-form__footer--full-width">
+        <a data-id="sign-in-form__forgot-password" class="font-sans text-md font-bold link leading-regular
+            sign-in-form__forgot-password--full-width" href="https://www.linkedin.com/uas/request-password-reset?trk=organization_guest_contextual-sign-in-modal_sign-in-modal_forgot_password" data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_forgot_password" data-tracking-will-navigate>Şifrenizi mi unuttunuz?</a>
+
+<!---->
+        <input name="trk" value="organization_guest_contextual-sign-in-modal_sign-in-modal_sign-in-submit" type="hidden">
+        <button class="btn-md btn-primary flex-shrink-0 cursor-pointer
+            sign-in-form__submit-btn--full-width" data-id="sign-in-form__submit-btn" data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_sign-in-submit-btn" data-tracking-client-ingraph data-tracking-litms type="submit">
+          Oturum aç
+        </button>
+      </div>
+          <div class="sign-in-form__divider left-right-divider pt-2 pb-3">
+            <p class="sign-in-form__divider-text font-sans text-sm text-color-text px-2">
+              veya
+            </p>
+          </div>
+    </form>
+        <div class="w-full max-w-[400px] mx-auto">
+          
+    
+
+    <div class="google-auth-button" data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_google-auth-button" data-tracking-client-ingraph>
+        
+    
+    
+    <p class="linkedin-tc__text text-color-text-low-emphasis text-xs pb-2" data-impression-id="organization_guest_contextual-sign-in-modal_sign-in-modal__button-skip-tc-text">
+      Devam Et seçeneğini tıklayarak veya oturum açarak LinkedIn <a href="/legal/user-agreement?trk=organization_guest_contextual-sign-in-modal_sign-in-modal_auth-button_user-agreement" target="_blank" data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_auth-button_user-agreement" data-tracking-will-navigate="true">Kullanıcı Anlaşması’nı</a>, <a href="/legal/privacy-policy?trk=organization_guest_contextual-sign-in-modal_sign-in-modal_auth-button_privacy-policy" target="_blank" data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_auth-button_privacy-policy" data-tracking-will-navigate="true">Gizlilik Politikası’nı</a> ve <a href="/legal/cookie-policy?trk=organization_guest_contextual-sign-in-modal_sign-in-modal_auth-button_cookie-policy" target="_blank" data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_auth-button_cookie-policy" data-tracking-will-navigate="true">Çerez Politikası’nı</a> kabul etmiş olursunuz.
+    </p>
+  
+      <div class="google-auth-button__placeholder mx-auto
+          google-auth-button__placeholder--black-border" data-theme="outline" data-logo-alignment="center" data-locale="tr_TR" role="button" aria-label="Google ile devam et" data-safe-to-skip-tnc-redirect></div>
+<!---->    </div>
+  
+        </div>
+<!---->  
+              <p class="sign-in-modal__join-now m-auto font-sans text-md text-color-text
+                  mt-2">
+                LinkedIn‘de yeni misiniz? <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fagcyazilim&_l=tr&trk=organization_guest_contextual-sign-in-modal_sign-in-modal_join-link" data-tracking-control-name="organization_guest_contextual-sign-in-modal_sign-in-modal_join-link" data-tracking-will-navigate="true" class="sign-in-modal__join-link">Hemen katılın</a>
+              </p>
+          </div>
+        
+            </div>
+
+<!---->          </section>
+        </div>
+      </div>
+    </div>
+  
+<!---->    </div>
+  
+                    
+    
+                      <div class="contextual-sign-in-modal__divider left-right-divider">
+                        <p class="contextual-sign-in-modal__divider-text font-sans text-sm text-color-text px-2">
+                          veya
+                        </p>
+                      </div>
+                    
+
+                </div>
+                  <p class="contextual-sign-in-modal__join-now m-auto font-sans text-md text-color-text my-1">
+                    LinkedIn‘de yeni misiniz? <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fagcyazilim&_l=tr&trk=organization_guest_contextual-sign-in-modal_join-link" data-tracking-control-name="organization_guest_contextual-sign-in-modal_join-link" data-tracking-will-navigate="true" class="contextual-sign-in-modal__join-link">Hemen katılın</a>
+                  </p>
+                  
+    
+    
+    <p class="linkedin-tc__text text-color-text-low-emphasis text-xs pb-2 contextual-sign-in-modal__terms-and-conditions m-auto w-[320px] pt-2 babybear:w-full" data-impression-id="linkedin-tc__button-skip-tc-text">
+      Devam Et seçeneğini tıklayarak veya oturum açarak LinkedIn <a href="/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement" target="_blank" data-tracking-control-name="linkedin-tc_auth-button_user-agreement" data-tracking-will-navigate="true">Kullanıcı Anlaşması’nı</a>, <a href="/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy" target="_blank" data-tracking-control-name="linkedin-tc_auth-button_privacy-policy" data-tracking-will-navigate="true">Gizlilik Politikası’nı</a> ve <a href="/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy" target="_blank" data-tracking-control-name="linkedin-tc_auth-button_cookie-policy" data-tracking-will-navigate="true">Çerez Politikası’nı</a> kabul etmiş olursunuz.
+    </p>
+  
+              </div>
+          
+            </div>
+
+<!---->          </section>
+        </div>
+      </div>
+    </div>
+  
+<!---->    </div>
+  
+
+      
+    
+    
+    
+
+    
+    
+
+<!---->  
+    </div>
+    <code id="disableOneTapOnInitIfCsm" style="display: none"><!--false--></code>
+  
+  
+        
+      <code id="flagshipOrganizationTracking" style="display: none"><!--{"organization":{"objectUrn":"urn:li:organization:2121546"},"module":"COMPANY_OVERVIEW_PAGE","viewerUrn":0}--></code>
+  
+      
+
+            <script src="https://static.licdn.com/aero-v1/sc/h/c13rrwikf7l1f2ym2idv948xw" async></script>
+<!---->          
+        <script src="https://static.licdn.com/aero-v1/sc/h/cn4lhpvqxr8tpeeac4ym1plk7" async defer></script>
+        <script data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3i9mg90hcvji3k6klkzliyxyn" data-module-id="media-player"></script>
+      
+          
+<!----><!---->  
+      </body>
+    </html>
+  
+  

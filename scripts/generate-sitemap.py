@@ -11,12 +11,18 @@ from pathlib import Path
 def generate_sitemap():
     # Paths
     root_dir = Path(__file__).parent.parent
-    companies_file = root_dir / 'public' / 'data' / 'companies.json'
+    company_data_dir = root_dir / 'public' / 'data' / 'company'
     sitemap_file = root_dir / 'docs' / 'sitemap.xml'
+    sitemap_file_public = root_dir / 'public' / 'sitemap.xml'
 
-    # Read companies
-    with open(companies_file, 'r', encoding='utf-8') as f:
-        companies = json.load(f)
+    # Get all company JSON files
+    company_files = sorted(company_data_dir.glob('*.json'))
+
+    # Extract slugs from filenames
+    companies = []
+    for company_file in company_files:
+        slug = company_file.stem
+        companies.append({'slug': slug})
 
     # Current date for lastmod
     today = date.today().isoformat()
@@ -121,11 +127,11 @@ def generate_sitemap():
     # Close XML
     xml_lines.append('</urlset>')
 
-    # Write sitemap
-    with open(sitemap_file, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(xml_lines))
-
-    print(f"✅ Sitemap oluşturuldu: {sitemap_file}")
+    # Write sitemap to both locations
+    for output_file in [sitemap_file, sitemap_file_public]:
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(xml_lines))
+        print(f"✅ Sitemap oluşturuldu: {output_file}")
     print(f"📊 Toplam URL sayısı: {9 + len(companies)}")
     print(f"   - Statik sayfalar: 9")
     print(f"   - Şirket sayfaları: {len(companies)}")

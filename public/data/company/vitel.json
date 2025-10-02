@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgisayar Ağları Ürünleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/vitel-a.s.",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/channel/channelvitel",
     "x": "https://x.com/Vitel_As"
   },
-  "logo": "img/company/vitel.png"
+  "logo": "img/company/vitel.png",
+  "tagline": "Teknoloji buradan yayılıyor! / Technology spreads from here!"
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Maltepe, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/experteam",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "",
     "youtube": "https://youtube.com/@experteamkurumsal8928"
   },
-  "logo": "img/company/experteam.png"
+  "logo": "img/company/experteam.png",
+  "about": "Experteam",
+  "tagline": "Think * Act * Empower"
 }

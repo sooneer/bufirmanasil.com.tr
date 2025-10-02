@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ataşehir, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/cozumtek",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/cozumtekt"
   },
-  "logo": "img/company/cozumtek.png"
+  "logo": "img/company/cozumtek.png",
+  "about": "Cozumtek Information Technologies",
+  "tagline": "Simple Solutions for Complex Needs"
 }

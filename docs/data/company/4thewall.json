@@ -1,14 +1,15 @@
 {
   "name": "4TheWall",
   "logo": "img/company/4thewall.png",
-  "tagline": "4TheWall provides global service in PRO AV, Video Wall Controller and Software Solutions.",
+  "tagline": "PRO AV & VIDEO WALL CONTROL SOFTWARE",
   "foundationYear": 2012,
   "about": "As the 4THEWALL family, we have been providing services on a global scale since 2012 with simple or complicated PRO AV & Control Software solutions, we continue to be in a position that makes a difference with our corporate structure and understanding and continue to grow day by day.",
   "BIST": null,
   "sector": [
     "Appliances",
     "Electrical",
-    "Electronics Manufacturing"
+    "Electronics Manufacturing",
+    "Beyaz Eşya, Elektrikli ve Elektronik Eşya İmalatı"
   ],
   "clients": [],
   "contact": {
@@ -28,5 +29,6 @@
     "instagram": "https://www.instagram.com/4thewall_/",
     "youtube": "https://www.youtube.com/channel/UCniHcSaVDIqBkoSZiq4TJmQ",
     "github": null
-  }
+  },
+  "headquarters": "Ankara, Türkiye"
 }

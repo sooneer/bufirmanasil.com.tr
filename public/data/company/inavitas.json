@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara, Yenimahalle",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/inavitascom",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@inavitas",
     "x": "https://x.com/inavitascom"
   },
-  "logo": "img/company/inavitas.svg"
+  "logo": "img/company/inavitas.png",
+  "about": "inavitas",
+  "tagline": "Sürdürülebilir bir dünya için enerjinizi akıllıca izleyin, yönetin ve tasarruf edin!"
 }

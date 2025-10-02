@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İzmir, Bornova",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/ceyber-cm",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/ceybercm",
     "youtube": "https://youtube.com/channel/UCPuLcX0Go2tOTWnI-DlppVg"
   },
-  "logo": "img/company/ceyber.png"
+  "logo": "img/company/ceyber.png",
+  "about": "CeyBer",
+  "tagline": "Mutlu Çalışan, Mutlu Müşteri"
 }

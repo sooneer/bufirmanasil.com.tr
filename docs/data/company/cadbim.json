@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İZMİR, 35",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/cadbim",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/cadbim_izmir",
     "youtube": "https://youtube.com/c/CadbimTeknikDestek"
   },
-  "logo": "img/company/cadbim.png"
+  "logo": "img/company/cadbim.png",
+  "about": "CADBİM",
+  "tagline": "1993'ten bugüne üretim ve inşaat sektörlerinin zorluklarını teknoloji ile aşıyoruz."
 }

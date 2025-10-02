@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Kadikoy, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/irisstech",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCOcX48lxzE8-odaitEj1oJQ",
     "x": "https://x.com/irisstech"
   },
-  "logo": "img/company/iriss.png"
+  "logo": "img/company/iriss.png",
+  "about": "IRISS",
+  "tagline": "Her Zaman Daha İyisi"
 }

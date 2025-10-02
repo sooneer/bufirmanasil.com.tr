@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/bimel-elektronik",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/user/bimelltd",
     "x": "https://x.com/bimelelektronik"
   },
-  "logo": "img/company/bimel.png"
+  "logo": "img/company/bimel.png",
+  "about": "Bimel Elektronik",
+  "tagline": "Yaşama vakit ayırın.."
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "ANTALYA, Konyaaltı",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/santsg",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "https://instagram.com/san.tsg",
     "youtube": ""
   },
-  "logo": "img/company/santsg.svg"
+  "logo": "img/company/santsg.png",
+  "tagline": "Tourism Software Group"
 }

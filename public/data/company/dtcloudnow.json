@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/dtcloud",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@dtcloud?si=3Mhnv_fVn7NfW0J6",
     "x": "https://x.com/DTCloudnow"
   },
-  "logo": "img/company/dtcloudnow.png"
+  "logo": "img/company/dtcloudnow.png",
+  "about": "DT Cloud",
+  "tagline": "Dijital Türkiye'nin Yerli Bulutu"
 }

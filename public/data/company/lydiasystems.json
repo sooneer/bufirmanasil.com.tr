@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "ISTANBUL, YESILKOY",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/lydia-technology",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "",
     "youtube": ""
   },
-  "logo": "img/company/lydiasystems.png"
+  "logo": "img/company/lydiasystems.png",
+  "about": "LYDIA TECHNOLOGY",
+  "tagline": "LYDIA Technologies develops high-tech software & hardware for aviation, travel and tourism industry"
 }

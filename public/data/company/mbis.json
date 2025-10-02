@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Maltepe",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/mbis",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCY_kVwnbtJNjQWSywrgF-SQ",
     "x": "https://x.com/MBISConsulting"
   },
-  "logo": "img/company/mbis.png"
+  "logo": "img/company/mbis.png",
+  "about": "Nagarro + MBIS",
+  "tagline": "Sınırlar Yok, Nagarro Var!"
 }

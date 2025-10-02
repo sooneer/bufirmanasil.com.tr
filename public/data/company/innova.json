@@ -1,13 +1,15 @@
 {
   "name": "Innova",
-  "tagline": "",
+  "tagline": "İnnova Bilişim | LinkedIn‘de 158.355 takipçi İnnova Bilişim Çözümleri A.Ş, farklı teknolojilerde bilgi birikimine sahip 1400 kişinin üzerindeki profesyonel kadrosu ile Türkiye’nin önde gelen bilişim çözümleri firmasıdır. 1999’dan bugüne telekomünikasyon, finans, üretim, kamu ve hizmet sektörleri başta olmak üzere her sektördeki kuruluşlara platform bağımsız çözümler sunan İnnova, uluslararası standartlarda ürettiği çözümleri şimdiye kadar 4 kıtada 37 ülkeye ihraç etmeyi başarmıştır. \n \n2007 yılından bu yana Türk Telekom Grubu Şirketleri bünyesinde yer alan İnnova Bilişim Çözümleri A.Ş, İstanbul ve Ankara ana ofisleri ile beraber Türkiye&#39;nin çeşitli bölgelerine yayılmış toplamda 14 ofis üzerinden faaliyetlerine devam etmektedir.\n \nİNNOVA&#39;NIN FAALİYET ALANLARI\n \n# HİZMETLER\n* Danışmanlık Hizmetleri\n* Uygulama Geliştirme\n* Yönetilebilir Hizmetler\n* Bulut Hizmetler\n \n#UYGULAMALAR\n*Kurumsal Çözümler\n*Fonksiyon ve Sektör Spesifik Çözümler\n*Platform ve Teknolojiler\n \n# ALTYAPI VE OPERASYON\n*Altyapı\n*Sistem Yazılımı\n*BT Yönetim Çözümleri\n*Uy-Ge Yaşam Döngüsü Yönetimi\n*Ağ Güvenliği",
   "foundationYear": null,
-  "about": "",
+  "about": "İnnova Bilişim",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "clients": [],
   "contact": {
     "web": "https://innova.com.tr",
@@ -31,5 +33,6 @@
     "youtube": "https://youtube.com/@InnovaTr",
     "github": ""
   },
-  "logo": "img/company/innova.png"
+  "logo": "img/company/innova.png",
+  "headquarters": "İstanbul, Maslak"
 }

@@ -83,18 +83,41 @@ def fetch_html(url, timeout=20, verify_ssl=False):
         session.headers.update(headers)
 
         response = session.get(url, timeout=timeout, allow_redirects=True, verify=verify_ssl)
-        response.raise_for_status()
-        response.encoding = response.apparent_encoding
 
+        # 500 hatası olsa bile HTML varsa kullan (bazı siteler hata verse de içerik döndürür)
+        response.encoding = response.apparent_encoding
         html_content = response.text
 
         # Session'ı kapat
         session.close()
 
+        # HTML içeriği varsa başarılı sayalım (status code'a bakmadan)
+        if html_content and len(html_content) > 1000:  # En az 1KB HTML olmalı
+            if response.status_code != 200:
+                print(f"⚠️  HTTP {response.status_code} ancak HTML içeriği alındı")
+            return html_content
+
+        # HTML yoksa veya çok küçükse hata ver
+        response.raise_for_status()
         return html_content
+
     except requests.RequestException as e:
         print(f"❌ HTML çekme hatası: {e}")
         return None
+
+def follow_redirect(url, timeout=10):
+    """Redirect linkini takip edip gerçek URL'i döndürür"""
+    try:
+        import urllib3
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        response = requests.get(url, headers=headers, timeout=timeout, allow_redirects=True, verify=False)
+        return response.url
+    except:
+        return url
 
 def extract_social_links(html, base_url):
     """HTML'den sosyal medya linklerini çıkarır"""
@@ -110,6 +133,27 @@ def extract_social_links(html, base_url):
 
     # Tüm linkleri bul
     all_links = soup.find_all('a', href=True)
+
+    # Redirect linkleri için kontrol (/link/ gibi)
+    redirect_links = {}
+    for link in all_links:
+        href = link.get('href', '')
+        href_lower = href.lower()
+
+        # /link/ redirect pattern'lerini kontrol et
+        if '/link/' in href_lower:
+            if 'linkedin' in href_lower:
+                redirect_links['linkedin'] = urljoin(base_url, href)
+            elif 'facebook' in href_lower or 'fb' in href_lower:
+                redirect_links['facebook'] = urljoin(base_url, href)
+            elif 'twitter' in href_lower or href_lower.endswith('/link/x'):
+                redirect_links['x'] = urljoin(base_url, href)
+            elif 'instagram' in href_lower:
+                redirect_links['instagram'] = urljoin(base_url, href)
+            elif 'youtube' in href_lower:
+                redirect_links['youtube'] = urljoin(base_url, href)
+            elif 'github' in href_lower:
+                redirect_links['github'] = urljoin(base_url, href)
 
     for link in all_links:
         href = link.get('href', '')
@@ -154,6 +198,18 @@ def extract_social_links(html, base_url):
                     print(f"✅ {platform.capitalize()}: {social_links[platform]}")
                     break
 
+    # Redirect linkleri varsa takip et
+    if redirect_links:
+        print(f"\n🔄 {len(redirect_links)} redirect linki bulundu, takip ediliyor...")
+        for platform, redirect_url in redirect_links.items():
+            if not social_links[platform]:  # Henüz bulunmadıysa
+                try:
+                    real_url = follow_redirect(redirect_url, timeout=10)
+                    social_links[platform] = real_url
+                    print(f"✅ {platform.capitalize()} (redirect): {real_url}")
+                except Exception as e:
+                    print(f"⚠️  {platform.capitalize()} redirect hatası: {e}")
+
     return social_links
 
 def update_company_json(json_path, social_links, dry_run=False):
@@ -166,15 +222,16 @@ def update_company_json(json_path, social_links, dry_run=False):
         # Mevcut değerleri sakla
         old_social = data.get('social', {}).copy()
 
-        # Yeni değerleri güncelle (sadece boş olanları)
+        # Yeni değerleri güncelle (sadece boş olanları - mevcut linklere DOKUNMA)
         updated = False
         for platform, link in social_links.items():
             if link and not old_social.get(platform):
                 data['social'][platform] = link
                 updated = True
                 print(f"  📝 {platform} güncellendi: {link}")
-            elif link and old_social.get(platform) and old_social.get(platform) != link:
-                print(f"  ⚠️  {platform} zaten var (mevcut: {old_social.get(platform)})")
+            elif link and old_social.get(platform):
+                # Mevcut link varsa atla - DOKUNMA
+                print(f"  ✓ {platform} zaten var, korunuyor: {old_social.get(platform)}")
 
         if not updated:
             print("  ℹ️  Güncellenecek yeni link bulunamadı")

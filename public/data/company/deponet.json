@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgisayarlar ve Elektronik Ürünler İmalatı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/deponet-elektronik",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/deponetelektronik",
     "youtube": ""
   },
-  "logo": "img/company/deponet.jpg"
+  "logo": "img/company/deponet.png",
+  "about": "Deponet Elektronik",
+  "tagline": "Deponet Elektronik"
 }

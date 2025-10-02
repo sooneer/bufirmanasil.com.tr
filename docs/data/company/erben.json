@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "ISTANBUL, KUCUKCEKMECE",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/erben-control-systems",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/erbenkontrolsistemleri",
     "youtube": ""
   },
-  "logo": "img/company/erben.png"
+  "logo": "img/company/erben.png",
+  "about": "ERBEN Kontrol Sistemleri A.Ş.",
+  "tagline": "ERBEN Kontrol Sistemleri A.Ş."
 }

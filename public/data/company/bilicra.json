@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Bornova, İzmir",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Tüketici Elektroniği"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/bilicra",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@BilicraBiliyorumicimrahat",
     "x": "https://x.com/bilicra"
   },
-  "logo": "img/company/bilicra.svg"
+  "logo": "img/company/bilicra.png",
+  "about": "Bilicra",
+  "tagline": "Smart Life"
 }

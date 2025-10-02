@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Izmir",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/e-cozum-bilisim",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/ecozumbilisim"
   },
-  "logo": "img/company/e-cozum.png"
+  "logo": "img/company/e-cozum.png",
+  "about": "E-Çözüm Bilişim",
+  "tagline": "Bilgiyi faydaya dönüştürür."
 }

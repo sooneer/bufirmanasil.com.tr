@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Stans",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/softwareone",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/@SoftwareONE-Global",
     "x": "https://x.com/SoftwareOne"
   },
-  "logo": "img/company/softwareone.png"
+  "logo": "img/company/softwareone.png",
+  "tagline": "Redefining how companies build, buy and manage everything in the cloud."
 }

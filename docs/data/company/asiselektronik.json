@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Avcilar, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/asis-elektronik",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCIPmWoPPSCBqLEiLaMI4DbQ",
     "x": "https://x.com/Asis_elektronik"
   },
-  "logo": "img/company/asiselektronik.png"
+  "logo": "img/company/asiselektronik.png",
+  "about": "Asis Elektronik ve Bilişim Sistemleri A.Ş.",
+  "tagline": "Akıllı Toplu Ulaşım /\nSmart Public Transportation"
 }

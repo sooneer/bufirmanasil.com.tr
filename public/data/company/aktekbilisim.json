@@ -1,13 +1,15 @@
 {
   "name": "Aktek Bilişim",
-  "tagline": "",
+  "tagline": "Teknoloji ile Hep 1 Adım Önde",
   "foundationYear": null,
-  "about": "",
+  "about": "Aktek",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "clients": [],
   "contact": {
     "web": "https://aktekbilisim.com",
@@ -31,5 +33,6 @@
     "youtube": "https://youtube.com/@aktekteknoloji",
     "github": ""
   },
-  "logo": "img/company/aktekbilisim.png"
+  "logo": "img/company/aktekbilisim.png",
+  "headquarters": "İstanbul, Esenler"
 }

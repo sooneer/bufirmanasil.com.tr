@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Kadikoy",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/solvia-digital-solutions",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/channel/UCcuQFxOH8eZTFITOwfABA6A",
     "x": "https://x.com/solviads"
   },
-  "logo": "img/company/solviads.webp"
+  "logo": "img/company/solviads.png",
+  "tagline": "LET'S SOLVE TOGETHER"
 }

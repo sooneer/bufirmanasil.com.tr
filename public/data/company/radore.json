@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/radore",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "https://instagram.com/radorecom",
     "youtube": "https://youtube.com/@Radore"
   },
-  "logo": "img/company/radore.png"
+  "logo": "img/company/radore.png",
+  "tagline": "Uptime Experts"
 }

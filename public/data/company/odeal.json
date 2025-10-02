@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul, Maslak",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Finansal Hizmetler"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/ode-al",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/channel/UCu-ax5FHIMAFMCSTSr7k6jQ",
     "x": "https://x.com/odealpos"
   },
-  "logo": "img/company/odeal.png"
+  "logo": "img/company/odeal.png",
+  "tagline": "Türkiye’nin fiziki POS lideri Ödeal, farklı ihtiyaçlara sahip mikro işletmelere yeni nesil ödeme çözümleri sunuyor."
 }

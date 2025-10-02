@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Umraniye, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/millenicom",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/millenicom",
     "youtube": ""
   },
-  "logo": "img/company/milleni.png"
+  "logo": "img/company/milleni.png",
+  "about": "Millenicom",
+  "tagline": "Geleceğin İnterneti"
 }

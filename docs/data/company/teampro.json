@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Maltepe",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/teampro-techno",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/@teampro-technology",
     "x": "https://x.com/TeamProTechno"
   },
-  "logo": "img/company/teampro.png"
+  "logo": "img/company/teampro.png",
+  "tagline": "#SAP #ABAP #Fiori #Danışmanlık #SAP Destek #Modül Danışmanlığı #SAP Teknoloji Danışmanlığı"
 }

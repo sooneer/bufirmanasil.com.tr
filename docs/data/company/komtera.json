@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgisayar ve Ağ Güvenliği"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/komtera-teknoloji-as",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCdFt31kQJWphg106BO1GaQw",
     "x": "https://x.com/komteratech"
   },
-  "logo": "img/company/komtera.png"
+  "logo": "img/company/komtera.png",
+  "about": "Komtera Teknoloji",
+  "tagline": "Türkiye'nin Lider ve Çözüm Odaklı Siber Güvenlik Distribütörü"
 }

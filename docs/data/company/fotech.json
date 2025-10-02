@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/fotech",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCtvDSSGYrqkhORqrLoYJ4yw",
     "x": "https://x.com/fotechltd"
   },
-  "logo": "img/company/fotech.png"
+  "logo": "img/company/fotech.png",
+  "about": "FOTECH",
+  "tagline": "Uçtan Uca Bilgi ve İletişim Teknolojileri Çözümleri"
 }

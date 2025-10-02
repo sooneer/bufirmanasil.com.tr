@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Bahçelievler",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "İnsan Kaynakları"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/rasyotek-insan-kaynaklari-bili%C5%9Fim-a-%C5%9F-",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/c/Rasyotek%C4%B0nsanKaynaklar%C4%B1Bili%C5%9FimA%C5%9E",
     "x": "https://x.com/rasyotek"
   },
-  "logo": "img/company/rasyotek.png"
+  "logo": "img/company/rasyotek.png",
+  "tagline": "Teknolojik İnsan"
 }

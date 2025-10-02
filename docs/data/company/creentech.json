@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Beşiktaş",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/creentech",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/creentech",
     "youtube": ""
   },
-  "logo": "img/company/creentech.png"
+  "logo": "img/company/creentech.png",
+  "about": "Creentech",
+  "tagline": "\"Geleceğe Taşıyan Çözümler\""
 }

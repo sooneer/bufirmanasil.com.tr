@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara, Çankaya/A.Öveçler",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Masaüstü Bilgisayar Yazılımı Ürünleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/erayteknoloji-as",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UC_-6uCf_9Za4zMjpUf3y9tw",
     "x": "https://x.com/ErayTeknolojiAS"
   },
-  "logo": "img/company/eray.png"
+  "logo": "img/company/eray.png",
+  "about": "Eray Teknoloji San. Ve Tic. A.Ş.",
+  "tagline": "Mağaza,Market,Restoran Otomasyon Sistemlerinde 37 Yıllık Güven"
 }

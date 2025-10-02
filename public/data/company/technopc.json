@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ataşehir, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/technopc",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/channel/UCyVKYJLarfHZ0HVkdHixkmw",
     "x": "https://x.com/Technopc_Global"
   },
-  "logo": "img/company/technopc.png"
+  "logo": "img/company/technopc.png",
+  "tagline": "Technopc | LinkedIn‘de 4.750 takipçi Technopc, bilişim sektöründe faaliyet gösteren Türkiye&#39;nin lider teknoloji merkezidir.\nTicari faaliyetine 1998 yılında başlayan şirketimiz, daha iyi teknolojik ürünler” üretme amacıyla 2006 yılı itibariyle, technopc® marka çatısı altında, kendi üretimini yapmaya başlamıştır.\n\nMüşterilerine daha geniş yelpazeli ve avantajlı ürünler sunmak amacı ile yerli üretici sertifikalı ilk bilgisayar üreticisi olan technopc® bugün bilişim sektörünün lider teknoloji markası haline gelmiştir."
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/coretek-bilgi-teknolojileri",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/coretekbt"
   },
-  "logo": "img/company/coretek.png"
+  "logo": "img/company/coretek.png",
+  "about": "Coretek Bilgi Teknolojileri",
+  "tagline": "Coretek Bilgi Teknolojileri"
 }

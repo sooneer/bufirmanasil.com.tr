@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/eclittech",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCW2hOV_B4x_ONcEVN6WnnfQ",
     "x": "https://x.com/eclit_tech"
   },
-  "logo": "img/company/eclit.png"
+  "logo": "img/company/eclit.png",
+  "about": "Eclit",
+  "tagline": "Yönetilen hizmetler, bulut altyapısı ve dijital dönüşüm ile teknolojiyi basitleştiren çözüm ortağı!"
 }

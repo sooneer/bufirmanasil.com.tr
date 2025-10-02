@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Ataşehir",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/biotekno",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/c/BioteknoMedya",
     "x": "https://x.com/bioteknobiz"
   },
-  "logo": "img/company/biotekno.png"
+  "logo": "img/company/biotekno.png",
+  "about": "Biotekno",
+  "tagline": "Mesajlaşma Servisleri ve Perakende Çözümleri"
 }

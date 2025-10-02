@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Baskı Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/lidya-grup",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCTE6RBH60MvThebz8b-Sjaw",
     "x": "https://x.com/grup_lidya"
   },
-  "logo": "img/company/lidyagrup.svg"
+  "logo": "img/company/lidyagrup.png",
+  "about": "Lidya Grup",
+  "tagline": "Lidya Grup | LinkedIn‘de 1.585 takipçi Şirket Profili\n\n2001 yılında İstanbul’da kurulan Lidya Grup, Türkiye geneline hizmet veren 4 farklı şirketi, 6 bölge ofisi ve 100’e yakın uzman personeli ile dün olduğu gibi bugün de doküman çözümlerinde birçok başarılı projeye imza atmaktadır.\n\nDoküman çözümlerinde dünya lideri Xerox’un en büyük iş ortaklarından biri olarak ticari hayatına başlayan Lidya Grup, güçlü finansal yapısı, yerel yapılanması ve uzman insan kaynağı ile sektörde farklılaşmakta ve bu gücü, istikrarlı büyümesi ile taçlandırmaktadır.\n\nMisyonunu sadece ürün ve hizmet tedarikçisi olmanın çok ötesine taşıyan Lidya Grup; her projeyi farklı bir vizyonla yorumlamakta ve sunmaktadır."
 }

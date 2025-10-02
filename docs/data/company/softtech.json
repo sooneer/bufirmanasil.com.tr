@@ -1,13 +1,15 @@
 {
   "name": "Softtech",
-  "tagline": "",
+  "tagline": "Öncü Teknoloji",
   "foundationYear": null,
   "about": "",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "clients": [],
   "contact": {
     "web": "https://softtech.com.tr",
@@ -31,5 +33,6 @@
     "youtube": "",
     "github": ""
   },
-  "logo": "img/company/softtech.png"
+  "logo": "img/company/softtech.png",
+  "headquarters": "Istanbul, Turkey"
 }

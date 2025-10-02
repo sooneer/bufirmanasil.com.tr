@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul, Üsküdar",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/renovaconsulting",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "https://instagram.com/renovacons",
     "youtube": ""
   },
-  "logo": "img/company/renovaconsulting.svg"
+  "logo": "img/company/renovaconsulting.png",
+  "tagline": "Renova Consulting is a Medyasoft IT Group company. Gold Partner of SAP and UiPath."
 }

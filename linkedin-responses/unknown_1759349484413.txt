@@ -1,0 +1,80 @@
+URL: https://www.linkedin.com/in/pmteknoloji
+Tarih: 2025-10-01T20:11:25.190Z
+Status: 999
+
+=== HEADERS ===
+{
+  "date": "Wed, 01 Oct 2025 20:11:25 GMT",
+  "content-type": "text/html",
+  "content-length": "1530",
+  "connection": "keep-alive",
+  "strict-transport-security": "max-age=31536000",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "sameorigin",
+  "content-security-policy": "default-src 'none'; connect-src 'self' *.licdn.com *.linkedin.com cdn.linkedin.oribi.io dpm.demdex.net/id lnkd.demdex.net blob: accounts.google.com/gsi/ linkedin.sc.omtrdc.net/b/ss/ *.microsoft.com *.adnxs.com login.microsoftonline.com; script-src 'report-sample' 'sha256-SSoodjUD3LGm2FfFCVHGqEb8D4UM3OOigidT2UKDcYg=' 'sha256-cKTgdnmO6+hXd85a9wKg1effVfVzenUAtUCyOKY9bQE=' 'sha256-DwtT8+ZZKpxH9pqZNAmJ3GdbLAh5SsYaXR3omTXPCns=' 'sha256-sV9jZa797T0QWBzcU/CNd4tpBhTnh+TFdLnfjlitl28=' 'sha256-aa/Q8CRBDSqTQbCIyioPhZaz+G+dbPyu7BzsjInEmiU=' 'sha256-THuVhwbXPeTR0HszASqMOnIyxqEgvGyBwSPBKBF/iMc=' 'sha256-zTIusdVJJeXz9+iox2a+pdDglzbpRpFVRzEwvW4AONk=' 'sha256-iC8MPqNLw0FDnsBf4DlSkFLNTwhkI85aouiAEB819ic=' 'sha256-2EqrEvcPzl8c6/TSGVvaVMEe7lg700MAz/te4/3kTYY=' 'sha256-y5uW69VItKj51mcc7UD9qfptDVUqicZL+bItEpvVNDw=' 'sha256-DatsFGoJ8gFkzzxo47Ou76WZ+3QBPOQHtBu9p9b3DhA=' 'sha256-k95cyM8gFgPziZe5VQ2IvJvBUVyd5zFt2CokIUwqdHE=' 'sha256-PyCXNcEkzRWqbiNr087fizmiBBrq9O6GGD8eV3P09Ik=' 'sha256-RFqsjmAF1N5LnfpaHFvPqFlVkeIS/DtTAFor+JjJJVc=' 'sha256-2SQ55Erm3CPCb+k03EpNxU9bdV3XL9TnVTriDs7INZ4=' 'sha256-S/KSPe186K/1B0JEjbIXcCdpB97krdzX05S+dHnQjUs=' 'sha256-3RIGhhApBii1KY+aW1xk7kFyoQY8vSVE5DfT7E9SJUc=' 'sha256-9pXOIwF4N0gPltLd3AI69lkCjSC2H/Eb3sc5zdmUyYU=' 'sha256-jou6v/Nleyzoc+LXktAv1Fp8M807dVVxy7E/yzVljHc=' 'sha256-6E4e/3dSvj/8JZT2S2yR91mspqM6MyOpKl5lrhHsZa8=' 'sha256-3woF8BZ54TeXM+czaH3aXoaJsVpiamuAKFsXDykAR/Q=' 'sha256-vIfNcKb8ixJg1cfJIoNNYjWcm0lezj1/XpUNFiZyVsU=' 'sha256-cLsHUHFgT/VGX04cZrJ9xgm4HbzTR7ptutkxK+7BlMk=' 'sha256-BwU8jMnQYUhjOpsDVABpfddV/DlP1ZYrFcTumYw7x54=' 'sha256-wz6ika9i3WU3bpUPdhYDZeO/NrDQniDyiscN0LWnyaY=' 'sha256-wy4DvlEW9PHPIGvQJW6Wv4woBSa/0LJHs8LHsBVVXCs=' 'sha256-065A0cJTDQ+hyKvufSL/flW02hIbgLndOINLRWux6To=' 'sha256-Ga5SLB8hPdWUE8Wb6LgZ05D9Z5vrdLAaPbDBW2m3BI8=' static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com platform.linkedin.com platform-akam.linkedin.com platform-ecst.linkedin.com platform-azur.linkedin.com snap.licdn.com; img-src data: blob: * android-webview-video-poster:; font-src data: *; style-src 'self' 'unsafe-inline' static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; media-src 'self' *.licdn.com *.lynda.com; worker-src 'self' blob: static.licdn.com static-exp1.licdn.com static-exp2.licdn.com static-exp3.licdn.com; frame-src 'self' www.youtube.com/embed/ www.youtube-nocookie.com/embed/ lnkd.demdex.net smartlock.google.com accounts.google.com player.vimeo.com *.linkedin.com www.slideshare.net *.megaphone.fm *.omny.fm *.sounder.fm msit.powerbi.com app.powerbi.com linkedin.github.io *.licdn.com *.adnxs.com acdn.adnxs-simple.com radar.cedexis.com edge-auth.microsoft.com flo.uri.sh; frame-ancestors 'self' *.www.linkedin.com:*; manifest-src 'self'; report-uri https://www.linkedin.com/security/csp?f=d",
+  "x-li-fabric": "prod-lva1",
+  "pragma": "no-cache",
+  "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+  "cache-control": "no-cache, no-store",
+  "x-li-pop": "cf-prod-lva1-x",
+  "x-li-proto": "http/1.1",
+  "x-li-uuid": "AAZAHnkPVDmFO2kIHdBefw==",
+  "set-cookie": [
+    "bcookie=\"v=2&ecd7d5c4-4485-43d2-86aa-f53e2997d485\"; domain=.linkedin.com; Path=/; Secure; Expires=Thu, 01-Oct-2026 20:11:25 GMT; SameSite=None",
+    "bscookie=\"v=1&20251001201124fcfcdc42-1695-4240-82f2-43340a839275AQHlw4dnSouPqkvNCIP0toV-rr4VHYfQ\"; domain=.www.linkedin.com; Path=/; Secure; Expires=Thu, 01-Oct-2026 20:11:25 GMT; HttpOnly; SameSite=None",
+    "lidc=\"b=VGST00:s=V:r=V:a=V:p=V:g=3763:u=1:x=1:i=1759349485:t=1759435885:v=2:sig=AQHSMgc-kbTRojQwb93Zl0jNcELfJzTr\"; Expires=Thu, 02 Oct 2025 20:11:25 GMT; domain=.linkedin.com; Path=/; SameSite=None; Secure",
+    "trkCode=gf; Max-Age=5",
+    "trkInfo=AQE5KHnBib5FHAAAAZmhZq3IxXq7frYxwkE3tlYkb0wzn6flb9GF3_4p-Yvk6LbrLpgdhRfCY73L0a4Ie_Y86Qu7Mg_fhnbptx2k_Do5Sv4e1ZOPM_Es0xkv1kCNPFLvqkmTkqI=; Max-Age=5",
+    "rtc=AQE--hviF626cAAAAZmhZq3Ij3PArAuJ-8D9oLYiix3lj95oq8DNlsy9Yr7uyHNXBuvLqomfaMzwfThtaqV8_nlLm2lnoLawM2I5EYsBA3ibzGi5A_sWtVtYrIhXvy1j93P8iRdsNLhDKdS-a-J6CoPK_SIs7Pd7WZ8HBiZuxy25FvB4ug1sh7tr50Kn5qYv-ViiHf-yZQIoGI2vHvYkkt4FtZyZP1Q3OL2qzU5qj8xdkXwaXhVcjNYjWOTBRY3G4g==; Max-Age=120; path=/; domain=.linkedin.com",
+    "__cf_bm=nWSVj7dvIlWq8Yr0hakUdzkjvFL1biMuQrv0AVipAqY-1759349485-1.0.1.1-OyVh.jAoU9IKr10NrQL4fgMs1KGeKOkZtE9.2Oua72n35T.1N6lbhHftcVzgsz0gTffhCwpnH5SItWx_VFFs3aensTd63K1vOnoxgGCicmo; path=/; expires=Wed, 01-Oct-25 20:41:25 GMT; domain=.linkedin.com; HttpOnly; Secure; SameSite=None"
+  ],
+  "cf-cache-status": "DYNAMIC",
+  "server": "cloudflare",
+  "cf-ray": "987e9be5bd50d5fb-IST",
+  "alt-svc": "h3=\":443\"; ma=86400"
+}
+
+=== BODY ===
+<html><head>
+<script type="text/javascript">
+window.onload = function() {
+  // Parse the tracking code from cookies.
+  var trk = "bf";
+  var trkInfo = "bf";
+  var cookies = document.cookie.split("; ");
+  for (var i = 0; i < cookies.length; ++i) {
+    if ((cookies[i].indexOf("trkCode=") == 0) && (cookies[i].length > 8)) {
+      trk = cookies[i].substring(8);
+    }
+    else if ((cookies[i].indexOf("trkInfo=") == 0) && (cookies[i].length > 8)) {
+      trkInfo = cookies[i].substring(8);
+    }
+  }
+
+  if (window.location.protocol == "http:") {
+    // If "sl" cookie is set, redirect to https.
+    for (var i = 0; i < cookies.length; ++i) {
+      if ((cookies[i].indexOf("sl=") == 0) && (cookies[i].length > 3)) {
+        window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);
+        return;
+      }
+    }
+  }
+
+  // Get the new domain. For international domains such as
+  // fr.linkedin.com, we convert it to www.linkedin.com
+  // treat .cn similar to .com here
+  var domain = location.host;
+  if (domain != "www.linkedin.com" && domain != "www.linkedin.cn") {
+    var subdomainIndex = location.host.indexOf(".linkedin");
+    if (subdomainIndex != -1) {
+      domain = "www" + location.host.substring(subdomainIndex);
+    }
+  }
+
+  window.location.href = "https://" + domain + "/authwall?trk=" + trk + "&trkInfo=" + trkInfo +
+      "&original_referer=" + document.referrer.substr(0, 200) +
+      "&sessionRedirect=" + encodeURIComponent(window.location.href);
+}
+</script>
+</head></html>

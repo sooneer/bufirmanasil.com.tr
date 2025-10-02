@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Şişli, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/turkkepcomtr",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/c/T%C3%9CRKKEPKAYITLIELEKTRON%C4%B0KPOSTAA%C5%9E",
     "x": "https://x.com/turkkepcomtr"
   },
-  "logo": "img/company/turkkep.png"
+  "logo": "img/company/turkkep.png",
+  "tagline": "Hayatınızı Kolaylaştırır..."
 }

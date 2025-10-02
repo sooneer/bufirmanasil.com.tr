@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara, Çankaya",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Otomasyon Makineleri İmalatı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/gslmuhendislik",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/c/GSLM%C3%BChendislik-TR",
     "x": "https://x.com/gslmuhendislik"
   },
-  "logo": "img/company/gsl.png"
+  "logo": "img/company/gsl.png",
+  "about": "GSL Mühendislik",
+  "tagline": "Endüstriyel Otomasyon & Haberleşme Çözümlerinin\nYetkin Distribütörü: Moxa, Robustel, Kyland"
 }

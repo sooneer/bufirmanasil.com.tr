@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Çeviri ve Yerelleştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/es-localization-services-ltd",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/eslocalization"
   },
-  "logo": "img/company/estr.jpg"
+  "logo": "img/company/estr.png",
+  "about": "ES Dil Hizmetleri A.Ş.",
+  "tagline": "Gateway to Local Markets"
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara, Gölbaşı",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/miateknolojias",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UC1vMUd8urMXtMiRm5hJhGEA",
     "x": "https://x.com/miateknoloji"
   },
-  "logo": "img/company/miateknoloji.png"
+  "logo": "img/company/miateknoloji.png",
+  "about": "MİA Teknoloji",
+  "tagline": "AI-powered Solutions\nBIST50: MIATK"
 }

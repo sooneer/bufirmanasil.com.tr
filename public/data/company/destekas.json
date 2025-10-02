@@ -2,25 +2,30 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara, Çankaya",
   "description": "",
   "internship": "",
   "tags": [],
   "remote": "",
   "name": "Destek As",
   "contact": {
-    "web": "https://destek.as",
+    "web": "https://www.destek.as",
     "phone": "",
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
-    "linkedin": "",
-    "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "linkedin": "https://www.linkedin.com/company/destek-bilgisayar-ve-iletisim-hiz.-a.s",
+    "twitter": "https://x.com/destekas",
+    "facebook": "https://facebook.com/destekas",
+    "instagram": "https://www.instagram.com/destek.as.social/",
+    "youtube": "https://www.youtube.com/channel/UC4qtFa7kVuNkBfJUUvgIkQg",
+    "x": "https://x.com/destekas"
   },
-  "logo": "img/company/destekas.svg"
+  "logo": "img/company/destekas.png",
+  "about": "Destek A.Ş.",
+  "tagline": "İşletmenizi Geleceğe Taşıyoruz!"
 }

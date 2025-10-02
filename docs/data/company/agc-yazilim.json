@@ -1,14 +1,15 @@
 {
   "name": "AGC Yazılım",
   "logo": "img/company/agc-yazilim.png",
-  "tagline": "Teknoloji Partneriniz",
+  "tagline": "Your Technology Partner",
   "foundationYear": 2006,
   "about": "2006 yılında kurulan AGC Yazılım, faaliyete geçtiği yıldan bugüne Bilgi Teknolojileri sektöründeki gelişmeleri yakından takip ederek pazarın değişimleri ile bütünleşerek, hızla büyüyen şirketlerden birisi olmuştur. İstanbul, İzmir, Houston ve Dubai’deki ofislerinde yazılım geliştirme ve danışmanlık hizmetleri sunmaktadır.",
   "BIST": null,
   "sector": [
     "Teknoloji",
     "Bilişim",
-    "Yazılım"
+    "Yazılım",
+    "BT Hizmetleri ve BT Danışmanlığı"
   ],
   "clients": [
     "ALLIANCE YAPIM",
@@ -54,5 +55,6 @@
     "instagram": null,
     "youtube": null,
     "github": null
-  }
+  },
+  "headquarters": "İstanbul, Şişli"
 }

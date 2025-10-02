@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul, NA",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/odya-technology?originalSubdomain=tr",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/@ODYATeknolojii",
     "x": "https://x.com/ODYATeknoloji"
   },
-  "logo": "img/company/odya.png"
+  "logo": "img/company/odya.png",
+  "tagline": "Smart, secure, and effortless IT and field monitoring solutions."
 }

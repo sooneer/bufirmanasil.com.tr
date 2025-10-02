@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Kadıköy",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/ccrgroup",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCoicJGuLYUOnopf2m1bmAug",
     "x": "https://x.com/CCR_TR"
   },
-  "logo": "img/company/ccr.webp"
+  "logo": "img/company/ccr.png",
+  "about": "CCR GROUP",
+  "tagline": "Smart, scalable CX solutions powered by Genesys, Sprinklr & more—Let’s create better customer experience—together🤝"
 }

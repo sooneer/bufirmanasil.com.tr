@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Kadıköy",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/next4biz",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "https://instagram.com/next4biz",
     "youtube": "https://youtube.com/@next4biz"
   },
-  "logo": "img/company/next4biz.png"
+  "logo": "img/company/next4biz.png",
+  "tagline": "AI Powered CRM & BPM Software"
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Pendik, İSTANBUL",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/%C3%A7aml%C4%B1ca-barkod",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/camlicabarkod"
   },
-  "logo": "img/company/camlica.jpg"
+  "logo": "img/company/camlica.png",
+  "about": "Çamlıca Barkod Ltd",
+  "tagline": "Teknolojinin işe dönüştüğü nokta."
 }

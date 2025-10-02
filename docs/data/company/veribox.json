@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Kağıthane, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/veribox-technology",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "",
     "x": "https://x.com/VeriboxTR"
   },
-  "logo": "img/company/veribox.png"
+  "logo": "img/company/veribox.png",
+  "tagline": "Veribox Technology A.Ş. olarak insana değer veren yaklaşımla, sektörde öncü olmak için çalışıyor."
 }

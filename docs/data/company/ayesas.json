@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Havacılık ve Havacılık Komponenti İmalatı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/ayesas",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/ayesastr"
   },
-  "logo": "img/company/ayesas.png"
+  "logo": "img/company/ayesas.png",
+  "about": "AYESAŞ",
+  "tagline": "Our Mark is Everywhere"
 }

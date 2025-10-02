@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul, Ümraniye",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Beyaz Eşya, Elektrikli ve Elektronik Eşya İmalatı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/tescom-ups",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/@TescomUPS?sub_confirmation=1",
     "x": "https://x.com/TESCOM_UPS"
   },
-  "logo": "img/company/tescom-ups.svg"
+  "logo": "img/company/tescom-ups.png",
+  "tagline": "Kesintisiz Güç İçin Güvenilir Ortağınız...\nYour Reliable Partner For Uninterruptible Power"
 }

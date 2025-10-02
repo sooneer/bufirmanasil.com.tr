@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Ümraniye",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/digilera-bilgi-teknolojileri-ltd-ti-",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/digilerabt",
     "youtube": ""
   },
-  "logo": "img/company/digilera.png"
+  "logo": "img/company/digilera.png",
+  "about": "Digilera Bilgi Teknolojileri",
+  "tagline": "Operasyonel Filo Kiralama ve Sigorta Şirketleri için katma değerli yazılım ve teknoloji çözümleri."
 }

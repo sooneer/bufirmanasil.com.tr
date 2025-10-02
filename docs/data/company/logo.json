@@ -1,13 +1,15 @@
 {
   "name": "Logo Yazılım",
-  "tagline": "",
+  "tagline": "Türkiye'nin lider yerli iş yazılım şirketi Logo Yazılım ile 1-0 öne geçin!",
   "foundationYear": null,
-  "about": "",
+  "about": "Logo Yazılım",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "clients": [],
   "contact": {
     "web": "https://logo.com.tr",
@@ -31,5 +33,6 @@
     "youtube": "https://youtube.com/user/LOGOYazilim",
     "github": ""
   },
-  "logo": "img/company/logo.svg"
+  "logo": "img/company/logo.png",
+  "headquarters": "Kocaeli"
 }

@@ -1,13 +1,15 @@
 {
   "name": "Analythinx",
-  "tagline": "",
+  "tagline": "Powered by Data, Inspired by Science",
   "foundationYear": null,
-  "about": "",
+  "about": "Analythinx",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "clients": [],
   "contact": {
     "web": "https://analythinx.com",
@@ -31,5 +33,6 @@
     "youtube": "",
     "github": ""
   },
-  "logo": "img/company/analythinx.png"
+  "logo": "img/company/analythinx.png",
+  "headquarters": "İstanbul, Ataşehir"
 }

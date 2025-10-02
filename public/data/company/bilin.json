@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/bilinyazilim",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/bilinyazilim"
   },
-  "logo": "img/company/bilin.png"
+  "logo": "img/company/bilin.png",
+  "about": "Bilin Yazılım",
+  "tagline": "Bilin Yazılım | LinkedIn‘de 3.818 takipçi Bilin is one of the Turkey’s leading suppliers of total HRIS and HCM technology solutions, covering end to end HR processes and technology requirements \n\nWe serve businesses since 1990, with mere concentration on HR Management Systems and a laser focus in understanding customer needs to provide just the right mix of products and services. Our pivotal focus on HR processes and systems helped us design and develop our unique product Humanist; the most unsubstituted software solution known in the HR Software market today.\n\nWith customer base ranged between 100-25,000 employees, spread across a wide variety of industries , we reached 500.000 end users."
 }

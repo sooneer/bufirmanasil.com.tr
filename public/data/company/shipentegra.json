@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "ESENLER, istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Ulaşım, Lojistik, Tedarik Zinciri ve Depolama"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/shipentegra",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/channel/UCzbC2pluF5905xo4AZ4BOSA",
     "x": "https://x.com/shipentegra"
   },
-  "logo": "img/company/shipentegra.png"
+  "logo": "img/company/shipentegra.png",
+  "tagline": "Tek Bir Ekran ile Hem 20+ Global Pazar Yeriyle  Entegrasyon Sağlamanın Hem de Kargo Göndermenin En Kolay Yolu!"
 }

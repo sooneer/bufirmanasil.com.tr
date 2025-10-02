@@ -2,26 +2,30 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Sarıyer",
   "description": "",
   "internship": "",
   "tags": [],
   "remote": "",
   "name": "Datamarket",
   "contact": {
-    "web": "https://datamarket.com.tr",
+    "web": "https://bulutdonusumu.com",
     "phone": "",
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/datamarket1992",
-    "twitter": "",
+    "twitter": "https://twitter.com/DataMarket1992",
     "facebook": "https://facebook.com/datamarket1992",
     "instagram": "https://instagram.com/DataMarket1992",
     "youtube": "https://youtube.com/user/datamarket1992",
     "x": "https://x.com/DataMarket1992"
   },
-  "logo": "img/company/datamarket.svg"
+  "logo": "img/company/datamarket.png",
+  "about": "Data Market",
+  "tagline": "Teknolojiyi yönetmenin #biryoluvar"
 }

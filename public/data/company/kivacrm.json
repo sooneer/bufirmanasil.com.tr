@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Kadikoy, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/kivacrm",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCibdO9z_H0SuvTfpdNLyjYg",
     "x": "https://x.com/KivaCRM"
   },
-  "logo": "img/company/kivacrm.png"
+  "logo": "img/company/kivacrm.png",
+  "about": "KivaCRM",
+  "tagline": "Satış Gücü Otomasyonu, Müşteri Hizmetleri ve Operasyonel İş Zekası"
 }

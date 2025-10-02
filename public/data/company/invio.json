@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/invio",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/inviobilisim?lang=en"
   },
-  "logo": "img/company/invio.png"
+  "logo": "img/company/invio.png",
+  "about": "Invio Bilişim",
+  "tagline": "Mobil Teknolojilerde Sınırları Aşmak İçin Varız"
 }

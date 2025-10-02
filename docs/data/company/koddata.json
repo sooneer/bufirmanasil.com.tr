@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Esenler, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/koddata",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/@koddata",
     "x": "https://x.com/koddata"
   },
-  "logo": "img/company/koddata.png"
+  "logo": "img/company/koddata.png",
+  "about": "Koddata",
+  "tagline": "Kusursuz Ürün, Kusursuz Hizmet"
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Maslak, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/bnk-grup",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/bnkgrup",
     "youtube": ""
   },
-  "logo": "img/company/bnkgrup.png"
+  "logo": "img/company/bnkgrup.png",
+  "about": "BNK Grup",
+  "tagline": "Teknolojideki Çözüm Ortağınız!"
 }

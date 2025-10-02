@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/birle-ik-uzmanlar-bili-im-a-",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "https://instagram.com/birlesikuzmanlar?igsh=eTRya2FzMnNpajhh",
     "youtube": "https://youtube.com/@BuzBilisim"
   },
-  "logo": "img/company/birlesikuzmanlar-it.png"
+  "logo": "img/company/birlesikuzmanlar-it.png",
+  "about": "Birleşik Uzmanlar Bilişim A.Ş.",
+  "tagline": "Microsoft Gold Partner | CSP (Cloud Solution Provider) | ISV (Independent Software Vendor)"
 }

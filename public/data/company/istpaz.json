@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Beşiktaş, İSTANBUL",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/istanbul-pazarlama-a-s-",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "",
     "youtube": ""
   },
-  "logo": "img/company/istpaz.png"
+  "logo": "img/company/istpaz.png",
+  "about": "ISTANBUL PAZARLAMA A.S.",
+  "tagline": "40 Yıl önce olduğu gibi bugün de müşterilerimizin yanındayız."
 }

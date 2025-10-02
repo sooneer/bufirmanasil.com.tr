@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Teknoloji, Bilgi ve İnternet"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/gesk-technologies",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/gesktech"
   },
-  "logo": "img/company/gesk.png"
+  "logo": "img/company/gesk.png",
+  "about": "Gesk Technologies",
+  "tagline": "Gesk Technologies | LinkedIn‘de 1.536 takipçi ŞİRKET TANIMI\n\nElektrik ve elektronik sektöründe 2006 senesinden bu yana sunduğu çeşitli çözümler ve kazandığı tecrübelerle faaliyet gösteren ekibimiz Gesk Teknoloji çatısı altında AR-GE (araştırma ve geliştirme), prototiplendirme, ÜR-GE (ürün geliştirme) gibi bir çok proje adımında müşterilerine destek vermekte ve çözüm ortağı olmaktadır. \n\nŞirketimiz çeşitli proje adımları dışında ayrıca sıfır seri üretim ve seri üretim adımları ile gerekirse maliyet düşürme aşamalarında da müşterilerimize hizmet vermektedir. Bu alanda yaptığımız çalışmalar ile son kullanıcının ihtiyaçlarına uygun, maliyet/performans gözetilerek gelişen teknolojiyi yakalayan en optimum çözümleri müşterilerimize sunmaktayız."
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/veribase.com",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "",
     "x": "https://x.com/Veribase"
   },
-  "logo": "img/company/veribase.png"
+  "logo": "img/company/veribase.png",
+  "tagline": "Veribase.com | LinkedIn‘de 3.324 takipçi Veribase.com, saha ekibinizin tüm faaliyetlerini yönetme ve raporlama yeteneği sağlayan global bir ilaç CRM ve CLM Yazılımıdır.\n\nUzman teknik ekibimizi tercih eden yüzlerce ilaç firmasına ve binlerce kullanıcıya hizmet vermekteyiz."
 }

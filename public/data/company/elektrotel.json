@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Atasehir, Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,13 +14,17 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/company/elektrotel-elektronik-telekomünikasyon-san-tic-ltd-şti̇",
     "twitter": "",
     "facebook": "",
     "instagram": "",
     "youtube": ""
   },
-  "logo": "img/company/elektrotel.svg"
+  "logo": "img/company/elektrotel.png",
+  "about": "Elektrotel Elektronik Telekomünikasyon San.Tic.Ltd.",
+  "tagline": "\"FİKİRLERİNİZİ GERÇEĞE DÖNÜŞTÜRÜYORUZ\""
 }

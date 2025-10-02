@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Başiskele, Kocaeli",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/trtek-medical-software",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "",
     "youtube": ""
   },
-  "logo": "img/company/trtekyazilim.png"
+  "logo": "img/company/trtekyazilim.png",
+  "tagline": "Hastane Bilgi Yönetim Sistemleri. \n\n\"Sağlıkta Bilişim Çözümlerinde Son Nokta \""
 }

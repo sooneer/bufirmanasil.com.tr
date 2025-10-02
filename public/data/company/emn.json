@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Çankaya, Ankara",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/emn-technology",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/emn_tech"
   },
-  "logo": "img/company/emn.png"
+  "logo": "img/company/emn.png",
+  "about": "EMN TECHNOLOGY",
+  "tagline": "Türkiye’nin Görüntü Teknolojileri Uzmanı."
 }

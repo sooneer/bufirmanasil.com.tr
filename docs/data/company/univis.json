@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İzmir",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/univis",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "https://instagram.com/univissocial",
     "youtube": "https://youtube.com/channel/UCHx5jPb5d3G8djniqeBkDoA"
   },
-  "logo": "img/company/univis.svg"
+  "logo": "img/company/univis.png",
+  "tagline": "Yenilikçi BT Çözümleri"
 }

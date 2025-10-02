@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İzmir",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/egebimtes-san-tic-as",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/egebimtes"
   },
-  "logo": "img/company/egebimtes.png"
+  "logo": "img/company/egebimtes.png",
+  "about": "Egebimtes",
+  "tagline": "Köklerimizden aldığımız güçle çözüm odaklı, güvenilir ve yenilikçi iş ortağınız olarak globalde fark yaratıyoruz."
 }

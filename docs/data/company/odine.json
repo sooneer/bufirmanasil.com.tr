@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Hongkong / Muscat",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/telecomoman",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "",
     "x": "https://x.com/OdineSolutions"
   },
-  "logo": "img/company/odine.png"
+  "logo": "img/company/odine.png",
+  "tagline": "TeO Global (Telecom Oman) | LinkedIn‘de 6.684 takipçi TeO (Telecom Oman), a 100% Omani company, is the first private CLASS I licensee international gateway operator, a mobile virtual network operator (MVNO) and first-of-its-kind over-the-top service provider in the Sultanate of Oman. It has a dynamic, young, and multi-cultural team in place, with a vision to create and offer Oman&#39;s true integrated services proposition, and to expand its brand in the regional markets as one of the most innovative Telecom-Internet-New Media brands.\n\nTeO identifies its current mission as:\n&quot;Being an essential contributor of the “Knowledge Society” vision of the Sultanate by offering true integrated communications solutions serving all consumer segments and SMEs with the highest level of service quality and unmatched customer experience while also contributing to social welfare with non-business activities.&quot;​"
 }

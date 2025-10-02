@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İSTANBUL",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Petrol ve Gaz"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/asis-automation-inc",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCgiJh9vUXazk_OsjIz33VYw",
     "x": "https://x.com/AsisAutomation"
   },
-  "logo": "img/company/asis.png"
+  "logo": "img/company/asis.png",
+  "about": "ASİS Otomasyon A.Ş.",
+  "tagline": "Kontrol sizde..."
 }

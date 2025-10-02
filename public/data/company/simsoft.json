@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Savunma ve Uzay Araçları İmalatı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/simsoftofficial",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/c/SimsoftOfficial",
     "x": "https://x.com/SimsoftOfficial"
   },
-  "logo": "img/company/simsoft.png"
+  "logo": "img/company/simsoft.png",
+  "tagline": "Advanced Training Simulations and Innovative Software Solutions"
 }

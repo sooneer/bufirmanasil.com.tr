@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/tecpro-bilgi-teknolojileri",
     "twitter": "",
@@ -22,5 +24,6 @@
     "instagram": "https://instagram.com/tecprobt",
     "youtube": "https://youtube.com/channel/UC3pHtIx4Rm4EuUQ3-OVl8bQ"
   },
-  "logo": "img/company/tecpro.png"
+  "logo": "img/company/tecpro.png",
+  "tagline": "İşinize değer katar!"
 }

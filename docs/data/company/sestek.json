@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Sarıyer, İstanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/sestek",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/user/Sestek1",
     "x": "https://x.com/sestek"
   },
-  "logo": "img/company/sestek.png"
+  "logo": "img/company/sestek.png",
+  "tagline": "Conversational automation company with 25 years of voice tech expertise, develops products under the brand name Knovvu"
 }

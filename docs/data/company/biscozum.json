@@ -2,25 +2,30 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
   "remote": "",
   "name": "Bis Çözüm",
   "contact": {
-    "web": "https://biscozum.com.tr",
+    "web": "https://www.biscozum.com.tr",
     "phone": "",
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
-    "linkedin": "",
-    "twitter": "",
-    "facebook": "",
-    "instagram": "",
-    "youtube": ""
+    "linkedin": "https://www.linkedin.com/company/bis---business-integration-services/",
+    "twitter": "https://x.com/bis_cozum",
+    "facebook": "https://www.facebook.com/biscozum/",
+    "instagram": "https://www.instagram.com/bis.cozum/",
+    "youtube": "https://www.youtube.com/channel/UCXn69UXS8lR7nAmWuSMRF_Q",
+    "x": "https://x.com/bis_cozum"
   },
-  "logo": "img/company/biscozum.svg"
+  "logo": "img/company/biscozum.png",
+  "about": "BIS - Business Integration Services",
+  "tagline": "Need to go beyond?"
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Kocasinan",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/mega-bilgisayar",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "",
     "youtube": ""
   },
-  "logo": "img/company/megabilgisayar.png"
+  "logo": "img/company/megabilgisayar.png",
+  "about": "Mega Bilgisayar",
+  "tagline": "Mega Bilgisayar | LinkedIn‘de 751 takipçi IT sektörüne kurumsal hizmet veren mega bilgisayar Ağ altyapısı, bunun üzerine sunucu, yedekleme ve depolama sistemlerinin kurulması, farklı uygulamaların hayata geçirilmesi, iş sürekliliği ve afet yönetimi stratejilerinin belirlenmesi gibi bir kurumun ihtiyacı olabilecek tüm alan ve katmanlarda hizmet sunuyoruz. Bunların yanı sıra masaüstü yayıncılık konusunda da Mega&#39;nın geniş bir deneyimi bulunuyor.\n\nGünümüzün vizyonu olan sanallaştırma konusuna Mega Bilgisayar olarak yıllar önce yatırım yapmaya başladık."
 }

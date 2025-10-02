@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul , Ümraniye",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Teknoloji, Bilgi ve İnternet"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/smartmessage",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/@smartmessagemarketing",
     "x": "https://x.com/smart_message"
   },
-  "logo": "img/company/smartmessage.png"
+  "logo": "img/company/smartmessage.png",
+  "tagline": "All-in-one customer experience and marketing platform to engage your audience."
 }

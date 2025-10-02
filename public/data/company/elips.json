@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "İstanbul, Zincirlikuyu",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/elips-elektronik",
     "twitter": "",
@@ -22,5 +24,7 @@
     "instagram": "",
     "youtube": ""
   },
-  "logo": "img/company/elips.png"
+  "logo": "img/company/elips.png",
+  "about": "Elips Elektronik",
+  "tagline": "Elips Elektronik | LinkedIn‘de 701 takipçi Elips\nTürk bilişim sektöründeki yolculuğumuza 1988 yılında Şişli&#39;de, 80 metrekarelik bir apartman dairesinde başladık. O günlerde sadece 3 kişiydik ve tüm Türkiye’de bilişimin geleceğini görebilen sadece bir avuç işletme vardı. Şirket felsefemiz olan &quot;Yeni teknolojiyi izle, yeni çözümler üret&quot; ilkesiyle henüz ilk günden itibaren o küçük pazara sıra dışı kalitede ürün, hizmet ve satış sonrası destek sunmayı başardık."
 }

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara, Çankaya",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/ulakhaberlesme",
     "twitter": "",
@@ -23,5 +25,6 @@
     "youtube": "https://youtube.com/@ulakhaberlesmea.s.8135",
     "x": "https://x.com/UlakHaberlesme"
   },
-  "logo": "img/company/ulakhaberlesme.svg"
+  "logo": "img/company/ulakhaberlesme.png",
+  "tagline": "TOWARDS 5G AND BEYOND"
 }

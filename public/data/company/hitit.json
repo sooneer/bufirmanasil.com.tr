@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul, Sariyer",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/hitit-computer-services",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCKlRiQja9Vwj4rte-Jxisvg",
     "x": "https://x.com/HititCS"
   },
-  "logo": "img/company/hitit.png"
+  "logo": "img/company/hitit.png",
+  "about": "Hitit",
+  "tagline": "Airline & Travel IT Solutions"
 }

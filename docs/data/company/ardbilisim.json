@@ -3,7 +3,7 @@
   "employees": "",
   "logo": "img/company/ardbilisim.png",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Çankaya, Ankara",
   "description": "",
   "internship": "",
   "tags": [],
@@ -15,7 +15,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/ardgrupofficial",
     "twitter": "",
@@ -23,5 +25,7 @@
     "instagram": "https://instagram.com/ardgrupofficial",
     "youtube": "",
     "x": "https://x.com/ardgrupofficial"
-  }
+  },
+  "about": "ARD Grup Bilişim Teknolojileri",
+  "tagline": "💻Yazılım ve Bilişim Teknolojileri"
 }

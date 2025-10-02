@@ -1,13 +1,15 @@
 {
   "name": "Nokia",
-  "tagline": "",
+  "tagline": "Nokia | LinkedIn‘de 1.814.994 takipçi At Nokia, we create technology that helps the world act together. \n\nAs a B2B technology innovation leader, we are pioneering the future where networks meet cloud to realize the full potential of digital in every industry.\n\nThrough networks that sense, think and act, we work with our customers and partners to create the digital services and applications of the future.",
   "foundationYear": null,
   "about": "",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "Telekomünikasyon"
+  ],
   "clients": [],
   "contact": {
     "web": "https://nokia.com",
@@ -31,5 +33,6 @@
     "youtube": "https://youtube.com/user/nokia",
     "github": ""
   },
-  "logo": "img/company/nokia.png"
+  "logo": "img/company/nokia.png",
+  "headquarters": "Espoo, Southern Finland"
 }

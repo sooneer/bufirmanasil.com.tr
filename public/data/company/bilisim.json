@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara, Ankara/ Bilkent",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Bilgi Teknolojisi ve Hizmetleri"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/bilisim-as",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/channel/UCQX1cKh-XWsl3oixYV6Hi_A",
     "x": "https://x.com/BilisimAS"
   },
-  "logo": "img/company/bilisim.png"
+  "logo": "img/company/bilisim.png",
+  "about": "Bilişim A.Ş.",
+  "tagline": "Bilişim A.Ş 1985 yılında Ankara'da kurulan yenilikçi yazılım ürünleri üreten yerli bir yazılım evidir."
 }

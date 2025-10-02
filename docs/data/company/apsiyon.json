@@ -1,14 +1,16 @@
 {
   "name": "Apsiyon",
   "logo": "img/company/apsiyon.png",
-  "tagline": "",
+  "tagline": "Yaşam Alanlarının Dijital Asistanı",
   "foundationYear": null,
-  "about": "",
+  "about": "Apsiyon",
   "BIST": {
     "code": "",
     "KAP": ""
   },
-  "sector": [],
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "clients": [],
   "contact": {
     "web": "https://apsiyon.com",
@@ -31,5 +33,6 @@
     "facebook": "https://facebook.com/apsiyoncom",
     "youtube": "https://youtube.com/c/Apsiyon",
     "github": ""
-  }
+  },
+  "headquarters": "Altayçeşme, İstanbul"
 }

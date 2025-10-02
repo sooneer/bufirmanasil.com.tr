@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Ankara, Ankara",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "Yazılım Geliştirme"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/monad-yazilim",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "",
     "x": "https://x.com/MNDNucleus"
   },
-  "logo": "img/company/monad.jpg"
+  "logo": "img/company/monad.png",
+  "about": "Monad Yazılım ve Danışmanlık",
+  "tagline": "Sağlık yazılımında etkin proje yönetimi ve güçlü destek yaklaşımı"
 }

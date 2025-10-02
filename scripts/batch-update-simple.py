@@ -5,8 +5,13 @@ Toplu Sosyal Medya Linki Güncelleme Script'i (Basit Versiyon)
 """
 
 import sys
+import io
 from pathlib import Path
 import time
+
+# UTF-8 encoding'i zorla
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
 
 # update-social-links modülünü import et
 import importlib.util

@@ -2,7 +2,7 @@
   "founded": "",
   "employees": "",
   "careers": "",
-  "headquarters": "",
+  "headquarters": "Istanbul",
   "description": "",
   "internship": "",
   "tags": [],
@@ -14,7 +14,9 @@
     "email": "",
     "address": ""
   },
-  "sector": "",
+  "sector": [
+    "BT Hizmetleri ve BT Danışmanlığı"
+  ],
   "social": {
     "linkedin": "https://linkedin.com/company/index-grup",
     "twitter": "",
@@ -23,5 +25,7 @@
     "youtube": "https://youtube.com/user/IndexGrup",
     "x": "https://x.com/indexgrup"
   },
-  "logo": "img/company/datagate.svg"
+  "logo": "img/company/datagate.png",
+  "about": "INDEX GRUP",
+  "tagline": "Bilgi teknolojilerinin arkasında biz varız!"
 }
