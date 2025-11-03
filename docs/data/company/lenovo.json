@@ -1,0 +1,27 @@
+{
+  "founded": "",
+  "employees": "",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Lenovo",
+  "contact": {
+    "web": "https://lenovo.com",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "https://facebook.com/LenovoTurkiye",
+    "instagram": "https://instagram.com/lenovoturkiye",
+    "youtube": "https://youtube.com/channel/UChcmITwloZVqX3oPS5vabMg",
+    "x": "https://x.com/LenovoTurkiye"
+  },
+  "logo": "img/company/lenovo.png"
+}

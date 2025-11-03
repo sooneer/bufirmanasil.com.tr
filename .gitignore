@@ -5,6 +5,9 @@
 /tmp
 /out-tsc
 /bazel-out
+/scripts
+/linkedin-responses
+/backup_linkedin_empty
 
 # Node
 /node_modules

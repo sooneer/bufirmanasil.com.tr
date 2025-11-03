@@ -4,9 +4,114 @@
   </div>
 </div>
 <div class="page-container">
-  <ul>
-    <li *ngFor="let company of companies">
-      <a [routerLink]="['/company', company.slug]">{{ company.name }}</a>
-    </li>
-  </ul>
+  <div class="description-section">
+    <div class="description-content">
+      <h2>Türkiye'nin En Kapsamlı Teknoloji Firmaları Listesi</h2>
+      <p class="lead">
+        İş arayan adaylar ve staj yeri arayan öğrenciler için hazırlanmış,
+        Türkiye'deki teknoloji şirketlerinin
+        en güncel ve kapsamlı listesi. Bu sayfa, yazılım geliştirme, bilişim
+        teknolojileri, dijital pazarlama
+        ve teknoloji alanında faaliyet gösteren firmaları bir araya
+        getirmektedir.
+      </p>
+
+      <div class="features-grid">
+        <div class="feature-item">
+          <h3>💼 İş Arayanlar İçin</h3>
+          <p>Yazılım geliştirici, sistem yöneticisi, veri analisti, proje
+            yöneticisi ve diğer teknoloji pozisyonları için ideal şirketleri
+            keşfedin.</p>
+        </div>
+
+        <div class="feature-item">
+          <h3>🎓 Stajyer Adayları İçin</h3>
+          <p>Bilgisayar mühendisliği, yazılım mühendisliği ve ilgili bölüm
+            öğrencileri için staj imkanları sunan firmalar.</p>
+        </div>
+
+        <div class="feature-item">
+          <h3>🔍 Kolay Arama</h3>
+          <p>Firma adlarına tıklayarak detaylı bilgilere ulaşın, web sitelerini
+            ziyaret ederek güncel iş ilanlarını inceleyin.</p>
+        </div>
+
+        <div class="feature-item">
+          <h3>📊 Güncel Bilgiler</h3>
+          <p>Şirket bilgileri, sektör alanları, çalışan sayıları ve iletişim
+            bilgileri düzenli olarak güncellenmektedir.</p>
+        </div>
+      </div>
+
+      <div class="keywords-section">
+        <p class="keywords">
+          <strong>Anahtar Kelimeler:</strong>
+          iş ilanları, staj imkanları, yazılım şirketleri, teknoloji firmaları,
+          bilişim şirketleri,
+          Türkiye iş fırsatları, junior developer iş, senior developer
+          pozisyonları,
+          yazılım geliştirici aranıyor, IT şirketleri, teknoloji kariyeri, staj
+          başvurusu
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="filter-section">
+    <div class="filter-container">
+      <div class="search-box">
+        <input type="text" [(ngModel)]="searchTerm" (input)="filterCompanies()"
+          placeholder="🔍 Firma adı veya web sitesi ara..."
+          class="search-input" />
+        <button *ngIf="searchTerm" (click)="clearSearch()" class="clear-button"
+          title="Temizle">
+          ✕
+        </button>
+      </div>
+      <div class="filter-stats">
+        <span class="stats-text">
+          Toplam <strong>{{ companies.length }}</strong> firmadan
+          <strong>{{ filteredCompanies.length }}</strong> firma gösteriliyor
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <div class="table-container">
+    <table class="company-table">
+      <thead>
+        <tr>
+          <th>Şirket Adı</th>
+          <th>İnternet Adresi</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let company of filteredCompanies">
+          <td>
+            <a [routerLink]="['/company', company.slug]" class="company-link">
+              {{ company.name }}
+            </a>
+          </td>
+          <td>
+            <a *ngIf="company.web" [href]="company.web" target="_blank"
+              rel="noopener noreferrer" class="web-link">
+              {{ company.web }}
+            </a>
+            <span *ngIf="!company.web" class="no-website">-</span>
+          </td>
+        </tr>
+        <tr *ngIf="filteredCompanies.length === 0">
+          <td colspan="2" class="no-results">
+            <div class="no-results-content">
+              <span class="no-results-icon">🔍</span>
+              <p class="no-results-text">Aradığınız kriterlere uygun firma
+                bulunamadı.</p>
+              <button (click)="clearSearch()" class="retry-button">Aramayı
+                Temizle</button>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </div>

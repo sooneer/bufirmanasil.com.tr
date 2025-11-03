@@ -1,0 +1,47 @@
+<UserList>
+    <User>
+        <Identifier>7300382563</Identifier>
+        <Title>PİRANLAR OTOMOTİV İNŞ.SAN. VE TİC.LTD.ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-01-02T13:52:21</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:2816defaultpk@luca.com.tr</Name>
+                    <CreationTime>2021-10-08T10:43:40</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:81551defaultpk@isnet.com</Name>
+                    <CreationTime>2021-01-25T17:09:06</CreationTime>
+                    <DeletionTime>2021-10-05T13:23:40</DeletionTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@piranlarotomotiv.com.tr</Name>
+                    <CreationTime>2020-01-02T13:52:21</CreationTime>
+                    <DeletionTime>2021-01-25T17:09:06</DeletionTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@piranlarotomotiv.com.tr</Name>
+                    <CreationTime>2021-10-05T14:43:08</CreationTime>
+                    <DeletionTime>2021-10-08T10:43:40</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+	 <User>
+        <Identifier>7990679266</Identifier>
+        <Title>ŞANLIURFA SİVEREK İLKOKUL CİNHİSAR                                                                  </Title>
+        <Type>KAMU</Type>
+        <FirstCreationTime>2021-04-21T10:00:00</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@muhasebat.gov.tr</Name>
+                    <CreationTime>2021-04-21T10:00:00</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+</UserList>

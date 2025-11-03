@@ -1,0 +1,27 @@
+{
+  "founded": "",
+  "employees": "",
+  "careers": "",
+  "headquarters": "",
+  "description": "",
+  "internship": "",
+  "tags": [],
+  "remote": "",
+  "name": "Tekrom",
+  "contact": {
+    "web": "https://tekrom.com.tr",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "sector": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": "https://facebook.com/business",
+    "instagram": "https://instagram.com/tsofteticaret",
+    "youtube": "https://youtube.com/user/TsoftEticaret",
+    "x": "https://x.com/tsofteticaret"
+  },
+  "logo": "img/company/tekrom.svg"
+}
